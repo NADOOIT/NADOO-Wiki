@@ -13,11 +13,13 @@ Kicken Sie auf [__Wiki__](https://github.com/NADOOIT/NADOO-Wiki/wiki/1.-Willkomm
 
 ## Wiki V2
 
-Das Wiki V2 ist ein neues Projekt, das auf dem Wiki V1 aufbaut. Es ist ein statisches Wiki, das auf Markdown-Dateien basiert und mit GitHub Pages gehostet wird. Das Wiki V2 bietet eine automatisch generierte Navigation, die auf der Ordnerstruktur der Markdown-Dateien basiert. Die Navigation wird mithilfe eines Python-Skripts generiert, das bei Änderungen an den Markdown-Dateien automatisch ausgeführt wird.
+Das Wiki V2 ist ein neues Projekt, das auf dem Wiki V1 aufbaut. Es ist ein statisches Wiki, das auf Markdown-Dateien basiert und mit [GitHub Pages](https://pages.github.com) gehostet wird.
+
+Das Wiki V2 bietet eine automatisch generierte Navigation, die auf der Ordnerstruktur der Markdown-Dateien basiert. Die Navigation wird mithilfe eines Python-Skripts generiert, das bei Änderungen an den Markdown-Dateien automatisch ausgeführt wird.
 
 ---
 
-### Inhaltsverzeichnis
+### Übersicht der Inhalte
 
 #### [1. Organisatorische Grundlagen & Bewerbungsprozess](docs/1/README.md)
 
@@ -35,11 +37,11 @@ Das Wiki V2 ist ein neues Projekt, das auf dem Wiki V1 aufbaut. Es ist ein stati
 
 >muss noch ergänzt werden
 
-##### 2.1 Erweiterte 11er-Meetings
+##### [2.1 Erweiterte 11er-Meetings]()
 
-##### 2.2 33er-Meetings
+##### [2.2 33er-Meetings]()
 
-##### 2.3 Breakout-Phasen
+##### [2.3 Breakout-Phasen]()
 
 ---
 
@@ -66,6 +68,18 @@ Das Wiki V2 ist ein neues Projekt, das auf dem Wiki V1 aufbaut. Es ist ein stati
 ##### [3.8 Dokumentation]()
 
 ---
+
+#### [4. Kommunikation & Zusammenarbeit]()
+
+>muss noch ergänzt werden
+
+##### [4.1 GitHub-Issues]()
+
+##### [4.2 Discord]()
+
+##### [4.3 Video/Avatar-Pflicht]()
+
+##### [4.4 Feedback-Kultur]()
 
 ## Projektstruktur
 
