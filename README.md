@@ -4,6 +4,8 @@ Herzlich willkommen zu Ihrem Einstieg in die IT-Karriere bei Christoph Backhaus 
 
 Kicken Sie auf __Wiki__ um mit unserem Lehrgang zu starten.
 
+---
+
 ## Projekt
 
 ```plaintext
@@ -24,3 +26,5 @@ NADOO-Wiki/
 │   └── generate_wiki_navigation.py      # Skript zur automatischen Navigationserzeugung
 └── README.md                            # Projektbeschreibung, Einstieg ins Repository
 ```
+
+---
