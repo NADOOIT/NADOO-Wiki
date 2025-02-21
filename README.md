@@ -106,6 +106,34 @@ Klicke auf 📖 [__Wiki__](https://github.com/NADOOIT/NADOO-Wiki/wiki/1.-Willkom
 
 ---
 
+### [6. Projektmanagement & Zeitmanagement]()
+
+#### [6.1 Zeitmanagement]()
+
+#### [6.2 Projektmanagement]()
+
+#### [6.3 Scrum]()
+
+#### [6.4 Kanban]()
+
+#### [6.5 Projektplanung](docs/6/5/1/README.md)
+
+##### [6.5.1 Projektantrag]()
+
+#### [6.6 Projektphasen]()
+
+#### [6.7 Projektstruktur]()
+
+#### [6.8 Projektziele]()
+
+#### [6.9 Projektbudget]()
+
+#### [6.10 Projektcontrolling]()
+
+#### [6.11 Projektabschluss]()
+
+---
+
 ## Projektstruktur
 
 ```plaintext
