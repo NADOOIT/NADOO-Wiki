@@ -60,25 +60,19 @@ Klicke auf 📖 [__Wiki__](https://github.com/NADOOIT/NADOO-Wiki/wiki/1.-Willkom
 
 #### [3. Technische Grundlagen & Praktische Anwendung]()
 
->muss noch ergänzt werden
-
 ##### [3.1 GitHub]()
 
-##### [3.2 GitHub-Issue-Tracking]()
+##### [3.2 Visual Studio Code]()
 
-##### [3.3 Visual Studio Code]()
+##### [3.3 Python]()
 
-##### [3.4 Python]()
+##### [3.4 Briefcase]()
 
-##### [3.5 Briefcase]()
-
-##### [3.6 Toga]()
+##### [3.5 Toga]()
 
 ##### [3.6 Pair-Programming]()
 
-##### [3.7 Code-Reviews]()
-
-##### [3.8 Dokumentation]()
+##### [3.7 Dokumentation]()
 
 ---
 
