@@ -1,4 +1,4 @@
-# 3.2 Branches
+# 3.1.2 Branches
 
 Ein Branch ist ein separater Entwicklungszweig in einem Repository. Er ermöglicht parallele und unabhängige Entwicklungsprozesse, beispielsweise für neue Features oder Bugfixes, ohne den Hauptzweig zu beeinträchtigen.
 

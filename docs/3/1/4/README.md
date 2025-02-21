@@ -1,4 +1,4 @@
-# 3.4 Issues
+# 3.1.4 Issues
 
 Ein Issue beschreibt eine offene Aufgabe oder ein Problem in einem Projekt. Es dient zur Nachverfolgung und Verwaltung von Bugs, Feature-Anfragen oder Verbesserungen.
 

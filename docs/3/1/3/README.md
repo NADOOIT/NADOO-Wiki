@@ -1,4 +1,4 @@
-# 3.3 Pull Requests
+# 3.1.3 Pull Requests
 
 Ein Pull Request ist eine Anfrage, Änderungen aus einem Branch in einen anderen Branch zu integrieren. Er dient als Diskussions- und Überprüfungsbasis, bevor Code offiziell zusammengeführt wird.
 
