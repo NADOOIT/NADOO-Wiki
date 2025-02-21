@@ -118,7 +118,7 @@ Klicke auf 📖 [__Wiki__](https://github.com/NADOOIT/NADOO-Wiki/wiki/1.-Willkom
 
 #### [6.5 Projektplanung](docs/6/5/1/README.md)
 
-##### [6.5.1 Projektantrag]()
+##### [6.5.1 Projektantrag](docs/6/5/1/README.md)
 
 #### [6.6 Projektphasen]()
 
