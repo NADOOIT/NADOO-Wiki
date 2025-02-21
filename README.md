@@ -21,7 +21,7 @@ Klicke auf 📖 [__Wiki__](https://github.com/NADOOIT/NADOO-Wiki/wiki/1.-Willkom
 
 ## Wiki V2
 
-- 📖 Wiki V2 ist ein neues Projekt, das auf dem 📖 Wiki V1 aufbaut. 
+- 📖 Wiki V2 ist ein neues Projekt, das auf dem 📖 Wiki V1 aufbaut.
 
 - Im Vergleich zu V1 ist es ein statisches Wiki, das auf [Markdown](https://docs.github.com/de/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)-Dateien basiert und mit [GitHub Pages](https://pages.github.com) gehostet wird.
 
