@@ -12,4 +12,6 @@ In diesem Monat haben Sie die Chance, sich zu beweisen - indem Sie zeigen, dass 
 
 ---
 
->[1.2 Abgabe von Zeit- und Ausbildungsnachweisen](../2/README.md)
+| |
+| --- |
+| [Weiter](2/README.md) |

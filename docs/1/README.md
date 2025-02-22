@@ -12,6 +12,6 @@
 
 ---
 
-| | |
-| --- | --- |
-| [Zurück](/README.md) | [Weiter](1/1/README.md) |
+| |
+| --- |
+| [Weiter](1/README.md) |
