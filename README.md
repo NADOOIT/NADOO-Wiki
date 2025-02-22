@@ -44,6 +44,8 @@ Klicke auf 📖 [__Wiki__](https://github.com/NADOOIT/NADOO-Wiki/wiki/1.-Willkom
 
 ##### [1.4 Jobrotation & Weiterbildung](docs/1/4/README.md)
 
+##### [1.5 Arbeiszeiten & Pausen](docs/1/5/README.md)
+
 ---
 
 #### [2. Meeting Strukturen](docs/2/README.md)
