@@ -1,52 +1,30 @@
-# Erweiterte 11er-Meetings (Montag, Dienstag und Donnerstag)
+# 2.1 Morgenmeetings – Allgemeine Zeitpläne
 
-- **Dauer:** 30–40 Minuten
+## Montag, Dienstag, Donnerstag
 
-- **Ziel:** Effektive Zusammenarbeit, schnelle Problemlösung und kontinuierliches Training der Präsentations- sowie Kommunikationsfähigkeiten.
-
-- **Dokumentation:** Über das entsprechende Issue-Template in GitHub.
-
----
-
-## Ablauf im Detail
-
-### 1. 10:14–10:30 Uhr – Anwesenheitsüberprüfung & Freies Netzwerken
-
-- Treffen im dem jeweiligem 11er-Team zugewiesenen Discord-Kanal.
-- Nach 10:30 Uhr wird die Anwesenheit als verpasst registriert.
+- 10:14 – 10:30 Uhr: Anwesenheitsüberprüfung im Discord-Sprachkanal
+- 10:30 – 11:10 Uhr: 11er-Meeting
+- 11:10 Uhr – offen: Arbeiten an Issues
 
 ---
 
-### 2. 10:30–10:35 Uhr – Begrüßung & Unternehmensvorstellung
+## Mittwoch
 
-Kurze Wiederholung der Unternehmensmission, Werte (z.B. Transpare- nz, Agilität, Kundenzentrierung) und Ziele.
-
----
-
-### 3. 10:35–10:45 Uhr – Trainingsbeitrag
-
-- Ein Beitrag zu einem IHK-Prüfungsthema wird präsentiert.
-- Folien und Zusammenfassungen werden als **GitHub-Issues** vorbereitet und geteilt.
-- Fragen und Diskussionen sind erwünscht.
+- 10:14 – 10:30 Uhr: Anwesenheitsüberprüfung
+- 10:30 – 11:10 Uhr: Teamkoordinator-Meeting (freiwillig für 3er-Teams)
 
 ---
 
-### 4. 10:45–10:51 Uhr – Teamkoordinator-Update & Offene Issues
+## Freitag
 
-- Aktuelle Informationen, offene Tasks und Updates werden kurz vorgestellt.
-
----
-
-### 5. 10:51–11:21 Uhr – Teampräsentation
-
-Pro 3er-Team:
-
-1. **Dokumentation:** Vorstellung des aktuellen Issues durch den/die Dokomentator:in. Nennung vorhandener Problme, Fortschritt und gegebenenfalls benötigter Unterstützung (45-60 Sekunden).
-2. **Breakout-Phase:** Aufteilung in Discord-Räume (Programmierer, Dokumentierer, Researcher) zur Erarbeitung von Lösungsansätzen. Mindestens ein Dokumentator dokumentiert die Ergebnisse (ca. 7 Minuten)
-3. **Rückkehr in den Haupt-Channel:** Kurzes Feedback aus den Breakout-Räumen. Dieser Teil dient dazu, das Präsentieren vor Gruppen zu trainieren, effizient Probleme zu lösen und schnelles Feedback zu erhalten (2 Minuten).
+- 10:14 – 10:30 Uhr: Anwesenheitsüberprüfung
+- 10:30 – 11:10 Uhr: Meeting (33er-Meeting)
+- 11:10 Uhr – offen: Arbeiten an Issues
 
 ---
 
-### 6. 11:21-11:31 Uhr - Abschluss & Freies Netzwerken
+## Samstag (freiwillig)
 
-- Offene Diskussion, Klärung letzter Fragen und Austausch zwischen den Teilnehmern (5–10 Minuten)
+- Twitch-Stream
+
+---
