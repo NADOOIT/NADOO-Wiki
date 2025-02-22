@@ -62,87 +62,72 @@ Klicke auf 📖 [__Wiki__](https://github.com/NADOOIT/NADOO-Wiki/wiki/1.-Willkom
 
 ##### [3.2 Visual Studio Code](docs/3/2/README.md)
 
-##### [3.3 Python]()
+##### 3.3 Python
 
-##### [3.4 Briefcase]()
+##### 3.4 Briefcase
 
-##### [3.5 Toga]()
+##### 3.5 Toga
 
-##### [3.6 Pair-Programming]()
+##### 3.6 Pair-Programming
 
-##### [3.7 Dokumentation]()
-
----
-
-#### [4. Kommunikation & Zusammenarbeit]()
-
->muss noch ergänzt werden
-
-##### [4.1 GitHub-Issues]()
-
-##### [4.2 Discord]()
-
-##### [4.3 Video/Avatar-Pflicht]()
-
-##### [4.4 Feedback-Kultur]()
+##### 3.7 Dokumentation
 
 ---
 
-#### [5. Weiterbildung & Karriereentwicklung]()
+#### 4. Kommunikation & Zusammenarbeit
 
->muss noch ergänzt werden
+##### 4.1 Discord
 
-##### [5.1 Präsentationstraining]()
+##### 4.3 Video/Avatar-Pflicht
 
-##### [5.2 Assessmentcenter-Ansatz]()
+##### 4.4 Feedback-Kultur
 
 ---
 
-### [6. Projektmanagement & Zeitmanagement]()
+#### 5. Weiterbildung & Karriereentwicklung
 
-#### [6.1 Zeitmanagement]()
+##### 5.1 Präsentationstraining
 
-#### [6.2 Projektmanagement]()
+##### 5.2 Assessmentcenter-Ansatz
 
-#### [6.3 Scrum]()
+---
 
-#### [6.4 Kanban]()
+### 6. Projektmanagement & Zeitmanagement
+
+#### 6.1 Zeitmanagement
+
+#### 6.2 Projektmanagement
+
+#### 6.3 Scrum
+
+#### 6.4 Kanban
 
 #### [6.5 Projektplanung](docs/6/5/1/README.md)
 
 ##### [6.5.1 Projektantrag](docs/6/5/1/README.md)
 
-#### [6.6 Projektphasen]()
+#### 6.6 Projektphasen
 
-#### [6.7 Projektstruktur]()
+#### [6.7 Projektstruktur](docs/6/7/README.md)
 
-#### [6.8 Projektziele]()
+#### 6.8 Projektziele
 
-#### [6.9 Projektbudget]()
+#### 6.9 Projektbudget
 
-#### [6.10 Projektcontrolling]()
+#### 6.10 Projektcontrolling
 
-#### [6.11 Projektabschluss]()
+#### 6.11 Projektabschluss
+
+---
+
+### 7. Datenschutz & Datensicherheit
 
 ---
 
-## Projektstruktur
-
-```plaintext
-NADOO-Wiki/
-├── docs/
-│   ├── README.md                # Zentrale TOC-Datei (wird vom Skript generiert)
-│   └── 1/
-│       ├── README.md            # Enthält eigene Überschriften (Kapitel)
-│       ├── 1/
-│       │   └── README.md        # Unterkapitel mit eigenen Überschriften
-│       └── 2/
-│           ├── README.md        # Unterkapitel mit eigenen Überschriften
-│           └── 1/
-│               └── README.md    # Weiteres Unterkapitel
-├── scripts/
-│   └── generate_wiki_navigation.py   # Skript zur Erzeugung des TOC basierend auf den Headings in den README.md
-└── README.md                    # Projektbeschreibung / Einstieg ins Repository
-```
+### 8. Erreichbarkeit & Kontakt
 
 ---
+
+| |
+| --- |
+| [Weiter](docs/1/README.md) |
