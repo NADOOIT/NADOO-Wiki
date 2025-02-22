@@ -102,11 +102,11 @@ Klicke auf 📖 [__Wiki__](https://github.com/NADOOIT/NADOO-Wiki/wiki/1.-Willkom
 
 #### 6.4 Kanban
 
-#### [6.5 Projektplanung](docs/6/5/1/README.md)
+#### [6.5 Projektplanung](docs/6/5/README.md)
 
 ##### [6.5.1 Projektantrag](docs/6/5/1/README.md)
 
-#### 6.6 Projektphasen
+#### [6.6 Projektphasen](docs/6/6/README.md)
 
 #### [6.7 Projektstruktur](docs/6/7/README.md)
 
