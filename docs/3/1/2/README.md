@@ -39,3 +39,9 @@ Branches ermöglichen eine getrennte Entwicklung von neuen Funktionen, Experimen
 3. **Klarheit und Übersicht:** Änderungen und Features sind strukturiert voneinander getrennt und lassen sich nachvollziehbar dokumentieren.
 4. **Einfache Zusammenführung:** Wenn ein Feature fertiggestellt ist, wird es über einen Pull Request geprüft und in den Hauptzweig integriert.
 5. **Kontrolle:** Konflikte können frühzeitig erkannt und gelöst werden, bevor sie größere Probleme verursachen.
+
+---
+
+| |
+| --- |
+| [Weiter](/docs/3/1/3/README.md) |

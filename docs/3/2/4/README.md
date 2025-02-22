@@ -5,3 +5,10 @@
 3. Anpassung von Shortcuts und Snippets: Beschreibe, wie Shortcuts und Code-Snippets erstellt oder angepasst werden, um den Arbeitsfluss zu optimieren.
 4. Erweiterungen integrieren: Weisen auf zusätzliche Extensions hin, die IntelliSense und weitere Editorfunktionen verbessern können.
 5. Testen und Feinabstimmung: Führe abschließende Tests durch und passe die Einstellungen an, um eine optimale Performance zu gewährleisten.
+
+---
+
+| |
+| --- |
+| [Weiter](/docs/3/2/5/README.md) |
+

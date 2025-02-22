@@ -144,3 +144,9 @@ Wer GitHub Notifications konsequent nutzt und gleichzeitig in VS Code integriert
 Das Wichtigste ist, dass du dir in GitHub klare Filter und Benachrichtigungseinstellungen vornimmst, sodass nur wirklich relevante Benachrichtigungen zu dir durchdringen. Mit den richtigen Extensions in VS Code hast du dann alles Wichtige im Blick und kannst direkt dort handeln, wo du entwickelst – **ohne erst in den Browser wechseln zu müssen.**
 
 Kurz gesagt: Stelle GitHubs Benachrichtigungen so ein, dass du nur relevante Ereignisse mitbekommst, und nutze eine VS-Code-Integration für Pull Requests, Issues und ggf. Notifications. Damit machst du deinen Entwicklungsworkflow schlanker und eliminierst störende E-Mail-Fluten.
+
+---
+
+| |
+| --- |
+| [Weiter](/docs/3/2/README.md) |

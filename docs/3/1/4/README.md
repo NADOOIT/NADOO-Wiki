@@ -35,3 +35,9 @@ Issues helfen bei der systematischen Nachverfolgung von Aufgaben, der Kommunikat
 3. **Team-Kommunikation:** Diskussionen finden gebündelt an einem Ort statt.  
 4. **Priorisierung:** Aufgaben können nach Dringlichkeit sortiert und geplant werden.  
 5. **Effizienz:** Bessere Organisation von Aufgaben führt zu schnellem Problemlösen.
+
+---
+
+| |
+| --- |
+| [Weiter](/docs/3/1/5/README.md) |

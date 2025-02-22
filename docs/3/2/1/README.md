@@ -7,3 +7,9 @@
 5. Anwendung starten und testen: Starte die Applikation und überprüfe, ob alles reibungslos funktioniert.
 6. Benutzerzugänge und Rechte verwalten: Lege Benutzer an, konfiguriere Rollen und Rechte und führe ggf. Tests für die Zugriffskontrolle durch.
 7. Dokumentation und Support: Erstelle eine Anleitung zur Verwendung der Anwendung und biete Support für Nutzer:innen an.
+
+---
+
+| |
+| --- |
+| [Weiter](/docs/3/2/2/README.md) |

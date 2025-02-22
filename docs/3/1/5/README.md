@@ -39,3 +39,9 @@ Um manuelle Arbeitsschritte zu reduzieren, die Codequalität zu sichern und schn
 3. **Transparenz:** Ergebnis-Logs und Statusberichte sind jederzeit einsehbar.  
 4. **Effizienz:** Entwicklungsprozesse werden beschleunigt und vereinfacht.  
 5. **Flexibilität:** Workflows lassen sich an unterschiedliche Anforderungen anpassen.
+
+---
+
+| |
+| --- |
+| [Weiter](/docs/3/1/6/README.md) |

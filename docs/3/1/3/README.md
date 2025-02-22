@@ -37,3 +37,9 @@ Pull Requests stellen sicher, dass neue Features oder Bugfixes vor ihrer Integra
 3. **Übersichtlichkeit:** Verschiedene Änderungen lassen sich klar voneinander trennen und später gezielt zusammenführen.  
 4. **Effektive Zusammenarbeit:** Mehrere Entwickler können parallel arbeiten und Feedback geben.  
 5. **Kontrolle über Änderungen:** Fehler und Konflikte werden frühzeitig erkannt, bevor sie im Hauptzweig landen.
+
+---
+
+| |
+| --- |
+| [Weiter](/docs/3/1/4/README.md) |

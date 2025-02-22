@@ -5,3 +5,9 @@
 3. Gemeinsame Ressourcen identifizieren: Bestimme, welche Komponenten und Abhängigkeiten zwischen Workspaces geteilt werden.
 4. Konfiguration und Einrichtung: Passe Konfigurationsdateien an und definiere Workspaces in der Projektstruktur.
 5. Testen und Anpassen: Starte die einzelnen Workspaces und prüfe, ob die Trennung und Integration korrekt umgesetzt sind.
+
+---
+
+| |
+| --- |
+| [Weiter](/docs/3/2/4/README.md) |
