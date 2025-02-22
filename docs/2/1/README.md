@@ -28,3 +28,7 @@
 - Twitch-Stream
 
 ---
+
+| | |
+| --- | --- |
+| [Zurück](/docs/2/README.md) | [Weiter](2/2/README.md) |

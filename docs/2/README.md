@@ -16,4 +16,4 @@ Im Folgenden findest Du die aktualisierten Strukturen.
 
 | | |
 | --- | --- |
-| [Zurück](../README.md) | [Weiter](2/1/README.md) |
+| [Zurück](/README.md) | [Weiter](2/1/README.md) |
