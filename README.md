@@ -46,23 +46,21 @@ Klicke auf 📖 [__Wiki__](https://github.com/NADOOIT/NADOO-Wiki/wiki/1.-Willkom
 
 ---
 
-#### [2. Meeting Strukturen]()
+#### [2. Meeting Strukturen](docs/2/README.md)
 
->muss noch ergänzt werden
+##### [2.1 Morgenmeetings – Allgemeine Zeitpläne](docs/2/1/README.md)
 
-##### [2.1 Erweiterte 11er-Meetings]()
+##### [2.2 Erweiterte 11er-Meetings](docs/2/2/README.md)
 
-##### [2.2 33er-Meetings]()
-
-##### [2.3 Breakout-Phasen]()
+##### [2.3 33er-Meetings](docs/2/3/README.md)
 
 ---
 
-#### [3. Technische Grundlagen & Praktische Anwendung]()
+#### [3. Technische Grundlagen & Praktische Anwendung](docs/3/README.md)
 
-##### [3.1 GitHub]()
+##### [3.1 GitHub](docs/3/1/README.md)
 
-##### [3.2 Visual Studio Code]()
+##### [3.2 Visual Studio Code](docs/3/2/README.md)
 
 ##### [3.3 Python]()
 

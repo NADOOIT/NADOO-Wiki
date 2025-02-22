@@ -11,3 +11,7 @@
 ## 1.4 [Jobrotation & Weiterbildung](4/README.md)
 
 ---
+
+| | |
+| --- | --- |
+| [Zurück](/README.md) | [Weiter](1/1/README.md) |
