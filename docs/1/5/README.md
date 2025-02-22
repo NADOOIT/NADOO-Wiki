@@ -1,4 +1,4 @@
-# 1.5 Arbeistzeit & Pausen
+# 1.5 Arbeitszeit & Pausen
 
 > muss noch übertragen/neu angelegt werden
 
