@@ -21,7 +21,7 @@ Klicke auf 📖 [__Wiki__](https://github.com/NADOOIT/NADOO-Wiki/wiki/1.-Willkom
 
 ## Wiki V2
 
-- 📖 Wiki V2 ist ein neues Projekt, das auf dem 📖 Wiki V1 aufbaut. 
+- 📖 Wiki V2 ist ein neues Projekt, das auf dem 📖 Wiki V1 aufbaut.
 
 - Im Vergleich zu V1 ist es ein statisches Wiki, das auf [Markdown](https://docs.github.com/de/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)-Dateien basiert und mit [GitHub Pages](https://pages.github.com) gehostet wird.
 
@@ -103,6 +103,34 @@ Klicke auf 📖 [__Wiki__](https://github.com/NADOOIT/NADOO-Wiki/wiki/1.-Willkom
 ##### [5.1 Präsentationstraining]()
 
 ##### [5.2 Assessmentcenter-Ansatz]()
+
+---
+
+### [6. Projektmanagement & Zeitmanagement]()
+
+#### [6.1 Zeitmanagement]()
+
+#### [6.2 Projektmanagement]()
+
+#### [6.3 Scrum]()
+
+#### [6.4 Kanban]()
+
+#### [6.5 Projektplanung](docs/6/5/1/README.md)
+
+##### [6.5.1 Projektantrag](docs/6/5/1/README.md)
+
+#### [6.6 Projektphasen]()
+
+#### [6.7 Projektstruktur]()
+
+#### [6.8 Projektziele]()
+
+#### [6.9 Projektbudget]()
+
+#### [6.10 Projektcontrolling]()
+
+#### [6.11 Projektabschluss]()
 
 ---
 
