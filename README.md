@@ -44,113 +44,94 @@ Klicke auf 📖 [__Wiki__](https://github.com/NADOOIT/NADOO-Wiki/wiki/1.-Willkom
 
 ##### [1.4 Jobrotation & Weiterbildung](docs/1/4/README.md)
 
----
+##### [1.5 Arbeiszeiten & Pausen](docs/1/5/README.md)
 
-#### [2. Meeting Strukturen]()
-
->muss noch ergänzt werden
-
-##### [2.1 Erweiterte 11er-Meetings]()
-
-##### [2.2 33er-Meetings]()
-
-##### [2.3 Breakout-Phasen]()
+##### [1.6 Mutterschutz & Elternzeit](docs/1/6/README.md)
 
 ---
 
-#### [3. Technische Grundlagen & Praktische Anwendung]()
+#### [2. Meeting Strukturen](docs/2/README.md)
 
->muss noch ergänzt werden
+##### [2.1 Morgenmeetings – Allgemeine Zeitpläne](docs/2/1/README.md)
 
-##### [3.1 GitHub]()
+##### [2.2 Erweiterte 11er-Meetings](docs/2/2/README.md)
 
-##### [3.2 GitHub-Issue-Tracking]()
-
-##### [3.3 Visual Studio Code]()
-
-##### [3.4 Python]()
-
-##### [3.5 Briefcase]()
-
-##### [3.6 Toga]()
-
-##### [3.6 Pair-Programming]()
-
-##### [3.7 Code-Reviews]()
-
-##### [3.8 Dokumentation]()
+##### [2.3 33er-Meetings](docs/2/3/README.md)
 
 ---
 
-#### [4. Kommunikation & Zusammenarbeit]()
+#### [3. Technische Grundlagen & Praktische Anwendung](docs/3/README.md)
 
->muss noch ergänzt werden
+##### [3.1 GitHub](docs/3/1/README.md)
 
-##### [4.1 GitHub-Issues]()
+##### [3.2 Visual Studio Code](docs/3/2/README.md)
 
-##### [4.2 Discord]()
+##### 3.3 Python
 
-##### [4.3 Video/Avatar-Pflicht]()
+##### 3.4 Briefcase
 
-##### [4.4 Feedback-Kultur]()
+##### 3.5 Toga
 
----
+##### 3.6 Pair-Programming
 
-#### [5. Weiterbildung & Karriereentwicklung]()
-
->muss noch ergänzt werden
-
-##### [5.1 Präsentationstraining]()
-
-##### [5.2 Assessmentcenter-Ansatz]()
+##### 3.7 Dokumentation
 
 ---
 
-### [6. Projektmanagement & Zeitmanagement]()
+#### 4. Kommunikation & Zusammenarbeit
 
-#### [6.1 Zeitmanagement]()
+##### 4.1 Discord
 
-#### [6.2 Projektmanagement]()
+##### 4.3 Video/Avatar-Pflicht
 
-#### [6.3 Scrum]()
+##### 4.4 Feedback-Kultur
 
-#### [6.4 Kanban]()
+---
 
-#### [6.5 Projektplanung](docs/6/5/1/README.md)
+#### 5. Weiterbildung & Karriereentwicklung
+
+##### 5.1 Präsentationstraining
+
+##### 5.2 Assessmentcenter-Ansatz
+
+---
+
+### 6. Projektmanagement & Zeitmanagement
+
+#### 6.1 Zeitmanagement
+
+#### 6.2 Projektmanagement
+
+#### 6.3 Scrum
+
+#### 6.4 Kanban
+
+#### [6.5 Projektplanung](docs/6/5/README.md)
 
 ##### [6.5.1 Projektantrag](docs/6/5/1/README.md)
 
-#### [6.6 Projektphasen]()
+#### [6.6 Projektphasen](docs/6/6/README.md)
 
-#### [6.7 Projektstruktur]()
+#### [6.7 Projektstruktur](docs/6/7/README.md)
 
-#### [6.8 Projektziele]()
+#### 6.8 Projektziele
 
-#### [6.9 Projektbudget]()
+#### 6.9 Projektbudget
 
-#### [6.10 Projektcontrolling]()
+#### 6.10 Projektcontrolling
 
-#### [6.11 Projektabschluss]()
+#### 6.11 Projektabschluss
+
+---
+
+### 7. Datenschutz & Datensicherheit
 
 ---
 
-## Projektstruktur
-
-```plaintext
-NADOO-Wiki/
-├── docs/
-│   ├── README.md                # Zentrale TOC-Datei (wird vom Skript generiert)
-│   └── 1/
-│       ├── README.md            # Enthält eigene Überschriften (Kapitel)
-│       ├── 1/
-│       │   └── README.md        # Unterkapitel mit eigenen Überschriften
-│       └── 2/
-│           ├── README.md        # Unterkapitel mit eigenen Überschriften
-│           └── 1/
-│               └── README.md    # Weiteres Unterkapitel
-├── scripts/
-│   └── generate_wiki_navigation.py   # Skript zur Erzeugung des TOC basierend auf den Headings in den README.md
-└── README.md                    # Projektbeschreibung / Einstieg ins Repository
-```
+### 8. Erreichbarkeit & Kontakt
 
 ---
+
+| |
+| --- |
+| [Weiter](docs/1/README.md) |

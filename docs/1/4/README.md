@@ -32,3 +32,7 @@ __Videopflicht:__
 Während unserer Meetings ist Videoanwesenheit Pflicht – alternativ können virtuelle Avatare genutzt werden. Eine detaillierte Anleitung zur Einrichtung eines Avatars finden Sie in Kürze in unserem Wiki.
 
 ---
+
+| |
+| --- |
+| [Weiter](/docs/1/5/README.md) |

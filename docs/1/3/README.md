@@ -21,4 +21,7 @@ Regelmäßig präsentieren Sie in unseren 11er-Meetings technische Themen. Dies 
 Ihre erstellten Unterlagen fließen später in unser Wiki und in unsere mediale Präsenz ein.
 
 ---
->[1.4 Verhaltensregeln](../4/REDME.md)
+
+| |
+| --- |
+| [Weiter](/docs/1/4/README.md) |
