@@ -12,7 +12,7 @@ Ein Repository ist ein Speicherort für Projekte, in dem der gesamte Code und di
 
 Branches ermöglichen es, verschiedene Versionen eines Projekts parallel zu entwickeln und zu verwalten.
 
-## 3.1.3 [Pull Requests](docs/3/1/3/README.md)
+## [3.1.3 Pull Requests](docs/3/1/3/README.md)
 
 Pull Requests sind Anfragen zur Überprüfung und Zusammenführung von Änderungen in den Hauptzweig eines Projekts.
 
