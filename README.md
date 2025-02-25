@@ -78,7 +78,7 @@ Klicke auf 📖 [__Wiki__](https://github.com/NADOOIT/NADOO-Wiki/wiki/1.-Willkom
 
 ---
 
-#### 4. Kommunikation & Zusammenarbeit
+#### [4. Kommunikation & Zusammenarbeit](docs/4/README.md)
 
 ##### 4.1 Discord
 
