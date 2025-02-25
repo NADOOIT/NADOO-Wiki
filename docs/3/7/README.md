@@ -60,4 +60,4 @@ Um diese Anforderungen zu erfüllen, empfiehlt es sich, ein zentrales und leicht
 
 ---
 
-[Startseite](../../README.md)
+[Zurück](../6/README.md) | [Weiter](../4/README.md)
