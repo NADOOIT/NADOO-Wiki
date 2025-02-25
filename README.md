@@ -69,7 +69,7 @@ Herzlich willkommen zu Deinem Einstieg in die IT-Karriere bei [Christoph Backhau
 
 ---
 
-#### 5. Weiterbildung & Karriereentwicklung
+#### [5. Weiterbildung & Karriereentwicklung](docs/5/README.md)
 
 ##### 5.1 Präsentationstraining
 
