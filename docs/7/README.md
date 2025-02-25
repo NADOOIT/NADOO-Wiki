@@ -64,3 +64,5 @@ Die strikte Einhaltung dieser Richtlinien ist für den Schutz unserer Unternehme
 Citations:
 
 [1] <https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/14524913/ea1fad59-9296-4854-bf7b-6eef7e23afd1/umgang_mit_unternehmensdaten.txt>
+
+[Startseite](../../README.md)
