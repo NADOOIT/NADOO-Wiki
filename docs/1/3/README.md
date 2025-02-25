@@ -22,6 +22,4 @@ Ihre erstellten Unterlagen fließen später in unser Wiki und in unsere mediale 
 
 ---
 
-| |
-| --- |
-| [Weiter](/docs/1/4/README.md) |
+[Zurück](../2/README.md) | [Weiter](../4/README.md)

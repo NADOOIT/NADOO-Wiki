@@ -4,6 +4,4 @@
 
 ---
 
-| |
-| --- |
-| [Weiter](/docs/1/6/README.md) |
+[Zurück](../4/README.md) | [Weiter](../6/README.md)
