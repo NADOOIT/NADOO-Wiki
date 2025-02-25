@@ -6,9 +6,9 @@ Herzlich willkommen zu Deinem Einstieg in die IT-Karriere bei [Christoph Backhau
 
 - Das "#globalyou" oder auch "#gerneperdu" ist bei uns Programm.
 
-- Wir sind ein junges, dynamisches [Team](https://github.com/orgs/NADOOIT/people) - ergänzt um erfahrene Mitarbeitende - welches es sich auf die Fahnen geschrieben hat, mit Innovationen die  IT-Welt voranzubringen und damit einen __wertvollen__ Beitrag zum __dringend notwendigen Bürokratie-Abbau__ in Deutschland zu leisten.
+- Wir sind ein junges, dynamisches [Team](https://github.com/orgs/NADOOIT/people) - ergänzt um erfahrene Mitarbeitende - welches es sich auf die Fahnen geschrieben hat, mit Innovationen die  IT-Welt voranzubringen und damit einen **wertvollen** Beitrag zum **dringend notwendigen Bürokratie-Abbau** in Deutschland zu leisten.
 
-- Wir sind __multikulturell__, __multilingual__ und __international__ aufgestellt und freuen uns über jede/n, der/die sich uns anschließen möchte.
+- Wir sind **multikulturell**, **multilingual** und **international** aufgestellt und freuen uns über jede/n, der/die sich uns anschließen möchte.
 - Bei uns werden unterschiedliche Kulturen und Sprachen gelebt und geschätzt, wie das auch in der IT-Welt üblich ist.
 
 ---
@@ -105,12 +105,24 @@ Herzlich willkommen zu Deinem Einstieg in die IT-Karriere bei [Christoph Backhau
 
 ---
 
-### 7. Datenschutz & Datensicherheit
+### [7. Datenschutz & Datensicherheit](docs/7/README.md)
 
 ---
 
 ### [8. Erreichbarkeit & Kontakt](docs/8/README.md)
 
 ---
+
+### 9. Wichtige Hinweies
+
+#### Krankmeldungen
+
+Melde Dich bitte bei Krankheit bis spätestens 11:00 Uhr – sowohl direkt an Christoph Backhaus als auch an das zuständige Institut. Fehlende oder verspätete Meldungen gelten als Abwesenheit und können entsprechende Konsequenzen haben.
+
+---
+
+#### Arbeitszeiten
+
+Unsere täglichen [Meetings](docs/2/README.md) und festgelegten [Ruhezeiten]((docs/1/5/README.md)) (mindestens 11 Stunden zwischen den Arbeitstagen) sind **verbindlich einzuhalten.** Die maximale [Arbeitszeit](docs/1/5/README.md) endet um 23:00 Uhr.
 
 | [Weiter](docs/1/README.md)
