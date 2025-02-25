@@ -1,23 +1,31 @@
 # 1.5 Arbeitszeit & Pausen
 
-### Arbeitszeiten nach [Arbeitszeitgesetz](https://www.gesetze-im-internet.de/arbzg/BJNR117100994.html)
+## Arbeitszeiten nach [Arbeitszeitgesetz](https://www.gesetze-im-internet.de/arbzg/BJNR117100994.html)
 
 - **§3 Stunden:**
   - 8 Stunden pro Tag (**durchschnittlich**, auf 24 Wochen berechnet)
   - Maximal 10 Stunden pro Tag  
   Wenn jemand also Montag, Dienstag, Mittwoch und Donnerstag jeweils 9 Stunden arbeitet, darf er am Freitag maximal 4 Stunden arbeiten.
 
+---
+
 - **§4 Pausen:**
   - Nach 6 Stunden Arbeit: mindestens 30 Minuten Pause (**spätestens!**)
   - Nach 9 Stunden Arbeit insgesamt: noch einmal mindestens 15 Minuten Pause
   - Mindestdauer einer Pause: 15 Minuten
 
+---
+
 - **§5 Ruhezeiten:**
   - Mindestdauer einer Ruhezeit: 11 Stunden  
   Wenn jemand zum Beispiel von 12:00 Uhr bis 20:30 Uhr arbeitet (8 Stunden + 30 Minuten Pause), darf er am nächsten Tag frühestens um 07:30 mit der Arbeit beginnen.
 
+---
+
 - **§9 Sonntage & Feiertage:**  
   Hier darf niemand zwischen 00:00 und 24:00 Uhr arbeiten
+
+---
 
 ### Arbeitszeiten bei Nadoo-IT
 
@@ -26,6 +34,8 @@
 - Arbeitszeiterfassung über die Stempeluhr (nur erfasste Arbeitszeit ist echte Arbeitszeit!)
 - Mo-Fr um 10:14 Uhr - 10:30 Uhr Anwesenheitsprüfung im Discord Sprachkanal
 - Arbeitszeiten pro Tag sind frei wählbar, solange das Arbeitszeitgesetz und die hier genannten Punkte eingehalten werden
+
+---
 
 #### Beispiel Fritz (28 Stunden / Woche)
 
