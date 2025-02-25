@@ -13,40 +13,21 @@ Herzlich willkommen zu Deinem Einstieg in die IT-Karriere bei [Christoph Backhau
 
 ---
 
-## NADOO-Wiki
+## Übersicht der Inhalte
 
-Klicke auf 📖 [__Wiki__](https://github.com/NADOOIT/NADOO-Wiki/wiki/1.-Willkommen-bei-NADOO%E2%80%90Wiki) um gemeinsam und unterstützt durch uns in den __innovativen Lehrgang__ zu starten.
+### [1. Organisatorische Grundlagen & Bewerbungsprozess](docs/1/README.md)
 
----
+#### [1.1 Onboarding und Probemonat](docs/1/1/README.md)
 
-## Wiki V2
+#### [1.2 Abgabe von Zeit- und Ausbildungsnachweisen](docs/1/2/README.md)
 
-- 📖 Wiki V2 ist ein neues Projekt, das auf dem 📖 Wiki V1 aufbaut.
+#### [1.3 Verhaltensregeln und Umgang miteinander](docs/1/3/README.md)
 
-- Im Vergleich zu V1 ist es ein statisches Wiki, das auf [Markdown](https://docs.github.com/de/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)-Dateien basiert und mit [GitHub Pages](https://pages.github.com) gehostet wird.
+#### [1.4 Jobrotation & Weiterbildung](docs/1/4/README.md)
 
-- 📖 Wiki V2 bietet eine automatisch generierte Navigation
-- Basis ist Ordnerstruktur der Markdown-Dateien
-- Die Navigation wird mithilfe eines Python-Skripts generiert, das bei Änderungen an den Markdown-Dateien automatisch ausgeführt wird.
-- Die im Wiki generierten Inhalte werden über GitHub Actions mit unserem innovativem Framework __NADOO-Launchpad__ synchronisiert.
+#### [1.5 Arbeiszeiten & Pausen](docs/1/5/README.md)
 
----
-
-### Übersicht der Inhalte
-
-#### [1. Organisatorische Grundlagen & Bewerbungsprozess](docs/1/README.md)
-
-##### [1.1 Onboarding und Probemonat](docs/1/1/README.md)
-
-##### [1.2 Abgabe von Zeit- und Ausbildungsnachweisen](docs/1/2/README.md)
-
-##### [1.3 Verhaltensregeln und Umgang miteinander](docs/1/3/README.md)
-
-##### [1.4 Jobrotation & Weiterbildung](docs/1/4/README.md)
-
-##### [1.5 Arbeiszeiten & Pausen](docs/1/5/README.md)
-
-##### [1.6 Mutterschutz & Elternzeit](docs/1/6/README.md)
+#### [1.6 Mutterschutz & Elternzeit](docs/1/6/README.md)
 
 ---
 
@@ -128,8 +109,8 @@ Klicke auf 📖 [__Wiki__](https://github.com/NADOOIT/NADOO-Wiki/wiki/1.-Willkom
 
 ---
 
-### 8. Erreichbarkeit & Kontakt
+### [8. Erreichbarkeit & Kontakt](docs/8/README.md)
 
 ---
 
-| [Weiter](docs/1/README.md) |
+| [Weiter](docs/1/README.md)
