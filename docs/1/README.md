@@ -10,4 +10,4 @@
 
 ---
 
-[Zurück](../README.md) | [Weiter](1/README.md)
+[Startseite](../../README.md) | [Weiter](1/README.md)
