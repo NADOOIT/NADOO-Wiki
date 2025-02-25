@@ -132,6 +132,4 @@ Klicke auf 📖 [__Wiki__](https://github.com/NADOOIT/NADOO-Wiki/wiki/1.-Willkom
 
 ---
 
-| |
-| --- |
 | [Weiter](docs/1/README.md) |
