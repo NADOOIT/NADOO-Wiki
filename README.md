@@ -55,7 +55,7 @@ Herzlich willkommen zu Deinem Einstieg in die IT-Karriere bei [Christoph Backhau
 
 ##### 3.6 Pair-Programming
 
-##### 3.7 Dokumentation
+##### [3.7 Dokumentation](docs/3/7/README.md)
 
 ---
 
