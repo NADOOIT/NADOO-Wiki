@@ -29,7 +29,4 @@
 
 ---
 
-| |
-| --- |
-| [Weiter](/docs/2/2/README.md) |
-
+| [Zurück](../README.md) | [Weiter](../2/README.md)

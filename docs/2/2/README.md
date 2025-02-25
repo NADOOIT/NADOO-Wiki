@@ -53,6 +53,4 @@ Pro 3er-Team:
 
 ---
 
-| |
-| --- |
-| [Weiter](/docs/2/3/README.md) |
+[Zurück](../1/README.md) | [Weiter](../3/README.md)
