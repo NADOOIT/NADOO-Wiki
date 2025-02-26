@@ -7,4 +7,4 @@
 5. Testen und Optimieren: Starte Debug-Sitzungen, überprüfe die Konfiguration und passe den Workflow an.
 
 
-[Zurück](/docs/3/2/4/README.md)| [Weiter](/docs/4/README.md)
+[Zurück](/docs/3/2/4/README.md) | [Weiter](/docs/4/README.md)
