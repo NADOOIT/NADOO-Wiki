@@ -147,6 +147,4 @@ Kurz gesagt: Stelle GitHubs Benachrichtigungen so ein, dass du nur relevante Ere
 
 ---
 
-| |
-| --- |
-| [Weiter](/docs/3/2/README.md) |
+| [Weiter](/7/README.md)

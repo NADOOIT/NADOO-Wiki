@@ -26,4 +26,10 @@ GitHub Actions ermöglichen die Automatisierung von Workflows direkt in einem Re
 
 ---
 
+## [3.1.6 GitHub-Notifcations und Visual Studio Code](6/README.md)
+
+---
+
+## [3.1.7 GitHub Suchfunktion effizient nutzen](7/README.md)
+
 [Startseite](../../README.md)| [Weiter](3/1/1/README.md)|
