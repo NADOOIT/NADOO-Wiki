@@ -25,7 +25,7 @@ Herzlich willkommen zu Deinem Einstieg in die IT-Karriere bei [Christoph Backhau
 
 #### [1.4 Jobrotation & Weiterbildung](docs/1/4/README.md)
 
-#### [1.5 Arbeiszeiten & Pausen](docs/1/5/README.md)
+#### [1.5 Arbeitszeiten & Pausen](docs/1/5/README.md)
 
 #### [1.6 Mutterschutz & Elternzeit](docs/1/6/README.md)
 
