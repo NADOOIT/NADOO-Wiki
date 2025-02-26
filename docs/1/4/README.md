@@ -33,6 +33,4 @@ Während unserer Meetings ist Videoanwesenheit Pflicht – alternativ können vi
 
 ---
 
-| |
-| --- |
-| [Weiter](/docs/1/5/README.md) |
+[Zurück](../3/README.md) | [Weiter](../5/README.md)

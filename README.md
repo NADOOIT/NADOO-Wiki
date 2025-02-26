@@ -6,47 +6,28 @@ Herzlich willkommen zu Deinem Einstieg in die IT-Karriere bei [Christoph Backhau
 
 - Das "#globalyou" oder auch "#gerneperdu" ist bei uns Programm.
 
-- Wir sind ein junges, dynamisches [Team](https://github.com/orgs/NADOOIT/people) - ergänzt um erfahrene Mitarbeitende - welches es sich auf die Fahnen geschrieben hat, mit Innovationen die  IT-Welt voranzubringen und damit einen __wertvollen__ Beitrag zum __dringend notwendigen Bürokratie-Abbau__ in Deutschland zu leisten.
+- Wir sind ein junges, dynamisches [Team](https://github.com/orgs/NADOOIT/people) - ergänzt um erfahrene Mitarbeitende - welches es sich auf die Fahnen geschrieben hat, mit Innovationen die  IT-Welt voranzubringen und damit einen **wertvollen** Beitrag zum **dringend notwendigen Bürokratie-Abbau** in Deutschland zu leisten.
 
-- Wir sind __multikulturell__, __multilingual__ und __international__ aufgestellt und freuen uns über jede/n, der/die sich uns anschließen möchte.
+- Wir sind **multikulturell**, **multilingual** und **international** aufgestellt und freuen uns über jede/n, der/die sich uns anschließen möchte.
 - Bei uns werden unterschiedliche Kulturen und Sprachen gelebt und geschätzt, wie das auch in der IT-Welt üblich ist.
 
 ---
 
-## NADOO-Wiki
+## Übersicht der Inhalte
 
-Klicke auf 📖 [__Wiki__](https://github.com/NADOOIT/NADOO-Wiki/wiki/1.-Willkommen-bei-NADOO%E2%80%90Wiki) um gemeinsam und unterstützt durch uns in den __innovativen Lehrgang__ zu starten.
+### [1. Organisatorische Grundlagen & Bewerbungsprozess](docs/1/README.md)
 
----
+#### [1.1 Onboarding und Probemonat](docs/1/1/README.md)
 
-## Wiki V2
+#### [1.2 Abgabe von Zeit- und Ausbildungsnachweisen](docs/1/2/README.md)
 
-- 📖 Wiki V2 ist ein neues Projekt, das auf dem 📖 Wiki V1 aufbaut.
+#### [1.3 Verhaltensregeln und Umgang miteinander](docs/1/3/README.md)
 
-- Im Vergleich zu V1 ist es ein statisches Wiki, das auf [Markdown](https://docs.github.com/de/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)-Dateien basiert und mit [GitHub Pages](https://pages.github.com) gehostet wird.
+#### [1.4 Jobrotation & Weiterbildung](docs/1/4/README.md)
 
-- 📖 Wiki V2 bietet eine automatisch generierte Navigation
-- Basis ist Ordnerstruktur der Markdown-Dateien
-- Die Navigation wird mithilfe eines Python-Skripts generiert, das bei Änderungen an den Markdown-Dateien automatisch ausgeführt wird.
-- Die im Wiki generierten Inhalte werden über GitHub Actions mit unserem innovativem Framework __NADOO-Launchpad__ synchronisiert.
+#### [1.5 Arbeiszeiten & Pausen](docs/1/5/README.md)
 
----
-
-### Übersicht der Inhalte
-
-#### [1. Organisatorische Grundlagen & Bewerbungsprozess](docs/1/README.md)
-
-##### [1.1 Onboarding und Probemonat](docs/1/1/README.md)
-
-##### [1.2 Abgabe von Zeit- und Ausbildungsnachweisen](docs/1/2/README.md)
-
-##### [1.3 Verhaltensregeln und Umgang miteinander](docs/1/3/README.md)
-
-##### [1.4 Jobrotation & Weiterbildung](docs/1/4/README.md)
-
-##### [1.5 Arbeiszeiten & Pausen](docs/1/5/README.md)
-
-##### [1.6 Mutterschutz & Elternzeit](docs/1/6/README.md)
+#### [1.6 Mutterschutz & Elternzeit](docs/1/6/README.md)
 
 ---
 
@@ -74,11 +55,11 @@ Klicke auf 📖 [__Wiki__](https://github.com/NADOOIT/NADOO-Wiki/wiki/1.-Willkom
 
 ##### 3.6 Pair-Programming
 
-##### 3.7 Dokumentation
+##### [3.7 Dokumentation](docs/3/7/README.md)
 
 ---
 
-#### 4. Kommunikation & Zusammenarbeit
+#### [4. Kommunikation & Zusammenarbeit](docs/4/README.md)
 
 ##### 4.1 Discord
 
@@ -88,7 +69,7 @@ Klicke auf 📖 [__Wiki__](https://github.com/NADOOIT/NADOO-Wiki/wiki/1.-Willkom
 
 ---
 
-#### 5. Weiterbildung & Karriereentwicklung
+#### [5. Weiterbildung & Karriereentwicklung](docs/5/README.md)
 
 ##### 5.1 Präsentationstraining
 
@@ -124,14 +105,24 @@ Klicke auf 📖 [__Wiki__](https://github.com/NADOOIT/NADOO-Wiki/wiki/1.-Willkom
 
 ---
 
-### 7. Datenschutz & Datensicherheit
+### [7. Datenschutz & Datensicherheit](docs/7/README.md)
 
 ---
 
-### 8. Erreichbarkeit & Kontakt
+### [8. Erreichbarkeit & Kontakt](docs/8/README.md)
 
 ---
 
-| |
-| --- |
-| [Weiter](docs/1/README.md) |
+### 9. Wichtige Hinweies
+
+#### Krankmeldungen
+
+Melde Dich bitte bei Krankheit bis spätestens 11:00 Uhr – sowohl direkt an Christoph Backhaus als auch an das zuständige Institut. Fehlende oder verspätete Meldungen gelten als Abwesenheit und können entsprechende Konsequenzen haben.
+
+---
+
+#### Arbeitszeiten
+
+Unsere täglichen [Meetings](docs/2/README.md) und festgelegten [Ruhezeiten]((docs/1/5/README.md)) (mindestens 11 Stunden zwischen den Arbeitstagen) sind **verbindlich einzuhalten.** Die maximale [Arbeitszeit](docs/1/5/README.md) endet um 23:00 Uhr.
+
+| [Weiter](docs/1/README.md)

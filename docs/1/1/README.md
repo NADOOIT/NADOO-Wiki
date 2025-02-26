@@ -12,6 +12,4 @@ In diesem Monat haben Sie die Chance, sich zu beweisen - indem Sie zeigen, dass 
 
 ---
 
-| |
-| --- |
-| [Weiter](/docs/1/2/README.md) |
+[Zurück](../README.md) | [Weiter](../2/README.md)

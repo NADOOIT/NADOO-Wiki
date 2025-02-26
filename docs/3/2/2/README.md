@@ -6,8 +6,4 @@
 4. Plugin-spezifische Einstellungen: Passe Konfigurationen, Berechtigungen und Abhängigkeiten an.
 5. Anwendung neu starten: Starte die Anwendung neu und prüfe, ob die Erweiterungen korrekt funktionieren.
 
----
-
-| |
-| --- |
-| [Weiter](/docs/3/2/3/README.md) |
+[Zurück](/docs/3/2/1/README.md) | [Weiter](/docs/3/2/3/README.md)
