@@ -19,7 +19,7 @@
 
 ### 2. 10:30–10:35 Uhr – Begrüßung & Unternehmensvorstellung
 
-Kurze Wiederholung der Unternehmensmission, Werte (z.B. Transpare- nz, Agilität, Kundenzentrierung) und Ziele.
+Kurze Wiederholung der Unternehmensmission, Werte (z.B. Transparenz, Agilität, Kundenzentrierung) und Ziele.
 
 ---
 
