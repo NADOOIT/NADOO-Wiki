@@ -103,7 +103,8 @@ GitHub Notifications erlaubt es, GitHub-Benachrichtigungen **direkt in VS Code**
 
 ### 3.2 Regelmäßige Inbox-Hygiene
 
-- Ähnlich wie im E-Mail-Postfach: Markiere irrelevante oder erledigte Meldungen als gelesen, damit dein### 3.B achrichtigungsfeed übersichtlich bleibt
+- Ähnlich wie im E-Mail-Postfach: Markiere irrelevante oder erledigte Meldungen als gelesen, damit dein
+  Bachrichtigungsfeed übersichtlich bleibt
 
 ---
 
@@ -146,5 +147,3 @@ Das Wichtigste ist, dass du dir in GitHub klare Filter und Benachrichtigungseins
 Kurz gesagt: Stelle GitHubs Benachrichtigungen so ein, dass du nur relevante Ereignisse mitbekommst, und nutze eine VS-Code-Integration für Pull Requests, Issues und ggf. Notifications. Damit machst du deinen Entwicklungsworkflow schlanker und eliminierst störende E-Mail-Fluten.
 
 ---
-
-| [Weiter](/7/README.md)
