@@ -44,4 +44,4 @@ Um manuelle Arbeitsschritte zu reduzieren, die Codequalität zu sichern und schn
 
 | |
 | --- |
-| [Weiter](/docs/3/1/6/README.md) |
+| [Weiter](../6/README.md) |

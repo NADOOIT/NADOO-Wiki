@@ -44,4 +44,4 @@ Branches ermöglichen eine getrennte Entwicklung von neuen Funktionen, Experimen
 
 | |
 | --- |
-| [Weiter](/docs/3/1/3/README.md) |
+| [Weiter](../3/README.md) |
