@@ -42,4 +42,4 @@ Pull Requests stellen sicher, dass neue Features oder Bugfixes vor ihrer Integra
 
 | |
 | --- |
-| [Weiter](/docs/3/1/4/README.md) |
+| [Weiter](../4/README.md) |

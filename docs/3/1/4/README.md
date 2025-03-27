@@ -40,4 +40,4 @@ Issues helfen bei der systematischen Nachverfolgung von Aufgaben, der Kommunikat
 
 | |
 | --- |
-| [Weiter](/docs/3/1/5/README.md) |
+| [Weiter](../5/README.md) |
