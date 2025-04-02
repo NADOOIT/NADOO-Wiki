@@ -21,9 +21,9 @@ Herzlich willkommen zu Deinem Einstieg in die IT-Karriere bei [Christoph Backhau
 
 #### [1.2 Abgabe von Zeit- und Ausbildungsnachweisen](docs/1/2/README.md)
 
-#### [1.3 Verhaltensregeln und Umgang miteinander](docs/1/3/README.md)
+#### [1.3 Jobrotation & Weiterbildung](docs/1/3/README.md)
 
-#### [1.4 Jobrotation & Weiterbildung](docs/1/4/README.md)
+#### [1.4 Verhaltensregeln und Umgang miteinander](docs/1/4/README.md)
 
 #### [1.5 Arbeitszeiten & Pausen](docs/1/5/README.md)
 
