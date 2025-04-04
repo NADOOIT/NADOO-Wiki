@@ -21,6 +21,8 @@ Herzlich willkommen zu Deinem Einstieg in die IT-Karriere bei [Christoph Backhau
 
 #### [1.2 Abgabe von Zeit- und Ausbildungsnachweisen](docs/1/2/README.md)
 
+#### [1.2.1 Dateibenennungsrichtlinien](docs/1/2/1/README.md)
+
 #### [1.3 Jobrotation & Weiterbildung](docs/1/3/README.md)
 
 #### [1.4 Verhaltensregeln und Umgang miteinander](docs/1/4/README.md)
@@ -54,6 +56,8 @@ Herzlich willkommen zu Deinem Einstieg in die IT-Karriere bei [Christoph Backhau
 ##### 3.5 Toga
 
 ##### [3.6 Java](docs/3/6/README.md)
+
+###### 3.6.1 JavaFX
 
 ##### [3.7 Dokumentation](docs/3/7/README.md)
 
