@@ -63,6 +63,8 @@ Herzlich willkommen zu Deinem Einstieg in die IT-Karriere bei [Christoph Backhau
 
 ##### [3.7 Dokumentation](docs/3/7/README.md)
 
+##### [3.8 Clean Architecture](docs/3/8/README.md)
+
 ---
 
 #### [4. Kommunikation & Zusammenarbeit](docs/4/README.md)
