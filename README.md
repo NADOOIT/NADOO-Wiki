@@ -53,7 +53,7 @@ Herzlich willkommen zu Deinem Einstieg in die IT-Karriere bei [Christoph Backhau
 
 ##### 3.5 Toga
 
-##### 3.6 Pair-Programming
+##### [3.6 Java](docs/3/6/README.md)
 
 ##### [3.7 Dokumentation](docs/3/7/README.md)
 
