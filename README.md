@@ -49,7 +49,7 @@ Herzlich willkommen zu Deinem Einstieg in die IT-Karriere bei [Christoph Backhau
 
 ##### [3.2 Visual Studio Code](docs/3/2/README.md)
 
-##### 3.3 Python
+##### [3.3 Python](docs/3/3/README.md)
 
 ##### 3.4 Briefcase
 
