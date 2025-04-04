@@ -107,7 +107,7 @@ Herzlich willkommen zu Deinem Einstieg in die IT-Karriere bei [Christoph Backhau
 
 #### [6.7 Projektstruktur](docs/6/7/README.md)
 
-#### 6.8 Projektziele
+#### [6.8 Abschlussprojekt](docs/6/8/README.md)
 
 #### 6.9 Projektbudget
 
