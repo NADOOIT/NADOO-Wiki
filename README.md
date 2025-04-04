@@ -53,6 +53,8 @@ Herzlich willkommen zu Deinem Einstieg in die IT-Karriere bei [Christoph Backhau
 
 ###### [3.3.1 Debugging](docs/3/3/1/README.md)
 
+###### [3.3.2 Praktische Umsetzung mit NADOO-Launchpad](docs/3/3/2/README.md)
+
 ##### 3.4 Briefcase
 
 ##### 3.5 Toga
