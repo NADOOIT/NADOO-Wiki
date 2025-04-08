@@ -16,6 +16,8 @@
 
 ## 1.6 [Mutterschutz & Elternzeit](6/README.md)
 
+## 1.6 [Urlaubsregelung](7/README.md)
+
 ---
 
 [Startseite](../../README.md) | [Weiter](1/README.md)
