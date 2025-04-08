@@ -23,6 +23,8 @@ Herzlich willkommen zu Deinem Einstieg in die IT-Karriere bei [Christoph Backhau
 
 #### [1.2.1 Dateibenennungsrichtlinien](docs/1/2/1/README.md)
 
+#### [1.2.2 Prüfung des Dateinamens](docs/1/2/2/README.md)
+
 #### [1.3 Jobrotation & Weiterbildung](docs/1/3/README.md)
 
 #### [1.4 Verhaltensregeln und Umgang miteinander](docs/1/4/README.md)
