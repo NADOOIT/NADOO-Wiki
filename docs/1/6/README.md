@@ -8,6 +8,4 @@ Diese Regelungen gelten für Arbeitnehmerinnen und Arbeitnehmer, die in einem Ar
 
 ---
 
-| |
-| --- |
-| [Weiter](/docs/2/README.md) |
+[Zurück](../5/README.md) | [Weiter](../7/README.md)
