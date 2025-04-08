@@ -31,6 +31,8 @@ Herzlich willkommen zu Deinem Einstieg in die IT-Karriere bei [Christoph Backhau
 
 #### [1.6 Mutterschutz & Elternzeit](docs/1/6/README.md)
 
+#### [1.7 Urlaubsregelung](docs/1/7/README.md)
+
 ---
 
 #### [2. Meeting Strukturen](docs/2/README.md)
