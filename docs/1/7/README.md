@@ -4,7 +4,7 @@
    Die Anzahl der Urlaubstage richtet sich nach den Bestimmungen des individuellen Arbeitsvertrags.
 
 2. **Urlaubsantrag:**  
-   Der Urlaubsantrag sollte spätestens einen Tag vor dem geplanten Urlaubsantritt gestellt werden. Der Antrag ist schriftlich bei der zuständigen Abteilung einzureichen und bedarf der Genehmigung durch den Vorgesetzten.
+   Der Urlaubsantrag sollte spätestens einen Tag vor dem geplanten Urlaubsantritt gestellt werden.
 
 3. **Verrechnung von Fehltagen:**  
    Nicht genehmigte Fehltage werden automatisch als Urlaubstage verrechnet. Sollte das Urlaubskontingent bereits ausgeschöpft sein, gelten die Fehltage als unentschuldigt.
