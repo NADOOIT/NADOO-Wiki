@@ -95,8 +95,6 @@ Herzlich willkommen zu Deinem Einstieg in die IT-Karriere bei [Christoph Backhau
 
 ##### [3.10 KI‐Nutzung: Ein umfassender Leitfaden](docs/3/10/README.md)
 
-###### [3.10.1 Gemini-API](docs/3/10/1/README.md)
-
 ---
 
 #### [4. Kommunikation & Zusammenarbeit](docs/4/README.md)
@@ -104,6 +102,8 @@ Herzlich willkommen zu Deinem Einstieg in die IT-Karriere bei [Christoph Backhau
 ##### 4.1 Discord
 
 ##### 4.3 Video/Avatar-Pflicht
+
+###### [4.3.1 Android - Smartphone als Webcam nutzen](docs/4/3/1/README.md)
 
 ##### 4.4 Feedback-Kultur
 
