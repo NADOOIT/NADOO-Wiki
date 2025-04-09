@@ -117,7 +117,7 @@ Herzlich willkommen zu Deinem Einstieg in die IT-Karriere bei [Christoph Backhau
 
 ###### 5.3.1 GitHub-Profil
 
-###### 5.3.2 LinkedIn-Profil
+###### [5.3.2 LinkedIn-Profil](docs/5/3/2/README.md)
 
 ###### 5.3.3 Xing-Profil
 
@@ -159,7 +159,11 @@ Herzlich willkommen zu Deinem Einstieg in die IT-Karriere bei [Christoph Backhau
 
 ---
 
-### 9. Wichtige Hinweies
+### [9. Lizenzen, Open Source und die Welt der Softwareabhängigkeiten](docs/9/README.md)
+
+---
+
+### 10. Wichtige Hinweise
 
 #### Krankmeldungen
 
