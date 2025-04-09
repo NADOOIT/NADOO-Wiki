@@ -1,4 +1,4 @@
-# 5 Weiterbildung und Karriereenwtwicklung
+# 5 Weiterbildung und Karriereentwicklung
 
 ---
 
