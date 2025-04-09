@@ -22,6 +22,5 @@ Ein Repository ist ein Speicherort für Projekte, in dem Code, Dokumentation und
 
 ---
 
-| |
-| --- |
-| [Weiter](../2/README.md) |
+
+[Zurück](/docs/3/1/README.md)| [Weiter](../2/README.md)|
