@@ -111,7 +111,7 @@ Herzlich willkommen zu Deinem Einstieg in die IT-Karriere bei [Christoph Backhau
 
 ##### 5.2 Präsentationstraining
 
-##### 5.3 Netzwerken
+##### [5.3 Netzwerken](docs/5/3/README.md)
 
 ###### 5.3.1 GitHub-Profil
 
