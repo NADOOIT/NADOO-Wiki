@@ -95,6 +95,8 @@ Herzlich willkommen zu Deinem Einstieg in die IT-Karriere bei [Christoph Backhau
 
 ##### [3.10 KI‐Nutzung: Ein umfassender Leitfaden](docs/3/10/README.md)
 
+---
+
 #### [4. Kommunikation & Zusammenarbeit](docs/4/README.md)
 
 ##### 4.1 Discord
@@ -154,6 +156,10 @@ Herzlich willkommen zu Deinem Einstieg in die IT-Karriere bei [Christoph Backhau
 ---
 
 ### [8. Erreichbarkeit & Kontakt](docs/8/README.md)
+
+---
+
+### [9. Lizenzen, Open Source und die Welt der Softwareabhängigkeiten](docs/9/README.md)
 
 ---
 
