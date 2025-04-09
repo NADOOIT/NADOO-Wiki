@@ -1,4 +1,4 @@
-# 11. Das NADOO Framework
+# 11. Das NADOO-IT Framework
 
 Das **NADOO-IT Framework** ist ein Ansatz zur Strukturierung von Projekten und zur Organisation von Code. Es basiert auf den bewährten Prinzipien von Briefcase und Toga und kombiniert diese mit weiteren Technologien wie ZMQ und unserem eigens entwickelten NADOO-IT-Launchpad.
 
