@@ -103,9 +103,17 @@ Herzlich willkommen zu Deinem Einstieg in die IT-Karriere bei [Christoph Backhau
 
 #### [5. Weiterbildung & Karriereentwicklung](docs/5/README.md)
 
-##### 5.1 Präsentationstraining
+##### 5.1 Jobrotationsverfahren
 
-##### 5.2 Assessmentcenter-Ansatz
+##### 5.2 Präsentationstraining
+
+##### 5.3 Netzwerken
+
+###### 5.3.1 GitHub-Profil
+
+###### 5.3.2 LinkedIn-Profil
+
+###### 5.3.3 Xing-Profil
 
 ---
 
