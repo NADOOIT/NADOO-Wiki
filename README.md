@@ -55,6 +55,8 @@ Herzlich willkommen zu Deinem Einstieg in die IT-Karriere bei [Christoph Backhau
 
 ###### [3.1.2 Branches](docs/3/1/2/README.md)
 
+###### [3.1.2.1 Branch Protection](docs/3/1/2/1/README.md)
+
 ###### [3.1.3 Pull Requests](docs/3/1/3/README.md)
 
 ###### [3.1.4 Issues](docs/3/1/4/README.md)
