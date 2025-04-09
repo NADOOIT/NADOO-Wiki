@@ -1,12 +1,12 @@
-# Jobrotation & Weiterbildung
+# 5 Weiterbildung und Karriereenwtwicklung
 
 ---
 
-- **Jobrotationsverfahren:**  
+## 1. Jobrotationsverfahren
 
-Im Rahmen Ihrer Ausbildung durchlaufen Sie verschiedene Bereiche der Softwareentwicklung. Nach Abschluss des Onboarding-Programms übernehmen Sie schrittweise echte Verantwortung – auch in Teamkoordinationsrollen.  
+Im Rahmen Deiner Ausbildung durchläufst Du verschiedene Bereiche der Softwareentwicklung. Nach Abschluss des Onboarding-Programms übernimmst Du schrittweise echte Verantwortung – auch in Teamkoordinationsrollen.  
 
-Wir fördern Sie in den folgenden Bereichen:
+Wir fördern Dich in den folgenden Bereichen:
 
 - **Fähigkeiten:** Persönliche Weiterentwicklung
 - **Fertigkeiten:** Umgang mit Arbeitswerkzeugen
@@ -14,9 +14,21 @@ Wir fördern Sie in den folgenden Bereichen:
 
 ---
 
-- **Präsentationstraining:**  
+## 2. Präsentationstraining
 
-Regelmäßig präsentieren Sie in unseren 11er-Meetings technische Themen. Dies stärkt Ihre Fähigkeit, vor der Gruppe stotterfrei und selbstsicher zu präsentieren sowie Fragen zu beantworten. Ihre erstellten Unterlagen fließen später in unser Wiki und in unsere mediale Präsenz ein.
+Regelmäßig präsentierst Du in unseren 11er-Meetings technische Themen. Dies stärkt Deine Fähigkeit, vor der Gruppe stotterfrei und selbstsicher zu präsentieren sowie Fragen zu beantworten.
+
+Deine erstellten Unterlagen fliessen anschliessend in unser Wiki und in unsere mediale Präsenz ein.
+
+---
+
+## 3. Netzwerken
+
+Wir fördern den Austausch mit anderen Unternehmen, um Dir Einblicke in verschiedene Arbeitsweisen zu ermöglichen. Du kannst an Konferenzen teilnehmen und Dich mit anderen Softwareentwicklern vernetzen.
+
+Auf dieser Basis kannst Du ein ansprechendes Netzwerk mit Deinem Profil (bei [GitHub](https://docs.github.com/de/get-started/start-your-journey/setting-up-your-profile), LinkedIn, Xing, etc.) aufbauen.
+
+Der Aufbau dieser Profile ist für den Start in Deine IT-Karriere sehr wichtig. Wir unterstützen Dich dabei, indem wir Dir helfen, Deine Profile zu erstellen und zu pflegen.
 
 ---
 
