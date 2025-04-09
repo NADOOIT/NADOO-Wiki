@@ -34,4 +34,4 @@ GitHub Actions ermöglichen die Automatisierung von Workflows direkt in einem Re
 
 ## [3.1.7 GitHub Suchfunktion effizient nutzen](7/README.md)
 
-[Startseite](../../README.md)| [Weiter](1/README.md)|
+[Zurück](/docs/3/README.md)| [Weiter](1/README.md)|
