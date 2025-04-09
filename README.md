@@ -23,6 +23,8 @@ Herzlich willkommen zu Deinem Einstieg in die IT-Karriere bei [Christoph Backhau
 
 #### [1.2.1 Dateibenennungsrichtlinien](docs/1/2/1/README.md)
 
+#### [1.2.2 Prüfung des Dateinamens](docs/1/2/2/README.md)
+
 #### [1.3 Jobrotation & Weiterbildung](docs/1/3/README.md)
 
 #### [1.4 Verhaltensregeln und Umgang miteinander](docs/1/4/README.md)
@@ -48,6 +50,22 @@ Herzlich willkommen zu Deinem Einstieg in die IT-Karriere bei [Christoph Backhau
 #### [3. Technische Grundlagen & Praktische Anwendung](docs/3/README.md)
 
 ##### [3.1 GitHub](docs/3/1/README.md)
+
+###### [3.1.1 Repository](docs/3/1/1/README.md)
+
+###### [3.1.2 Branches](docs/3/1/2/README.md)
+
+###### [3.1.3 Pull Requests](docs/3/1/3/README.md)
+
+###### [3.1.4 Issues](docs/3/1/4/README.md)
+
+###### [3.1.5 GitHub Actions](docs/3/1/5/README.md)
+
+###### [3.1.6 GitHub Notifications](docs/3/1/6/README.md)
+
+###### [3.1.7 GitHub Suchfunktion](docs/3/1/7/README.md)
+
+###### [3.1.8 GitHub Markdown](docs/3/1/8/README.md)
 
 ##### [3.2 Visual Studio Code](docs/3/2/README.md)
 
