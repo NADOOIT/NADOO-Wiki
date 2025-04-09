@@ -171,7 +171,11 @@ Herzlich willkommen zu Deinem Einstieg in die IT-Karriere bei [Christoph Backhau
 
 ---
 
-### 11. Wichtige Hinweise
+### [11. Das NADOO-IT Framework](docs/11/README.md)
+
+---
+
+### 12. Wichtige Hinweise
 
 #### Krankmeldungen
 
