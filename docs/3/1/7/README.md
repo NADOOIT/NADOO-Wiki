@@ -40,5 +40,4 @@ Durch die Nutzung der GitHub Suchfunktion sparst du Zeit, verbesserst die Übers
 Probier es aus und profitiere von den Vorteilen der effizienten GitHub Suche!
 
 ---
-
-| [Weiter](/docs/3/2/README.md) |
+[Zurück](../6/README.md) | [Weiter](/docs/3/2/README.md) 
