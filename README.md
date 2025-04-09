@@ -167,11 +167,17 @@ Herzlich willkommen zu Deinem Einstieg in die IT-Karriere bei [Christoph Backhau
 
 ---
 
-### 10. Wichtige Hinweise
+### [10. Dein erstes digitales Produkt (last but not least)](docs/10/README.md)
+
+---
+
+### 11. Wichtige Hinweise
 
 #### Krankmeldungen
 
-Melde Dich bitte bei Krankheit bis spätestens 11:00 Uhr – sowohl direkt an Christoph Backhaus als auch an das zuständige Institut. Fehlende oder verspätete Meldungen gelten als Abwesenheit und können entsprechende Konsequenzen haben.
+Melde Dich bitte bei Krankheit bis spätestens 11:00 Uhr – sowohl direkt an Christoph Backhaus, das zuständige Institut und Deinen Kostenträger (Arbeitsagentur oder Jobcenter).
+
+**Fehlende oder verspätete Meldungen gelten als Abwesenheit und können entsprechende Konsequenzen haben!**
 
 ---
 
