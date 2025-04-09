@@ -147,3 +147,5 @@ Das Wichtigste ist, dass du dir in GitHub klare Filter und Benachrichtigungseins
 Kurz gesagt: Stelle GitHubs Benachrichtigungen so ein, dass du nur relevante Ereignisse mitbekommst, und nutze eine VS-Code-Integration für Pull Requests, Issues und ggf. Notifications. Damit machst du deinen Entwicklungsworkflow schlanker und eliminierst störende E-Mail-Fluten.
 
 ---
+
+[Zurück](../5/README.md) | [Weiter](../7/README.md) 

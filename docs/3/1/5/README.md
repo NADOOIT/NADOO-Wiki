@@ -41,7 +41,4 @@ Um manuelle Arbeitsschritte zu reduzieren, die Codequalität zu sichern und schn
 5. **Flexibilität:** Workflows lassen sich an unterschiedliche Anforderungen anpassen.
 
 ---
-
-| |
-| --- |
-| [Weiter](../6/README.md) |
+[Zurück](../4/README.md)| [Weiter](../6/README.md)|

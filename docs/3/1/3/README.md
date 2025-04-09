@@ -39,7 +39,4 @@ Pull Requests stellen sicher, dass neue Features oder Bugfixes vor ihrer Integra
 5. **Kontrolle über Änderungen:** Fehler und Konflikte werden frühzeitig erkannt, bevor sie im Hauptzweig landen.
 
 ---
-
-| |
-| --- |
-| [Weiter](../4/README.md) |
+[Zurück](../2/README.md)| [Weiter](../4/README.md)|
