@@ -157,7 +157,7 @@ Herzlich willkommen zu Deinem Einstieg in die IT-Karriere bei [Christoph Backhau
 
 ---
 
-### 9. Wichtige Hinweies
+### 10. Wichtige Hinweise
 
 #### Krankmeldungen
 
