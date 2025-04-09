@@ -95,6 +95,8 @@ Herzlich willkommen zu Deinem Einstieg in die IT-Karriere bei [Christoph Backhau
 
 ##### [3.10 KI‐Nutzung: Ein umfassender Leitfaden](docs/3/10/README.md)
 
+###### [3.10.1 Gemini-API](docs/3/10/1/README.md)
+
 ---
 
 #### [4. Kommunikation & Zusammenarbeit](docs/4/README.md)
