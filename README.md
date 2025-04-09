@@ -35,6 +35,8 @@ Herzlich willkommen zu Deinem Einstieg in die IT-Karriere bei [Christoph Backhau
 
 #### [1.7 Urlaubsregelung](docs/1/7/README.md)
 
+#### [1.8  KAIZEN bei Christoph Backhaus IT](docs/1/8/README.md)
+
 ---
 
 #### [2. Meeting Strukturen](docs/2/README.md)
