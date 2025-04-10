@@ -6,4 +6,6 @@
 4. Erweiterungen integrieren: Weisen auf zusätzliche Extensions hin, die IntelliSense und weitere Editorfunktionen verbessern können.
 5. Testen und Feinabstimmung: Führe abschließende Tests durch und passe die Einstellungen an, um eine optimale Performance zu gewährleisten.
 
+---
+
 [Zurück](/docs/3/2/3/README.md) | [Weiter](/docs/3/2/5/README.md)

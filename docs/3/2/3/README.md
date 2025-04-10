@@ -6,4 +6,6 @@
 4. Konfiguration und Einrichtung: Passe Konfigurationsdateien an und definiere Workspaces in der Projektstruktur.
 5. Testen und Anpassen: Starte die einzelnen Workspaces und prüfe, ob die Trennung und Integration korrekt umgesetzt sind.
 
+---
+
 [Zurück](/docs/3/2/2/README.md) | [Weiter](/docs/3/2/4/README.md)
