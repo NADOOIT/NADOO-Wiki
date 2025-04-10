@@ -35,7 +35,9 @@ Herzlich willkommen zu Deinem Einstieg in die IT-Karriere bei [Christoph Backhau
 
 #### [1.7 Urlaubsregelung](docs/1/7/README.md)
 
-#### [1.8  KAIZEN bei Christoph Backhaus IT](docs/1/8/README.md)
+#### [1.8 KAIZEN bei Christoph Backhaus IT](docs/1/8/README.md)
+
+#### [1.9 Die Verantwortung und Unsicherheit des Programmierer‐Daseins](docs/1/9/README.md)
 
 ---
 
