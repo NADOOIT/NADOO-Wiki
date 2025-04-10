@@ -105,6 +105,8 @@ Herzlich willkommen zu Deinem Einstieg in die IT-Karriere bei [Christoph Backhau
 
 ##### [3.11 Terminal Grundlagen](docs/3/11/README.md)
 
+##### [3.12 Mögliche interessante Orte zum Arbeiten und Lernen](docs/3/12/README.md)
+
 ---
 
 #### [4. Kommunikation & Zusammenarbeit](docs/4/README.md)
