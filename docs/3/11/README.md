@@ -1,4 +1,4 @@
-# 3.10 Terminal Grundlagen
+# 3.11 Terminal Grundlagen
 
 Willkommen zu den Terminal Grundlagen! Diese Seite dient als Einführung in die wichtigsten Konzepte und Funktionen des Terminals. Hier lernen Sie, wie Sie ein Terminal starten, die Benutzeroberfläche verstehen und grundlegende Navigationsbefehle anwenden.
 
