@@ -13,6 +13,21 @@ Herzlich willkommen zu Deinem Einstieg in die IT-Karriere bei [Christoph Backhau
 
 ---
 
+## Das Wiki und unser Issue first-Prinzip
+
+| |
+| :--- |
+| **WICHTIG**: Bevor Du, weiter liest um mit dem Wiki zu starten! |
+| 1. Sende eine eMail mit Deinem GitHub-Benutzernamen an <christoph.backhaus@nadooit.de> |
+| 2. Du erhältst anschließend zeitnah eine eMail, in welcher Du aktiv Deine Einladung zu diesem Repository bestägst |
+| 3. Du kannst dann mit dem Wiki starten und Deine ersten Schritte bei der NADOO-IT gehen 🚀 |
+| 4. Solltest Du dabei auf Ungereimtheiten, dann erstelle umgehend ein [Issue](https://github.com/NADOOIT/NADOO-Wiki/issues/new/choose) ❗ |
+| 5. Unsere erfahrenen Teamkoordinator:innen werden sich dann umgehend um Dein Anliegen kümmern und Dich unterstützen! |
+
+**Viel Spass und Erfolg bei uns - Feedback ist immer willkommen und ausdrücklich erwünscht**  ❗
+
+---
+
 ## Übersicht der Inhalte
 
 ### [1. Organisatorische Grundlagen & Bewerbungsprozess](docs/1/README.md)
