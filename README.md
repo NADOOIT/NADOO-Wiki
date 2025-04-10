@@ -83,6 +83,8 @@ Herzlich willkommen zu Deinem Einstieg in die IT-Karriere bei [Christoph Backhau
 
 ###### [3.3.2 Praktische Umsetzung mit NADOO-Launchpad](docs/3/3/2/README.md)
 
+###### [3.3.3 Speech‐to‐Text‐Feature im NADOO Launchpad](docs/3/3/3/README.md)
+
 ##### 3.4 Briefcase
 
 ##### 3.5 Toga
