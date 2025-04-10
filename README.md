@@ -87,6 +87,8 @@ Herzlich willkommen zu Deinem Einstieg in die IT-Karriere bei [Christoph Backhau
 
 ##### [3.4 Briefcase & Toga](docs/3/4/README.md)
 
+###### [3.4.1 Debugging](docs/3/4/1/README.md)
+
 ##### 3.5 Flutter
 
 ##### [3.6 Java](docs/3/6/README.md)
