@@ -75,7 +75,17 @@ Herzlich willkommen zu Deinem Einstieg in die IT-Karriere bei [Christoph Backhau
 
 ###### [3.1.8 GitHub Markdown](docs/3/1/8/README.md)
 
+---
+
 ##### [3.2 Visual Studio Code](docs/3/2/README.md)
+
+###### [3.2.1 Installation & Einrichtung](docs/3/2/1/README.md)
+
+###### [3.2.2 Erweiterungen](docs/3/2/2/README.md)
+
+
+
+---
 
 ##### [3.3 Python](docs/3/3/README.md)
 
