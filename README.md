@@ -35,7 +35,9 @@ Herzlich willkommen zu Deinem Einstieg in die IT-Karriere bei [Christoph Backhau
 
 #### [1.7 Urlaubsregelung](docs/1/7/README.md)
 
-#### [1.8  KAIZEN bei Christoph Backhaus IT](docs/1/8/README.md)
+#### [1.8 KAIZEN bei Christoph Backhaus IT](docs/1/8/README.md)
+
+#### [1.9 Die Verantwortung und Unsicherheit des Programmierer‐Daseins](docs/1/9/README.md)
 
 ---
 
@@ -105,15 +107,27 @@ Herzlich willkommen zu Deinem Einstieg in die IT-Karriere bei [Christoph Backhau
 
 ##### 4.3 Video/Avatar-Pflicht
 
+###### [4.3.1 Android - Smartphone als Webcam nutzen](docs/4/3/1/README.md)
+
 ##### 4.4 Feedback-Kultur
 
 ---
 
 #### [5. Weiterbildung & Karriereentwicklung](docs/5/README.md)
 
-##### 5.1 Präsentationstraining
+##### 5.1 Jobrotationsverfahren
 
-##### 5.2 Assessmentcenter-Ansatz
+##### 5.2 Präsentationstraining
+
+##### [5.3 Netzwerken](docs/5/3/README.md)
+
+###### 5.3.1 GitHub-Profil
+
+###### [5.3.2 LinkedIn-Profil](docs/5/3/2/README.md)
+
+###### 5.3.3 Xing-Profil
+
+###### [5.3.4 Online-Kalender mit Doodle einrichten und in LinkedIn-Profil integrieren](docs/5/3/4/README.md)
 
 ---
 
@@ -153,11 +167,25 @@ Herzlich willkommen zu Deinem Einstieg in die IT-Karriere bei [Christoph Backhau
 
 ---
 
-### 9. Wichtige Hinweies
+### [9. Lizenzen, Open Source und die Welt der Softwareabhängigkeiten](docs/9/README.md)
+
+---
+
+### [10. Dein erstes digitales Produkt (last but not least)](docs/10/README.md)
+
+---
+
+### [11. Das NADOO-IT Framework](docs/11/README.md)
+
+---
+
+### 12. Wichtige Hinweise
 
 #### Krankmeldungen
 
-Melde Dich bitte bei Krankheit bis spätestens 11:00 Uhr – sowohl direkt an Christoph Backhaus als auch an das zuständige Institut. Fehlende oder verspätete Meldungen gelten als Abwesenheit und können entsprechende Konsequenzen haben.
+Melde Dich bitte bei Krankheit bis spätestens 11:00 Uhr – sowohl direkt an Christoph Backhaus, das zuständige Institut und Deinen Kostenträger (Arbeitsagentur oder Jobcenter).
+
+**Fehlende oder verspätete Meldungen gelten als Abwesenheit und können entsprechende Konsequenzen haben!**
 
 ---
 
