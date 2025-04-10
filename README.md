@@ -83,7 +83,11 @@ Herzlich willkommen zu Deinem Einstieg in die IT-Karriere bei [Christoph Backhau
 
 ###### [3.2.2 Erweiterungen](docs/3/2/2/README.md)
 
+###### [3.2.3 Arbeitsbereiche (Workspaces)](docs/3/2/3/README.md)
 
+###### [3.2.4 Editorfunktionen & IntelliSense](docs/3/2/4/README.md)
+
+###### [3.2.5 Debugging & Terminal](docs/3/2/5/README.md)
 
 ---
 
@@ -99,11 +103,17 @@ Herzlich willkommen zu Deinem Einstieg in die IT-Karriere bei [Christoph Backhau
 
 ###### [3.4.1 Debugging](docs/3/4/1/README.md)
 
+---
+
 ##### 3.5 Flutter
+
+---
 
 ##### [3.6 Java](docs/3/6/README.md)
 
 ###### 3.6.1 JavaFX
+
+---
 
 ##### [3.7 Dokumentation](docs/3/7/README.md)
 
@@ -207,8 +217,12 @@ Melde Dich bitte bei Krankheit bis spätestens 11:00 Uhr – sowohl direkt an Ch
 
 ---
 
-#### Arbeitszeiten
+### 13. Arbeitszeiten
 
-Unsere täglichen [Meetings](docs/2/README.md) und festgelegten [Ruhezeiten]((docs/1/5/README.md)) (mindestens 11 Stunden zwischen den Arbeitstagen) sind **verbindlich einzuhalten.** Die maximale [Arbeitszeit](docs/1/5/README.md) endet um 23:00 Uhr.
+Unsere täglichen [Meetings](docs/2/README.md) und festgelegten [Ruhezeiten]((docs/1/5/README.md)) (mindestens 11 Stunden zwischen den Arbeitstagen) sind **verbindlich einzuhalten.** 
+
+Die maximale [Arbeitszeit](docs/1/5/README.md) endet um 23:00 Uhr.
+
+---
 
 | [Weiter](docs/1/README.md)

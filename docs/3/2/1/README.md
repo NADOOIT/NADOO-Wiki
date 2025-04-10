@@ -10,6 +10,4 @@
 
 ---
 
-| |
-| --- |
-| [Weiter](/docs/3/2/2/README.md) |
+[Weiter](/docs/3/2/2/README.md)
