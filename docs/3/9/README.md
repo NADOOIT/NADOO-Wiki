@@ -58,24 +58,29 @@ Nun ist es Zeit, Deine App zu erstellen! Hier sind die grundlegenden Schritte:
 2. Öffne ein Terminal und navigiere zum geklonten Repository.
 
 3. Erstelle eine neue Briefcase-App:
-   ```
-   briefcase new
-   ```
-   Folge den Anweisungen und verwende den Namen Deiner App.
+
+```plain
+briefcase new
+```
+
+Folge den Anweisungen und verwende den Namen Deiner App.
 
 4. Öffne das Projekt in Visual Studio Code:
-   ```
-   code .
-   ```
+
+```bash
+code .
+```
 
 5. Navigiere zur `app.py`-Datei in Deinem Projekt und beginne mit der Implementierung Deiner App-Logik.
 
 6. Teste Deine App regelmäßig mit:
+
    ```
    briefcase dev
    ```
 
 7. Wenn Du mit Deiner App zufrieden bist, committe und pushe Deine Änderungen zurück zu GitHub:
+
    ```
    git add .
    git commit -m "Erste Version meiner App"
