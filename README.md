@@ -65,6 +65,8 @@ Herzlich willkommen zu Deinem Einstieg in die IT-Karriere bei [Christoph Backhau
 
 ###### [3.1.4 Issues](docs/3/1/4/README.md)
 
+###### [3.1.4.1 Issue Erstellungs Guide](docs/3/1/4/1/README.md)
+
 ###### [3.1.5 GitHub Actions](docs/3/1/5/README.md)
 
 ###### [3.1.6 GitHub Notifications](docs/3/1/6/README.md)
