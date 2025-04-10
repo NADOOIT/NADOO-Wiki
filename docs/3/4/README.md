@@ -1,43 +1,22 @@
-# 3.4 Issues
+# 3.4 Vorbereitung für Briefcase & Toga
 
-Ein Issue beschreibt eine offene Aufgabe oder ein Problem in einem Projekt. Es dient zur Nachverfolgung und Verwaltung von Bugs, Feature-Anfragen oder Verbesserungen.
+Herzlich Willkommen zu den Briefcase & Toga Tutorials!
 
----
-
-## Definition
-
-- Was ist ein Issue?  
-Eine Meldung, die beschreibt, was geändert, behoben oder hinzugefügt werden sollte.
-
-## Inhalt
-
-- Was wird in einem Issue verwaltet?  
-Beschreibung, Diskussion und Dokumentation des Problems oder Vorschlags, einschließlich relevanter Details wie Fehlermeldungen, Screenshots und Code-Beispiele.
-
-## Historie
-
-- Wie entsteht die Historie?  
-Jede Aktualisierung oder Statusänderung (z. B. "Offen" zu "Geschlossen") wird protokolliert und ist jederzeit nachvollziehbar.
+In diesem Wiki-Artikel bereiten wir Sie auf die Tutorials vor, in denen Sie lernen, wie Sie mit **Briefcase** und **Toga** plattformübergreifende Anwendungen in Python entwickeln.  
+Bevor es losgeht, zeigen wir Ihnen, wie Sie Python 3.11 mithilfe von **uv** installieren und eine virtuelle Umgebung einrichten – ein Schritt, der in den offiziellen Tutorials ebenfalls vorkommt. Wir haben diesen Ansatz gewählt, weil er häufig auftretende Probleme vermeidet.
 
 ---
 
-## Zweck
+## 📋 Vorbereitung: Python 3.11 & virtuelle Umgebung
 
-- Warum Issues verwenden?  
-Issues helfen bei der systematischen Nachverfolgung von Aufgaben, der Kommunikation im Team und der Priorisierung anstehender Arbeiten.
+**Hinweis:**  
+Die offiziellen Tutorials führen ebenfalls die Installation von Python und das Anlegen einer virtuellen Umgebung durch. Um wiederkehrende Fehler zu vermeiden, empfehlen wir die Installation über **uv** und die Nutzung unserer getesteten Version **3.11**.
 
----
+### 1. Python 3.11 mit uv installieren
 
-## Vorteile von Issues
+Öffnen Sie Ihr Terminal in Visual Studio Code (über _View > Terminal_ oder `Ctrl+``).
 
-1. **Transparenz:** Alle Aufgaben sind sichtbar und klar dokumentiert.  
-2. **Nachverfolgung:** Probleme und Fortschritte lassen sich leicht verfolgen.  
-3. **Team-Kommunikation:** Diskussionen finden gebündelt an einem Ort statt.  
-4. **Priorisierung:** Aufgaben können nach Dringlichkeit sortiert und geplant werden.  
-5. **Effizienz:** Bessere Organisation von Aufgaben führt zu schnellem Problemlösen.
+**uv installieren:**
 
----
-
-| |
-| --- |
-| [Weiter](/docs/3/5/README.md) |
+```bash
+# macOS und Linux
