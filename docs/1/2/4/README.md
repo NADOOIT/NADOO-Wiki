@@ -2,8 +2,7 @@
 
 | |
 | :--- |
-| Von den Handelkammern gibt es unterschiedliche Vorgaben und Vorlagen zu den Zeitnachweisen. Anbei findest Du entsprechende Beispiele |
-
+| Von den Handelskammern gibt es unterschiedliche Vorgaben und Vorlagen zu den Zeitnachweisen. Anbei findest Du entsprechende Beispiele |
 ---
 
 ## Ausbildungsnachweis (täglich)
