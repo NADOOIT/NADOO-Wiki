@@ -14,7 +14,7 @@
 
 |  | Betriebliche Tätigkeiten, Unterweisungen, betrieblicher Unterricht, sonstige Schulungen, Themen des Berufsschulunterrichts | *Stunden* |
 | :--- | :--- | :--- |
-| Montag | Prüfungstraining Projekt- und Qualitätsmangement (PM/QM) | 8 |
+| Montag | Prüfungstraining Projekt- und Qualitätsmanagement (PM/QM) | 8 |
 | Dienstag | Grundlagen OOP, Klassendiagramm, Nutzwertanalyse, OSI-Modell | 8 |
 | Mittwoch | Vergleich AO2020 und AO 2025 – neuer Prüfungskatalog, Übungsaufgaben zur Finanzierungsberechnung, Ökonomie und Ökologie | 8 |
 | Donnerstag | Leasing und Kaufvertrag, Übungsaufgaben | 8 |
