@@ -42,6 +42,8 @@ Herzlich willkommen zu Deinem Einstieg in die IT-Karriere bei [Christoph Backhau
 
 #### [1.2.3 Beispiele für Zeitnachweise](docs/1/2/3/README.md)
 
+#### [1.2.4 Beispiele für Ausbildungsnachweise](docs/1/2/4/README.md)
+
 #### [1.3 Jobrotation & Weiterbildung](docs/1/3/README.md)
 
 #### [1.4 Verhaltensregeln und Umgang miteinander](docs/1/4/README.md)
@@ -236,7 +238,7 @@ Melde Dich bitte bei Krankheit bis spätestens 11:00 Uhr – sowohl direkt an Ch
 
 ### 13. Arbeitszeiten
 
-Unsere täglichen [Meetings](docs/2/README.md) und festgelegten [Ruhezeiten](docs/1/5/README.md) (mindestens 11 Stunden zwischen den Arbeitstagen) sind **verbindlich einzuhalten.** 
+Unsere täglichen [Meetings](docs/2/README.md) und festgelegten [Ruhezeiten](docs/1/5/README.md) (mindestens 11 Stunden zwischen den Arbeitstagen) sind **verbindlich einzuhalten.**
 Die maximale [Arbeitszeit](docs/1/5/README.md) endet um 23:00 Uhr.
 
 ---
