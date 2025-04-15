@@ -1,5 +1,11 @@
 # Willkommen
 
+| |
+|:---:|
+| ![NADOO-IT](images/nadooit.png) |
+
+---
+
 Herzlich willkommen zu Deinem Einstieg in die IT-Karriere bei [Christoph Backhaus IT](https://wirrettendeinezeit.de).  
 
 - Wir freuen uns 😊, Dich (you) auf Deinem Weg in die Welt der Anwendungsentwicklung und die Zukunft der IT 🍀 begleiten zu dürfen 🙏.
