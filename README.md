@@ -188,7 +188,7 @@ Herzlich willkommen zu Deinem Einstieg in die IT-Karriere bei [Christoph Backhau
 
 #### [6.1 Zeitmanagement](docs/6/1/README.md)
 
-#### 6.2 Projektmanagement
+#### [6.2 Projektmanagement](docs/6/2/README.md)
 
 #### 6.3 Scrum
 
