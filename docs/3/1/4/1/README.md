@@ -2,7 +2,7 @@
 
 ## Empfohlene GitHub Labels für NADOO-Projekte
 
-Um Issues im Projekt übersichtlich zu strukturieren, empfehlen wir die Verwendung folgender drei Labels:
+Um Issues im Projekt übersichtlich zu strukturieren, empfehlen wir als Beispiel die Verwendung folgender Labels:
 
 ### ✅ Empfohlene Labels
 
