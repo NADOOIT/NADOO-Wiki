@@ -57,8 +57,7 @@ Wenn Sie auf ‚Preview‘ klicken, sehen Sie eine Vorschau, wie das Issue nach 
 ![8](https://github.com/user-attachments/assets/4ac0c367-bd34-4510-9247-a6acb3ae837a)
 
 
-**GitHub Issue Benachrichtungen per Email**
-
+**GitHub Issue Benachrichtigungen per Email**
 Sie haben die Möglichkeit, allen Issues oder spezifischen Issues zu folgen. Jedes Mal, wenn eine Änderung vorgenommen wird oder ein neues Issue erstellt wird, erhalten Sie eine E-Mail-Benachrichtigung.
 
 Um alle Aktivitäten zu verfolgen, klicken Sie auf ‚Watch‘ und dann auf ‚All Activity‘.
