@@ -16,6 +16,8 @@ Um Issues im Projekt übersichtlich zu strukturieren, empfehlen wir die Verwendu
 
 ## 🛠️ Labels erstellen – einfache Anleitung
 
+![GitHub Labels](../../../../../images/github_label.png)
+
 1. **Öffne dein Repository auf GitHub**  
 Navigiere zur Startseite des Projekts (z. B. [https://github.com/DeinUsername/NADOO-Wiki](https://github.com/DeinUsername/NADOO-Wiki)).
 
