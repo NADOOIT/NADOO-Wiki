@@ -36,3 +36,22 @@ Durch die nachfolgende Unterschrift wird die Richtigkeit und Vollständigkeit de
 - [ ] Ergänung um weitere Beispiele
 
 ---
+
+## Issue-Erwähnung (Beispiel)
+
+Issue-Nummern und Beschreibungen können im Berichtsheft verwendet werden.
+
+|  | Betriebliche Tätigkeiten, Unterweisungen, betrieblicher Unterricht, sonstige Schulungen, Themen des Berufsschulunterrichts | *Stunden* |
+| :--- | :--- | :--- |
+| Montag | Wiki-Eintrag ergänzt. (#186) | 8 |
+
+---
+
+## Umgang mit Unternehmensdaten (Beispiel)
+
+Kundenunternehmensdaten dürfen nicht genannt werden und müssen pseudonymisiert werden.
+
+|  | Betriebliche Tätigkeiten, Unterweisungen, betrieblicher Unterricht, sonstige Schulungen, Themen des Berufsschulunterrichts | *Stunden* |
+| :--- | :--- | :--- |
+| Montag | Besprechung mit potenziellem Kunden. | 8 |
+
