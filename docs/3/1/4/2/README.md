@@ -27,8 +27,7 @@ Zwar habe ich den „Issue First“-Ansatz schon oft erwähnt und die Arbeit im 
 
 ![2](https://github.com/user-attachments/assets/1b512653-d60b-4bb8-a7e3-c0d0d045e347)
 
-**4. Nun klicken Sie im Menü auf ‚Issues**
-
+**4. Nun klicken Sie im Menü auf ‚Issues‘**
 ![3](https://github.com/user-attachments/assets/7936136f-bb54-4708-82e6-154e006a4e4a)
 
 **5. Nun klicken Sie im Menü auf , New Issue**
