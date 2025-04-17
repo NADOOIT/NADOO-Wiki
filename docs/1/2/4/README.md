@@ -2,7 +2,7 @@
 
 | |
 | :--- |
-| Von den Handelskammern gibt es unterschiedliche Vorgaben und Vorlagen zu den Ausbildungsnachweisen. Anbei findest Du entsprechende Beispiele |
+| Von den Handelskammern gibt es unterschiedliche Vorgaben und Vorlagen zu den Ausbildungsnachweisen. Anbei findest Du entsprechende Beispiele. |
 
 ---
 
@@ -21,7 +21,7 @@
 | Donnerstag | Leasing und Kaufvertrag, Übungsaufgaben | 8 |
 | Freitag | Feiertag | 0 |
 
-Durch die nachfolgende Unterschrift wird die Richtigkeit und Vollständigkeit der obigen Angaben bestätigt.
+Durch die nachfolgende Unterschrift wird die Richtigkeit und Vollständigkeit der Angaben bestätigt.
 
 | 18.04.2025 | | 19.04.2025 | |
 | :--- | :--- | :--- | :--- |
@@ -33,7 +33,7 @@ Durch die nachfolgende Unterschrift wird die Richtigkeit und Vollständigkeit de
 
 > todo
 
-- [ ] Ergänung um weitere Beispiele
+- [ ] Ergänzung um weitere Beispiele
 
 ---
 
