@@ -17,5 +17,21 @@ Sie gehört zu den beliebtesten und leistungsfähigsten IDEs im Bereich der Java
 - **Version Control Integration**: Git, GitHub, SVN und weitere VCS sind nahtlos integriert.
 - **Framework-Unterstützung**: Die Ultimate Edition bietet tiefe Integration für Frameworks wie Spring Boot, Java EE, Jakarta EE, JavaFX, usw.
 - **Erweiterbarkeit**: Riesiger Plugin-Marktplatz für zusätzliche Funktionen – von Themes bis hin zu Support für andere Programmiersprachen.
+- **Alternative: Visual Studio Code**: Für Nutzer, die eine einzige, leichtgewichtige IDE für mehrere Sprachen verwenden möchten, bietet sich auch Visual Studio Code an. Mit passenden Erweiterungen wie „Language Support for Java™ by Red Hat“ oder „Debugger for Java“ kann VS Code eine gute Alternative sein – besonders für kleinere Java-Projekte oder wenn mehrere Sprachen parallel verwendet werden.
 
 ---
+
+## Vergleich: IntelliJ IDEA vs. Visual Studio Code für Java-Projekte
+
+| Funktion / Merkmal                      | IntelliJ IDEA                                | Visual Studio Code                          |
+|----------------------------------------|----------------------------------------------|---------------------------------------------|
+| **Primärer Fokus**                     | Java & JVM-Sprachen                          | Viele Sprachen, inkl. Java via Plugins      |
+| **Editionen**                          | Community & Ultimate                         | Eine Version, Erweiterbar über Extensions   |
+| **Code-Vervollständigung**             | Sehr leistungsfähig und kontextbasiert       | Gut mit Erweiterungen                       |
+| **Refactoring**                        | Umfangreich & sicher                         | Grundlegend (mit Plugins eingeschränkt)     |
+| **Debugger**                           | Integriert mit umfassenden Features          | Erweiterbar über Debugger-Plugin            |
+| **Build-Tool-Integration**             | Vollständig integriert (Maven, Gradle etc.)  | Unterstützt mit Extensions                  |
+| **Framework-Support (Spring, etc.)**   | Stark (v.a. in Ultimate Edition)             | Eingeschränkt / über Plugins                |
+| **Performance**                        | Höherer Ressourcenbedarf                     | Leichtgewichtig                             |
+| **Erweiterbarkeit**                    | Großes Plugin-Ökosystem                      | Riesiger Extension-Marktplatz               |
+| **Geeignet für**                       | Große, komplexe Java-Projekte                | Leichte bis mittlere Projekte / Multisprache |
