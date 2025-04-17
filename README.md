@@ -78,7 +78,7 @@ Herzlich willkommen zu Deinem Einstieg in die IT-Karriere bei [Christoph Backhau
 
 #### [3. Technische Grundlagen & Praktische Anwendung](docs/3/README.md)
 
-##### [3.1 GitHub](docs/3/1/README.md)
+##### [3.1 GitHub](docs/3/1/README.md) - die Versionsverwaltung bei NADOO-IT
 
 ###### [3.1.1 Repository](docs/3/1/1/README.md)
 
@@ -104,7 +104,7 @@ Herzlich willkommen zu Deinem Einstieg in die IT-Karriere bei [Christoph Backhau
 
 ---
 
-##### [3.2 Visual Studio Code](docs/3/2/README.md)
+##### [3.2 Visual Studio Code](docs/3/2/README.md) - integrierte Entwicklungsumgebung (IDE)
 
 ###### [3.2.1 Installation & Einrichtung](docs/3/2/1/README.md)
 
@@ -118,27 +118,13 @@ Herzlich willkommen zu Deinem Einstieg in die IT-Karriere bei [Christoph Backhau
 
 ---
 
-##### [3.3 Python](docs/3/3/README.md)
+#### [3.3 IntelliJ IDEA](docs/3/3/README.md) - integrierte Entwicklungsumgebung (IDE) für die Programmiersprache Java
 
-###### [3.3.1 Debugging](docs/3/3/1/README.md)
-
-###### [3.3.2 Praktische Umsetzung mit NADOO-Launchpad](docs/3/3/2/README.md)
-
-###### [3.3.3 Speech‐to‐Text‐Feature im NADOO Launchpad](docs/3/3/3/README.md)
-
-##### [3.4 Briefcase & Toga](docs/3/4/README.md)
-
-###### [3.4.1 Debugging](docs/3/4/1/README.md)
+##### [3.3.1 Installation & Einrichtung](docs/3/3/1/README.md)
 
 ---
 
-##### 3.5 Flutter
-
----
-
-##### [3.6 Java](docs/3/6/README.md)
-
-###### 3.6.1 JavaFX
+##### [3.4 Java](docs/3/4/README.md) - Programmiersprache
 
 ---
 
@@ -153,6 +139,26 @@ Herzlich willkommen zu Deinem Einstieg in die IT-Karriere bei [Christoph Backhau
 ##### [3.11 Terminal Grundlagen](docs/3/11/README.md)
 
 ##### [3.12 Mögliche interessante Orte zum Arbeiten und Lernen](docs/3/12/README.md)
+
+---
+
+<details>
+<summary>3.13 Python - Programmiersprache (Archiv)</summary>
+
+- [3.13.1 Debugging](docs/3/13/1/README.md)  
+- [3.13.2 Praktische Umsetzung mit NADOO-Launchpad](docs/3/13/2/README.md)  
+- [3.13.3 Speech‐to‐Text‐Feature im NADOO Launchpad](docs/3/13/3/README.md)  
+
+</details>
+
+---
+
+<details>
+<summary>3.14 Briefcase & Toga - Python-Framework für plattformübergreifende Apps (Archiv)</summary>
+
+- [3.14.1 Debugging](docs/3/14/1/README.md)  
+
+</details>
 
 ---
 

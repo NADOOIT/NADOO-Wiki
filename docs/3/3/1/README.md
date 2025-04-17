@@ -1,222 +1,134 @@
-# 3.1.1 Debugging in Python
+# 3.3.1 IntelliJ IDEA installieren
 
-Debugging ist ein wesentlicher Teil des Programmierprozesses. In diesem Abschnitt werden wir verschiedene Debugging-Techniken anhand eines fehlerhaften Skripts erlernen.
+## **Download:**
 
-## 1. Fehlerhaftes Beispielskript
+Gehe zur offiziellen Seite von JetBrains und lade den Installer herunter:
+**Download-Link:** [IntelliJ IDEA](https://www.jetbrains.com/idea/download/?section=windows)
 
-Kopieren Sie den folgenden Code in eine Datei namens `buggy_script.py`:
+> Verwende die „Community Edition“, wenn du kostenlos starten möchtest. Die „Ultimate Edition“ ist kostenpflichtig!
 
-```python
-# Dies ist ein Beispielskript mit verschiedenen Bugs und Grundkonzepten der Python-Programmierung
+### **Installation:**
 
-# Variablen: Behälter für Daten
-zahl = 10
-kommazahl = 3.14
-text = "Hallo, Welt!"
-liste = [1, 2, 3, 4, 5]
+1. **Installer starten** (Doppelklick auf die heruntergeladene `.exe`-Datei)
+2. Wähle die gewünschte Sprache und bestätige.
+3. **Zielordner ändern:**
+   - Ändere den Installationspfad auf:  
+     `C:\Programmierung\IntelliJ`
+4. Optional: Aktiviere Desktop-Shortcut oder Dateizuordnungen.
+5. Installation starten und warten, bis sie abgeschlossen ist.
+6. IntelliJ starten und ggf. JetBrains-Konto überspringen oder einloggen.
 
-# Funktionen: Wiederverwendbare Codeblöcke
-# Bug 1: Fehlender Doppelpunkt nach der Funktionsdefinition
-def addiere(a, b)
-    # Bug 2: Falsche Einrückung
-  return a + b
+---
 
-# Kontrollstrukturen: Steuern den Programmablauf
-# If-Anweisung: Bedingte Ausführung von Code
-# Bug 3: Falscher Vergleichsoperator
-if zahl = 10:
-    print("Die Zahl ist 10")
-else:
-    print("Die Zahl ist nicht 10")
+## 2. Java 21 (JDK) installieren
 
-# For-Schleife: Iteration über eine Sequenz
-# Bug 4: Fehlender Doppelpunkt nach der for-Schleife
-# Bug 5: Verwendung einer nicht definierten Variable
-for i in range(5)
-    print(x)
+### **Download:**
 
-# While-Schleife: Wiederholung, solange eine Bedingung wahr ist
-# Bug 6: Endlosschleife
-while True:
-    print("Dies ist eine Endlosschleife")
+Lade die **JDK 21** Version (z. B. von Oracle, Eclipse Temurin oder OpenJDK) als **Installer**:
+**Download-Link:** [`<JDK 21>`](https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html)
 
-# Klassen: Blaupausen für Objekte
-class Auto:
-    # Bug 7: Fehlender self-Parameter
-    def __init__(marke, modell):
-        self.marke = marke
-        self.modell = modell
-    
-    # Bug 8: Falsche Methodendefinition
-    def fahren()
-        print(f"{self.marke} {self.modell} fährt.")
+![Image](https://github.com/user-attachments/assets/18fcb1bc-df68-4b65-a871-263612fefc1f)
 
-# Fehlerbehandlung: Umgang mit Ausnahmen
-# Bug 9: Falsche Ausnahmebehandlung
-try:
-    resultat = 10 / 0
-except:
-    print("Ein Fehler ist aufgetreten")
-finally
-    print("Dies wird immer ausgeführt")
+### **Installation:**
 
-# Hauptprogramm
-if __name__ == "__main__":
-    # Bug 10: Falscher Funktionsaufruf
-    ergebnis = addiere(5)
-    print(f"Das Ergebnis ist: {ergebnis}")
+1. Starte den **JDK 21 Installer**.
+2. Wähle beim Setup die Option „Benutzerdefinierte Installation“ (Custom).
+3. **Installationsverzeichnis anpassen:**
+   - Gib folgendes Zielverzeichnis an:  
+     `C:\Programmierung\Java\JDK21`
 
-    # Objekterstellung und -verwendung
-    mein_auto = Auto("VW", "Golf")
-    mein_auto.fahren()
+![Image](https://github.com/user-attachments/assets/4dfcfb7d-ba93-4f10-aa37-af399ac73dc4)
 
-print("Programm beendet")
-```
+4. Weiterklicken und Installation abschließen.
 
-## 2. Fehleranalyse
+> Nach der Installation kannst du in IntelliJ unter **Project Structure > SDKs** den JDK-Pfad manuell hinzufügen:  
+`C:\Programmierung\Java\JDK21`
 
-Führen Sie das Skript aus und analysieren Sie die Fehlermeldungen:
+![Image](https://github.com/user-attachments/assets/e9a31019-dafe-4f7e-a349-b746ba4a03aa) ![Image](https://github.com/user-attachments/assets/bcfe79c7-b1c8-4a79-8c35-eb4900fffa1c)
 
-```bash
-python buggy_script.py
-```
+---
 
-Sie werden verschiedene Fehlermeldungen sehen. Lassen Sie uns diese analysieren:
+## 3. Maven manuell installieren
 
-1. `SyntaxError`: Fehlender Doppelpunkt nach der Funktionsdefinition (Zeile 11)
-2. `IndentationError`: Falsche Einrückung in der Funktion (Zeile 13)
-3. `SyntaxError`: Falscher Vergleichsoperator (= statt ==) (Zeile 18)
-4. `SyntaxError`: Fehlender Doppelpunkt nach der for-Schleife (Zeile 25)
-5. `NameError`: Verwendung einer nicht definierten Variable x (Zeile 26)
-6. Endlosschleife (kein Syntaxfehler, aber logischer Fehler) (Zeile 30-31)
-7. `TypeError`: Fehlender self-Parameter in der Klassenmethode (Zeile 36)
-8. `SyntaxError`: Fehlender Doppelpunkt nach der Methodendefinition (Zeile 41)
-9. `SyntaxError`: Fehlender Doppelpunkt nach finally (Zeile 49)
-10. `TypeError`: Falscher Funktionsaufruf (fehlender Parameter) (Zeile 54)
+### **Download:**
+Lade das **ZIP-Archiv von Apache Maven** herunter (nicht den Installer):
+**Download-Link:** [`<Maven>`](https://maven.apache.org/download.cgi)
 
-## 3. Debugging-Techniken
+![Image](https://github.com/user-attachments/assets/fe4f776f-16f6-4ba3-8619-f4a77aa182e6)
 
-### 3.1 Print-Debugging
+### **Installation (manuell, aber ohne Kommandozeile):**
 
-Print-Debugging ist die einfachste Methode zur Fehlersuche. Dabei fügen Sie print-Anweisungen in Ihren Code ein, um Variablenwerte oder den Programmfluss zu überprüfen:
+1. Entpacke das ZIP-Archiv mit einem Rechtsklick → „Alle extrahieren“.
+2. Wähle als Ziel:  
+   `C:\Programmierung\Java`
+3. Benenne den Extrahierten Ordner in `Maven` um
 
-```python
-print(f"Der Wert von zahl ist: {zahl}")
-```
+![Image](https://github.com/user-attachments/assets/d7238d05-b300-41b7-9cab-d2adc19f03c8)
 
-Diese Methode ist besonders nützlich für schnelle Überprüfungen, kann aber bei größeren Programmen unübersichtlich werden.
+4. Achte darauf, dass die Struktur so aussieht:  
+   `C:\Programmierung\Java\Maven\bin\mvn.cmd`
 
-### 3.2 Logging
+### **Einbindung in IntelliJ IDEA:**
 
-Logging ist eine fortgeschrittenere Form des Print-Debuggings. Es ermöglicht eine strukturiertere Ausgabe und kann leicht aktiviert oder deaktiviert werden:
+1. Öffne IntelliJ IDEA.
+2. Gehe zu **File > Settings > Build, Execution, Deployment > Build Tools > Maven**
+![Image](https://github.com/user-attachments/assets/c1acc247-01aa-45b4-a7ae-8306964d8699)
 
-```python
-import logging
+![Image](https://github.com/user-attachments/assets/4561e3b1-6089-42ff-b22e-de1a764c4dab)
 
-logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s')
-logging.debug(f"Der Wert von zahl ist: {zahl}")
-```
+3. Unter „Maven home directory“:
+   - Wähle:  
+     `C:\Programmierung\Java\Maven`
+4. Bestätige mit OK.
 
-Logging bietet verschiedene Ausgabeebenen (DEBUG, INFO, WARNING, ERROR, CRITICAL) und kann in Dateien schreiben, was es ideal für größere Projekte macht.
+---
 
-### 3.3 Verwendung des Python Debuggers in VS Code
+## 4. JavaFX Scene Builder mit Windows Installer in `/Programmierung/Java/Scene Builder` installieren
 
-Der integrierte Debugger in VS Code ist ein mächtiges Werkzeug für die Fehlersuche:
+### **Download:**
+Besuche die offizielle Seite von GluonHQ und lade den Scene Builder herunter:  
+**Download-Link:** [Scene Builder](https://gluonhq.com/products/scene-builder/#download)
 
-1. Setzen Sie Breakpoints, indem Sie links neben die Zeilennummern in VS Code klicken.
-2. Klicken Sie auf "Run and Debug" in der Seitenleiste von VS Code.
-3. Wählen Sie "Python File" aus dem Dropdown-Menü.
-4. Klicken Sie auf den grünen Play-Button oder drücken Sie F5.
+![Image](https://github.com/user-attachments/assets/8a60148c-96e5-4c40-94d8-215cac09099b)
 
-Mit dem Debugger können Sie:
+> Wähle die **Windows Installer (.msi)** Datei aus.
 
-- Variablenwerte inspizieren
-- Schrittweise durch den Code gehen (Step Over, Step Into, Step Out)
-- Die Ausführung fortsetzen oder abbrechen
+---
 
-Dies ermöglicht eine detaillierte Analyse des Programmablaufs und ist besonders nützlich bei komplexen Fehlern.
+### **Installation mit benutzerdefiniertem Pfad (via Eingabeaufforderung):**
 
-## 4. Fehlerbehebung
+Da der offizielle Installer standardmäßig in `C:\Program Files` installiert und keine Pfadangabe im Assistenten erlaubt, kannst du stattdessen folgenden Weg nutzen:
 
-Hier ist der korrigierte Code:
+1. Öffne die **Eingabeaufforderung mit Administratorrechten**  
+   (z. B. „Eingabeaufforderung (Administrator)“ oder „Windows Terminal (Admin)“).
+2. Wechsle in das Verzeichnis, in dem sich die `.msi`-Datei befindet, z. B.:
 
-```python
-def addiere(a, b):
-    return a + b
+   ```bat
+   cd C:\Users\DeinName\Downloads
+   ```
 
-if zahl == 10:
-    print("Die Zahl ist 10")
-else:
-    print("Die Zahl ist nicht 10")
+3. Starte die Installation mit dem gewünschten Zielpfad:
 
-for i in range(5):
-    print(i)
+   ```bat
+   msiexec /i SceneBuilder-23.0.1.msi INSTALLDIR="C:\Programmierung\Java\Scene Builder"
+   ```
 
-counter = 0
-while counter < 5:
-    print(f"Schleifendurchlauf {counter}")
-    counter += 1
+   > Passe den Dateinamen an deine heruntergeladene Version an.
 
-class Auto:
-    def __init__(self, marke, modell):
-        self.marke = marke
-        self.modell = modell
-    
-    def fahren(self):
-        print(f"{self.marke} {self.modell} fährt.")
+![Image](https://github.com/user-attachments/assets/8ed5db9b-33b2-40e6-bbce-cca14bf3d8ff)
 
-try:
-    resultat = 10 / 0
-except ZeroDivisionError:
-    print("Division durch Null ist nicht erlaubt")
-finally:
-    print("Dies wird immer ausgeführt")
+---
 
-if __name__ == "__main__":
-    ergebnis = addiere(5, 3)
-    print(f"Das Ergebnis ist: {ergebnis}")
+### **Integration in IntelliJ IDEA:**
 
-    mein_auto = Auto("VW", "Golf")
-    mein_auto.fahren()
+1. Öffne IntelliJ IDEA.
+2. Gehe zu:  
+   **File > Settings > Languages & Frameworks > JavaFX**
+3. Unter **Path to SceneBuilder**:  
+   Klicke auf das Verzeichnis-Symbol und wähle:
 
-print("Programm erfolgreich beendet!")
-```
+   C:\Programmierung\Java\Scene Builder\SceneBuilder.exe
 
-## 5. Debugging-Tipps
+![Image](https://github.com/user-attachments/assets/6ff9f471-c689-43c1-9dba-328e51b03195)
 
-1. Lesen Sie Fehlermeldungen sorgfältig. Sie enthalten oft wertvolle Informationen über den Ort und die Art des Problems.
-2. Verwenden Sie print-Anweisungen oder Logging, um den Zustand von Variablen an kritischen Stellen zu überprüfen.
-3. Nutzen Sie den VS Code Debugger für komplexere Probleme und um den Programmablauf Schritt für Schritt zu verfolgen.
-4. Testen Sie Ihren Code regelmäßig in kleinen Abschnitten, um Fehler frühzeitig zu erkennen.
-5. Kommentieren Sie Ihren Code ausführlich, um die Lesbarkeit und das Verständnis zu verbessern.
-
-Debugging ist eine Fähigkeit, die mit der Zeit und Übung verbessert wird. Je mehr Sie debuggen, desto besser werden Sie darin, Fehler schnell zu identifizieren und zu beheben.
-
-## 6. Weiterführende Ressourcen
-
-### Deutsche Tutorials
-
-- 🔗 [Python Debugging: Eine Einführung](https://www.python-lernen.de/debugging-in-python.htm)
-- 🔗 [Debugging in Python mit pdb](https://www.digitalocean.com/community/tutorials/how-to-use-the-python-debugger-de)
-
-### Englische Tutorials
-
-- 🔗 [Real Python: Python Debugging With Pdb](https://realpython.com/python-debugging-pdb/)
-- 🔗 [Visual Studio Code Python Debugging](https://code.visualstudio.com/docs/python/debugging)
-
-### Video-Tutorials
-
-- 🔗 [Python Debugging in VS Code (Deutsch)](https://www.youtube.com/watch?v=w8QHoVam1-I)
-- 🔗 [Python Debugging Techniques (Englisch)](https://www.youtube.com/watch?v=_aCGeGvVoLk)
-
-Diese Ressourcen bieten zusätzliche Einblicke und praktische Übungen, um Ihre Debugging-Fähigkeiten zu verbessern. Denken Sie daran, dass effektives Debugging eine Kombination aus Wissen, Erfahrung und Geduld erfordert. Mit der Zeit werden Sie immer besser darin, Fehler zu finden und zu beheben.
-
-Citations:
-[1] <https://python.plainenglish.io/popular-and-easy-debugging-techniques-for-python-applications-79d6b8dd2999?gi=08e89f39b1d5>
-[2] <https://databasecamp.de/en/python-coding/debugging-en>
-[3] <https://apidog.com/blog/how-to-debug-in-python/>
-[4] <https://www.linkedin.com/advice/0/what-some-common-debugging-tools-techniques-1f>
-[5] <https://realpython.com/python-debugging-pdb/>
-[6] <https://www.skillreactor.io/blog/how-to-debug-python-in-vscode/>
-[7] <https://www.fullstackpython.com/debugging.html>
-[8] <https://www.freecodecamp.org/news/python-debugging-handbook/>
+4. Bestätige mit **OK**.

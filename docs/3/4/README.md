@@ -1,22 +1,15 @@
-# 3.4 Vorbereitung für Briefcase & Toga
+# 3.6 Java
 
-Herzlich Willkommen zu den Briefcase & Toga Tutorials!
+Java ist eine weitverbreitete, objektorientierte Programmiersprache, die erstmals 1995 von Sun Microsystems veröffentlicht wurde. Dieser Artikel bietet einen kurzen Überblick über die Entstehung und die Grundprinzipien von Java.
 
-In diesem Wiki-Artikel bereiten wir Sie auf die Tutorials vor, in denen Sie lernen, wie Sie mit **Briefcase** und **Toga** plattformübergreifende Anwendungen in Python entwickeln.  
-Bevor es losgeht, zeigen wir Ihnen, wie Sie Python 3.11 mithilfe von **uv** installieren und eine virtuelle Umgebung einrichten – ein Schritt, der in den offiziellen Tutorials ebenfalls vorkommt. Wir haben diesen Ansatz gewählt, weil er häufig auftretende Probleme vermeidet.
+## Ursprünge und Entwicklung
 
----
+Java wurde entwickelt, um eine plattformunabhängige Programmiersprache zu schaffen, die in verschiedenen Anwendungsbereichen einsetzbar ist. Dank der Java Virtual Machine (JVM) können Java-Anwendungen auf unterschiedlichen Systemen ausgeführt werden, ohne dass der Code neu kompiliert werden muss.
 
-## 📋 Vorbereitung: Python 3.11 & virtuelle Umgebung
+## Ziele und Vorteile
 
-**Hinweis:**  
-Die offiziellen Tutorials führen ebenfalls die Installation von Python und das Anlegen einer virtuellen Umgebung durch. Um wiederkehrende Fehler zu vermeiden, empfehlen wir die Installation über **uv** und die Nutzung unserer getesteten Version **3.11**.
+- **Portabilität:** Einmal geschriebener Code läuft nahezu überall.
+- **Sicherheit:** Java bietet umfangreiche Sicherheitsfunktionen.
+- **Modularität:** Die Sprache unterstützt objektorientierte Konzepte, die zu wartbaren und erweiterbaren Programmen führen.
 
-### 1. Python 3.11 mit uv installieren
-
-Öffnen Sie Ihr Terminal in Visual Studio Code (über _View > Terminal_ oder `Ctrl+``).
-
-**uv installieren:**
-
-```bash
-# macOS und Linux
+Dieser Artikel dient als Auftakt zu weiterführenden Themen rund um Java, welche in den folgenden Abschnitten detailliert behandelt werden.
