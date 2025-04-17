@@ -23,7 +23,7 @@ Herzlich willkommen zu Deinem Einstieg in die IT-Karriere bei [Christoph Backhau
 
 | |
 | :--- |
-| **WICHTIG**: Bevor Du weiter liest, um mit dem Wiki zu starten! |
+| **WICHTIG**: Bevor Du weiterliest, um mit dem Wiki zu starten! |
 | 1. Sende eine eMail mit Deinem GitHub-Benutzernamen an <christoph.backhaus@nadooit.de> |
 | 2. Du erhältst anschließend zeitnah eine eMail, in welcher Du aktiv Deine Einladung zu diesem öffentlichen Repository bestätigst. |
 | 3. Du kannst dann mit dem Wiki starten und Deine ersten Schritte bei der NADOO-IT gehen 🚀 |
