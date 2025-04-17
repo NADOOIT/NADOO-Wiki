@@ -141,21 +141,23 @@ Herzlich willkommen zu Deinem Einstieg in die IT-Karriere bei [Christoph Backhau
 ##### [3.12 Mögliche interessante Orte zum Arbeiten und Lernen](docs/3/12/README.md)
 
 ---
+<details>
+<summary>##### [3.13 Python](docs/3/13/README.md) - Programmiersprache (Archiv)</summary>
 
-##### [3.13 Python](docs/3/13/README.md) - Programmiersprache (Archiv)
+- [3.13.1 Debugging](docs/3/13/1/README.md)  
+- [3.13.2 Praktische Umsetzung mit NADOO-Launchpad](docs/3/13/2/README.md)  
+- [3.13.3 Speech‐to‐Text‐Feature im NADOO Launchpad](docs/3/13/3/README.md)  
 
-###### [3.13.1 Debugging](docs/3/13/1/README.md)
-
-###### [3.13.2 Praktische Umsetzung mit NADOO-Launchpad](docs/3/13/2/README.md)
-
-###### [3.13.3 Speech‐to‐Text‐Feature im NADOO Launchpad](docs/3/13/3/README.md)
+</details>
 
 ---
 
-##### [3.14 Briefcase & Toga](docs/3/14/README.md) - Python-Framework für plattformübergreifende Apps (Archiv)
+<details>
+<summary>##### [3.14 Briefcase & Toga](docs/3/14/README.md) - Python-Framework für plattformübergreifende Apps (Archiv)</summary>
 
-###### [3.14.1 Debugging](docs/3/14/1/README.md)
+- [3.14.1 Debugging](docs/3/14/1/README.md)  
 
+</details>
 ---
 
 #### [4. Kommunikation & Zusammenarbeit](docs/4/README.md)
