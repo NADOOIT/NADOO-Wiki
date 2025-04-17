@@ -14,11 +14,11 @@ Wir fördern Dich in den folgenden Bereichen:
 
 ---
 
-## 2. Präsentationstraining
+## 2. Prüfungs-Vorbereitung und Präsentationstraining
 
-Regelmäßig präsentierst Du in unseren 11er-Meetings technische Themen. Dies stärkt Deine Fähigkeit, vor der Gruppe stotterfrei und selbstsicher zu präsentieren sowie Fragen zu beantworten.
+In unseren 11er-Meetings präsentierst Du regelmäßig technische Themen als sogenannten Trainingsbeitrag. Die Auswahl der Themen umfasst Inhalte, die für Deine anstehenden IHK-Prüfungen relevant sind. Somit bietet Dir die Übung einerseits die Chance Dein Wissen zu vertiefen und stärkt andererseits Deine Fähigkeit, vor der Gruppe stotterfrei und selbstsicher zu präsentieren sowie Fragen zu beantworten.
 
-Deine erstellten Unterlagen fliessen anschliessend in unser Wiki und in unsere mediale Präsenz ein.
+Deine erstellten Unterlagen fließen anschließend in unser Wiki und in unsere mediale Präsenz ein.
 
 ---
 
