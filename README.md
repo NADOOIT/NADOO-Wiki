@@ -118,9 +118,9 @@ Herzlich willkommen zu Deinem Einstieg in die IT-Karriere bei [Christoph Backhau
 
 ---
 
-#### [3. IntelliJ IDEA](docs/3/README.md) - IDE für Java
+#### [3.3 IntelliJ IDEA](docs/3/3/README.md) - IDE für Java
 
-##### [3.1.1 Installation & Einrichtung](docs/3/1/1/README.md)
+##### [3.3.1 Installation & Einrichtung](docs/3/3/1/README.md)
 
 ---
 
