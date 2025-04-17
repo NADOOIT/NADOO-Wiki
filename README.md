@@ -78,7 +78,7 @@ Herzlich willkommen zu Deinem Einstieg in die IT-Karriere bei [Christoph Backhau
 
 #### [3. Technische Grundlagen & Praktische Anwendung](docs/3/README.md)
 
-##### [3.1 GitHub](docs/3/1/README.md) - Versionsverwaltung
+##### [3.1 GitHub](docs/3/1/README.md) - die Versionsverwaltung bei NADOO-IT
 
 ###### [3.1.1 Repository](docs/3/1/1/README.md)
 
@@ -118,19 +118,13 @@ Herzlich willkommen zu Deinem Einstieg in die IT-Karriere bei [Christoph Backhau
 
 ---
 
-#### [3.3 IntelliJ IDEA](docs/3/3/README.md) - IDE für Java
+#### [3.3 IntelliJ IDEA](docs/3/3/README.md) - integrierte Entwicklungsumgebung (IDE) für die Programmiersprache Java
 
 ##### [3.3.1 Installation & Einrichtung](docs/3/3/1/README.md)
 
 ---
 
-##### 3.5 Flutter
-
----
-
-##### [3.6 Java](docs/3/6/README.md)
-
-###### 3.6.1 JavaFX
+##### [3.4 Java](docs/3/4/README.md) - Programmiersprache
 
 ---
 
