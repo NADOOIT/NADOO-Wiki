@@ -2,7 +2,7 @@
 
 | |
 | :--- |
-| Von den Bildungsträgern gibt es unterschiedliche Vorgaben und Vorlagen zu den Zeitnachweisen. Anbei findest Du entsprechende Beispiele |
+| Von den Bildungsträgern gibt es unterschiedliche Vorgaben und Vorlagen zu den Zeitnachweisen. Anbei findest Du entsprechende exemplarische Beispiele. Es gelten die Vorgaben des jeweiligen Bildungsträgers. |
 
 ## Zeitnachweis (monatlich)
 
@@ -19,6 +19,7 @@
 | E | = entschuldigt |  | KK | = Kind krank |
 | UE | = unentschuldigt |  | BS | = Berufsschule |
 | U | = Urlaub |  | \* | = Samstag/Sonntag |
+| F | = Feiertag (abhängig vom Bundesland) |  |  |  |
 |  |  |  |  |  |
 |  | Unterschrift/Stempel | | |  |
 
@@ -38,6 +39,6 @@ Bitte die Anwesenheitsliste immer am dritten Tag des Folgemonats an Musterinstit
 
 > todo
 
-- [ ] Ergänung um weitere Beispiele
+- [ ] Ergänzung um weitere Beispiele
 
 ---
