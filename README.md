@@ -142,7 +142,7 @@ Herzlich willkommen zu Deinem Einstieg in die IT-Karriere bei [Christoph Backhau
 
 ---
 
-##### [3.13 Python](docs/3/13/README.md)
+##### [3.13 Python](docs/3/13/README.md) - Programmiersprache (Archiv)
 
 ###### [3.13.1 Debugging](docs/3/13/1/README.md)
 
@@ -152,7 +152,7 @@ Herzlich willkommen zu Deinem Einstieg in die IT-Karriere bei [Christoph Backhau
 
 ---
 
-##### [3.14 Briefcase & Toga](docs/3/14/README.md)
+##### [3.14 Briefcase & Toga](docs/3/14/README.md) - Python-Framework für plattformübergreifende Apps (Archiv)
 
 ###### [3.14.1 Debugging](docs/3/14/1/README.md)
 
