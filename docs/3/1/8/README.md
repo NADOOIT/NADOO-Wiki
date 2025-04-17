@@ -36,8 +36,7 @@ Wenn Du deine Datei `README.md` nennst und ins Projektverzeichnis legst, wird si
 
 ## GitHub flavored Markdown
 
-GitHub hat einige Erweiterungen zu Markdown hinzugefügt, Die Dir helfen, Deine Dokumentation noch besser zu gestalten. Hier sind einige Beispiele:
-
+GitHub hat einige Erweiterungen zu Markdown hinzugefügt, die dir helfen, Deine Dokumentation noch besser zu gestalten. Hier sind einige Beispiele:
 ### `<details>` und  `<summary>`
 
 🔎 Was sind `<details>` und `<summary>`?
