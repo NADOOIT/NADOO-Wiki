@@ -2,7 +2,9 @@
 
 ## Überblick
 
-IntelliJ IDEA ist eine integrierte Entwicklungsumgebung (IDE) des Unternehmens JetBrains, die speziell für die Entwicklung von Java-Anwendungen entwickelt wurde. Sie gehört zu den beliebtesten und leistungsfähigsten IDEs im Bereich der Java-Entwicklung und bietet sowohl eine kostenlose Community Edition als auch eine kostenpflichtige Ultimate Edition mit erweiterten Funktionen.
+IntelliJ IDEA ist eine integrierte Entwicklungsumgebung (IDE) des Unternehmens JetBrains, die speziell für die Entwicklung von Java-Anwendungen entwickelt wurde.
+
+Sie gehört zu den beliebtesten und leistungsfähigsten IDEs im Bereich der Java-Entwicklung und bietet sowohl eine kostenlose Community Edition als auch eine kostenpflichtige Ultimate Edition mit erweiterten Funktionen.
 
 ---
 
