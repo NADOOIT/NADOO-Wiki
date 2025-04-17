@@ -8,7 +8,7 @@
 
 Herzlich willkommen zu Deinem Einstieg in die IT-Karriere bei [Christoph Backhaus IT](https://wirrettendeinezeit.de).  
 
-- Wir freuen uns 😊, Dich (you) auf Deinem Weg in die Welt der Anwendungsentwicklung und die Zukunft der IT 🍀 begleiten zu dürfen 🙏.
+- Wir freuen uns 😊, Dich auf Deinem Weg in die Welt der Anwendungsentwicklung und die Zukunft der IT 🍀 begleiten zu dürfen 🙏.
 
 - Das "#globalyou" oder auch "#gerneperdu" ist bei uns Programm.
 
@@ -23,12 +23,12 @@ Herzlich willkommen zu Deinem Einstieg in die IT-Karriere bei [Christoph Backhau
 
 | |
 | :--- |
-| **WICHTIG**: Bevor Du, weiter liest um mit dem Wiki zu starten! |
+| **WICHTIG**: Bevor Du weiterliest, um mit dem Wiki zu starten! |
 | 1. Sende eine eMail mit Deinem GitHub-Benutzernamen an <christoph.backhaus@nadooit.de> |
-| 2. Du erhältst anschließend zeitnah eine eMail, in welcher Du aktiv Deine Einladung zu diesem öffentlichem Repository bestägst |
+| 2. Du erhältst anschließend zeitnah eine eMail, in welcher Du aktiv Deine Einladung zu diesem öffentlichen Repository bestätigst. |
 | 3. Du kannst dann mit dem Wiki starten und Deine ersten Schritte bei der NADOO-IT gehen 🚀 |
 | 4. Sollte dabei etwas unverständlich sein, dann erstelle umgehend ein [Issue](https://github.com/NADOOIT/NADOO-Wiki/issues/new/choose) ❗❗❗ |
-| 5. Unsere erfahrenen Teamkoordinator:innen werden sich dann umgehend um Dein Anliegen kümmern und Dich unterstützen! |
+| 5. Unsere erfahrenen Kolleginnen und Kollegen werden sich dann zeitnah um Dein Anliegen kümmern und Dich unterstützen! |
 
 **Viel Spass und Erfolg bei uns - Feedback ist immer willkommen und ausdrücklich erwünscht**  ❗
 
