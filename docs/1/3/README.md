@@ -20,7 +20,9 @@ Wir fördern Dich in den folgenden Bereichen:
 
 ## 1.3.2 Präsentationstraining
 
-Regelmäßig präsentierst Du in unseren 11er-Meetings technische Themen. Dies stärkt Deine Fähigkeit, vor der Gruppe stotterfrei und selbstsicher zu präsentieren sowie Fragen zu beantworten.
+Regelmäßig präsentierst Du in unseren 11er-Meetings technische Themen über Trainingsbeiträge, welch Du selbst erstellt oder mit Unterstützung von KI zum Nutzen aller generiert hast.
+
+Dies stärkt Deine Fähigkeit, vor der Gruppe stotterfrei und selbstsicher zu präsentieren sowie Fragen zu beantworten.
 
 Deine erstellten Unterlagen fließen später in unser Wiki und in unsere mediale Präsenz ein.
 
