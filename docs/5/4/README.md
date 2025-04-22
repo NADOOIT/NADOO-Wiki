@@ -6,6 +6,8 @@ Nach dem Onboarding unterstützt die Teamkoordinator:in das eigene 11er-Team vor
 
 Dabei steht nicht die Leitung, sondern **Begleitung, Anleitung und Unterstützung** im Vordergrund.
 
+![Teamkoordination](../../../images/teamkoordination.png)
+
 ---
 
 Typische Aufgaben sind:
