@@ -30,7 +30,7 @@ Herzlich willkommen zu Deinem Einstieg in die IT-Karriere bei [Christoph Backhau
 | 4. Sollte dabei etwas unverständlich sein, dann erstelle umgehend ein [Issue](https://github.com/NADOOIT/NADOO-Wiki/issues/new/choose) ❗❗❗ |
 | 5. Unsere erfahrenen Kolleginnen und Kollegen werden sich dann zeitnah um Dein Anliegen kümmern und Dich unterstützen! |
 
-**Viel Spass und Erfolg bei uns - Feedback ist immer willkommen und ausdrücklich erwünscht**  ❗
+**Viel Spass und Erfolg bei uns - [Feedback](/docs/4/4/README.md) ist immer willkommen und ausdrücklich erwünscht**  ❗
 
 ---
 
@@ -164,7 +164,7 @@ Herzlich willkommen zu Deinem Einstieg in die IT-Karriere bei [Christoph Backhau
 
 #### [4. Kommunikation & Zusammenarbeit](docs/4/README.md)
 
-##### 4.1 Discord
+##### [4.1 Discord](docs/4/1/README.md) - zentrale Kommunikationsplattform
 
 ##### 4.3 Video/Avatar-Pflicht
 
