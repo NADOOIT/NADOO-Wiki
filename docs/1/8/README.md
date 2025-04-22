@@ -47,7 +47,7 @@ Der PDCA-Zyklus ist ideal für die iterative Entwicklung und Problemlösung[1]:
 Gemba Walks können in der Softwareentwicklung als Code-Reviews oder Pair-Programming-Sessions interpretiert werden:
 
 - Führe regelmäßige Code-Reviews durch, um Probleme frühzeitig zu erkennen.
-- Nutze -Programming, um voneinander zu lernen und Probleme gemeinsam zu lösen.
+- Nutze Pair-Programming, um voneinander zu lernen und Probleme gemeinsam zu lösen.
 - Projektleiter sollten regelmäßig mit Entwicklern zusammenarbeiten, um Herausforderungen direkt zu erleben.
 
 ### Kanban in der Softwareentwicklung
