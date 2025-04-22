@@ -4,7 +4,7 @@ Das ist **nicht verpflichtend** - aber eine **gute Gelegenheit**, Deine **Fähig
 
 Du wirst hierbei in die Planung und Koordination von Projekten eingebunden und erhältst dadurch Einblicke in die Teamdynamik.
 
-Nach dem Onboarding kanst Du dadurch Dein 11er-Team unterstützen und Deine Fähigkeiten in der Teamkoordination weiterentwickeln.
+Nach dem Onboarding kannst Du dadurch Dein 11er-Team unterstützen und Deine Fähigkeiten in der Teamkoordination weiterentwickeln.
 Das ist eine gute Gelegenheit, Deine Fähigkeiten in der Teamkoordination zu entwickeln.
 
 Dabei steht nicht die Leitung, sondern **Begleitung, Anleitung und Unterstützung** im Vordergrund.
