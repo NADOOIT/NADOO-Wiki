@@ -1,6 +1,6 @@
 # 1.2.2 Dateinamen überprüfen
 
-Dies ist ein Skript, das Sie in Visual Studio Code einfügen können, um zu überprüfen, ob Ihre Datei gemäß den Benennungsrichtlinien korrekt benannt wurde. Es dient als Beispiel dafür, wie ein Skript zur automatischen Validierung von Dateinamen funktioniert.
+Dies ist ein Skript, das Du in Visual Studio Code einfügen kannst, um zu überprüfen, ob Deine Datei gemäß den Benennungsrichtlinien korrekt benannt wurde. Es dient als Beispiel dafür, wie ein Skript zur automatischen Validierung von Dateinamen funktioniert.
 
 Script:
 ```python
