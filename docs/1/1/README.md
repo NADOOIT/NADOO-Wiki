@@ -2,13 +2,13 @@
 
 ## 1.1.1 Direkte Aufnahme
 
-Anstatt langer Bewerbungsverfahren werden Sie direkt für einen Probemonat aufgenommen.  
+Anstatt langer Bewerbungsverfahren wirst Du direkt für einen Probemonat aufgenommen.  
 
 ---
 
 ## 1.1.2 Probemonat
 
-In diesem Monat haben Sie die Chance, sich zu beweisen - indem Sie zeigen, dass Sie die vorgegebenen Formalitäten einhalten und aktiv im Team mitarbeiten.
+In diesem Monat hast Du die Chance, Dich zu beweisen - indem Du zeigst, dass Du die vorgegebenen Formalitäten einhältst und aktiv im Team mitarbeitest.
 
 ---
 
