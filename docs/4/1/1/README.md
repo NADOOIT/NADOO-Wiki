@@ -8,7 +8,7 @@ Discord ist unser zentrales Kommunikationstool bei NADOO-IT. So richtest Du es e
 
 ## 🧩 Schritt 1: Download
 
-Besuche discord.com und lade Dir die App für Dein Betriebssystem (Windows, macOS, Linux) herunter.
+Besuche [discord.com/download](https://discord.com/download) und lade Dir die App für Dein Betriebssystem (Windows, macOS, Linux) herunter.
 
 ---
 
