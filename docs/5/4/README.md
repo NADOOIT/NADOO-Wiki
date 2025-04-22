@@ -17,7 +17,7 @@ Dabei steht nicht die Leitung, sondern **Begleitung, Anleitung und Unterstützun
 
 Typische Aufgaben sind:
 
-- Vorbereitung des Protokolls der wöchentlichen 11er Team-Meetings für Montag, Dienstag und Donnerstag
+- Vorbereitung des [Protokolls](https://github.com/NADOOIT/NADOO-Launchpad/issues) der wöchentlichen 11er Team-Meetings für Montag, Dienstag und Donnerstag
 - Koordination der Aufgabenverteilung im Team
 - Unterstützung bei der Planung von Sprints
 - Unterstützung bei der Planung von Team-Meetings
