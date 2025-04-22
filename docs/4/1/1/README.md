@@ -1,6 +1,6 @@
 # 4.1.1 Discord - Einrichten und Anmelden
 
-Discord ist unser zentrales Kommunikationstool bei NADOO-IT.
+Discord ist unser **zentrales Kommunikationstool** bei NADOO-IT.
 
 So richtest Du es ein und meldest Dich an:
 
