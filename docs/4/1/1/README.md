@@ -2,6 +2,8 @@
 
 Discord ist unser zentrales Kommunikationstool bei NADOO-IT. So richtest Du es ein und meldest Dich an:
 
+![Discord](../../../../images/discord_einrichten_anmelden.png)
+
 ---
 
 ## 🧩 Schritt 1: Download
