@@ -1,8 +1,13 @@
-# 5.4 Teamkorodinationsrollen
+# 5.4 Teamkoorodinationsrollen
 
-Aufgaben der Teamkoordinator:in bei NADOO-IT nach dem Onboarding
+Bereits kurz nach dem Onboarding-Prozess erhältst Du die Möglichkeit Verantwortung in Teamkoordinationsrollen zu übernehemn.
 
-Nach dem Onboarding unterstützt die Teamkoordinator:in das eigene 11er-Team vor allem bei der zielgerichteten Zusammenarbeit innerhalb des Gesamtprojekts.
+Das ist nicht verpflichtend - aber eine gute Gelegenheit, Deine Fähigkeiten in der Teamkoordination zu entwickeln.
+
+Du wirst in die Planung und Koordination von Projekten eingebunden und erhältst dadurch Einblicke in die Teamdynamik.
+
+Nach dem Onboarding kanst Du dadurch Dein 11er-Team unterstützen und Deine Fähigkeiten in der Teamkoordination weiterentwickeln.
+Das ist eine gute Gelegenheit, Deine Fähigkeiten in der Teamkoordination zu entwickeln.
 
 Dabei steht nicht die Leitung, sondern **Begleitung, Anleitung und Unterstützung** im Vordergrund.
 
