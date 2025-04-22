@@ -2,13 +2,13 @@
 
 ## 4.1 Discord als zentrales Tool  
 
-Unsere interne Kommunikation erfolgt über Discord. Nutzen Sie die bereitgestellten Sprach- und Textkanäle, um effizient zusammenzuarbeiten.
+Unsere interne Kommunikation erfolgt über Discord. Nutze die die bereitgestellten Sprach- und Textkanäle, um effizient zusammenzuarbeiten.
 
 ---
 
 ## 4.2 Feedback-Kultur
 
-Jede Rückmeldung ist willkommen. Dokumentieren Sie Ideen und Probleme über den "Issue-first"-Ansatz in GitHub, um kontinuierliche Verbesserungen zu erzielen.
+Jede Rückmeldung ist willkommen. Dokumentiere Ideen und Probleme über den ["Issue-first"](https://github.com/NADOOIT/NADOO-Wiki/issues/new/choose) -Ansatz in GitHub, um kontinuierliche Verbesserungen zu erzielen.
 
 ---
 
