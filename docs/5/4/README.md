@@ -2,9 +2,9 @@
 
 Bereits kurz nach dem Onboarding-Prozess erhältst Du die Möglichkeit Verantwortung in Teamkoordinationsrollen zu übernehemn.
 
-Das ist nicht verpflichtend - aber eine gute Gelegenheit, Deine Fähigkeiten in der Teamkoordination zu entwickeln.
+Das ist **nicht verpflichtend** - aber eine **gute Gelegenheit**, Deine **Fähigkeiten** in der Teamkoordination zu **entwickeln!**
 
-Du wirst in die Planung und Koordination von Projekten eingebunden und erhältst dadurch Einblicke in die Teamdynamik.
+Du wirst hierbei in die Planung und Koordination von Projekten eingebunden und erhältst dadurch Einblicke in die Teamdynamik.
 
 Nach dem Onboarding kanst Du dadurch Dein 11er-Team unterstützen und Deine Fähigkeiten in der Teamkoordination weiterentwickeln.
 Das ist eine gute Gelegenheit, Deine Fähigkeiten in der Teamkoordination zu entwickeln.
