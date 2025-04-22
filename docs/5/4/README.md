@@ -1,5 +1,4 @@
-# 5.4 Teamkoorodinationsrollen
-
+# 5.4 Teamkoordinationsrollen
 Bereits kurz nach dem Onboarding-Prozess erhältst Du die Möglichkeit Verantwortung in Teamkoordinationsrollen zu übernehmen.
 Das ist **nicht verpflichtend** - aber eine **gute Gelegenheit**, Deine **Fähigkeiten** in der Teamkoordination zu **entwickeln!**
 
