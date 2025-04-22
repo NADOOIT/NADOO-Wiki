@@ -32,8 +32,7 @@ Der Aufbau dieser Profile ist für den Start in Deine IT-Karriere sehr wichtig. 
 
 ---
 
-## [4. Teamkorodinationsrollen](4/README.md)
-
+## [4. Teamkoordinationsrollen](4/README.md)
 Wir fördern Dich in der Übernahme von Teamkoordinationsrollen. Du wirst in die Planung und Koordination von Projekten eingebunden und erhältst dadurch Einblicke in die Teamdynamik.
 
 [Startseite](../../README.md)
