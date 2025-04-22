@@ -24,7 +24,7 @@ Regelmäßig präsentierst Du in unseren 11er-Meetings technische Themen über T
 
 Dies stärkt Deine Fähigkeit, vor der Gruppe stotterfrei und selbstsicher zu präsentieren sowie Fragen zu beantworten.
 
-Deine erstellten Unterlagen fließen später in unser Wiki, der damit verbundenen Entwicklung einer modernen Lernplattform und schlussendlich auch die damit verbunden mediale Präsenz der [NADOO-IT](https://nadooit.de) mit ein.
+Deine erstellten wertvollen Unterlagen fließen später in unser Wiki, der damit verbundenen Entwicklung einer modernen Lernplattform und schlussendlich auch die damit verbunden mediale Präsenz der [NADOO-IT](https://nadooit.de) mit ein.
 
 ---
 
