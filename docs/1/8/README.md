@@ -2,7 +2,7 @@
 
 ## Einführung
 
-Willkommen bei Christoph Backhaus IT. Dieser Wiki-Artikel ist ein wesentlicher Bestandteil Ihres Onboarding-Prozesses und soll Ihnen einen umfassenden Einblick in unsere Unternehmenskultur geben. Unsere Philosophie basiert auf dem KAIZEN-Prinzip, einem japanischen Konzept, das "Veränderung zum Besseren" bedeutet. Wir haben dieses Konzept, das sich in der Automobilindustrie bewährt hat, erfolgreich auf die Softwareentwicklung übertragen.
+Willkommen bei Christoph Backhaus IT. Dieser Wiki-Artikel ist ein wesentlicher Bestandteil Deines Onboarding-Prozesses und soll Dir einen umfassenden Einblick in unsere Unternehmenskultur geben. Unsere Philosophie basiert auf dem KAIZEN-Prinzip, einem japanischen Konzept, das "Veränderung zum Besseren" bedeutet. Wir haben dieses Konzept, das sich in der Automobilindustrie bewährt hat, erfolgreich auf die Softwareentwicklung übertragen.
 
 ## Geschichte und Ursprung von KAIZEN
 
@@ -27,37 +27,37 @@ Bei Christoph Backhaus IT haben wir die KAIZEN-Philosophie auf die Softwareentwi
 
 Die 5S-Methode, ursprünglich für die Organisation von Arbeitsplätzen in Fabriken entwickelt, lässt sich hervorragend auf den digitalen Arbeitsplatz eines Softwareentwicklers übertragen[1]:
 
-1. **Sortieren (Seiri)**: Entfernen Sie ungenutzte Dateien, alte Codeversionen und überflüssige Tools von Ihrem System.
-2. **Systematisieren (Seiton)**: Organisieren Sie Ihren Code, Ihre Projekte und Ihre Entwicklungsumgebung logisch und effizient.
-3. **Säubern (Seiso)**: Führen Sie regelmäßig Code-Cleanups durch und beseitigen Sie technische Schulden.
-4. **Standardisieren (Seiketsu)**: Etablieren Sie Coding-Standards und Best Practices im Team.
-5. **Selbstdisziplin (Shitsuke)**: Halten Sie sich konsequent an die etablierten Standards und verbessern Sie diese kontinuierlich.
+1. **Sortieren (Seiri)**: Entferne ungenutzte Dateien, alte Codeversionen und überflüssige Tools von Deinem System.
+2. **Systematisieren (Seiton)**: Organisiere Deinen Code, Deine Projekte und Deine Entwicklungsumgebung logisch und effizient.
+3. **Säubern (Seiso)**: Führe regelmäßig Code-Cleanups durch und beseitige technische Schulden.
+4. **Standardisieren (Seiketsu)**: Etabliere Coding-Standards und Best Practices im Team.
+5. **Selbstdisziplin (Shitsuke)**: Halte Dich konsequent an die etablierten Standards und verbessere diese kontinuierlich.
 
 ### PDCA-Zyklus in der Softwareentwicklung
 
 Der PDCA-Zyklus ist ideal für die iterative Entwicklung und Problemlösung[1]:
 
-1. **Plan**: Erstellen Sie ein Issue, welches das Problem oder gewünschte Feature klar beschreibt.
-2. **Do**: Erstellen Sie einen Branch und implementieren Sie ein Minimum Viable Product (MVP) oder einen Bugfix.
-3. **Check**: Führen Sie Tests durch und erstellen Sie einen Pull Request für ein Code Review.
-4. **Act**: Führen Sie einen finalen Merge durch, nachdem der Feedback-Loop abgeschlossen ist und Fehlerfreiheit erreicht wurde.
+1. **Plan**: Erstelle ein Issue, welches das Problem oder gewünschte Feature klar beschreibt.
+2. **Do**: Erstelle einen Branch und implementiere ein Minimum Viable Product (MVP) oder einen Bugfix.
+3. **Check**: Führe Tests durch und erstelle einen Pull Request für ein Code Review.
+4. **Act**: Führe einen finalen Merge durch, nachdem der Feedback-Loop abgeschlossen ist und Fehlerfreiheit erreicht wurde.
 
 ### Gemba Walks in der Softwareentwicklung
 
 Gemba Walks können in der Softwareentwicklung als Code-Reviews oder Pair-Programming-Sessions interpretiert werden:
 
-- Führen Sie regelmäßige Code-Reviews durch, um Probleme frühzeitig zu erkennen.
-- Nutzen Sie Pair-Programming, um voneinander zu lernen und Probleme gemeinsam zu lösen.
+- Führe regelmäßige Code-Reviews durch, um Probleme frühzeitig zu erkennen.
+- Nutze -Programming, um voneinander zu lernen und Probleme gemeinsam zu lösen.
 - Projektleiter sollten regelmäßig mit Entwicklern zusammenarbeiten, um Herausforderungen direkt zu erleben.
 
 ### Kanban in der Softwareentwicklung
 
 In der Softwareentwicklung setzen wir Kanban durch GitHub Issues um:
 
-- Nutzen Sie Boards in GitHub, um den Workflow zu visualisieren.
-- Begrenzen Sie die Anzahl der gleichzeitig bearbeiteten Issues (Work in Progress).
-- Aktualisieren Sie den Status von Issues regelmäßig, um den Fortschritt transparent zu machen.
-- Nutzen Sie Labels und Meilensteine, um Prioritäten und Zeitpläne zu verdeutlichen.
+- Nutze Boards in GitHub, um den Workflow zu visualisieren.
+- Begrenze die Anzahl der gleichzeitig bearbeiteten Issues (Work in Progress).
+- Aktualisiere den Status von Issues regelmäßig, um den Fortschritt transparent zu machen.
+- Nutze Labels und Meilensteine, um Prioritäten und Zeitpläne zu verdeutlichen.
 
 ## Das NADOOIT System
 
@@ -90,7 +90,7 @@ Unsere KAIZEN-basierte Kultur fördert kontinuierliche Verbesserung, Qualität u
 
 Die konsequente Anwendung von KAIZEN-Prinzipien in der Softwareentwicklung führt zu einer Kultur der kontinuierlichen Verbesserung, bei der Fehlerfreiheit die oberste Priorität ist. Methodische Prozesssauberkeit ist entscheidend für den Erfolg aller Beteiligten.
 
-Sollten Sie nach dem Lesen dieses Wikis Unklarheiten oder Fragen zu einem der genannten Punkte oder Methoden haben, zögern Sie bitte nicht, dies anzusprechen. Jede Unklarheit ist eine Gelegenheit zur Verbesserung unserer Prozesse und unserer Kommunikation. Dies ist ein wesentlicher Teil unserer Unternehmenskultur und ein wichtiger Schritt in Ihrem Onboarding-Prozess bei Christoph Backhaus IT.
+Solltest Du nach dem Lesen dieses Wikis Unklarheiten oder Fragen zu einem der genannten Punkte oder Methoden haben, zögere bitte nicht, dies anzusprechen. Jede Unklarheit ist eine Gelegenheit zur Verbesserung unserer Prozesse und unserer Kommunikation. Dies ist ein wesentlicher Teil unserer Unternehmenskultur und ein wichtiger Schritt in Deinem Onboarding-Prozess bei Christoph Backhaus IT.
 
 Citations:
 [1] https://www.studysmarter.de/studium/bwl/unternehmensfuehrung-studium/kaizen/

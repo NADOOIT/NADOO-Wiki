@@ -4,9 +4,9 @@
 
 ## 1.3.1 Jobrotation
 
-Im Rahmen Ihrer Ausbildung durchlaufen Sie verschiedene Bereiche der Softwareentwicklung. Nach Abschluss des Onboarding-Programms übernehmen Sie schrittweise echte Verantwortung – auch in Teamkoordinationsrollen.
+Im Rahmen Deiner Ausbildung durchläufst Du verschiedene Bereiche der Softwareentwicklung. Nach Abschluss des Onboarding-Programms übernimmst Du schrittweise echte Verantwortung – auch in Teamkoordinationsrollen.
 
-Wir fördern Sie in den folgenden Bereichen:
+Wir fördern Dich in den folgenden Bereichen:
 
 - Fähigkeiten: Persönliche Weiterentwicklung
 - Fertigkeiten: Umgang mit Arbeitswerkzeugen (GitHub, Visual Studio Code, etc.)
@@ -16,9 +16,9 @@ Wir fördern Sie in den folgenden Bereichen:
 
 ## 1.3.2 Präsentationstraining
 
-Regelmäßig präsentieren Sie in unseren 11er-Meetings technische Themen. Dies stärkt Ihre Fähigkeit, vor der Gruppe stotterfrei und selbstsicher zu präsentieren sowie Fragen zu beantworten.
+Regelmäßig präsentierst Du in unseren 11er-Meetings technische Themen. Dies stärkt Deine Fähigkeit, vor der Gruppe stotterfrei und selbstsicher zu präsentieren sowie Fragen zu beantworten.
 
-Ihre erstellten Unterlagen fließen später in unser Wiki und in unsere mediale Präsenz ein.
+Deine erstellten Unterlagen fließen später in unser Wiki und in unsere mediale Präsenz ein.
 
 ---
 
