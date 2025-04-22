@@ -4,8 +4,7 @@
 
 Unsere interne Kommunikation erfolgt über Discord.
 
-Nutze hierzu dort bereitgestellten Sprach- und Textkanäle, um effizient zusammenzuarbeiten.
-
+Nutze die bereitgestellten Sprach- und Textkanäle, um effizient zusammenzuarbeiten.
 ---
 
 ## 4.3. Videopflicht
