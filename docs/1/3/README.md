@@ -4,7 +4,7 @@
 
 ## 1.3.1 Jobrotation
 
-Im Rahmen Deiner Ausbildung durchläufst Du verschiedene Bereiche der Softwareentwicklung. Nach Abschluss des Onboarding-Programms übernimmst Du schrittweise echte Verantwortung – auch in Teamkoordinationsrollen.
+Im Rahmen Deiner Ausbildung durchläufst Du verschiedene Bereiche der Softwareentwicklung. Nach Abschluss des Onboarding-Programms übernimmst Du schrittweise echte Verantwortung – auch in [Teamkoordinationsrollen](/docs/5/4/README.md).
 
 Wir fördern Dich in den folgenden Bereichen:
 
