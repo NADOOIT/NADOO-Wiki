@@ -10,6 +10,10 @@ Dabei steht nicht die Leitung, sondern **Begleitung, Anleitung und Unterstützun
 
 Typische Aufgaben sind:
 
+- Vorbereitung des Protokolls der wöchentlichen 11er Team-Meetings für Montag, Dienstag und Donnerstag
+- Koordination der Aufgabenverteilung im Team
+- Unterstützung bei der Planung von Sprints
+- Unterstützung bei der Planung von Team-Meetings
 - Überblick über die Sammlung der Issues des eigenen Teams behalten
 - Aufgaben priorisieren und mit dem Team abstimmen
 - den Fortschritt im Blick behalten und Hindernisse frühzeitig erkennen
