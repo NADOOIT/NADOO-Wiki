@@ -1,5 +1,4 @@
-# 3.10.2 Unterschiede zwichen LLM und MLX (MacOS Silicon)
-
+# 3.10.2 Unterschiede zwischen LLM und MLX (MacOS Silicon)
 ## 🧠 LLM (Large Language Model)
 
 - Was? Ein KI-Modell, das auf sehr vielen Textdaten trainiert ist.
