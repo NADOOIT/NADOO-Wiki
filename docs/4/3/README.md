@@ -8,6 +8,8 @@ Innerhalb des Praktikums bei der NADOO-IT ist es jedoch auch möglich, alternati
 
 Dies kann insbesondere bei technischen oder datenschutzbezogenen Einschränkungen eine geeignete Option sein.
 
-Hinweis: Aufgrund der bevorstehenden Umstellung vom Discord-Server auf die Nutzung von [Communities mit Stages](https://github.com/NADOOIT/NADOO-Launchpad/issues/1187) ist die Verwendung der Kamera in größeren Meetings derzeit technisch nur eingeschränkt möglich.
+Hinweis: Aufgrund der bevorstehenden Umstellung vom Discord-Server der NADOO-IT auf die Nutzung von [Communities mit Stages](https://github.com/NADOOIT/NADOO-Launchpad/issues/1187) ist die Verwendung der Kamera in größeren Meetings derzeit technisch nur eingeschränkt möglich.
 
-Die Verwendung von Avataren ist daher eine akzeptable Lösung, um dennoch eine visuelle Präsenz zu gewährleisten. Es wird jedoch empfohlen, in kleineren Gruppen oder bei persönlichen Gesprächen die Kamera zu aktivieren, um den persönlichen Kontakt zu fördern.
+Die Verwendung von Avataren ist daher eine akzeptable Lösung, um dennoch eine visuelle Präsenz zu gewährleisten. 
+
+Es wird jedoch empfohlen, in kleineren Gruppen oder bei persönlichen Gesprächen die Kamera zu aktivieren, um den persönlichen Kontakt zu fördern.
