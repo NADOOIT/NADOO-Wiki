@@ -17,7 +17,7 @@ Oft beobachte ich, dass immer noch der Gedanke des „Durchkommens“ oder „Au
 Zwar habe ich den „Issue First“-Ansatz schon oft erwähnt und die Arbeit im Dreierteam geschaffen, um dies weiter zu unterstützen, aber um dies noch mehr zu betonen, soll direkt zu Beginn des Wikis ein Artikel diese Haltung und genau diesen „Issue First“-Ansatz verdeutlichen.
 
 
-**1. Issues werden in GitHub innerhalb der Nadooit erstellt. Der entsprechende Link dazu lautet: https://github.com/NADOOIT/NADOO-Launchpad/issues**
+**1. Issues werden in GitHub innerhalb der Nadooit erstellt.Hier gilt zu unterscheiden, zu welchem Repository das Issue gehört. Sollte es das NADOO-Wiki betreffen, so ist das Issue im Wiki-Repository zu erstellen. Ansonsten werden alle anderen im Launchpad-Repository erstellt. Die entsprechenden Links dazu lauten: **https://github.com/NADOOIT/NADOO-Launchpad/issues** <br> **https://github.com/NADOOIT/NADOO-Wiki/issues** <br>Folgend wird ein Beispiel zur Erstellung innerhalb des Launchpad-Repository gezeigt.
 
 **2. Nachdem Sie auf der Hauptseite oder direkt in GitHub angekommen sind, klicken Sie auf den Menü-Button.**
 
