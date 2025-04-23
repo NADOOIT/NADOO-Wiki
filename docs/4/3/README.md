@@ -2,7 +2,7 @@
 
 In einem professionellen Umfeld ist es wichtig, durch die Nutzung von Videoübertragung Präsenz zu zeigen.
 
-Dies unterstützt die insbesondere die zwischenmenschliche Kommunikation, fördert Vertrauen und signalisiert Engagement sowie Verfügbarkeit im Team.
+Dies unterstützt insbesondere die zwischenmenschliche Kommunikation, fördert Vertrauen und signalisiert Engagement sowie Verfügbarkeit im Team.
 
 Innerhalb des Praktikums bei der NADOO-IT ist es jedoch auch möglich, alternative visuelle Repräsentationen – wie beispielsweise Avatare – zu verwenden.
 
