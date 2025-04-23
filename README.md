@@ -174,7 +174,7 @@ Herzlich willkommen zu Deinem Einstieg in die IT-Karriere bei [Christoph Backhau
 
 ###### [4.1.1 Discord - Einrichten und Anmelden](docs/4/1/1/README.md)
 
-##### 4.3 Video/Avatar-Pflicht
+##### [4.3 Video/Avatar-Pflicht](docs/4/3/README.md)
 
 ###### [4.3.1 Android - Smartphone als Webcam nutzen](docs/4/3/1/README.md)
 
