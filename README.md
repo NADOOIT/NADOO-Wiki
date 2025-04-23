@@ -138,6 +138,9 @@ Herzlich willkommen zu Deinem Einstieg in die IT-Karriere bei [Christoph Backhau
 
 ##### [3.10 KI‐Nutzung: Ein umfassender Leitfaden](docs/3/10/README.md)
 
+###### [3.10.1 Nutzung der Gemini API – Anleitung](docs/3/10/1/README.md)
+
+###### [3.10.2 Unterschiede zwischen LLM und MLX (MacOS Silicon)](docs/3/10/2/README.md)
 ##### [3.11 Terminal Grundlagen](docs/3/11/README.md)
 
 ##### [3.12 Mögliche interessante Orte zum Arbeiten und Lernen](docs/3/12/README.md)
