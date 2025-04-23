@@ -1,6 +1,6 @@
 # 4.3 Video/Avatar-"Pflicht"
 
-In einem professionellen Umfeld ist es wichtig, durch die Nutzung von Videoübertragung Präsenz zu zeigen.
+In einem professionellen Umfeld innerhalb unserer digitalen Welt ist es wichtig, durch die Nutzung von Videoübertragung Präsenz zu zeigen.
 
 Dies unterstützt insbesondere die zwischenmenschliche Kommunikation, fördert Vertrauen und signalisiert Engagement sowie Verfügbarkeit im Team.
 
