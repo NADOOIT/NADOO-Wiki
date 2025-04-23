@@ -102,6 +102,8 @@ Herzlich willkommen zu Deinem Einstieg in die IT-Karriere bei [Christoph Backhau
 
 ###### [3.1.8 GitHub Markdown](docs/3/1/8/README.md)
 
+###### [3.1.9 Selbstständig Veränderungen innerhalb des Wikis vornehmen (später auch am Launchpad). Ein kleiner Guide.](docs/3/1/9/README.md)
+
 ---
 
 ##### [3.2 Visual Studio Code](docs/3/2/README.md) - integrierte Entwicklungsumgebung (IDE)
