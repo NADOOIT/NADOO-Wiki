@@ -23,14 +23,14 @@ body:
   - type: textarea
     id: project_goal
     attributes:
-      label: "Hauptziel: NADOO-IT Launchpad"
+      label: "Hauptziel: NADOO-IT Mission Control"
       description: "Beschreibung des Projektziels"
   - type: textarea
     id: team_goal
     attributes:
       label: "Teamziel: Entwicklungsfokus"
       description: "Beschreibung des Teamziels"
-      placeholder: Zeitnachweis, Berichtsheft, ...
+      placeholder: Launch, Java, ...
   
   - type: textarea
     attributes:
