@@ -2,7 +2,7 @@
 
 Dies ist ein Skript, das Du in Visual Studio Code einfügen kannst, um zu überprüfen, ob Deine Datei gemäß den Benennungsrichtlinien korrekt benannt wurde. Es dient als Beispiel dafür, wie ein Skript zur automatischen Validierung von Dateinamen funktioniert.
 
-Script:
+Skript:
 ```python
 import os
 
@@ -47,17 +47,17 @@ for filename in os.listdir(directory):
 So sollte es aussehen:
 ![image](https://github.com/user-attachments/assets/ac00367f-542f-48ca-80ef-7af5ef06cc0d)
 
-1. Code in VS code copy paste
-2. in zeile 31: ( screenshot unten ) path eingeben wo Ihre dateien sind
+1. Code in VSC mit copy paste einfügen.
+2. In Zeile 31 (Screenshot unten) den Path eingeben, in dem sich Deine Dateien befinden.
 3. Save As > check_filenames.py
 
 ![image](https://github.com/user-attachments/assets/5950250a-443e-4cd2-87e2-b8e4c36b45fd)
 
-4. Play drucken ( drei eck )
+4. Play drücken (Dreieck)
 
 ![image](https://github.com/user-attachments/assets/985e8e4d-6826-44f9-9d5a-23fcb74f3930)
 
-in Terminal sollte dass jetzt so aussehen:
+Im Terminal sollte das jetzt so aussehen:
 
 ![image](https://github.com/user-attachments/assets/3ee0c843-075b-4fe5-ab45-ec3f27257491)
 
@@ -65,5 +65,5 @@ Es ist deutlich erkennbar, was korrekt ist und was nicht. Die Benennung sollte e
 
 Die neue Version wurde um eine zusätzliche Regel für die ID erweitert, da jeder Teilnehmer eine spezifische ID erhält. ( 01 bis 999 )
 
-Eine vorherige Version des Skripts finden Sie im Issue:
+Eine vorherige Version des Skripts findest Du im Issue:
 https://github.com/NADOOIT/NADOO-Launchpad/issues/463.
