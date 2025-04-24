@@ -10,7 +10,7 @@ Halte die festgelegten Zeiten (z. B. Anwesenheitscheck, Abgabe von Nachweisen) s
 
 ## 1.4.2 Transparenz & Feedback-Kultur
 
-Jede Rückmeldung, ob groß oder klein, ist wertvoll. Nutze den ["Issue-first"-Ansatz](https://github.com/NADOOIT/NADOO-Launchpad/issues/new/choose) in __GitHub__ um Verbesserungsvorschläge, Fehler oder Ideen zu dokumentieren.
+Jede Rückmeldung, ob groß oder klein, ist wertvoll. Nutze den ["Issue-first"-Ansatz](https://github.com/NADOOIT/NADOO-Launchpad/issues/new/choose) in __GitHub__, um Verbesserungsvorschläge, Fehler oder Ideen zu dokumentieren.
 
 ---
 

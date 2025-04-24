@@ -12,7 +12,7 @@
 
 ### 1. 10:14–10:30 Uhr – Anwesenheitsüberprüfung & Freies Netzwerken
 
-- Treffen im dem jeweiligem 11er-Team zugewiesenen Discord-Kanal.
+- Treffen im jeweiligen zugewiesenen 11er-Team Discord-Kanal.
 - Nach 10:30 Uhr wird die Anwesenheit als verpasst registriert.
 
 ---
