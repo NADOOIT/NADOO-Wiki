@@ -22,6 +22,8 @@ Grundsätzlich fragt die Person, die aktuell ein Meeting leitet, standardmäßig
 
 ## 5.2.1.4 Zu welchen Themen kann ich einen Trainingsbeitrag halten?
 
+### Option 1:
+
 Wie bereits erwähnt, hast Du die Möglichkeit Dir ein Thema aus einem unserer Kataloge auszusuchen. Aktuell stehen Dir dafür zwei umfassende Listen zur Verfügung, die jeweils für die AP1 bzw. AP2 relevante Themen enthalten:
 
 [**IHK-Prüfungsthemen AP1 | Stand: April 2025**](https://github.com/NADOOIT/NADOO-Launchpad/issues/643)
@@ -31,6 +33,14 @@ Wie bereits erwähnt, hast Du die Möglichkeit Dir ein Thema aus einem unserer K
 Zusätzlich haben wir hier für Dich alle bisher eingereichten Trainingsbeiträge in einer Liste zusammengefasst:
 
 [**Alle Trainingsbeiträge**](https://github.com/NADOOIT/NADOO-Launchpad/issues/1200)
+
+### Option 2:
+
+Natürlich kannst Du auch ein Thema wählen, welches nicht direkt IHK-relevant bzw. in keiner der beiden Listen aufgeführt ist.
+
+Unser Ziel ist es, eine möglichst umfangreiche Bibliothek an Trainingsmaterial rund um's Thema IT/Anwendungsentwicklung aufzubauen - auch über Inhalte der Abschlussprüfungen hinweg. Ganz nach dem Motto "_The sky is the limit_"!
+
+**Wir l(i)eben saubere Dokumentation:**
 
 Füge Deine oder andere neue Traininsbeiträge gerne der Liste an, falls noch nicht geschehen - so bleibt die Sammlung aktuell und vollständig. Sollten Dir Berechtigungen fehlen, melde Dich einfach bei Christoph oder bei einem Member, der das Issue bearbeiten kann.
 
@@ -45,15 +55,23 @@ Im Anschluss haben alle Beteiligten **3 Minuten** für das Stellen bzw. Beantwor
 
 Der Sinn hinter der Zeitbegrenzung besteht einerseits darin, Dich darin zu üben aus einem Meer an Informationen Wesentliches herauszufiltern. Andererseits steht NADOO-IT für Zeit-Effizienz. Wie viele andere Unternehmen auch, verfolgen wir einen agilen Ansatz, wobei es nicht unüblich ist, feste Zeitblöcke für bestimmte Zwecke zu definieren. So stellen wir sicher, dass wir unsere Arbeitszeit optimal nutzen.
 
-## Wie bzw. wo wird der Trainingsbeitrag dokumentiert?
+## Wie bzw. wo wird der Trainingsbeitrag angelegt und dokumentiert?
 
 Für jeden Trainingsbeitrag wird ein unter dem **Parent-Issue** [**Trainingsbeiträge Sammlung
-#1200**](https://github.com/NADOOIT/NADOO-Launchpad/issues/1200) ein **Sub-Issue** erstellt.
+#1200**](https://github.com/NADOOIT/NADOO-Launchpad/issues/1200) ein **Sub-Issue** erstellt:
 
+1. Öffne das Issue [**Trainingsbeiträge Sammlung**](https://github.com/NADOOIT/NADOO-Launchpad/issues/1200) und klicke auf **_Create sub-issue_**. Falls die Ansammlung der bereits vorhandenen Sub-Issues ausgeklappt ist, musst Du etwas weiter nach unten scrollen, um zu dem Button zu gelangen. Alternativ kannst Du den kleinen Pfeil rechts neben **Sub-issues** anklicken, um die Liste einzuklappen.
 
+<!--hier Screenshots T"B Vorlage 0" und "Sub issue ein/ausklappen" einfügen-->
 
+2. Es erscheint ein Pop-Up, in welchem Du die Art des Issues auswählen kannst. Wähle hier **_Trainingsbeitrag_** aus.
 
- Dort trägst Du Dein Thema als Titel des Issues ein, das Datum und die Uhrzeit sowie die Namen der Teilnehmer festgehalten. Das Issue wird dann in die Liste der Trainingsbeiträge eingetragen.
+<!--hier Screenshot "TB Vorlage 1" einfügen-->
+<!--hex code: fffc41-->
+
+https://docs.github.com/de/get-started/writing-on-github
+
+3. Dort trägst Du Dein Thema als Titel des Issues ein, das Datum und die Uhrzeit sowie die Namen der Teilnehmer festgehalten. Das Issue wird dann in die Liste der Trainingsbeiträge eingetragen.
 
 ## Wann/in welchem Kanal halte ich den Beitrag ab?
 
