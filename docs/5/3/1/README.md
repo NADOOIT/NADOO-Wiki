@@ -12,7 +12,7 @@ Es zeigt, an welchen Projekten man arbeitet, was man programmiert hat und wie gu
 
 ---
 
-## So erstellst du ein GitHub-Profil:
+## So erstellst du ein GitHub-Profil
 
 1. **Zur GitHub-Webseite gehen:** Öffne [https://github.com](https://github.com) in deinem Browser.
 2. **Ein Konto anlegen:** Klicke auf „Sign up“ und folge den Anweisungen. Du brauchst eine E-Mail-Adresse, einen Benutzernamen und ein Passwort.
@@ -40,7 +40,7 @@ Arbeitgeber und Teams achten zunehmend auf folgende Punkte:
 
 ### 🚀 Sichtbarkeit erhöhen
 
-Ein aktives GitHub-Profil kann dir helfen, in der Entwickler-Community sichtbar zu werden. Du kannst deine Projekte teilen, Feedback erhalten und dich mit anderen Entwicklern vernetzen. 
+Ein aktives GitHub-Profil kann dir helfen, in der Entwickler-Community sichtbar zu werden. Du kannst deine Projekte teilen, Feedback erhalten und dich mit anderen Entwicklern vernetzen.
 
 Das ist besonders wichtig, wenn du auf der Suche nach neuen Jobmöglichkeiten oder Freelance-Projekten bist.
 
