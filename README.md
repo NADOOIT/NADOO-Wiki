@@ -108,7 +108,7 @@ Herzlich willkommen zu Deinem Einstieg in die IT-Karriere bei [Christoph Backhau
 
 ---
 
-##### [3.2 Visual Studio Code](docs/3/2/README.md) - integrierte Entwicklungsumgebung (IDE)
+##### [3.2 Visual Studio Code](docs/3/2/README.md) - integrierte Entwicklungsumgebung (IDE) für multiplattformübergreifende Softwareentwicklung
 
 ###### [3.2.1 Installation & Einrichtung](docs/3/2/1/README.md)
 
