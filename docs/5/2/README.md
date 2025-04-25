@@ -55,7 +55,7 @@ Der Sinn hinter der Zeitbegrenzung besteht einerseits darin, Dich darin zu üben
 
 ## 5.2.1.6 Wie bzw. wo wird der Trainingsbeitrag angelegt und dokumentiert?
 
-<!--bitte um Hilfe bzgl. vernünftige Einrückung der Unterpunkte (zb. 3.1, 3.2, 3.3...); iwie sieht das in der Preview nicht so aus wie's soll-->
+<!--bitte um Hilfe bzgl. vernünftige Einrückung der Unterpunkte (zb. 3.1, 3.2, 3.3...); irgendwie sieht das in der Preview nicht so aus wie's soll-->
 
 Für jeden Trainingsbeitrag wird ein unter dem **Parent-Issue** [**Trainingsbeiträge Sammlung
 #1200**](https://github.com/NADOOIT/NADOO-Launchpad/issues/1200) ein **Sub-Issue** erstellt:
