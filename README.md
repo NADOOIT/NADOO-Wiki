@@ -8,7 +8,7 @@
 
 Herzlich willkommen zu Deinem Einstieg in die IT-Karriere bei [Christoph Backhaus IT](https://wirrettendeinezeit.de).  
 
-- Wir freuen uns 😊, Dich (you) auf Deinem Weg in die Welt der Anwendungsentwicklung und die Zukunft der IT 🍀 begleiten zu dürfen 🙏.
+- Wir freuen uns 😊, Dich auf Deinem Weg in die Welt der Anwendungsentwicklung und die Zukunft der IT 🍀 begleiten zu dürfen 🙏.
 
 - Das "#globalyou" oder auch "#gerneperdu" ist bei uns Programm.
 
@@ -23,14 +23,14 @@ Herzlich willkommen zu Deinem Einstieg in die IT-Karriere bei [Christoph Backhau
 
 | |
 | :--- |
-| **WICHTIG**: Bevor Du, weiter liest um mit dem Wiki zu starten! |
+| **WICHTIG**: Bevor Du weiterliest, um mit dem Wiki zu starten! |
 | 1. Sende eine eMail mit Deinem GitHub-Benutzernamen an <christoph.backhaus@nadooit.de> |
-| 2. Du erhältst anschließend zeitnah eine eMail, in welcher Du aktiv Deine Einladung zu diesem öffentlichem Repository bestägst |
+| 2. Du erhältst anschließend zeitnah eine eMail, in welcher Du aktiv Deine Einladung zu diesem öffentlichen Repository bestätigst. |
 | 3. Du kannst dann mit dem Wiki starten und Deine ersten Schritte bei der NADOO-IT gehen 🚀 |
 | 4. Sollte dabei etwas unverständlich sein, dann erstelle umgehend ein [Issue](https://github.com/NADOOIT/NADOO-Wiki/issues/new/choose) ❗❗❗ |
-| 5. Unsere erfahrenen Teamkoordinator:innen werden sich dann umgehend um Dein Anliegen kümmern und Dich unterstützen! |
+| 5. Unsere erfahrenen Kolleginnen und Kollegen werden sich dann zeitnah um Dein Anliegen kümmern und Dich unterstützen! |
 
-**Viel Spass und Erfolg bei uns - Feedback ist immer willkommen und ausdrücklich erwünscht**  ❗
+**Viel Spass und Erfolg bei uns - [Feedback](/docs/4/4/README.md) ist immer willkommen und ausdrücklich erwünscht**  ❗
 
 ---
 
@@ -78,7 +78,7 @@ Herzlich willkommen zu Deinem Einstieg in die IT-Karriere bei [Christoph Backhau
 
 #### [3. Technische Grundlagen & Praktische Anwendung](docs/3/README.md)
 
-##### [3.1 GitHub](docs/3/1/README.md)
+##### [3.1 GitHub](docs/3/1/README.md) - die Versionsverwaltung bei NADOO-IT
 
 ###### [3.1.1 Repository](docs/3/1/1/README.md)
 
@@ -87,6 +87,8 @@ Herzlich willkommen zu Deinem Einstieg in die IT-Karriere bei [Christoph Backhau
 ###### [3.1.2.1 Branch Protection](docs/3/1/2/1/README.md)
 
 ###### [3.1.3 Pull Requests](docs/3/1/3/README.md)
+
+###### [3.1.3.1 Merge-Konflikte](docs/3/1/3/1/README.md)
 
 ###### [3.1.4 Issues](docs/3/1/4/README.md)
 
@@ -102,9 +104,11 @@ Herzlich willkommen zu Deinem Einstieg in die IT-Karriere bei [Christoph Backhau
 
 ###### [3.1.8 GitHub Markdown](docs/3/1/8/README.md)
 
+###### [3.1.9 Selbstständig Veränderungen innerhalb des Wikis vornehmen (später auch am Launchpad). Ein kleiner Guide.](docs/3/1/9/README.md)
+
 ---
 
-##### [3.2 Visual Studio Code](docs/3/2/README.md)
+##### [3.2 Visual Studio Code](docs/3/2/README.md) - integrierte Entwicklungsumgebung (IDE) für multiplattformübergreifende Softwareentwicklung
 
 ###### [3.2.1 Installation & Einrichtung](docs/3/2/1/README.md)
 
@@ -118,27 +122,13 @@ Herzlich willkommen zu Deinem Einstieg in die IT-Karriere bei [Christoph Backhau
 
 ---
 
-##### [3.3 Python](docs/3/3/README.md)
+#### [3.3 IntelliJ IDEA](docs/3/3/README.md) - integrierte Entwicklungsumgebung (IDE) für die Programmiersprache Java
 
-###### [3.3.1 Debugging](docs/3/3/1/README.md)
-
-###### [3.3.2 Praktische Umsetzung mit NADOO-Launchpad](docs/3/3/2/README.md)
-
-###### [3.3.3 Speech‐to‐Text‐Feature im NADOO Launchpad](docs/3/3/3/README.md)
-
-##### [3.4 Briefcase & Toga](docs/3/4/README.md)
-
-###### [3.4.1 Debugging](docs/3/4/1/README.md)
+##### [3.3.1 Installation & Einrichtung](docs/3/3/1/README.md)
 
 ---
 
-##### 3.5 Flutter
-
----
-
-##### [3.6 Java](docs/3/6/README.md)
-
-###### 3.6.1 JavaFX
+##### [3.4 Java](docs/3/4/README.md) - Programmiersprache
 
 ---
 
@@ -150,17 +140,43 @@ Herzlich willkommen zu Deinem Einstieg in die IT-Karriere bei [Christoph Backhau
 
 ##### [3.10 KI‐Nutzung: Ein umfassender Leitfaden](docs/3/10/README.md)
 
+###### [3.10.1 Nutzung der Gemini API – Anleitung](docs/3/10/1/README.md)
+
+###### [3.10.2 Unterschiede zwischen LLM und MLX (MacOS Silicon)](docs/3/10/2/README.md)
+
 ##### [3.11 Terminal Grundlagen](docs/3/11/README.md)
 
 ##### [3.12 Mögliche interessante Orte zum Arbeiten und Lernen](docs/3/12/README.md)
 
 ---
 
+<details>
+<summary>3.13 Python - Programmiersprache (Archiv)</summary>
+
+- [3.13.1 Debugging](docs/3/13/1/README.md)  
+- [3.13.2 Praktische Umsetzung mit NADOO-Launchpad](docs/3/13/2/README.md)  
+- [3.13.3 Speech‐to‐Text‐Feature im NADOO Launchpad](docs/3/13/3/README.md)  
+
+</details>
+
+---
+
+<details>
+<summary>3.14 Briefcase & Toga - Python-Framework für plattformübergreifende Apps (Archiv)</summary>
+
+- [3.14.1 Debugging](docs/3/14/1/README.md)  
+
+</details>
+
+---
+
 #### [4. Kommunikation & Zusammenarbeit](docs/4/README.md)
 
-##### 4.1 Discord
+##### [4.1 Discord](docs/4/1/README.md) - zentrale Kommunikationsplattform
 
-##### 4.3 Video/Avatar-Pflicht
+###### [4.1.1 Discord - Einrichten und Anmelden](docs/4/1/1/README.md)
+
+##### [4.3 Video/Avatar-Pflicht](docs/4/3/README.md)
 
 ###### [4.3.1 Android - Smartphone als Webcam nutzen](docs/4/3/1/README.md)
 
@@ -176,13 +192,15 @@ Herzlich willkommen zu Deinem Einstieg in die IT-Karriere bei [Christoph Backhau
 
 ##### [5.3 Netzwerken](docs/5/3/README.md)
 
-###### 5.3.1 GitHub-Profil
+###### [5.3.1 GitHub-Profil](docs/5/3/1/README.md)
 
 ###### [5.3.2 LinkedIn-Profil](docs/5/3/2/README.md)
 
-###### 5.3.3 Xing-Profil
+###### [5.3.3 Xing-Profil](docs/5/3/3/README.md)
 
 ###### [5.3.4 Online-Kalender mit Doodle einrichten und in LinkedIn-Profil integrieren](docs/5/3/4/README.md)
+
+##### [5.4 Teamkoordination](docs/5/4/README.md)
 
 ---
 
