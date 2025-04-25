@@ -1,8 +1,8 @@
 # Willkommen
 
-| | |
+| [Christoph Backhaus IT](https://wirrettendeinezeit.de) | Unser Team |
 |:--- | :--- |
-| ![NADOO-IT](images/nadooit.png) | [Christoph Backhaus IT](https://wirrettendeinezeit.de) |
+| ![NADOO-IT](images/nadooit.png) | [Abdel](https://github.com/Abdel-213), [Alexander P.](https://github.com/cosinus-a), [Alexander W.](https://github.com/Alexander-AzTech2064), [Asieh](https://github.com/Asiyehjfr), ... |
 | Geschäftsführer | Christoph Backhaus |
 | 🏣 Anschrift | Am Markt 1, 47229 Duisburg |
 | 📞 Telefon | +49 2065 7098429 |
