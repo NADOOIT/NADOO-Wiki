@@ -1,8 +1,8 @@
 # Willkommen bei NADOO-IT
 
-| [Christoph Backhaus IT](https://wirrettendeinezeit.de) | Unser Team | Unserer Mission | Unsere Kernwerte |
+| [Christoph Backhaus IT](https://wirrettendeinezeit.de) | **Unser Team** | **Unsere Mission** | **Unsere Kernwerte** |
 |:--- | :--- | :--- | :--- |
-| ![NADOO-IT](images/nadooit.png) | [Abdel](https://github.com/Abdel-213), [Alexander P.](https://github.com/cosinus-a), [Alexander W.](https://github.com/Alexander-AzTech2064), [Asieh](https://github.com/Asiyehjfr), ... | - **Entwicklung einer Platform von Anwendungsentwickler:innen für Anwendungsentwickler:innen** |  - **Es gibt keine Fehler, sondern Chancen gemeinsam zu Lernen!** |
+| ![NADOO-IT](images/nadooit.png) | [Abdel](https://github.com/Abdel-213), [Alexander P.](https://github.com/cosinus-a), [Alexander W.](https://github.com/Alexander-AzTech2064), [Asieh](https://github.com/Asiyehjfr), ... | - **Entwicklung einer Platform von Anwendungsentwickler:innen für Anwendungsentwickler:innen** |  - **Es gibt keine Fehler, sondern ausschließlcih - Chancen sich gemeinsam weiter zu entwickeln!** |
 | 🏣 Anschrift | Am Markt 1, 47229 Duisburg | - Vorbereitung für Unternehmensarbeit und Selbständigkeit | - **Es gibt keine dummen Fragen!** |
 | 📞 Telefon | +49 2065 7098429 | - Programmieren & Teamarbeit |- **nur gemeinsam/zusammen sind wir stark!** |
 | 📱 Mobil | +49 176 565 44 075 | - Ermöglichung von Wegen aus dem Hamsterrad | |
