@@ -1,12 +1,11 @@
 # Willkommen bei NADOO-IT
 
-| [Christoph Backhaus IT](https://wirrettendeinezeit.de) | Unser Team |
-|:--- | :--- |
-| ![NADOO-IT](images/nadooit.png) | [Abdel](https://github.com/Abdel-213), [Alexander P.](https://github.com/cosinus-a), [Alexander W.](https://github.com/Alexander-AzTech2064), [Asieh](https://github.com/Asiyehjfr), ... |
-| Geschäftsführer | Christoph Backhaus |
-| 🏣 Anschrift | Am Markt 1, 47229 Duisburg |
-| 📞 Telefon | +49 2065 7098429 |
-| 📱 Mobil | +49 176 565 44 075 |
+| [Christoph Backhaus IT](https://wirrettendeinezeit.de) | Unser Team | Unserer Mission | Unsere Kernwerte |
+|:--- | :--- | :--- | :--- |
+| ![NADOO-IT](images/nadooit.png) | [Abdel](https://github.com/Abdel-213), [Alexander P.](https://github.com/cosinus-a), [Alexander W.](https://github.com/Alexander-AzTech2064), [Asieh](https://github.com/Asiyehjfr), ... | - **Entwicklung einer Platform von Anwendungsentwickler:innen für Anwendungsentwickler:innen** |  - **Es gibt keine Fehler, sondern Chancen gemeinsam zu Lernen!** |
+| 🏣 Anschrift | Am Markt 1, 47229 Duisburg | - Vorbereitung für Unternehmensarbeit und Selbständigkeit | - **Es gibt keine dummen Fragen!** |
+| 📞 Telefon | +49 2065 7098429 | - Programmieren & Teamarbeit |- **nur gemeinsam/zusammen sind wir stark!** |
+| 📱 Mobil | +49 176 565 44 075 | - Ermöglichung von Wegen aus dem Hamsterrad | |
 | 📧 E-Mail | <christoph.backhaus@nadooit.de> |
 | Discord | [NADOO-IT]( https://discord.gg/Ffv4JTFE7E) |
 | Twitch | [NADOO-IT](https://www.twitch.tv/nadooit_christophba) |
