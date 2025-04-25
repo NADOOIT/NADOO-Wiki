@@ -1,12 +1,19 @@
 # Willkommen
 
-| |
-|:---:|
-| ![NADOO-IT](images/nadooit.png) |
+| | |
+|:--- | :--- |
+| ![NADOO-IT](images/nadooit.png) | [Christoph Backhaus IT](https://wirrettendeinezeit.de) |
+| Geschäftsführer | Christoph Backhaus |
+| 🏣 Anschrift | Am Markt 1, 47229 Duisburg |
+| 📞 Telefon | +49 2065 7098429 |
+| 📱 Mobil | +49 176 565 44 075 |
+| 📧 E-Mail | <christoph.backhaus@nadooit.de> |
+| Discord | [NADOO-IT]( https://discord.gg/Ffv4JTFE7E) |
+| Twitch | [NADOO-IT](https://www.twitch.tv/nadooit_christophba) |
 
 ---
 
-Herzlich willkommen zu Deinem Einstieg in die IT-Karriere bei [Christoph Backhaus IT](https://wirrettendeinezeit.de).  
+Herzlich willkommen zu Deinem Einstieg in deine IT-Karriere bei uns!
 
 - Wir freuen uns 😊, Dich auf Deinem Weg in die Welt der Anwendungsentwicklung und die Zukunft der IT 🍀 begleiten zu dürfen 🙏.
 
