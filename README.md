@@ -243,10 +243,6 @@ Herzlich willkommen zu Deinem Einstieg in deine IT-Karriere bei uns!
 
 ---
 
-### [8. Erreichbarkeit & Kontakt](docs/8/README.md)
-
----
-
 ### [9. Lizenzen, Open Source und die Welt der Softwareabhängigkeiten](docs/9/README.md)
 
 ---
