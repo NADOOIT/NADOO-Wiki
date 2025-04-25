@@ -1,76 +1,74 @@
-# Issue Erstellungs Guide
+# Selbstständig Veränderungen innerhalb des Wikis vornehmen (später auch am Launchpad). Ein kleiner Guide.
 
-**Einige Teilnehmer haben Schwierigkeiten, den Prozess zur Erstellung eines Issues sowie die Zuweisung eines Issues an sich selbst zu verstehen. Dafür wurde dieser Guide erstellt.**
+An dieser Stelle zeigen wir dir, wie du aktiv an der Gestaltung des Wiki mitwirken kannst und wie du bereits jetzt schon Issues, die das Wiki betreffen, bearbeiten und auch vielleicht schon lösen kannst. Möglicherweise hast du noch nicht die Berechtigungen, um im Wiki verschiedene Funktionen zu nutzen. Ist dies der Fall, melde dich bitte bei [Christoph](mailto:Christoph.backhaus@nadooit.de) mit deinem GitHub Namen, damit er sie dir erteilen kann.
 
-Toyota ist die Automarke mit dem Ruf von Qualität geworden, weil sie ihre Entwicklung und Produktion so strukturiert hat, dass jedes Mitglied des Unternehmens dahingehend ausgerichtet wurde, die Augen während seiner Arbeit auf jeden Fehler, jede Ungenauigkeit und potenzielle Verbesserung zu richten.
+## Issue erstellen
 
-Dieser Gedanke war es, der auch Deutschland zum Land der Qualität gemacht hat.
+Solltest du auf Unklarheiten stoßen, möchtest neue Inhalte hinzufügen, bestehende Inhalte verändern oder sogar löschen, dann erstellst du zu allererst ein Issue innerhalb des Wiki-Repository und beschreibst dort dein Anliegen. 
 
-Diese Einstellung funktioniert in allen Bereichen des Lebens.
+![Image](https://github.com/user-attachments/assets/eea54f62-a29e-4ae1-9f78-fe1865ef2dd0)
 
-Wir wollen diesen Ansatz auch für die Entwicklung unserer Bildungsunterlagen und Software verwenden.
-
-Deswegen ist es entscheidend, dass alle dauerhaft wachsam sind und wenn Ihnen etwas auffällt, dies dokumentiert wird. Jeder einzelne von uns trägt Verantwortung für den Erfolg dieser Plattform. Wenn eine Frage oder ein Fehler auftritt und Sie keine Antwort finden können, ist es Ihre Pflicht, ein Issue zu erstellen, um das Problem mit dem Team zu kommunizieren – auch wenn Sie der Meinung sind, dass es nicht so wichtig ist. Indem Sie Probleme frühzeitig ansprechen, helfen Sie uns, eine solide Grundlage zu schaffen und die Plattform kontinuierlich zu verbessern.
-
-Oft beobachte ich, dass immer noch der Gedanke des „Durchkommens“ oder „Aufholens“ vorherrscht. Dies müssen wir so früh wie möglich abfangen und umstellen. Verbesserungsmöglichkeiten und eine Haltung der Offenheit für „Hier ist etwas unklar“ sind entscheidend für unseren und den Erfolg der Teilnehmer. Ohne ein stabiles Fundament sind spätere Bildungsinhalte und unsere Software zwangsläufig gefährdet, Personen zu überfordern.
-
-Zwar habe ich den „Issue First“-Ansatz schon oft erwähnt und die Arbeit im Dreierteam geschaffen, um dies weiter zu unterstützen, aber um dies noch mehr zu betonen, soll direkt zu Beginn des Wikis ein Artikel diese Haltung und genau diesen „Issue First“-Ansatz verdeutlichen.
+![Image](https://github.com/user-attachments/assets/0caccfbd-1e07-46bf-941b-c51ff612b303)
 
 
-**1. Issues werden in GitHub innerhalb der Nadooit erstellt.Hier gilt zu unterscheiden, zu welchem Repository das Issue gehört. Sollte es das NADOO-Wiki betreffen, so ist das Issue im Wiki-Repository zu erstellen. Ansonsten werden alle anderen im Launchpad-Repository erstellt. Die entsprechenden Links dazu lauten: **https://github.com/NADOOIT/NADOO-Launchpad/issues** <br> **https://github.com/NADOOIT/NADOO-Wiki/issues** <br>Folgend wird ein Beispiel zur Erstellung innerhalb des Launchpad-Repository gezeigt.
+Wenn du ein bereits bestehendes Issue bzgl. des Wiki bearbeiten willst, fällt der erste Schritt weg und du wählst das Issue im Wiki-Repository aus.
 
-**2. Nachdem Sie auf der Hauptseite oder direkt in GitHub angekommen sind, klicken Sie auf den Menü-Button.**
+## Branch aus dem Issue erstellen
 
-![1](https://github.com/user-attachments/assets/37bfb0c4-05ed-4580-b2ef-65372a82fe40)
+Sind die ersten Schritte getan, kannst du aus dem Issue heraus eine Branch erstellen, was bedeutet, dass du das Wiki-Repository klonst. Durch diesen Schritt kannst du am Wiki in einer isolierten Umgebung arbeiten, ohne dass Veränderungen direkt an der Main des Wiki vorgenommen werden. 
 
-**3. Nachdem Sie auf den Menü-Button geklickt haben, erscheint eine Liste, in der Sie auf ‚Nadooit Launchpad‘ klicken.**
+![Image](https://github.com/user-attachments/assets/1f45ac25-4cb1-4fbc-99ca-eb50bdc07215)
 
-![2](https://github.com/user-attachments/assets/1b512653-d60b-4bb8-a7e3-c0d0d045e347)
+Hier gehst du auf die Fläche "create a Branch" und wählst "Branch mit GitHub-Desktop öffnen"
 
-**4. Nun klicken Sie im Menü auf ‚Issues‘**
-![3](https://github.com/user-attachments/assets/7936136f-bb54-4708-82e6-154e006a4e4a)
+![Image](https://github.com/user-attachments/assets/272d1d5e-ec87-4cfd-843f-013682048196)
 
-**5. Nun klicken Sie im Menü auf , New Issue**
+Auf der Desktop-Version von GitHub überprüfst du nun, ob du im richtigen Repository und Issue bist. 
 
-![4](https://github.com/user-attachments/assets/b642b692-56da-462d-a164-1a090da158b9)
+Wenn du richtig bist, wählst du "open in Visual Studio Code" aus. 
 
-**6. Es öffnet sich ein neues Fenster, in dem Sie auf ‚Blank Issue‘ klicken.**
+![Image](https://github.com/user-attachments/assets/efd10356-827b-4f86-8043-01c3f65a2369)
 
-![5](https://github.com/user-attachments/assets/06dfb394-401b-4452-9ce2-02f973ac2af1)
+Jetzt öffnet sich dein VSC mit dem Wiki. An dieser Stelle überprüfst du unten links am Rand, ob du im richtigen Verzeichnis bist.
 
-**7. Nun können Sie einen Titel für das Issue eingeben und den Text im Hauptbereich hinzufügen. Bilder oder Screenshots können ebenfalls durch Copy-Paste eingefügt werden.**
-Wenn Sie auf ‚Preview‘ klicken, sehen Sie eine Vorschau, wie das Issue nach der Erstellung aussehen wird.
-
-![6](https://github.com/user-attachments/assets/34b291c6-b747-4d95-8a88-323ec5d4a7d5)
-
-**8. Auf der rechten Seite sehen Sie die Möglichkeit, ‚Assignees‘, ‚Labels‘ und ‚Types‘ auszuwählen.**
-
-* Bei ‚Assignees‘ können Sie sich selbst dem Issue zuweisen oder auch eine andere Person auswählen, alternativ können Sie das Feld auch leer lassen.
-* Bei ‚Types‘ wählen Sie aus, ob es sich um einen Bug/Fehler (in den meisten Fällen), ein Feature oder eine Aufgabe handelt.
-* Bei ‚Labels‘ suchen Sie die passenden Labels aus und klicken auf jedes, das zu Ihrem Issue passt, wie zum Beispiel die Dringlichkeit, das zugehörige Projekt/Abteilung oder das betroffene Softwaremodul.
-
-![7](https://github.com/user-attachments/assets/5b4d4863-4514-4562-9813-681cd7bc39e7)
-
-**Sobald Sie alle erforderlichen Angaben gemacht haben, klicken Sie auf ‚Create**
-
-![8](https://github.com/user-attachments/assets/4ac0c367-bd34-4510-9247-a6acb3ae837a)
+![Image](https://github.com/user-attachments/assets/0bb51499-f4ec-4a99-a30d-faede3486df4)
 
 
-**GitHub Issue Benachrichtigungen per Email**
-Sie haben die Möglichkeit, allen Issues oder spezifischen Issues zu folgen. Jedes Mal, wenn eine Änderung vorgenommen wird oder ein neues Issue erstellt wird, erhalten Sie eine E-Mail-Benachrichtigung.
+Ist alles in Ordnung, kannst du mit der Veränderung loslegen. Achte darauf, alle Veränderungen im Markdown-Format zu verfassen.
+Jetzt stellt sich die Frage, ob du bestehende Inhalte ergänzen willst oder neue hinzufügen möchtest.
 
-Um alle Aktivitäten zu verfolgen, klicken Sie auf ‚Watch‘ und dann auf ‚All Activity‘.
+Wenn du bestehende Inhalte nur ergänzen willst, suchst du innerhalb der Ordnerstruktur den Beitrag raus, gehst auf die README.md vom entsprechenden Beitrag und nimmst dort deine Veränderungen vor.
 
-Für Issues, die Sie erstellt, zugewiesen bekommen oder bei denen Sie Kommentare hinterlassen haben, wählen Sie ‚Participating and @Mentions‘.
-![9](https://github.com/user-attachments/assets/80b14ca5-c3a3-4d7d-8fc1-4e223fb1ef0c)
+![Image](https://github.com/user-attachments/assets/46e1b2c7-ba5b-4be7-9f36-dc30b84898f4)
+![Image](https://github.com/user-attachments/assets/10d3f09f-4b0c-4db2-95f9-ee1f7432c7df)
 
-Um einem spezifischen Issue zu folgen, klicken Sie auf ‚Subscribe‘ bei dem jeweiligen Issue, das Sie ausgewählt haben.
+Möchtest du allerdings komplett neue Inhalte hinzufügen, dann musst du die bestehenden Ordner um weitere Ordner ergänzen. **Achte auf sinnvolle Gliederung**. In dem neu erstellten Ordner musst du ein File (diesen nennst du README.md) hinzufügen, in welchem du deinen Inhalt einfügst. 
 
-![10](https://github.com/user-attachments/assets/a146ba4c-e608-4fa7-a98a-f2bfe06be19d)
+![Image](https://github.com/user-attachments/assets/93f96e7c-2e29-4a49-8248-99cd1ba96b49)
+![Image](https://github.com/user-attachments/assets/e4cfe551-5365-4880-a52c-8fb4fa4d62f1)
+In diesem Beispiel wird ein Unterordner 7 mit dem File README.md im Ordner 1 erstellt (es wird somit der Abschnitt 1.7 erzeugt.)
+
+Gegebenenfalls muss auch das Inhaltverzeichnis ergänzt werden. Hierfür klappst du die komplette Doc-Struktur ein und wählst die letzte README.md (hier befindet sich das Inhaltsverzeichnis des Wiki). Ergänze hier deinen neuen Abschnitt inklusive Verlinkung.
+
+![Image](https://github.com/user-attachments/assets/fddb57b1-2a2a-4b69-82e7-3dda903c9e1e)
+
+Sind diese Schritte getan, kannst du durch die Vorschau-Funktion überprüfen, wie deine Veränderung aussieht und gegebenfalls Verlinkungen überprüfen. 
+Ist alles in Ordnung, speicherst du (strg+s /cmd +s) die Veränderungen und wechselst wieder auf GitHub Desktop. Hier solltest du sehen, dass die Veränderungen synchronisiert worden sind. Jetzt musst du noch auf der linken Seite (Commit to main) beschreiben, was genau du verändert hast. Anschließend wählst du die blaue Schaltfläche "push Origin". 
+Ist dies getan, wählst du in derselben Schaltfläche den Dropdown-Pfeil und gehst auf "create pull request"
+
+<img width="1135" alt="Image" src="https://github.com/user-attachments/assets/0d966914-3150-4d29-934c-dc0bd0c759e6" />
+
+<img width="1083" alt="Image" src="https://github.com/user-attachments/assets/a3d276b0-14ee-43b4-ab5a-7fece889a746" />
+
+<img width="671" alt="Image" src="https://github.com/user-attachments/assets/10c48536-822b-4499-b624-e362aa37fc4c" />
 
 
+## Reviewer hinzufügen und Mergen
 
+Wenn du bis hier hin alles richtig gemacht hast, sollte sich automatisch Github im Browser öffnen (mit deinem geöffneten Pull Request). Hier fügst du 3 Reviewer hinzu (6 Augen Pinzip), welche deine Veränderung überprüfen sollen. Erst wenn diese ihr "Ok" gegeben haben, kannst du deinen Pull Request "mergen", was bedeutet, dass deine Veränderungen in die Wiki-main aufgenommen werden.
 
+<img width="451" alt="Image" src="https://github.com/user-attachments/assets/fd59b6fc-2800-4488-95f2-c552cbadfce5" />
+<img width="876" alt="Image" src="https://github.com/user-attachments/assets/8c4049c8-1bf4-4284-8cef-edc1b9c75edc" />
+<img width="869" alt="Image" src="https://github.com/user-attachments/assets/e06a1e2c-c8a3-4fea-b0d1-3f281a543015" />
 
-
-
+### Das war´s auch schon. Ich hoffe, du konntest dich gut zurecht finden und erste Eindrücke und Erfahrungen im Umgang mit Github sammeln.

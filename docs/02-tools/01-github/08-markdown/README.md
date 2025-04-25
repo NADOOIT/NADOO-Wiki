@@ -1,4 +1,4 @@
-# 3.1.8 Markdown
+# Markdown
 
 Markdown ist eine einfache Auszeichnungssprache, mit der du Texte schnell und leicht lesbar formatieren kannst – zum Beispiel fett, kursiv, Listen, Überschriften oder Code-Blöcke.
 
