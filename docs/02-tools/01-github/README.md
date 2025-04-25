@@ -1,22 +1,36 @@
-# 3.1 GitHub
+# 2.1 GitHub
 
 GitHub ist eine Plattform zur **Versionsverwaltung** und **Zusammenarbeit**, die auf Git basiert. Sie ermöglicht es Entwicklern, Code zu hosten, zu überprüfen und gemeinsam an Projekten zu arbeiten. Mit Funktionen wie Pull Requests, Issues und Actions unterstützt GitHub den gesamten Entwicklungsprozess von der Planung bis zur Bereitstellung.
 
 ---
 
-## [3.1.1 Repository](1/README.md)
+## 2.1.1 Repository
 
 Ein Repository ist ein Speicherort für Projekte, in dem der gesamte Code und die zugehörige Historie gespeichert werden.
 
-## [3.1.2 Branches](2/README.md)
+## 2.1.2 Branches
 
 Branches ermöglichen es, verschiedene Versionen eines Projekts parallel zu entwickeln und zu verwalten.
 
-## [3.1.3 Pull Requests](3/README.md)
+### 2.1.2.1 Branch Protection
+
+Branch Protection ist eine Funktion, die es ermöglicht, bestimmte Regeln für Branches festzulegen, um sicherzustellen, dass Änderungen nur unter bestimmten Bedingungen vorgenommen werden können.
+
+---
+
+## 2.1.3 Pull Requests
 
 Pull Requests sind Anfragen zur Überprüfung und Zusammenführung von Änderungen in den Hauptzweig eines Projekts.
 
-### [3.1.3.1 Code-Review](3/1/README.md)
+### 2.1.3.1 Merge-Konflikte
+
+Merge-Konflikte treten auf, wenn zwei Branches Änderungen an denselben Zeilen eines Codes vorgenommen haben und Git nicht automatisch entscheiden kann, welche Version beibehalten werden soll.
+
+### 2.1.3.2 Code-Review
+
+Ein Code-Review ist der Prozess, bei dem ein Entwickler den Code eines anderen Entwicklers überprüft, um sicherzustellen, dass er den Qualitätsstandards entspricht und keine Fehler enthält.
+
+---
 
 ## [3.1.4 Issues](4/README.md)
 

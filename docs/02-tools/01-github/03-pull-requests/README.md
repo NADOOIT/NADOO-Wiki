@@ -1,4 +1,4 @@
-# 3.1.3 Pull Requests
+# Pull Requests
 
 Ein Pull Request ist eine Anfrage, Änderungen aus einem Branch in einen anderen Branch zu integrieren. Er dient als Diskussions- und Überprüfungsbasis, bevor Code offiziell zusammengeführt wird.
 
@@ -39,4 +39,20 @@ Pull Requests stellen sicher, dass neue Features oder Bugfixes vor ihrer Integra
 5. **Kontrolle über Änderungen:** Fehler und Konflikte werden frühzeitig erkannt, bevor sie im Hauptzweig landen.
 
 ---
-[Zurück](../2/README.md)| [Weiter](../4/README.md)|
+
+## Nachteile von Pull Requests
+
+1. **Zusätzlicher Aufwand:** Pull Requests erfordern Zeit und Ressourcen für die Überprüfung und Diskussion.
+2. **Komplexität:** Bei vielen Änderungen kann es schwierig sein, den Überblick zu behalten.
+3. **Merge-Konflikte:** Änderungen in verschiedenen Branches können zu Konflikten führen, die manuell gelöst werden müssen.
+4. **Abhängigkeiten:** Pull Requests können von anderen Änderungen abhängen, was die Integration erschwert.
+5. **Wartezeiten:** Entwickler müssen möglicherweise auf die Genehmigung ihrer Pull Requests warten, bevor sie mit der Arbeit fortfahren können.
+6. **Missverständnisse:** Diskussionen können zu Missverständnissen führen, wenn sie nicht klar formuliert sind.
+7. **Technische Schulden:** Wenn Pull Requests nicht regelmäßig bearbeitet werden, können sie zu einer Ansammlung von technischen Schulden führen.
+8. **Verzögerungen:** Lange Wartezeiten auf Reviews können den Entwicklungsprozess verlangsamen.
+9. **Unklare Verantwortlichkeiten:** Wenn mehrere Personen an einem Pull Request arbeiten, kann es unklar sein, wer für bestimmte Änderungen verantwortlich ist.
+10. **Überlastung:** Bei vielen offenen Pull Requests kann es schwierig sein, den Überblick zu behalten und Prioritäten zu setzen.
+11. **Fehlende Standards:** Wenn keine klaren Richtlinien für Pull Requests vorhanden sind, kann dies zu Inkonsistenzen und Verwirrung führen.
+12. **Technische Schulden:** Wenn Pull Requests nicht regelmäßig bearbeitet werden, können sie zu einer Ansammlung von technischen Schulden führen.
+
+---
