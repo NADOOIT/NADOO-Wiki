@@ -6,7 +6,7 @@ Wie Du bereits weißt, haben wir uns bei NADOO-IT den Aufbau einer starken, inte
 
 Aus diesem Grund sind Trainingsbeiträge fester Bestandteil Deiner Zeit bei NADOO-IT.
 
-<!--Nummerierung später ggf. verinfachen-->
+<!--Trenn-Ordner wird ggf. später noch erstellt und Nummerierung vereinfacht-->
 
 ## 5.2.1.1 Was ist ein Trainingsbeitrag?
 
@@ -62,11 +62,13 @@ Für jeden Trainingsbeitrag wird ein unter dem **Parent-Issue** [**Trainingsbeit
 
 1. Öffne das Issue [**Trainingsbeiträge Sammlung**](https://github.com/NADOOIT/NADOO-Launchpad/issues/1200) und klicke auf **_Create sub-issue_**. Falls die Ansammlung der bereits vorhandenen Sub-Issues ausgeklappt ist, musst Du etwas weiter nach unten scrollen, um zu dem Button zu gelangen. Alternativ kannst Du den kleinen Pfeil rechts neben **Sub-issues** anklicken, um die Liste einzuklappen.
 
-<!--hier Screenshots T"B Vorlage 0" und "Sub issue ein/ausklappen" einfügen-->
+![Sub-Issue ein u ausklappen](https://github.com/user-attachments/assets/bdec7d14-24be-4029-b6df-c1aba9d821ec)
+
+![TB Vorlage 0](https://github.com/user-attachments/assets/42f4c5c0-fd52-4784-b4df-92af2ef7f8a3)
 
 2. Es erscheint ein Pop-Up, in welchem Du die Art des Issues auswählen kannst. Wähle hier **_Trainingsbeitrag_** aus.
-
-<!--hier Screenshot "TB Vorlage 1" einfügen-->
+   
+![TB Vorlage 1](https://github.com/user-attachments/assets/7539c427-6fa0-48d0-bbcc-41091082958e)
 
 3. Super, Du befindest Dich jetzt in der Vorlage! Hier machst Du folgende Angaben:
 
@@ -76,7 +78,7 @@ Für jeden Trainingsbeitrag wird ein unter dem **Parent-Issue** [**Trainingsbeit
 
    3.3 Fülle **[??:??]** mit der ID des Themenbereichs und **[Themenbereich]** mit - _you guessed it_ - dem Namen des Themenbereichs.
 
-  <!--hier Screenshot "TB Themenbereich" einfügen-->
+![TB Themenbereich](https://github.com/user-attachments/assets/1d23cc9b-62fb-442b-98cb-a1eae85b418d)
 
 4. Das Textfeld unter **Trainingsbeitrag** ist Dein body - hier fügst Du also dein Hauptteil Deiner Inhalte ein.
 
@@ -91,7 +93,7 @@ Schau am besten Mal in den **Github Docs** vorbei:
 
 In dem Abschnitt findest Du leicht verständliche Erklärungen zu allen möglichen Arten, auf die Du Deinen Trainingsbeitrag formatieren, optimieren und ausschmücken kannst.
 
-<!--hier Screenshot "TB Vorlage 2" einfügen-->
+![TB Vorlage 2](https://github.com/user-attachments/assets/8bc21edc-7b44-4e54-b304-6d171830888f)
 
 5. Dieser Schritt ist kein Muss (und auch nicht bei jedem Thema super sinnvoll), aber: wenn Du richtig Bock hast und Deinen Beitrag interaktiv gestalten möchtest, dann bereite zusätzlich ein paar kleine, Themen-relevante Aufgaben vor. Die packst Du dann einfach mit ins Issue, damit Deine Teamkollegen diese zur Übung oder Auffrischung nutzen können.
    <!--hier muss noch geklärt werden, wie die Abschitte Aufgaben / Sub-Issues gehandhabt werden sollen-->
@@ -105,8 +107,6 @@ In dem Abschnitt findest Du leicht verständliche Erklärungen zu allen möglich
 (...)
 
 <!--Screenshot/s-->
-
-<!--hex code: fffc41-->
 
 6. Geschafft - jetzt musst Du nur noch auf **_Create issue_** klicken und Dein Trainingsbeitrag geht _live_!
 
