@@ -1,4 +1,4 @@
-# 3.1.6 GitHub-Notifcations und Visual Studio Code
+# GitHub-Notifcations und Visual Studio Code
 
 Um E-Mail-Benachrichtigungen für GitHub so weit wie möglich zu reduzieren oder ganz darauf zu verzichten, lohnt es sich, GitHub Notifications gezielt zu nutzen.
 

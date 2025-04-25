@@ -1,4 +1,4 @@
-# 3.5 Actions
+# Actions
 
 GitHub Actions ermöglichen die Automatisierung von Abläufen und Prozessen rund um Softwareprojekte. Über verschiedene Workflows können Tests, Builds oder Deployments ausgelöst werden.
 

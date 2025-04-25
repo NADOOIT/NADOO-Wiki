@@ -1,4 +1,4 @@
-# 3.1.4.1 Labels
+# Labels
 
 ## Empfohlene GitHub Labels für NADOO-Projekte
 
@@ -8,9 +8,15 @@ Um Issues im Projekt übersichtlich zu strukturieren, empfehlen wir als Beispiel
 
 | Label | Zweck |
 | :--- | ---|
-| Onboarding | Markiert Aufgaben, die sich gut für neue Teammitglieder eignen – ideal zum Einstieg ins Projekt. |
-| Wiki | Kennzeichnet Issues, die mit der Dokumentation oder dem NADOO-Wiki zusammenhängen. |
-| WIP | (Work in Progress) Wird verwendet, wenn ein Task bereits begonnen wurde, aber noch in Arbeit ist. |
+| onboarding | Markiert Aufgaben, die sich gut für neue Teammitglieder eignen – ideal zum Einstieg ins Projekt. |
+| wiki | Kennzeichnet Issues, die mit der Dokumentation oder dem NADOO-Wiki zusammenhängen. |
+| wip | (Work in Progress) Wird verwendet, wenn ein Task bereits begonnen wurde, aber noch in Arbeit ist. |
+| bug | Kennzeichnet Fehler, die im Code gefunden wurden. |
+| enhancement | Für Verbesserungen oder neue Features, die in das Projekt integriert werden sollen. |
+| question | Für Fragen, die im Projekt geklärt werden müssen. |
+| discussion | Für Diskussionen, die im Projekt geführt werden müssen. |
+| help-wanted | Für Aufgaben, bei denen Hilfe benötigt wird. |
+| ... | Weitere Labels können je nach Bedarf hinzugefügt werden. |
 
 ---
 

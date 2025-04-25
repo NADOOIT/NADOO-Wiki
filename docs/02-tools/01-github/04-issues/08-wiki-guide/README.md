@@ -1,4 +1,4 @@
-# 3.1.4.2 Issue Erstellungs Guide
+# Issue Erstellungs Guide
 
 **Einige Teilnehmer haben Schwierigkeiten, den Prozess zur Erstellung eines Issues sowie die Zuweisung eines Issues an sich selbst zu verstehen. Dafür wurde dieser Guide erstellt.**
 
