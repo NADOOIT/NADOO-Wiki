@@ -1,4 +1,4 @@
-# 3.3 IntelliJ IDEA
+# IntelliJ IDEA
 
 ## Überblick
 

@@ -1,4 +1,4 @@
-# 3.2.4 Editorfunktionen & IntelliSense
+# Editorfunktionen & IntelliSense
 
 1. Editorfunktionen verstehen: Erläutere, wie Funktionen wie Syntax-Hervorhebung, Code-Vervollständigung und Fehlererkennung genutzt werden können.
 2. IntelliSense konfigurieren: Erkläre, wie IntelliSense so eingestellt wird, dass kontextsensitive Vorschläge und Dokumentationen bereitgestellt werden.

@@ -1,4 +1,4 @@
-# 3.2.3 Arbeitsbereiche (Workspaces)
+# Workspaces (Arbeitsbereiche)
 
 1. Arbeitsbereiche definieren: Beschreibe den Zweck und die Struktur eines Workspaces.
 2. Neue Workspaces anlegen: Lege separate Bereiche für unterschiedliche Projekte oder Module an.

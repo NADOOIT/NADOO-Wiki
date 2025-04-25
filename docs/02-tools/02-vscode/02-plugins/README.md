@@ -1,4 +1,4 @@
-# 3.2.2 Erweiterungen & Plugins
+# 3Erweiterungen & Plugins
 
 1. Verfügbare Erweiterungen & Plugins recherchieren: Informiere dich über unterstützte Plugins für deine Anwendung.
 2. Auswahl und Installation: Wähle geeignete Plugins aus und installiere sie (z. B. über ein Paketmanagementsystem).

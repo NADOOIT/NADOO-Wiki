@@ -1,4 +1,4 @@
-# 3.3.1 IntelliJ IDEA installieren
+# IntelliJ IDEA installieren
 
 ## **Download:**
 

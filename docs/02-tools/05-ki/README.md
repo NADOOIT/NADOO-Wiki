@@ -1,4 +1,4 @@
-# 3.10 KI‐Nutzung: Ein umfassender Leitfaden
+# KI‐Nutzung: Ein umfassender Leitfaden
 
 Willkommen zu unserem Wiki-Artikel über die Nutzung von Künstlicher Intelligenz (KI). Dieser Leitfaden bietet einen Überblick über verschiedene KI-Tools und -Plattformen, ihre Anwendungen und Besonderheiten. Von API-basierten Diensten bis hin zu lokalen Modellen werden wir die wichtigsten Aspekte der KI-Nutzung beleuchten.
 
