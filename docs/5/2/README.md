@@ -62,13 +62,19 @@ Für jeden Trainingsbeitrag wird ein unter dem **Parent-Issue** [**Trainingsbeit
 
 1. Öffne das Issue [**Trainingsbeiträge Sammlung**](https://github.com/NADOOIT/NADOO-Launchpad/issues/1200) und klicke auf **_Create sub-issue_**. Falls die Ansammlung der bereits vorhandenen Sub-Issues ausgeklappt ist, musst Du etwas weiter nach unten scrollen, um zu dem Button zu gelangen. Alternativ kannst Du den kleinen Pfeil rechts neben **Sub-issues** anklicken, um die Liste einzuklappen.
 
+---
 ![Sub-Issue ein u ausklappen](https://github.com/user-attachments/assets/bdec7d14-24be-4029-b6df-c1aba9d821ec)
 
 ![TB Vorlage 0](https://github.com/user-attachments/assets/42f4c5c0-fd52-4784-b4df-92af2ef7f8a3)
 
+---
+
 2. Es erscheint ein Pop-Up, in welchem Du die Art des Issues auswählen kannst. Wähle hier **_Trainingsbeitrag_** aus.
-   
+
+---
 ![TB Vorlage 1](https://github.com/user-attachments/assets/7539c427-6fa0-48d0-bbcc-41091082958e)
+
+---
 
 3. Super, Du befindest Dich jetzt in der Vorlage! Hier machst Du folgende Angaben:
 
@@ -78,13 +84,16 @@ Für jeden Trainingsbeitrag wird ein unter dem **Parent-Issue** [**Trainingsbeit
 
    3.3 Fülle **[??:??]** mit der ID des Themenbereichs und **[Themenbereich]** mit - _you guessed it_ - dem Namen des Themenbereichs.
 
+---
 ![TB Themenbereich](https://github.com/user-attachments/assets/1d23cc9b-62fb-442b-98cb-a1eae85b418d)
+
+---
 
 4. Das Textfeld unter **Trainingsbeitrag** ist Dein body - hier fügst Du also dein Hauptteil Deiner Inhalte ein.
 
-Implementier hier neben Text gerne auch andere Medien wie Bilder, Animationen, Graphen, Links etc., um Deinen Beitrag so anschaulich wie möglich zu gestalten.
+Implementiere hier neben Text gerne auch andere Medien wie Bilder, Animationen, Graphen, Links etc., um Deinen Beitrag so anschaulich wie möglich zu gestalten.
 
-Und mach Dir die Markdown-Integration zu Nutze! Die richtige Formatierung macht Deinen Beitrag nicht nur schöner, sondern auch übersichtlicher und damit verständlicher.
+Und mach Dir die **Markdown**-Integration zu Nutze! Die richtige Formatierung macht Deinen Beitrag nicht nur schöner, sondern auch übersichtlicher und damit verständlicher.
 
 Weiteres Mittel zur verbesserten Struktur in Deinem Trainingsbeitrag könnte die Integration von Elementen wie Tabellen oder Listen sein.
 Schau am besten Mal in den **Github Docs** vorbei:
@@ -93,22 +102,26 @@ Schau am besten Mal in den **Github Docs** vorbei:
 
 In dem Abschnitt findest Du leicht verständliche Erklärungen zu allen möglichen Arten, auf die Du Deinen Trainingsbeitrag formatieren, optimieren und ausschmücken kannst.
 
+5. **Assigne** Dich selbst und füge passende **Labels** hinzu, damit Dein Trainingsbeitrag sich noch besser nach seinem Thema filtern und finden lässt. Standard-Labels, die Du immer mit aufführen solltest, sind **_documentation_** und **_trainingsbeitrag_**. Wenn Dein Thema aus einer der beiden Checklisten stammt, vermerke ebenfalls das entsprechende Label, also das für die **_abschlusspruefung_1_** bzw. **_abschlusspruefung_2_**. Falls es in unserer aktuellen Sammlung weitere relevante Labels gibt, füge diese gerne ebenfalls mit hinzu.
+
+---
 ![TB Vorlage 2](https://github.com/user-attachments/assets/8bc21edc-7b44-4e54-b304-6d171830888f)
 
-5. Dieser Schritt ist kein Muss (und auch nicht bei jedem Thema super sinnvoll), aber: wenn Du richtig Bock hast und Deinen Beitrag interaktiv gestalten möchtest, dann bereite zusätzlich ein paar kleine, Themen-relevante Aufgaben vor. Die packst Du dann einfach mit ins Issue, damit Deine Teamkollegen diese zur Übung oder Auffrischung nutzen können.
+---
+
+7. Dieser Schritt ist kein Muss (und auch nicht bei jedem Thema super sinnvoll), aber: wenn Du richtig Bock hast und Deinen Beitrag interaktiv gestalten möchtest, dann bereite zusätzlich ein paar kleine, Themen-relevante Aufgaben vor. Die packst Du dann einfach mit ins Issue, damit Deine Teamkollegen diese zur Übung oder Auffrischung nutzen können.
    <!--hier muss noch geklärt werden, wie die Abschitte Aufgaben / Sub-Issues gehandhabt werden sollen-->
 
-   5.1 _Aufgaben-Liste?_
+   6.1 _Aufgaben-Liste?_
    <!--Screenshot/s-->
 
-   5.2 _Fortschritt-Tracking?_
+   6.2 _Fortschritt-Tracking?_
    <!--Screenshot/s-->
 
 (...)
-
 <!--Screenshot/s-->
 
-6. Geschafft - jetzt musst Du nur noch auf **_Create issue_** klicken und Dein Trainingsbeitrag geht _live_!
+7. Geschafft - jetzt musst Du nur noch auf **_Create issue_** klicken und Dein Trainingsbeitrag geht _live_!
 
 **Hinweis:** Wir l(i)eben saubere Dokumentation.
 
@@ -120,7 +133,7 @@ Den **Mittwoch** ausgenommen, hält theoretisch jeder Tag in einer regulären NA
 
 Aktuell sind die Slots an allen verfügbaren Tagen [**Montag | Dienstag | Donnerstag | Freitag**] wie folgt eingeteilt:
 
-        10:35 – 10:45 Uhr | 7 Minuten Präsentation + 3 Minuten Q&A
+                                          10:35 – 10:45 Uhr | 7 Minuten Präsentation + 3 Minuten Q&A
 
 In welchem Kanal Du Deinen Beitrag hältst, hängt i.d.R. davon ab, in welchem 11er-Team Du Dich zu dem Zeitpunkt befindest.
 
