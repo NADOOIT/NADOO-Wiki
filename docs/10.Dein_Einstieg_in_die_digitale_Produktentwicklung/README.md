@@ -1,5 +1,4 @@
-# 10. Dein Einstieg in die Entwicklung eines digitalen Produkts
-
+# 10. Dein Einstieg in die digitale Produktentwicklung
 Digitale Produkte sind das Herzstück jedes IT-Unternehmens. Sie umfassen sowohl Dienstleistungen (z. B. Einrichtung, Wartung, Schulungen) als auch Softwareprodukte (z. B. Apps).
 
 Praktisch alles, was täglich getan wird oder über eine Software erfolgt, ist ein potenzielles Produkt.
