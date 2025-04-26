@@ -1,5 +1,4 @@
-# GitHub-Notifcations und Visual Studio Code
-
+# GitHub-Notifications und Visual Studio Code
 Um E-Mail-Benachrichtigungen für GitHub so weit wie möglich zu reduzieren oder ganz darauf zu verzichten, lohnt es sich, GitHub Notifications gezielt zu nutzen.
 
 Eine effiziente Herangehensweise besteht darin, die Benachrichtigungen innerhalb von Visual Studio Code (VS Code) zu integrieren und so z. B. Pull Requests, Issues und Kommentare **direkt in der Entwicklungsumgebung zu bearbeiten**.
