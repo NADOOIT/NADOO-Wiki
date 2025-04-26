@@ -40,6 +40,20 @@ Herzlich willkommen zu Deinem Einstieg in deine IT-Karriere bei uns!
 
 ---
 
+<!-- Einstieg & Orientierung -->
+
+## 📘 Einstieg & Orientierung
+
+<details>
+<summary>Onboarding und Probemonat</summary>
+
+- [Übersicht](docs/00-willkommen/README.md)
+
+</details>
+
+
+---
+
 <!-- Organisation & Rahmenbedingungen -->
 
 ## 🗂️ Organisation & Rahmenbedingungen
