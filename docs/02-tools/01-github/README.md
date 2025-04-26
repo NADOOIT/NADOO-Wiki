@@ -79,6 +79,7 @@ GitHub Actions ist eine CI/CD-Plattform (Continuous Integration/Continuous Deplo
 ---
 
 ## Notifications
+
 Benachrichtigungen sind Mitteilungen, die GitHub an Benutzer sendet, um sie über Änderungen, Kommentare oder Aktivitäten in ihren Repositories zu informieren. Sie helfen dabei, den Überblick über wichtige Ereignisse zu behalten und sicherzustellen, dass Benutzer auf dem Laufenden bleiben.
 
 ---

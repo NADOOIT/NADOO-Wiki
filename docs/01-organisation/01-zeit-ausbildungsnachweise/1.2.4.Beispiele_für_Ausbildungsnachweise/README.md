@@ -55,3 +55,4 @@ Kundenunternehmensdaten dürfen nicht genannt werden und müssen pseudonymisiert
 | :--- | :--- | :--- |
 | Montag | Besprechung mit potenziellem Kunden. | 8 |
 
+---

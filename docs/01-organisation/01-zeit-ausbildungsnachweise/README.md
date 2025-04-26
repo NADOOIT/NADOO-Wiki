@@ -7,4 +7,4 @@
 
 ---
 
-[Zurück](/docs/00-willkommen/README.md) | [Weiter](../3/README.md)
+[Zurück](/docs/00-willkommen/README.md) | [Weiter](/docs/01-organisation/01-zeit-ausbildungsnachweise/01-beispiele/README.md)

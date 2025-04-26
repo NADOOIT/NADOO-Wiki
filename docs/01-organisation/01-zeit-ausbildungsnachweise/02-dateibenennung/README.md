@@ -1,4 +1,4 @@
-# 1.2.1 Dateibenennungsrichtlinien
+# Dateibenennungsrichtlinien
 
 Diese Regeln wurden entwickelt, um die Bearbeitung der Dateien zu vereinfachen und eine bessere Sortierung zu gewährleisten.
 
@@ -28,7 +28,6 @@ Diese Regeln wurden entwickelt, um die Bearbeitung der Dateien zu vereinfachen u
 
 - Beispiel: 9_musterovski_boris_zeitnachweis_2024_8
 
-
 **4. Alle Buchstaben der Dateien werden KLEIN geschrieben**
 
 **5. Die Datei, die geschickt werden, sind im PDF-Format zu versenden**
@@ -42,3 +41,7 @@ Diese Regeln wurden entwickelt, um die Bearbeitung der Dateien zu vereinfachen u
 ![image](https://github.com/user-attachments/assets/8c520580-be00-42d1-b497-8e167a6fde34)
 
 Für weitere Informationen und Einblicke in den Entscheidungsprozess verweisen wir auf [Issue #312](https://github.com/NADOOIT/NADOO-Launchpad/issues/312) im NADOO-Launchpad auf GitHub.
+
+---
+
+[Zurück](/docs/01-organisation/01-zeit-ausbildungsnachweise/01-beispiele/README.md) | [Weiter](/docs/01-organisation/01-zeit-ausbildungsnachweise/README.md)

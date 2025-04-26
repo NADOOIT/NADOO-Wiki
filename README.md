@@ -6,9 +6,9 @@
 | 🏣 Anschrift | Am Markt 1, 47229 Duisburg | - Vorbereitung für Unternehmensarbeit und Selbständigkeit | - **Es gibt keine dummen Fragen!** |
 | 📞 Telefon | +49 2065 7098429 | - Programmieren & Teamarbeit |- **nur gemeinsam/zusammen sind wir stark!** |
 | 📱 Mobil | +49 176 565 44 075 | - Ermöglichung von Wegen aus dem Hamsterrad | |
-| 📧 E-Mail | <christoph.backhaus@nadooit.de> | - Etablierung von Standort-unbhängigen Möglichkeiten zur Zusammenarbeit |
+| 📧 E-Mail | <christoph.backhaus@nadooit.de> | - Etablierung von Standort-unbhängigen Möglichkeiten zur Zusammenarbeit | |
 | Discord | [NADOO-IT]( https://discord.gg/Ffv4JTFE7E) | - Ermöglichung von work-life-balance für alle | -Vereinbarkeit von Job & Familie |
-| Twitch | [NADOO-IT](https://www.twitch.tv/nadooit_christophba) |
+| Twitch | [NADOO-IT](https://www.twitch.tv/nadooit_christophba) | | |
 
 ---
 
@@ -57,19 +57,19 @@ Herzlich willkommen zu Deinem Einstieg in deine IT-Karriere bei uns!
 
 ## 🗂️ Organisation & Rahmenbedingungen
 
-### [1. Organisatorische Grundlagen & Bewerbungsprozess](docs/1/README.md)
+<!-- Zeit- und Ausbildungsnachweise -->
 
-#### [1.1 Onboarding und Probemonat](docs/1/1/README.md)
+<details>
+<summary>🔹 Zeit- und Ausbildungsnachweise</summary>
 
-#### [1.2 Abgabe von Zeit- und Ausbildungsnachweisen](docs/1/2/README.md)
+- 🔹 [Übersicht](docs/01-organisation/01-zeit-ausbildungsnachweise/README.md)
+- 🔹 [Beispiele zu Aubildungs- und Zeitnachweisen](docs/01-organisation/01-zeit-ausbildungsnachweise/01-beispiele/README.md)
+- 🔹 [Dateibenunngsrichtlinien](docs/01-organisation/01-zeit-ausbildungsnachweise/02-dateibenennung/README.md)
 
-#### [1.2.1 Dateibenennungsrichtlinien](docs/1/2/1/README.md)
+</details>
+
 
 #### [1.2.2 Prüfung des Dateinamens](docs/1/2/2/README.md)
-
-#### [1.2.3 Beispiele für Zeitnachweise](docs/1/2/3/README.md)
-
-#### [1.2.4 Beispiele für Ausbildungsnachweise](docs/1/2/4/README.md)
 
 #### [1.3 Jobrotation & Weiterbildung](docs/1/3/README.md)
 
