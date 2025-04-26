@@ -1,15 +1,19 @@
 # Onboarding und Probemonat
 
+![Willkommen](../../images/onboarding.png)
+
+---
+
 ## Direkte Aufnahme
 
-Anstatt langer Bewerbungsverfahren wirst Du direkt für einen Probemonat aufgenommen.  
+Anstatt langer Bewerbungsverfahren wirst du direkt für einen Probemonat aufgenommen.  
 
 ---
 
 ## Probemonat
 
-In diesem Monat hast Du die Chance, Dich zu beweisen - indem Du zeigst, dass Du die vorgegebenen Formalitäten einhältst und aktiv im Team mitarbeitest.
+In diesem Monat hast du die Chance, dich zu beweisen - indem du zeigst, dass du die vorgegebenen Formalitäten einhältst und aktiv im Team mitarbeitest.
 
 ---
 
-[Zurück](/README.md) | [Weiter](../2/README.md)
+[Zurück](/README.md) | [Weiter](/docs/01-organisation/01-zeit-ausbildungsnachweise/README.md)
