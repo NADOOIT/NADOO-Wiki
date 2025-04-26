@@ -6,8 +6,8 @@
 | 🏣 Anschrift | Am Markt 1, 47229 Duisburg | - Vorbereitung für Unternehmensarbeit und Selbständigkeit | - **Es gibt keine dummen Fragen!** |
 | 📞 Telefon | +49 2065 7098429 | - Programmieren & Teamarbeit |- **nur gemeinsam/zusammen sind wir stark!** |
 | 📱 Mobil | +49 176 565 44 075 | - Ermöglichung von Wegen aus dem Hamsterrad | |
-| 📧 E-Mail | <christoph.backhaus@nadooit.de> |
-| Discord | [NADOO-IT]( https://discord.gg/Ffv4JTFE7E) |
+| 📧 E-Mail | <christoph.backhaus@nadooit.de> | - Etablierung von Standort-unbhängigen Möglichkeiten zur Zusammenarbeit |
+| Discord | [NADOO-IT]( https://discord.gg/Ffv4JTFE7E) | - Ermöglichung von von work-life-balance für alle | -Vereinbarkeit von Job & Familie |
 | Twitch | [NADOO-IT](https://www.twitch.tv/nadooit_christophba) |
 
 ---
