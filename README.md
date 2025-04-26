@@ -72,6 +72,124 @@ Herzlich willkommen zu Deinem Einstieg in deine IT-Karriere bei uns!
 
 ---
 
+## 🛠️ Tools & Technologie
+
+<!-- Github -->
+
+<details>
+
+<summary>🔹 [GitHub](docs/02-tools/01-github/README.md) – Versionsverwaltung</summary>
+
+<details>
+
+<summary>[Repository](docs/02-tools/01-github/01-repository/README.md)</summary>
+
+</details>
+
+<details>
+
+<summary>[Branches](docs/02-tools/01-github/02-branches/README.md)</summary>
+
+- [Branch Protection](docs/02-tools/01-github/02-branches/01-protection/README.md)
+
+</details>
+
+<details>
+
+<summary>[Pull Requests](docs/02-tools/01-github/03-pull-requests/README.md)</summary>
+
+- [Merge Konflikte](docs/02-tools/01-github/03-pull-requests/01-merge-konflikte/README.md)
+- [Code Review](docs/02-tools/01-github/03-pull-requests/02-code-review/README.md)
+
+</details>
+
+<details>
+
+<summary>[Issues](docs/02-tools/01-github/04-issues/README.md)</summary>
+
+- [Labels](docs/02-tools/01-github/04-issues/01-labels/README.md)
+- [Types](docs/02-tools/01-github/04-issues/02-types/README.md)
+- [Assignes](docs/02-tools/01-github/04-issues/03-assignes/README.md)
+- [Milestons](docs/02-tools/01-github/04-issues/04-milestones/README.md)
+- [Projects](docs/02-tools/01-github/04-issues/05-projects/README.md)
+- [Discussions](docs/02-tools/01-github/04-issues/06-discussions/README.md)
+- [Templates](docs/02-tools/01-github/04-issues/07-templates/README.md)
+- [Nadoo-Wiki Issue-Erstellungs-Guide](docs/02-tools/01-github/04-issues/08-erstellungs-guide/README.md)
+
+</details>
+
+<details>
+
+<summary>[Actions](docs/02-tools/01-github/05-actions/README.md)</summary>
+
+</details>
+
+<details>
+
+<summary>[Notifications](docs/02-tools/01-github/06-notifications/README.md)</summary>
+
+</details>
+
+<details>
+
+<summary>[Suche](docs/02-tools/01-github/07-suche/README.md)</summary>
+
+</details>
+
+<details>
+
+<summary>[Markdown](docs/02-tools/01-github/08-markdown/README.md)</summary>
+
+</details>
+
+
+</details>
+
+<!-- Visual Studio Code  -->
+<details>
+
+<summary>🔹 [Visual Studio Code](docs/02-tools/02-vscode/README.md) - Integrierte Enwticklunsgumgebung (IDE)</summary>
+
+- [Installation](docs/02-tools/02-vscode/01-installation/README.md)
+- [Plugins](docs/02-tools/02-vscode/02-plugins/README.md)
+- [Workspaces](docs/02-tools/02-vscode/03-workspaces/README.md)
+- [Editor](docs/02-tools/02-vscode/04-editor/README.md)
+- [Terminal](docs/02-tools/02-vscode/05-terminal/README.md)
+
+</details>
+
+<!-- IntelliJ IDEA  -->
+<details>
+<summary>🔹 [IntelliJ IDEA](docs/02-tools/03-intellij/README.md) - Java IDE</summary>
+
+- [Installation](docs/02-tools/03-intellij/01-installation/README.md)
+
+</details>
+
+<!-- Terminal  -->
+
+<details>
+
+<summary>🔹 [Terminal](docs/02-tools/04-terminal/README.md)</summary>
+
+</details>
+
+<!-- KI  -->
+
+<details>
+
+<summary>🔹 [KI](docs/02-tools/05-ki/README.md) - Künstliche Intelligenz</summary>
+
+- [Large Language Model (LLM) und Apple MLX Framework](docs/02-tools/05-ki/01-llm-mlx/README.md)
+- [Gemini API](docs/02-tools/05-ki/02-gemini-api/README.md)
+
+</details>
+
+
+</details>
+
+---
+
 #### [2. Meeting Strukturen](docs/2/README.md)
 
 ##### [2.1 Morgenmeetings – Allgemeine Zeitpläne](docs/2/1/README.md)

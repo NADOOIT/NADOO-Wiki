@@ -1,4 +1,4 @@
-# 3.10.2 Unterschiede zwischen LLM und MLX (MacOS Silicon)
+# Unterschiede zwischen LLM und MLX (MacOS Silicon)
 
 ## 🧠 LLM (Large Language Model)
 
