@@ -151,11 +151,31 @@ Herzlich willkommen zu Deinem Einstieg in deine IT-Karriere bei uns!
 
 </details>
 
+<!-- Prüfungs-Vorbereitung und Präsentationstraining -->
 
+<details>
+<summary>🔹 Prüfungs-Vorbereitung und Präsentationstraining</summary>
 
-#### [1.8 KAIZEN bei Christoph Backhaus IT](docs/1/8/README.md)
+- 🔹 [Übersicht](/docs/01-organisation/11-vorbereitung-training/README.md)
 
-#### [1.9 Die Verantwortung und Unsicherheit des Programmierer‐Daseins](docs/1/9/README.md)
+</details>
+
+<!-- KAIZEN -->
+
+<details>
+<summary>🔹 KAIZEN bei Christoph Backhaus IT</summary>
+
+- 🔹 [Übersicht](/docs/01-organisation/12-kaizen/README.md)
+
+</details>
+
+<!-- Die Verantwortung und Unsicherheit des Programmierer‐Daseins -->
+<details>
+<summary>🔹 Die Verantwortung und Unsicherheit des Programmierer‐Daseins</summary>
+
+- 🔹 [Übersicht](/docs/01-organisation/13-verantwortung-unsicherheit/README.md)
+
+</details>
 
 ---
 

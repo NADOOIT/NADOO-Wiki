@@ -36,3 +36,5 @@ Fazit: Die Rolle ist weniger Chef:in als **Team-Enabler** – sie schafft Strukt
 Die Teamkoordinator:in ist dafür da, dass alle im Team ihre Aufgaben gut erledigen können.
 
 ---
+
+[Zurück](/docs/01-organisation/09-jobrotation-weiterbildung/README.md) | [Weiter](/docs/01-organisation/11-vorbereitung-training/README.md)

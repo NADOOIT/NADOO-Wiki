@@ -1,4 +1,4 @@
-# 1.8 KAIZEN bei Christoph Backhaus IT: Eine Kultur der kontinuierlichen Verbesserung
+# KAIZEN bei Christoph Backhaus IT: Eine Kultur der kontinuierlichen Verbesserung
 
 ## Einführung
 
