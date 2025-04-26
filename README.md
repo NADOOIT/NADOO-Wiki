@@ -106,9 +106,19 @@ Herzlich willkommen zu Deinem Einstieg in deine IT-Karriere bei uns!
 
 </details>
 
+<!-- Verhaltensregelen -->
+
+<details>
+<summary>🔹 Verhaltensregeln und Umgang miteinander</summary>
+
+- 🔹 [Übersicht](docs/01-organisation/04-krankmeldungen/README.md)
+
+</details>
+
+
 #### [1.3 Jobrotation & Weiterbildung](docs/1/3/README.md)
 
-#### [1.4 Verhaltensregeln und Umgang miteinander](docs/1/4/README.md)
+#### [1.4 ](docs/1/4/README.md)
 
 
 
