@@ -90,7 +90,7 @@ Herzlich willkommen zu Deinem Einstieg in deine IT-Karriere bei uns!
 - [Issues](docs/02-tools/01-github/04-issues/README.md)
   - [Labels](docs/02-tools/01-github/04-issues/01-labels/README.md)
   - [Types](docs/02-tools/01-github/04-issues/02-types/README.md)
-  - [Assignes](docs/02-tools/01-github/04-issues/03-assignes/README.md)
+  - [Assignees](docs/02-tools/01-github/04-issues/03-assignees/README.md)
   - [Milestones](docs/02-tools/01-github/04-issues/04-milestones/README.md)
   - [Projects](docs/02-tools/01-github/04-issues/05-projects/README.md)
   - [Discussions](docs/02-tools/01-github/04-issues/06-discussions/README.md)
