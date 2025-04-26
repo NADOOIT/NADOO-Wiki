@@ -53,7 +53,7 @@ Herzlich willkommen zu Deinem Einstieg in deine IT-Karriere bei uns!
 
 ---
 
-<!-- Organisation & Rahmenbedingungen -->
+<!-- 1. Organisation & Rahmenbedingungen -->
 
 ## 🗂️ Organisation & Rahmenbedingungen
 
@@ -89,21 +89,32 @@ Herzlich willkommen zu Deinem Einstieg in deine IT-Karriere bei uns!
 
 <!-- Krankmeldungen -->
 
-<details><
+<details>
 <summary>🔹 Krankmeldungen</summary>
+
+- 🔹 [Übersicht](docs/01-organisation/04-krankmeldungen/README.md)
+
+</details>
 
 <!-- Zeiterfassung mit NADOO-Launchpad -->
 
+<details>
+<summary>🔹 Zeiterfassung</summary>
+
+- 🔹 [Übersicht](docs/01-organisation/05-zeiterfassung/README.md)
+- 🔹 Anleitung NADOO-Launchpad
+
+</details>
 
 #### [1.3 Jobrotation & Weiterbildung](docs/1/3/README.md)
 
 #### [1.4 Verhaltensregeln und Umgang miteinander](docs/1/4/README.md)
 
-#### [1.5 Arbeitszeiten & Pausen](docs/1/5/README.md)
+
 
 #### [1.6 Mutterschutz & Elternzeit](docs/1/6/README.md)
 
-#### [1.7 Urlaubsregelung](docs/1/7/README.md)
+
 
 #### [1.8 KAIZEN bei Christoph Backhaus IT](docs/1/8/README.md)
 
