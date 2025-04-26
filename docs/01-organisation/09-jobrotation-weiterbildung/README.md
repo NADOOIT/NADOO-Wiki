@@ -1,12 +1,12 @@
-# 1.3. Jobrotation & Weiterbildung
+# Jobrotation & Weiterbildung
 
 ---
 
-## 1.3.1 Jobrotation
+## Jobrotation
 
 Im Rahmen Deiner Ausbildung durchläufst Du verschiedene Bereiche der Softwareentwicklung.
 
-Nach Abschluss des Onboarding-Prozesses erhältst Du die Möglichkeit - schrittweise echte Verantwortung – auch in [Teamkoordinationsrollen](/docs/5/4/README.md) zu übernehmen.
+Nach Abschluss des Onboarding-Prozesses erhältst Du die Möglichkeit - schrittweise echte Verantwortung – auch in **Teamkoordinationsrollen** zu übernehmen.
 
 Dies geschieht im Rahmen eines Jobrotationsverfahrens, das Dir Einblicke in verschiedene Arbeitsweisen ermöglicht.
 
@@ -18,7 +18,7 @@ Wir fördern Dich in den folgenden Bereichen:
 
 ---
 
-## 1.3.2 Präsentationstraining
+## Präsentationstraining
 
 Regelmäßig präsentierst Du in unseren 11er-Meetings technische Themen über Trainingsbeiträge, welch Du selbst erstellt oder mit Unterstützung von KI zum Nutzen aller generiert hast.
 
@@ -28,4 +28,4 @@ Deine erstellten wertvollen Unterlagen fließen später in unser Wiki, der damit
 
 ---
 
-[Zurück](../2/README.md) | [Weiter](../4/README.md)
+[Zurück](/docs/01-organisation/09-jobrotation-weiterbildung/README.md) | [Weiter](/docs/01-organisation/10-teamkoordination/README.md)

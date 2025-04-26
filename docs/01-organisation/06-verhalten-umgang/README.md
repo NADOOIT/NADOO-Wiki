@@ -33,4 +33,4 @@ Während unserer Meetings ist Videoanwesenheit Pflicht – alternativ können vi
 
 ---
 
-[Zurück]() | [Weiter]()
+Zurück | [Weiter](/docs/01-organisation/07-feedback-kultur/README.md)

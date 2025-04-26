@@ -124,12 +124,30 @@ Herzlich willkommen zu Deinem Einstieg in deine IT-Karriere bei uns!
 
 </details>
 
+<!-- Mutterschutz & Elternzeit -->
+
+<details>
+<summary>🔹 Mutterschutz & Elternzeit</summary>
+
+- 🔹 [Übersicht](/docs/01-organisation/08-mutterschutz-elternzeit/README.md)
+
+</details>
+
+<!-- Jobrotation & Weiterbildung -->
+
+<details>
+<summary>🔹 Jobrotation & Weiterbildung</summary>
+
+- 🔹 [Übersicht](/docs/01-organisation/09-jobrotation-weiterbildung/README.md)
+
+</details>
+
 
 #### [1.3 Jobrotation & Weiterbildung](docs/1/3/README.md)
 
 
 
-#### [1.6 Mutterschutz & Elternzeit](docs/1/6/README.md)
+
 
 
 
