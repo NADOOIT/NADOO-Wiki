@@ -1,12 +1,18 @@
-# Willkommen
+# Willkommen bei NADOO-IT
 
-| |
-|:---:|
-| ![NADOO-IT](images/nadooit.png) |
+| [Christoph Backhaus IT](https://wirrettendeinezeit.de) | **Unser Team** | **Unsere Mission** | **Unsere Kernwerte** |
+|:--- | :--- | :--- | :--- |
+| ![NADOO-IT](images/nadooit.png) | [Abdel](https://github.com/Abdel-213), [Alexander P.](https://github.com/cosinus-a), [Alexander W.](https://github.com/Alexander-AzTech2064), [Asieh](https://github.com/Asiyehjfr), ... | - **Entwicklung einer Platform von Anwendungsentwickler:innen für Anwendungsentwickler:innen** |  - **Es gibt keine Fehler, sondern ausschließlcih - Chancen sich gemeinsam weiter zu entwickeln!** |
+| 🏣 Anschrift | Am Markt 1, 47229 Duisburg | - Vorbereitung für Unternehmensarbeit und Selbständigkeit | - **Es gibt keine dummen Fragen!** |
+| 📞 Telefon | +49 2065 7098429 | - Programmieren & Teamarbeit |- **nur gemeinsam/zusammen sind wir stark!** |
+| 📱 Mobil | +49 176 565 44 075 | - Ermöglichung von Wegen aus dem Hamsterrad | |
+| 📧 E-Mail | <christoph.backhaus@nadooit.de> | - Etablierung von Standort-unbhängigen Möglichkeiten zur Zusammenarbeit |
+| Discord | [NADOO-IT]( https://discord.gg/Ffv4JTFE7E) | - Ermöglichung von work-life-balance für alle | -Vereinbarkeit von Job & Familie |
+| Twitch | [NADOO-IT](https://www.twitch.tv/nadooit_christophba) |
 
 ---
 
-Herzlich willkommen zu Deinem Einstieg in die IT-Karriere bei [Christoph Backhaus IT](https://wirrettendeinezeit.de).  
+Herzlich willkommen zu Deinem Einstieg in deine IT-Karriere bei uns!
 
 - Wir freuen uns 😊, Dich auf Deinem Weg in die Welt der Anwendungsentwicklung und die Zukunft der IT 🍀 begleiten zu dürfen 🙏.
 
@@ -66,6 +72,85 @@ Herzlich willkommen zu Deinem Einstieg in die IT-Karriere bei [Christoph Backhau
 
 ---
 
+<!-- 2. Tools & Technologien -->
+
+## 🛠️ Tools & Technologie
+
+<!-- Github -->
+
+<details>
+<summary>🔹 Versionsverwaltung **GitHub**</summary>
+
+- [Übersicht](docs/02-tools/01-github/README.md)
+- [Repository](docs/02-tools/01-github/01-repository/README.md)
+- [Branches](docs/02-tools/01-github/02-branches/README.md)
+- [Pull Requests](docs/02-tools/01-github/03-pull-requests/README.md)
+  - [Merge Konflikte](docs/02-tools/01-github/03-pull-requests/01-merge-konflikte/README.md)
+  - [Code Review](docs/02-tools/01-github/03-pull-requests/02-code-review/README.md)
+- [Issues](docs/02-tools/01-github/04-issues/README.md)
+  - [Labels](docs/02-tools/01-github/04-issues/01-labels/README.md)
+  - [Types](docs/02-tools/01-github/04-issues/02-types/README.md)
+  - [Assignees](docs/02-tools/01-github/04-issues/03-assignees/README.md)
+  - [Milestones](docs/02-tools/01-github/04-issues/04-milestones/README.md)
+  - [Projects](docs/02-tools/01-github/04-issues/05-projects/README.md)
+  - [Discussions](docs/02-tools/01-github/04-issues/06-discussions/README.md)
+  - [Templates](docs/02-tools/01-github/04-issues/07-templates/README.md)
+  - [Issue-Erstellungs-Guide](docs/02-tools/01-github/04-issues/08-erstellungs-guide/README.md)
+- [Actions](docs/02-tools/01-github/05-actions/README.md)
+- [Notifications](docs/02-tools/01-github/06-notifications/README.md)
+- [Suche](docs/02-tools/01-github/07-suche/README.md)
+- [Markdown](docs/02-tools/01-github/08-markdown/README.md)
+
+</details>
+
+<!-- Visual Studio Code -->
+
+<details>
+<summary>🔹 Integrierte Entwicklungsumgebung **Visual Studio Code**</summary>
+
+- [Übersicht](docs/02-tools/02-vscode/README.md)
+- [Installation](docs/02-tools/02-vscode/01-installation/README.md)
+- [Plugins](docs/02-tools/02-vscode/02-plugins/README.md)
+- [Workspaces](docs/02-tools/02-vscode/03-workspaces/README.md)
+- [Editor](docs/02-tools/02-vscode/04-editor/README.md)
+- [Terminal](docs/02-tools/02-vscode/05-terminal/README.md)
+
+</details>
+
+<!-- IntelliJ IDEA -->
+
+<details>
+<summary>🔹 Java IDE **IntelliJ IDEA** </summary>
+
+- [Übersicht](docs/02-tools/03-intellij/README.md)
+- [Installation](docs/02-tools/03-intellij/01-installation/README.md)
+
+</details>
+
+<!-- Terminal -->
+
+<details>
+<summary>🔹 Terminal</summary>
+
+- [Übersicht](docs/02-tools/04-terminal/README.md)
+
+</details>
+
+<!-- KI -->
+
+<details>
+<summary>🔹 Künstliche Intelligenz - **LLM und MLX**</summary>
+
+- [Übersicht](docs/02-tools/05-ki/README.md)
+- [Large Language Model (LLM) und Apple MLX Framework](docs/02-tools/05-ki/01-llm-mlx/README.md)
+- [Gemini API](docs/02-tools/05-ki/02-gemini-api/README.md)
+
+</details>
+
+---
+
+<!-- Meeting Strukturen -->
+
 #### [2. Meeting Strukturen](docs/2/README.md)
 
 ##### [2.1 Morgenmeetings – Allgemeine Zeitpläne](docs/2/1/README.md)
@@ -76,77 +161,15 @@ Herzlich willkommen zu Deinem Einstieg in die IT-Karriere bei [Christoph Backhau
 
 ---
 
-#### [3. Technische Grundlagen & Praktische Anwendung](docs/3/README.md)
+## Technische Grundlagen & Praktische Anwendung
 
-##### [3.1 GitHub](docs/3/1/README.md) - die Versionsverwaltung bei NADOO-IT
+### Dokumentation
 
-###### [3.1.1 Repository](docs/3/1/1/README.md)
+### Clean Architecture
 
-###### [3.1.2 Branches](docs/3/1/2/README.md)
+### Einstieg mit der eigenen App
 
-###### [3.1.2.1 Branch Protection](docs/3/1/2/1/README.md)
-
-###### [3.1.3 Pull Requests](docs/3/1/3/README.md)
-
-###### [3.1.3.1 Merge-Konflikte](docs/3/1/3/1/README.md)
-
-###### [3.1.4 Issues](docs/3/1/4/README.md)
-
-###### [3.1.4.1 Labels](docs/3/1/4/1/README.md)
-
-###### [3.1.4.2 Issue Erstellungs Guide](docs/3/1/4/2/README.md)
-
-###### [3.1.5 GitHub Actions](docs/3/1/5/README.md)
-
-###### [3.1.6 GitHub Notifications](docs/3/1/6/README.md)
-
-###### [3.1.7 GitHub Suchfunktion](docs/3/1/7/README.md)
-
-###### [3.1.8 GitHub Markdown](docs/3/1/8/README.md)
-
-###### [3.1.9 Selbstständig Veränderungen innerhalb des Wikis vornehmen (später auch am Launchpad). Ein kleiner Guide.](docs/3/1/9/README.md)
-
----
-
-##### [3.2 Visual Studio Code](docs/3/2/README.md) - integrierte Entwicklungsumgebung (IDE) für multiplattformübergreifende Softwareentwicklung
-
-###### [3.2.1 Installation & Einrichtung](docs/3/2/1/README.md)
-
-###### [3.2.2 Erweiterungen](docs/3/2/2/README.md)
-
-###### [3.2.3 Arbeitsbereiche (Workspaces)](docs/3/2/3/README.md)
-
-###### [3.2.4 Editorfunktionen & IntelliSense](docs/3/2/4/README.md)
-
-###### [3.2.5 Debugging & Terminal](docs/3/2/5/README.md)
-
----
-
-#### [3.3 IntelliJ IDEA](docs/3/3/README.md) - integrierte Entwicklungsumgebung (IDE) für die Programmiersprache Java
-
-##### [3.3.1 Installation & Einrichtung](docs/3/3/1/README.md)
-
----
-
-##### [3.4 Java](docs/3/4/README.md) - Programmiersprache
-
----
-
-##### [3.7 Dokumentation](docs/3/7/README.md)
-
-##### [3.8 Clean Architecture](docs/3/8/README.md)
-
-##### [3.9 Einstieg mit der eigenen App](docs/3/9/README.md)
-
-##### [3.10 KI‐Nutzung: Ein umfassender Leitfaden](docs/3/10/README.md)
-
-###### [3.10.1 Nutzung der Gemini API – Anleitung](docs/3/10/1/README.md)
-
-###### [3.10.2 Unterschiede zwischen LLM und MLX (MacOS Silicon)](docs/3/10/2/README.md)
-
-##### [3.11 Terminal Grundlagen](docs/3/11/README.md)
-
-##### [3.12 Mögliche interessante Orte zum Arbeiten und Lernen](docs/3/12/README.md)
+## Mögliche interessante Orte zum Arbeiten und Lernen
 
 ---
 
@@ -233,10 +256,6 @@ Herzlich willkommen zu Deinem Einstieg in die IT-Karriere bei [Christoph Backhau
 ---
 
 ### [7. Datenschutz & Datensicherheit](docs/7/README.md)
-
----
-
-### [8. Erreichbarkeit & Kontakt](docs/8/README.md)
 
 ---
 
