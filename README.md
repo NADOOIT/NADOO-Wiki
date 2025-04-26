@@ -268,18 +268,6 @@ Herzlich willkommen zu Deinem Einstieg in deine IT-Karriere bei uns!
 
 ---
 
-## Technische Grundlagen & Praktische Anwendung
-
-### Dokumentation
-
-### Clean Architecture
-
-### Einstieg mit der eigenen App
-
-## Mögliche interessante Orte zum Arbeiten und Lernen
-
----
-
 <details>
 <summary>3.13 Python - Programmiersprache (Archiv)</summary>
 
@@ -375,6 +363,16 @@ Herzlich willkommen zu Deinem Einstieg in deine IT-Karriere bei uns!
 ---
 
 ### [11. Das NADOO-IT Framework](docs/11/README.md)
+
+---
+
+### Dokumentation
+
+### Clean Architecture
+
+### Einstieg mit der eigenen App
+
+## Mögliche interessante Orte zum Arbeiten und Lernen
 
 ---
 
