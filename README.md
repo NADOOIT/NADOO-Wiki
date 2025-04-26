@@ -36,7 +36,7 @@ Herzlich willkommen zu Deinem Einstieg in deine IT-Karriere bei uns!
 | 4. Sollte dabei etwas unverständlich sein, dann erstelle umgehend ein [Issue](https://github.com/NADOOIT/NADOO-Wiki/issues/new/choose) ❗❗❗ |
 | 5. Unsere erfahrenen Kolleginnen und Kollegen werden sich dann zeitnah um Dein Anliegen kümmern und Dich unterstützen! |
 
-**Viel Spass und Erfolg bei uns - [Feedback](/docs/4/4/README.md) ist immer willkommen und ausdrücklich erwünscht**  ❗
+**Viel Spass und Erfolg bei uns - [Feedback](/docs/01-organisation/07-feedback-kultur/README.md) ist immer willkommen und ausdrücklich erwünscht**  ❗
 
 ---
 
@@ -111,14 +111,21 @@ Herzlich willkommen zu Deinem Einstieg in deine IT-Karriere bei uns!
 <details>
 <summary>🔹 Verhaltensregeln und Umgang miteinander</summary>
 
-- 🔹 [Übersicht](docs/01-organisation/04-krankmeldungen/README.md)
+- 🔹 [Übersicht](/docs/01-organisation/06-verhalten-umgang/README.md)
+
+</details>
+
+<!-- Feedback-Kultur -->
+
+<details>
+<summary>🔹 Feedback-Kultur</summary>
+
+- 🔹 [Übersicht](/docs/01-organisation/07-feedback-kultur/README.md)
 
 </details>
 
 
 #### [1.3 Jobrotation & Weiterbildung](docs/1/3/README.md)
-
-#### [1.4 ](docs/1/4/README.md)
 
 
 

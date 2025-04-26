@@ -1,4 +1,4 @@
-# 4.4 Feedback-Kultur
+# Feedback-Kultur
 
 ## Feedback-Kultur bei NADOO-IT
 
