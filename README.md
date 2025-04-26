@@ -142,12 +142,14 @@ Herzlich willkommen zu Deinem Einstieg in deine IT-Karriere bei uns!
 
 </details>
 
+<!-- Teamkoordinations-Rolle -->
 
-#### [1.3 Jobrotation & Weiterbildung](docs/1/3/README.md)
+<details>
+<summary>🔹 Teamkoordinations-Rolle</summary>
 
+- 🔹 [Übersicht](/docs/01-organisation/10-teamkoordination/README.md)
 
-
-
+</details>
 
 
 
