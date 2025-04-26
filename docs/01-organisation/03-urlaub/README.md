@@ -18,4 +18,4 @@ Nicht genehmigte Fehltage werden automatisch als Urlaubstage verrechnet. Sollte 
 
 ---
 
-[Zurück](/docs/01-organisation/02-arbeits-pausenzeiten/README.md) | [Weiter](/docs/2/README.md)
+[Zurück](/docs/01-organisation/02-arbeits-pausenzeiten/README.md) | [Weiter](/docs/01-organisation/04-krankmeldungen/README.md
