@@ -78,6 +78,20 @@ Herzlich willkommen zu Deinem Einstieg in deine IT-Karriere bei uns!
 
 </details>
 
+<!-- Urlaub -->
+
+<details>
+<summary>🔹 Urlaub</summary>
+
+- 🔹 [Übersicht](docs/01-organisation/03-urlaub/README.md)
+
+</details>
+
+<!-- Krankmeldungen -->
+
+<details><
+<summary>🔹 Krankmeldungen</summary>
+
 <!-- Zeiterfassung mit NADOO-Launchpad -->
 
 
@@ -293,23 +307,6 @@ Herzlich willkommen zu Deinem Einstieg in deine IT-Karriere bei uns!
 ---
 
 ### [11. Das NADOO-IT Framework](docs/11/README.md)
-
----
-
-### 12. Wichtige Hinweise
-
-#### Krankmeldungen
-
-Melde Dich bitte bei Krankheit bis spätestens 11:00 Uhr – sowohl direkt an Christoph Backhaus, das zuständige Institut und Deinen Kostenträger (Arbeitsagentur oder Jobcenter).
-
-**Fehlende oder verspätete Meldungen gelten als Abwesenheit und können entsprechende Konsequenzen haben!**
-
----
-
-### 13. Arbeitszeiten
-
-Unsere täglichen [Meetings](docs/2/README.md) und festgelegten [Ruhezeiten](docs/1/5/README.md) (mindestens 11 Stunden zwischen den Arbeitstagen) sind **verbindlich einzuhalten.**
-Die maximale [Arbeitszeit](docs/1/5/README.md) endet um 23:00 Uhr.
 
 ---
 

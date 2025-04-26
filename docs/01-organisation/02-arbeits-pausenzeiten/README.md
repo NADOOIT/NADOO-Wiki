@@ -1,5 +1,10 @@
 # Arbeitszeit & Pausen
 
+| |
+|:--- |
+| Unsere täglichen Meetings und festgelegten Ruhezeiten (mindestens 11 Stunden zwischen den Arbeitstagen) sind **verbindlich einzuhalten.** Die maximale Arbeitszeit endet um 23:00 Uhr. |
+
+
 ## Arbeitszeiten nach [Arbeitszeitgesetz](https://www.gesetze-im-internet.de/arbzg/BJNR117100994.html)
 
 - **§3 Stunden:**
@@ -48,4 +53,4 @@
 
 ---
 
-[Zurück](/docs/01-organisation/01-zeit-ausbildungsnachweise/03-ueberpruefung/README.md) | [Weiter](../6/README.md)
+[Zurück](/docs/01-organisation/01-zeit-ausbildungsnachweise/03-ueberpruefung/README.md) | [Weiter](/docs/01-organisation/03-urlaub/README.md)
