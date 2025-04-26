@@ -6,9 +6,9 @@
 | 🏣 Anschrift | Am Markt 1, 47229 Duisburg | - Vorbereitung für Unternehmensarbeit und Selbständigkeit | - **Es gibt keine dummen Fragen!** |
 | 📞 Telefon | +49 2065 7098429 | - Programmieren & Teamarbeit |- **nur gemeinsam/zusammen sind wir stark!** |
 | 📱 Mobil | +49 176 565 44 075 | - Ermöglichung von Wegen aus dem Hamsterrad | |
-| 📧 E-Mail | <christoph.backhaus@nadooit.de> | - Etablierung von Standort-unbhängigen Möglichkeiten zur Zusammenarbeit |
+| 📧 E-Mail | <christoph.backhaus@nadooit.de> | - Etablierung von Standort-unbhängigen Möglichkeiten zur Zusammenarbeit | |
 | Discord | [NADOO-IT]( https://discord.gg/Ffv4JTFE7E) | - Ermöglichung von work-life-balance für alle | -Vereinbarkeit von Job & Familie |
-| Twitch | [NADOO-IT](https://www.twitch.tv/nadooit_christophba) |
+| Twitch | [NADOO-IT](https://www.twitch.tv/nadooit_christophba) | | |
 
 ---
 
@@ -36,39 +36,146 @@ Herzlich willkommen zu Deinem Einstieg in deine IT-Karriere bei uns!
 | 4. Sollte dabei etwas unverständlich sein, dann erstelle umgehend ein [Issue](https://github.com/NADOOIT/NADOO-Wiki/issues/new/choose) ❗❗❗ |
 | 5. Unsere erfahrenen Kolleginnen und Kollegen werden sich dann zeitnah um Dein Anliegen kümmern und Dich unterstützen! |
 
-**Viel Spass und Erfolg bei uns - [Feedback](/docs/4/4/README.md) ist immer willkommen und ausdrücklich erwünscht**  ❗
+**Viel Spass und Erfolg bei uns - [Feedback](/docs/01-organisation/07-feedback-kultur/README.md) ist immer willkommen und ausdrücklich erwünscht**  ❗
 
 ---
 
-## Übersicht der Inhalte
+<!-- Einstieg & Orientierung -->
 
-### [1. Organisatorische Grundlagen & Bewerbungsprozess](docs/1/README.md)
+## 📘 Einstieg & Orientierung
 
-#### [1.1 Onboarding und Probemonat](docs/1/1/README.md)
+<details>
+<summary>🔹 Onboarding und Probemonat</summary>
 
-#### [1.2 Abgabe von Zeit- und Ausbildungsnachweisen](docs/1/2/README.md)
+- 🔹 [Übersicht](docs/00-willkommen/README.md)
 
-#### [1.2.1 Dateibenennungsrichtlinien](docs/1/2/1/README.md)
+</details>
 
-#### [1.2.2 Prüfung des Dateinamens](docs/1/2/2/README.md)
+---
 
-#### [1.2.3 Beispiele für Zeitnachweise](docs/1/2/3/README.md)
+<!-- 1. Organisation & Rahmenbedingungen -->
 
-#### [1.2.4 Beispiele für Ausbildungsnachweise](docs/1/2/4/README.md)
+## 🗂️ Organisation & Rahmenbedingungen
 
-#### [1.3 Jobrotation & Weiterbildung](docs/1/3/README.md)
+<!-- Zeit- und Ausbildungsnachweise -->
 
-#### [1.4 Verhaltensregeln und Umgang miteinander](docs/1/4/README.md)
+<details>
+<summary>🔹 Zeit- und Ausbildungsnachweise</summary>
 
-#### [1.5 Arbeitszeiten & Pausen](docs/1/5/README.md)
+- 🔹 [Übersicht](docs/01-organisation/01-zeit-ausbildungsnachweise/README.md)
+- 🔹 [Beispiele zu Aubildungs- und Zeitnachweisen](docs/01-organisation/01-zeit-ausbildungsnachweise/01-beispiele/README.md)
+- 🔹 [Dateibenunngsrichtlinien](docs/01-organisation/01-zeit-ausbildungsnachweise/02-dateibenennung/README.md)
+- 🔹 [Prüfung des Dateinamens](/docs/01-organisation/01-zeit-ausbildungsnachweise/03-ueberpruefung/README.md)
 
-#### [1.6 Mutterschutz & Elternzeit](docs/1/6/README.md)
+</details>
 
-#### [1.7 Urlaubsregelung](docs/1/7/README.md)
+<!-- Arbeitszeit und Pausen -->
 
-#### [1.8 KAIZEN bei Christoph Backhaus IT](docs/1/8/README.md)
+<details>
+<summary>🔹 Arbeits- und Pausenzeiten</summary>
 
-#### [1.9 Die Verantwortung und Unsicherheit des Programmierer‐Daseins](docs/1/9/README.md)
+- 🔹 [Übersicht](docs/01-organisation/02-arbeits-pausenzeiten/README.md)
+
+</details>
+
+<!-- Urlaub -->
+
+<details>
+<summary>🔹 Urlaub</summary>
+
+- 🔹 [Übersicht](docs/01-organisation/03-urlaub/README.md)
+
+</details>
+
+<!-- Krankmeldungen -->
+
+<details>
+<summary>🔹 Krankmeldungen</summary>
+
+- 🔹 [Übersicht](docs/01-organisation/04-krankmeldungen/README.md)
+
+</details>
+
+<!-- Zeiterfassung mit NADOO-Launchpad -->
+
+<details>
+<summary>🔹 Zeiterfassung</summary>
+
+- 🔹 [Übersicht](docs/01-organisation/05-zeiterfassung/README.md)
+- 🔹 Anleitung NADOO-Launchpad
+
+</details>
+
+<!-- Verhaltensregelen -->
+
+<details>
+<summary>🔹 Verhaltensregeln und Umgang miteinander</summary>
+
+- 🔹 [Übersicht](/docs/01-organisation/06-verhalten-umgang/README.md)
+
+</details>
+
+<!-- Feedback-Kultur -->
+
+<details>
+<summary>🔹 Feedback-Kultur</summary>
+
+- 🔹 [Übersicht](/docs/01-organisation/07-feedback-kultur/README.md)
+
+</details>
+
+<!-- Mutterschutz & Elternzeit -->
+
+<details>
+<summary>🔹 Mutterschutz & Elternzeit</summary>
+
+- 🔹 [Übersicht](/docs/01-organisation/08-mutterschutz-elternzeit/README.md)
+
+</details>
+
+<!-- Jobrotation & Weiterbildung -->
+
+<details>
+<summary>🔹 Jobrotation & Weiterbildung</summary>
+
+- 🔹 [Übersicht](/docs/01-organisation/09-jobrotation-weiterbildung/README.md)
+
+</details>
+
+<!-- Teamkoordinations-Rolle -->
+
+<details>
+<summary>🔹 Teamkoordinations-Rolle</summary>
+
+- 🔹 [Übersicht](/docs/01-organisation/10-teamkoordination/README.md)
+
+</details>
+
+<!-- Prüfungs-Vorbereitung und Präsentationstraining -->
+
+<details>
+<summary>🔹 Prüfungs-Vorbereitung und Präsentationstraining</summary>
+
+- 🔹 [Übersicht](/docs/01-organisation/11-vorbereitung-training/README.md)
+
+</details>
+
+<!-- KAIZEN -->
+
+<details>
+<summary>🔹 KAIZEN bei Christoph Backhaus IT</summary>
+
+- 🔹 [Übersicht](/docs/01-organisation/12-kaizen/README.md)
+
+</details>
+
+<!-- Die Verantwortung und Unsicherheit des Programmierer‐Daseins -->
+<details>
+<summary>🔹 Die Verantwortung und Unsicherheit des Programmierer‐Daseins</summary>
+
+- 🔹 [Übersicht](/docs/01-organisation/13-verantwortung-unsicherheit/README.md)
+
+</details>
 
 ---
 
@@ -79,7 +186,7 @@ Herzlich willkommen zu Deinem Einstieg in deine IT-Karriere bei uns!
 <!-- Github -->
 
 <details>
-<summary>🔹 Versionsverwaltung **GitHub**</summary>
+<summary>🔹 Versionsverwaltung GitHub</summary>
 
 - [Übersicht](docs/02-tools/01-github/README.md)
 - [Repository](docs/02-tools/01-github/01-repository/README.md)
@@ -106,7 +213,7 @@ Herzlich willkommen zu Deinem Einstieg in deine IT-Karriere bei uns!
 <!-- Visual Studio Code -->
 
 <details>
-<summary>🔹 Integrierte Entwicklungsumgebung **Visual Studio Code**</summary>
+<summary>🔹 Integrierte Entwicklungsumgebung Visual Studio Code</summary>
 
 - [Übersicht](docs/02-tools/02-vscode/README.md)
 - [Installation](docs/02-tools/02-vscode/01-installation/README.md)
@@ -120,7 +227,7 @@ Herzlich willkommen zu Deinem Einstieg in deine IT-Karriere bei uns!
 <!-- IntelliJ IDEA -->
 
 <details>
-<summary>🔹 Java IDE **IntelliJ IDEA** </summary>
+<summary>🔹 Java IDE IntelliJ IDEA</summary>
 
 - [Übersicht](docs/02-tools/03-intellij/README.md)
 - [Installation](docs/02-tools/03-intellij/01-installation/README.md)
@@ -139,7 +246,7 @@ Herzlich willkommen zu Deinem Einstieg in deine IT-Karriere bei uns!
 <!-- KI -->
 
 <details>
-<summary>🔹 Künstliche Intelligenz - **LLM und MLX**</summary>
+<summary>🔹 Künstliche Intelligenz - LLM und MLX</summary>
 
 - [Übersicht](docs/02-tools/05-ki/README.md)
 - [Large Language Model (LLM) und Apple MLX Framework](docs/02-tools/05-ki/01-llm-mlx/README.md)
@@ -158,18 +265,6 @@ Herzlich willkommen zu Deinem Einstieg in deine IT-Karriere bei uns!
 ##### [2.2 Erweiterte 11er-Meetings](docs/2/2/README.md)
 
 ##### [2.3 33er-Meetings](docs/2/3/README.md)
-
----
-
-## Technische Grundlagen & Praktische Anwendung
-
-### Dokumentation
-
-### Clean Architecture
-
-### Einstieg mit der eigenen App
-
-## Mögliche interessante Orte zum Arbeiten und Lernen
 
 ---
 
@@ -271,20 +366,13 @@ Herzlich willkommen zu Deinem Einstieg in deine IT-Karriere bei uns!
 
 ---
 
-### 12. Wichtige Hinweise
+### Dokumentation
 
-#### Krankmeldungen
+### Clean Architecture
 
-Melde Dich bitte bei Krankheit bis spätestens 11:00 Uhr – sowohl direkt an Christoph Backhaus, das zuständige Institut und Deinen Kostenträger (Arbeitsagentur oder Jobcenter).
+### Einstieg mit der eigenen App
 
-**Fehlende oder verspätete Meldungen gelten als Abwesenheit und können entsprechende Konsequenzen haben!**
-
----
-
-### 13. Arbeitszeiten
-
-Unsere täglichen [Meetings](docs/2/README.md) und festgelegten [Ruhezeiten](docs/1/5/README.md) (mindestens 11 Stunden zwischen den Arbeitstagen) sind **verbindlich einzuhalten.**
-Die maximale [Arbeitszeit](docs/1/5/README.md) endet um 23:00 Uhr.
+## Mögliche interessante Orte zum Arbeiten und Lernen
 
 ---
 
