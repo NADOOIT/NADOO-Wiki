@@ -40,7 +40,9 @@ Herzlich willkommen zu Deinem Einstieg in deine IT-Karriere bei uns!
 
 ---
 
-## Übersicht der Inhalte
+<!-- Organisation & Rahmenbedingungen -->
+
+## 🗂️ Organisation & Rahmenbedingungen
 
 ### [1. Organisatorische Grundlagen & Bewerbungsprozess](docs/1/README.md)
 
@@ -79,7 +81,7 @@ Herzlich willkommen zu Deinem Einstieg in deine IT-Karriere bei uns!
 <!-- Github -->
 
 <details>
-<summary>🔹 Versionsverwaltung **GitHub**</summary>
+<summary>🔹 Versionsverwaltung GitHub</summary>
 
 - [Übersicht](docs/02-tools/01-github/README.md)
 - [Repository](docs/02-tools/01-github/01-repository/README.md)
@@ -106,7 +108,7 @@ Herzlich willkommen zu Deinem Einstieg in deine IT-Karriere bei uns!
 <!-- Visual Studio Code -->
 
 <details>
-<summary>🔹 Integrierte Entwicklungsumgebung **Visual Studio Code**</summary>
+<summary>🔹 Integrierte Entwicklungsumgebung Visual Studio Code</summary>
 
 - [Übersicht](docs/02-tools/02-vscode/README.md)
 - [Installation](docs/02-tools/02-vscode/01-installation/README.md)
@@ -120,7 +122,7 @@ Herzlich willkommen zu Deinem Einstieg in deine IT-Karriere bei uns!
 <!-- IntelliJ IDEA -->
 
 <details>
-<summary>🔹 Java IDE **IntelliJ IDEA** </summary>
+<summary>🔹 Java IDE IntelliJ IDEA</summary>
 
 - [Übersicht](docs/02-tools/03-intellij/README.md)
 - [Installation](docs/02-tools/03-intellij/01-installation/README.md)
@@ -139,7 +141,7 @@ Herzlich willkommen zu Deinem Einstieg in deine IT-Karriere bei uns!
 <!-- KI -->
 
 <details>
-<summary>🔹 Künstliche Intelligenz - **LLM und MLX**</summary>
+<summary>🔹 Künstliche Intelligenz - LLM und MLX</summary>
 
 - [Übersicht](docs/02-tools/05-ki/README.md)
 - [Large Language Model (LLM) und Apple MLX Framework](docs/02-tools/05-ki/01-llm-mlx/README.md)
