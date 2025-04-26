@@ -47,10 +47,9 @@ Herzlich willkommen zu Deinem Einstieg in deine IT-Karriere bei uns!
 <details>
 <summary>Onboarding und Probemonat</summary>
 
-- [Übersicht](docs/00-willkommen/README.md)
+- 🔹 [Übersicht](docs/00-willkommen/README.md)
 
 </details>
-
 
 ---
 

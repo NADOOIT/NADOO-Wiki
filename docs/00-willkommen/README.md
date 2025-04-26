@@ -12,4 +12,4 @@ In diesem Monat hast Du die Chance, Dich zu beweisen - indem Du zeigst, dass Du 
 
 ---
 
-[Zurück](../README.md) | [Weiter](../2/README.md)
+[Zurück](/README.md) | [Weiter](../2/README.md)
