@@ -76,6 +76,8 @@ Herzlich willkommen zu Deinem Einstieg in deine IT-Karriere bei uns!
 
 ## 🛠️ Tools & Technologie
 
+<!-- Github -->
+
 <details>
 <summary>🔹 GitHub – Versionsverwaltung</summary>
 
@@ -101,6 +103,8 @@ Herzlich willkommen zu Deinem Einstieg in deine IT-Karriere bei uns!
 
 </details>
 
+<!-- Visual Studio Code -->
+
 <details>
 <summary>🔹 Visual Studio Code – Integrierte Entwicklungsumgebung (IDE)</summary>
 
@@ -113,6 +117,8 @@ Herzlich willkommen zu Deinem Einstieg in deine IT-Karriere bei uns!
 
 </details>
 
+<!-- IntelliJ IDEA -->
+
 <details>
 <summary>🔹 IntelliJ IDEA – Java IDE</summary>
 
@@ -121,12 +127,16 @@ Herzlich willkommen zu Deinem Einstieg in deine IT-Karriere bei uns!
 
 </details>
 
+<!-- Terminal -->
+
 <details>
 <summary>🔹 Terminal</summary>
 
 - [Übersicht](docs/02-tools/04-terminal/README.md)
 
 </details>
+
+<!-- KI -->
 
 <details>
 <summary>🔹 KI – Künstliche Intelligenz</summary>
@@ -137,8 +147,9 @@ Herzlich willkommen zu Deinem Einstieg in deine IT-Karriere bei uns!
 
 </details>
 
-
 ---
+
+<!-- Meeting Strukturen -->
 
 #### [2. Meeting Strukturen](docs/2/README.md)
 
