@@ -79,7 +79,7 @@ Herzlich willkommen zu Deinem Einstieg in deine IT-Karriere bei uns!
 <!-- Github -->
 
 <details>
-<summary>🔹 GitHub – Versionsverwaltung</summary>
+<summary>🔹 Versionsverwaltung **GitHub**</summary>
 
 - [Übersicht](docs/02-tools/01-github/README.md)
 - [Repository](docs/02-tools/01-github/01-repository/README.md)
@@ -106,7 +106,7 @@ Herzlich willkommen zu Deinem Einstieg in deine IT-Karriere bei uns!
 <!-- Visual Studio Code -->
 
 <details>
-<summary>🔹 Visual Studio Code – Integrierte Entwicklungsumgebung (IDE)</summary>
+<summary>🔹 Integrierte Entwicklungsumgebung **Visual Studio Code**</summary>
 
 - [Übersicht](docs/02-tools/02-vscode/README.md)
 - [Installation](docs/02-tools/02-vscode/01-installation/README.md)
@@ -120,7 +120,7 @@ Herzlich willkommen zu Deinem Einstieg in deine IT-Karriere bei uns!
 <!-- IntelliJ IDEA -->
 
 <details>
-<summary>🔹 IntelliJ IDEA – Java IDE</summary>
+<summary>🔹 Java IDE **IntelliJ IDEA** </summary>
 
 - [Übersicht](docs/02-tools/03-intellij/README.md)
 - [Installation](docs/02-tools/03-intellij/01-installation/README.md)
@@ -139,7 +139,7 @@ Herzlich willkommen zu Deinem Einstieg in deine IT-Karriere bei uns!
 <!-- KI -->
 
 <details>
-<summary>🔹 KI – Künstliche Intelligenz</summary>
+<summary>🔹 Künstliche Intelligenz - **LLM und MLX**</summary>
 
 - [Übersicht](docs/02-tools/05-ki/README.md)
 - [Large Language Model (LLM) und Apple MLX Framework](docs/02-tools/05-ki/01-llm-mlx/README.md)
