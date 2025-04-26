@@ -150,77 +150,15 @@ Herzlich willkommen zu Deinem Einstieg in deine IT-Karriere bei uns!
 
 ---
 
-#### [3. Technische Grundlagen & Praktische Anwendung](docs/3/README.md)
+## Technische Grundlagen & Praktische Anwendung
 
-##### [3.1 GitHub](docs/3/1/README.md) - die Versionsverwaltung bei NADOO-IT
+### Dokumentation
 
-###### [3.1.1 Repository](docs/3/1/1/README.md)
+### Clean Architecture
 
-###### [3.1.2 Branches](docs/3/1/2/README.md)
+### Einstieg mit der eigenen App
 
-###### [3.1.2.1 Branch Protection](docs/3/1/2/1/README.md)
-
-###### [3.1.3 Pull Requests](docs/3/1/3/README.md)
-
-###### [3.1.3.1 Merge-Konflikte](docs/3/1/3/1/README.md)
-
-###### [3.1.4 Issues](docs/3/1/4/README.md)
-
-###### [3.1.4.1 Labels](docs/3/1/4/1/README.md)
-
-###### [3.1.4.2 Issue Erstellungs Guide](docs/3/1/4/2/README.md)
-
-###### [3.1.5 GitHub Actions](docs/3/1/5/README.md)
-
-###### [3.1.6 GitHub Notifications](docs/3/1/6/README.md)
-
-###### [3.1.7 GitHub Suchfunktion](docs/3/1/7/README.md)
-
-###### [3.1.8 GitHub Markdown](docs/3/1/8/README.md)
-
-###### [3.1.9 Selbstständig Veränderungen innerhalb des Wikis vornehmen (später auch am Launchpad). Ein kleiner Guide.](docs/3/1/9/README.md)
-
----
-
-##### [3.2 Visual Studio Code](docs/3/2/README.md) - integrierte Entwicklungsumgebung (IDE) für multiplattformübergreifende Softwareentwicklung
-
-###### [3.2.1 Installation & Einrichtung](docs/3/2/1/README.md)
-
-###### [3.2.2 Erweiterungen](docs/3/2/2/README.md)
-
-###### [3.2.3 Arbeitsbereiche (Workspaces)](docs/3/2/3/README.md)
-
-###### [3.2.4 Editorfunktionen & IntelliSense](docs/3/2/4/README.md)
-
-###### [3.2.5 Debugging & Terminal](docs/3/2/5/README.md)
-
----
-
-#### [3.3 IntelliJ IDEA](docs/3/3/README.md) - integrierte Entwicklungsumgebung (IDE) für die Programmiersprache Java
-
-##### [3.3.1 Installation & Einrichtung](docs/3/3/1/README.md)
-
----
-
-##### [3.4 Java](docs/3/4/README.md) - Programmiersprache
-
----
-
-##### [3.7 Dokumentation](docs/3/7/README.md)
-
-##### [3.8 Clean Architecture](docs/3/8/README.md)
-
-##### [3.9 Einstieg mit der eigenen App](docs/3/9/README.md)
-
-##### [3.10 KI‐Nutzung: Ein umfassender Leitfaden](docs/3/10/README.md)
-
-###### [3.10.1 Nutzung der Gemini API – Anleitung](docs/3/10/1/README.md)
-
-###### [3.10.2 Unterschiede zwischen LLM und MLX (MacOS Silicon)](docs/3/10/2/README.md)
-
-##### [3.11 Terminal Grundlagen](docs/3/11/README.md)
-
-##### [3.12 Mögliche interessante Orte zum Arbeiten und Lernen](docs/3/12/README.md)
+## Mögliche interessante Orte zum Arbeiten und Lernen
 
 ---
 
