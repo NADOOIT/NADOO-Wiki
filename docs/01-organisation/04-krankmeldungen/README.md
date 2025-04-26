@@ -6,4 +6,4 @@ Melde dich bitte bei Krankheit bis spätestens 11:00 Uhr – sowohl direkt an Ch
 
 ---
 
-[Zurück](/docs/01-organisation/03-urlaub/README.md) | [Weiter](1/README.md)
+[Zurück](/docs/01-organisation/03-urlaub/README.md) | [Weiter](/docs/01-organisation/05-zeiterfassung/README.md)
