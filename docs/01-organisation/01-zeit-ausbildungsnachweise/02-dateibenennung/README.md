@@ -44,4 +44,4 @@ Für weitere Informationen und Einblicke in den Entscheidungsprozess verweisen w
 
 ---
 
-[Zurück](/docs/01-organisation/01-zeit-ausbildungsnachweise/01-beispiele/README.md) | [Weiter](/docs/01-organisation/01-zeit-ausbildungsnachweise/README.md)
+[Zurück](/docs/01-organisation/01-zeit-ausbildungsnachweise/01-beispiele/README.md) | [Weiter](/docs/01-organisation/01-zeit-ausbildungsnachweise/03-ueberpruefung/README.md)

@@ -45,7 +45,7 @@ Herzlich willkommen zu Deinem Einstieg in deine IT-Karriere bei uns!
 ## 📘 Einstieg & Orientierung
 
 <details>
-<summary>Onboarding und Probemonat</summary>
+<summary>🔹 Onboarding und Probemonat</summary>
 
 - 🔹 [Übersicht](docs/00-willkommen/README.md)
 
@@ -65,11 +65,21 @@ Herzlich willkommen zu Deinem Einstieg in deine IT-Karriere bei uns!
 - 🔹 [Übersicht](docs/01-organisation/01-zeit-ausbildungsnachweise/README.md)
 - 🔹 [Beispiele zu Aubildungs- und Zeitnachweisen](docs/01-organisation/01-zeit-ausbildungsnachweise/01-beispiele/README.md)
 - 🔹 [Dateibenunngsrichtlinien](docs/01-organisation/01-zeit-ausbildungsnachweise/02-dateibenennung/README.md)
+- 🔹 [Prüfung des Dateinamens](/docs/01-organisation/01-zeit-ausbildungsnachweise/03-ueberpruefung/README.md)
 
 </details>
 
+<!-- Arbeitszeit und Pausen -->
 
-#### [1.2.2 Prüfung des Dateinamens](docs/1/2/2/README.md)
+<details>
+<summary>🔹 Arbeits- und Pausenzeiten</summary>
+
+- 🔹 [Übersicht](docs/01-organisation/02-arbeits-pausenzeiten/README.md)
+
+</details>
+
+<!-- Zeiterfassung mit NADOO-Launchpad -->
+
 
 #### [1.3 Jobrotation & Weiterbildung](docs/1/3/README.md)
 
