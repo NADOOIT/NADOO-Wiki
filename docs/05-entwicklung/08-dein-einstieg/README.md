@@ -1,5 +1,8 @@
-# 10. Dein Einstieg in die digitale Produktentwicklung
+# Dein Einstieg in die digitale Produktentwicklung
+
 Digitale Produkte sind das Herzstück jedes IT-Unternehmens. Sie umfassen sowohl Dienstleistungen (z. B. Einrichtung, Wartung, Schulungen) als auch Softwareprodukte (z. B. Apps).
+
+---
 
 Praktisch alles, was täglich getan wird oder über eine Software erfolgt, ist ein potenzielles Produkt.
 
@@ -40,41 +43,3 @@ Deine Aufgabe ist es, ein neues digitales Produkt zu entwickeln. Überlege dir e
 Am Ende des Prozesses hast du dein eigenes digitales Produkt entwickelt, das du entweder über uns vertreiben oder später selbst vermarkten kannst.
 
 ---
-
-### Kontakt und Unterstützung
-
-Falls du Fragen hast oder Unterstützung benötigst, zögere nicht, dich an uns zu wenden. Wir sind da, um dir zu helfen!
-
-- **E-Mail:** <christoph.backhaus@nadooit.de>
-- **Gather.town Raum:** [Link zum Support-Raum](#)
-- **Jami:** Du kannst mich auch direkt über Jami erreichen, falls du detaillierte Unterstützung benötigst.
-
----
-
-## Kontaktinformationen
-
-**Christoph Backhaus**  
-Christoph Backhaus IT  
-
-**Anschrift:**  
-Am Markt 1  
-47229 Duisburg  
-
-**Telefon:**  
-Festnetz: +49 2065 7098429  
-Mobil: +49 176 565 44 075  
-
-**Online:**  
-E-Mail: <christoph.backhaus@nadooit.de>  
-Webseite: [WirRettenDeineZeit.de](WirRettenDeineZeit.de)  
-Online-Büro Öffnungszeiten: Montags - Samstags 8-19:00  
-Gather.town: [Online-Büro](https://app.gather.town/invite?token=H-mQ4DRHQCqZvoQ8AYpH)  
-Termin buchen: [Erstgespräch buchen](https://my.meetergo.com/christop.backhaus.it/erstgesprach)  
-Impressum: [Impressum](https://wirrettendeinezeit.de/impressum)
-
----
-
-### Wichtige Hinweise
-
-**Krankmeldungen:**  
-Falls du krank bist, informiere Christoph Backhaus bitte bis spätestens 11 Uhr. Eine Krankmeldung muss ebenfalls an das entsprechende Institut erfolgen. Diese Regelung gilt für Personen, die im Rahmen ihrer Umschulung ihr Praktikum bei uns absolvieren.
