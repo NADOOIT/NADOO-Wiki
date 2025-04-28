@@ -367,40 +367,39 @@ Herzlich willkommen zu Deinem Einstieg in deine IT-Karriere bei uns!
 
 ---
 
+## [5. Weiterbildung & Karriereentwicklung](docs/5/README.md)
 
-#### [5. Weiterbildung & Karriereentwicklung](docs/5/README.md)
+### 5.1 Jobrotationsverfahren
 
-##### 5.1 Jobrotationsverfahren
+### 5.2 Präsentationstraining
 
-##### 5.2 Präsentationstraining
+#### [5.3 Netzwerken](docs/5/3/README.md)
 
-##### [5.3 Netzwerken](docs/5/3/README.md)
+##### [5.3.1 GitHub-Profil](docs/5/3/1/README.md)
 
-###### [5.3.1 GitHub-Profil](docs/5/3/1/README.md)
+##### [5.3.2 LinkedIn-Profil](docs/5/3/2/README.md)
 
-###### [5.3.2 LinkedIn-Profil](docs/5/3/2/README.md)
+##### [5.3.3 Xing-Profil](docs/5/3/3/README.md)
 
-###### [5.3.3 Xing-Profil](docs/5/3/3/README.md)
+##### [5.3.4 Online-Kalender mit Doodle einrichten und in LinkedIn-Profil integrieren](docs/5/3/4/README.md)
 
-###### [5.3.4 Online-Kalender mit Doodle einrichten und in LinkedIn-Profil integrieren](docs/5/3/4/README.md)
-
-##### [5.4 Teamkoordination](docs/5/4/README.md)
-
----
-
-### [7. Datenschutz & Datensicherheit](docs/7/README.md)
+#### [5.4 Teamkoordination](docs/5/4/README.md)
 
 ---
 
-### [9. Lizenzen, Open Source und die Welt der Softwareabhängigkeiten](docs/9/README.md)
+## [7. Datenschutz & Datensicherheit](docs/7/README.md)
 
 ---
 
-### [10. Dein erstes digitales Produkt (last but not least)](docs/10/README.md)
+## [9. Lizenzen, Open Source und die Welt der Softwareabhängigkeiten](docs/9/README.md)
 
 ---
 
-### [11. Das NADOO-IT Framework](docs/11/README.md)
+## [10. Dein erstes digitales Produkt (last but not least)](docs/10/README.md)
+
+---
+
+## [11. Das NADOO-IT Framework](docs/11/README.md)
 
 ---
 
