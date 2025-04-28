@@ -1,0 +1,26 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 📘 Einstieg & Orientierung
+    url: https://github.com/NADOOIT/NADOO-Wiki/issues/new?template=00-willkommen.yml
+    about: Fragen und Beiträge rund um den Einstieg und die Orientierung
+  - name: 🗂️ Organisation & Rahmenbedingungen
+    url: https://github.com/NADOOIT/NADOO-Wiki/issues/new?template=01-organisation.yml
+    about: Themen zu Organisation, Zeitnachweisen, Urlaub usw.
+  - name: 🛠️ Tools & Technologie
+    url: https://github.com/NADOOIT/NADOO-Wiki/issues/new?template=02-tools.yml
+    about: Fragen zu Tools, IDEs, GitHub oder KI
+  - name: 📅 Termine und zeitlicher Ablauf
+    url: https://github.com/NADOOIT/NADOO-Wiki/issues/new?template=03-meetings.yml
+    about: Meetings, Zeitabläufe und Teamkoordination
+  - name: 📞 Kommunikation
+    url: https://github.com/NADOOIT/NADOO-Wiki/issues/new?template=04-kommunikation.yml
+    about: Kommunikationstools und Abstimmungen
+  - name: 💻 Entwicklung & Programmiersprachen
+    url: https://github.com/NADOOIT/NADOO-Wiki/issues/new?template=05-entwicklung.yml
+    about: Entwicklung, Frameworks und Programmiersprachen
+  - name: 📚 Methoden & Projekte
+    url: https://github.com/NADOOIT/NADOO-Wiki/issues/new?template=06-methoden.yml
+    about: Projektmanagement, Methoden und Planung
+  - name: 🚀 Entwicklung & Karriere
+    url: https://github.com/NADOOIT/NADOO-Wiki/issues/new?template=07-karriere.yml
+    about: Persönliche Entwicklung, Karriere und Netzwerken

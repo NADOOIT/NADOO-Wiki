@@ -1,0 +1,45 @@
+name: 📅 Meetings & Termine
+description: Fragen, Probleme oder Beiträge zu Meetings und Terminen
+title: "[Meetings & Termine] "
+labels: ["meetings", "documentation", "help-wanted"]
+assignees: []
+body:
+  - type: dropdown
+    id: unterbereich
+    attributes:
+      label: Auf welchen Unterbereich bezieht sich deine Frage?
+      options:
+        - Überblick
+        - Spezifisches Thema
+        - Sonstiges
+      description: Bitte wähle den Bereich, auf den sich dein Anliegen hauptsächlich bezieht.
+    validations:
+      required: true
+  - type: dropdown
+    id: typ
+    attributes:
+      label: Art des Anliegens
+      options:
+        - Fehlerkorrektur
+        - Erweiterungsvorschlag
+        - Allgemeine Frage
+      description: Handelt es sich um einen Fehler, eine Erweiterung oder eine allgemeine Frage?
+    validations:
+      required: true
+  - type: checkboxes
+    id: self-assigned
+    attributes:
+      label: Zuständigkeit übernehmen
+      description: Bitte übernimm Verantwortung und wähle aus, ob du dich selbst als Bearbeiter (Assignee) einträgst.
+      options:
+        - label: ✅ Ja, ich übernehme dieses Issue und trage mich als Assignee ein.
+    validations:
+      required: true
+  - type: textarea
+    id: beschreibung
+    attributes:
+      label: Beschreibung des Anliegens
+      description: Bitte beschreibe dein Anliegen so detailliert wie möglich. Je mehr Informationen du gibst, desto besser können wir dir helfen.
+      placeholder: "Hier deine Beschreibung..."
+
+
