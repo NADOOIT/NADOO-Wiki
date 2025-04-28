@@ -203,7 +203,7 @@ Herzlich willkommen zu Deinem Einstieg in deine IT-Karriere bei uns!
   - [Projects](docs/02-tools/01-github/04-issues/05-projects/README.md)
   - [Discussions](docs/02-tools/01-github/04-issues/06-discussions/README.md)
   - [Templates](docs/02-tools/01-github/04-issues/07-templates/README.md)
-  - [Issue-Erstellungs-Guide](docs/02-tools/01-github/04-issues/08-erstellungs-guide/README.md)
+  - [Issue-Erstellungs-Guide](docs/02-tools/01-github/04-issues/08-wiki-guide/README.md)
 - [Actions](docs/02-tools/01-github/05-actions/README.md)
 - [Notifications](docs/02-tools/01-github/06-notifications/README.md)
 - [Suche](docs/02-tools/01-github/07-suche/README.md)
