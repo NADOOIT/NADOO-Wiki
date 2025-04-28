@@ -1,4 +1,4 @@
-# 5. Weiterbildung und Karriereentwicklung
+# Weiterbildung und Karriereentwicklung
 
 ---
 
@@ -32,7 +32,8 @@ Der Aufbau dieser Profile ist für den Start in Deine IT-Karriere sehr wichtig. 
 
 ---
 
-## [4. Teamkoordinationsrollen](4/README.md)
-Wir fördern Dich in der Übernahme von Teamkoordinationsrollen. Du wirst in die Planung und Koordination von Projekten eingebunden und erhältst dadurch Einblicke in die Teamdynamik.
+## 4. Teamkoordinationsrollen
 
-[Startseite](../../README.md)
+Wir fördern Dich in der Übernahme von [Teamkoordinationsrollen](../01-organisation/10-teamkoordination/). Du wirst in die Planung und Koordination von Projekten eingebunden und erhältst dadurch Einblicke in die Teamdynamik.
+
+[Zurück](../../README.md) | [Weiter](../01-jobrotation/README.md) zur Jobrotation

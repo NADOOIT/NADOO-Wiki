@@ -252,6 +252,7 @@ Herzlich willkommen zu Deinem Einstieg in deine IT-Karriere bei uns!
 - 🔹 [Übersicht](docs/02-tools/05-ki/README.md)
 - 🔹 [Large Language Model (LLM) und Apple MLX Framework](docs/02-tools/05-ki/01-llm-mlx/README.md)
 - 🔹 [Gemini API](docs/02-tools/05-ki/02-gemini-api/README.md)
+
 </details>
 
 ---
@@ -330,7 +331,8 @@ Herzlich willkommen zu Deinem Einstieg in deine IT-Karriere bei uns!
 - 🔹 [Briefcase & Toga - Python-Framework für plattformübergreifende Apps](docs/05-entwicklung/04-python/02-briefcase-toga/README.md)
   - 🔹 [Briefcase-Debugging](docs/05-entwicklung/04-python/02-briefcase-toga/01-debugging/README.md)  
   - 🔹 [Praktische Umsetzung mit NADOO-Launchpad](docs/05-entwicklung/04-python/02-briefcase-toga/02-launchpad/README.md)  
-  - 🔹 [Speech‐to‐Text‐Feature im NADOO Launchpad](docs/05-entwicklung/04-python/02-briefcase-toga/03-speech-to-text/README.md)  
+  - 🔹 [Speech‐to‐Text‐Feature im NADOO Launchpad](docs/05-entwicklung/04-python/02-briefcase-toga/03-speech-to-text/README.md)
+  - 🔹 [NADOO-Launchpad - PowerShell Execution](docs/05-entwicklung/04-python/02-briefcase-toga/04-powershell/README.md)
 
 </details>
 
@@ -379,7 +381,7 @@ Herzlich willkommen zu Deinem Einstieg in deine IT-Karriere bei uns!
 
 ---
 
-<!-- Methoden -->
+<!-- 6. Methoden & Projekte -->
 
 ## 📚 Methoden & Projekte
 
@@ -397,23 +399,23 @@ Herzlich willkommen zu Deinem Einstieg in deine IT-Karriere bei uns!
 
 ---
 
-## [5. Weiterbildung & Karriereentwicklung](docs/5/README.md)
+<!-- Entwicklung & Karriere -->
 
-### 5.1 Jobrotationsverfahren
+## 🚀 Entwicklung & Karriere
 
-### 5.2 Präsentationstraining
+<details>
+<summary>🔹 Jobrotation, Präsentationstraining & Netzwerken</summary>
 
-#### [5.3 Netzwerken](docs/5/3/README.md)
+- 🔹 [Übersicht](docs/07-karriere/README.md)
+  - 🔹 [Jobrotation](/docs/07-karriere/01-jobrotation/README.md)
+  - 🔹 [Präsentationstraining](/docs/07-karriere/02-praesentation/README.md)
+  - 🔹 [Netzwerken](/docs/07-karriere/03-netzwerken/README.md)
+    - 🔹 [GitHub-Profil](/docs/07-karriere/03-netzwerken/01-github-profil/README.md)
+    - 🔹 [LinkedIn-Profil](/docs/07-karriere/03-netzwerken/02-linkedin-profil/README.md)
+    - 🔹 [Xing-Profil](/docs/07-karriere/03-netzwerken/03-xing-profil/README.md)
+    - 🔹 [Online-Kalender](/docs/07-karriere/03-netzwerken/04-online-kalender/README.md)
 
-##### [5.3.1 GitHub-Profil](docs/5/3/1/README.md)
-
-##### [5.3.2 LinkedIn-Profil](docs/5/3/2/README.md)
-
-##### [5.3.3 Xing-Profil](docs/5/3/3/README.md)
-
-##### [5.3.4 Online-Kalender mit Doodle einrichten und in LinkedIn-Profil integrieren](docs/5/3/4/README.md)
-
-#### [5.4 Teamkoordination](docs/5/4/README.md)
+</details>
 
 ---
 
