@@ -11,8 +11,7 @@ Nutze die bereitgestellten Sprach- und Textkanäle, um effizient zusammenzuarbei
 ## Videoübertragung
 
 - Die Videoübertragung während der Meetings zeigt, dass du dem professionellen Anspruch in der digitalen Zusammenarbeit gerecht wirst.
-– alternativ können virtuelle Avatare wie [Animaze](https://www.animaze.us) eingesetzt werden.
-
+- alternativ können virtuelle Avatare wie [Animaze](https://www.animaze.us) eingesetzt werden.
 ---
 
 ## Bildschirmübertragung
