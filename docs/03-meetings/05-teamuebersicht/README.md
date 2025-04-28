@@ -2,8 +2,7 @@
 
 | |
 | :--- |
-| Hier findest du eine Übersicht der aktuellen 11er Teams mit dem jeweiligem Team-Ziel und einen Rückblick auf die Projekte vorheriger 11er Teams |
-
+| Hier findest du eine Übersicht der aktuellen 11er Teams mit dem jeweiligen Team-Ziel und einen Rückblick auf die Projekte vorheriger 11er Teams |
 ---
 
 ## Launch
