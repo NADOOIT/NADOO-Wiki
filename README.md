@@ -1,12 +1,18 @@
-# Willkommen
+# Willkommen bei NADOO-IT
 
-| |
-|:---:|
-| ![NADOO-IT](images/nadooit.png) |
+| [Christoph Backhaus IT](https://wirrettendeinezeit.de) | **Unser Team** | **Unsere Mission** | **Unsere Kernwerte** |
+|:--- | :--- | :--- | :--- |
+| ![NADOO-IT](images/nadooit.png) | [Abdel](https://github.com/Abdel-213), [Alexander P.](https://github.com/cosinus-a), [Alexander W.](https://github.com/Alexander-AzTech2064), [Asieh](https://github.com/Asiyehjfr), ... | - **Entwicklung einer Platform von Anwendungsentwickler:innen für Anwendungsentwickler:innen** |  - **Es gibt keine Fehler, sondern ausschließlcih - Chancen sich gemeinsam weiter zu entwickeln!** |
+| 🏣 Anschrift | Am Markt 1, 47229 Duisburg | - Vorbereitung für Unternehmensarbeit und Selbständigkeit | - **Es gibt keine dummen Fragen!** |
+| 📞 Telefon | +49 2065 7098429 | - Programmieren & Teamarbeit |- **nur gemeinsam/zusammen sind wir stark!** |
+| 📱 Mobil | +49 176 565 44 075 | - Ermöglichung von Wegen aus dem Hamsterrad | |
+| 📧 E-Mail | <christoph.backhaus@nadooit.de> | - Etablierung von Standort-unbhängigen Möglichkeiten zur Zusammenarbeit | |
+| Discord | [NADOO-IT]( https://discord.gg/Ffv4JTFE7E) | - Ermöglichung von work-life-balance für alle | -Vereinbarkeit von Job & Familie |
+| Twitch | [NADOO-IT](https://www.twitch.tv/nadooit_christophba) | | |
 
 ---
 
-Herzlich willkommen zu Deinem Einstieg in die IT-Karriere bei [Christoph Backhaus IT](https://wirrettendeinezeit.de).  
+Herzlich willkommen zu Deinem Einstieg in deine IT-Karriere bei uns!
 
 - Wir freuen uns 😊, Dich auf Deinem Weg in die Welt der Anwendungsentwicklung und die Zukunft der IT 🍀 begleiten zu dürfen 🙏.
 
@@ -30,243 +36,371 @@ Herzlich willkommen zu Deinem Einstieg in die IT-Karriere bei [Christoph Backhau
 | 4. Sollte dabei etwas unverständlich sein, dann erstelle umgehend ein [Issue](https://github.com/NADOOIT/NADOO-Wiki/issues/new/choose) ❗❗❗ |
 | 5. Unsere erfahrenen Kolleginnen und Kollegen werden sich dann zeitnah um Dein Anliegen kümmern und Dich unterstützen! |
 
-**Viel Spass und Erfolg bei uns - [Feedback](/docs/4/4/README.md) ist immer willkommen und ausdrücklich erwünscht**  ❗
+**Viel Spass und Erfolg bei uns - [Feedback](/docs/01-organisation/07-feedback-kultur/README.md) ist immer willkommen und ausdrücklich erwünscht**  ❗
 
 ---
 
-## Übersicht der Inhalte
+<!-- Einstieg & Orientierung -->
 
-### [1. Organisatorische Grundlagen & Bewerbungsprozess](docs/1/README.md)
-
-#### [1.1 Onboarding und Probemonat](docs/1/1/README.md)
-
-#### [1.2 Abgabe von Zeit- und Ausbildungsnachweisen](docs/1/2/README.md)
-
-#### [1.2.1 Dateibenennungsrichtlinien](docs/1/2/1/README.md)
-
-#### [1.2.2 Prüfung des Dateinamens](docs/1/2/2/README.md)
-
-#### [1.2.3 Beispiele für Zeitnachweise](docs/1/2/3/README.md)
-
-#### [1.2.4 Beispiele für Ausbildungsnachweise](docs/1/2/4/README.md)
-
-#### [1.3 Jobrotation & Weiterbildung](docs/1/3/README.md)
-
-#### [1.4 Verhaltensregeln und Umgang miteinander](docs/1/4/README.md)
-
-#### [1.5 Arbeitszeiten & Pausen](docs/1/5/README.md)
-
-#### [1.6 Mutterschutz & Elternzeit](docs/1/6/README.md)
-
-#### [1.7 Urlaubsregelung](docs/1/7/README.md)
-
-#### [1.8 KAIZEN bei Christoph Backhaus IT](docs/1/8/README.md)
-
-#### [1.9 Die Verantwortung und Unsicherheit des Programmierer‐Daseins](docs/1/9/README.md)
-
----
-
-#### [2. Meeting Strukturen](docs/2/README.md)
-
-##### [2.1 Morgenmeetings – Allgemeine Zeitpläne](docs/2/1/README.md)
-
-##### [2.2 Erweiterte 11er-Meetings](docs/2/2/README.md)
-
-##### [2.3 33er-Meetings](docs/2/3/README.md)
-
----
-
-#### [3. Technische Grundlagen & Praktische Anwendung](docs/3/README.md)
-
-##### [3.1 GitHub](docs/3/1/README.md) - die Versionsverwaltung bei NADOO-IT
-
-###### [3.1.1 Repository](docs/3/1/1/README.md)
-
-###### [3.1.2 Branches](docs/3/1/2/README.md)
-
-###### [3.1.2.1 Branch Protection](docs/3/1/2/1/README.md)
-
-###### [3.1.3 Pull Requests](docs/3/1/3/README.md)
-
-###### [3.1.3.1 Merge-Konflikte](docs/3/1/3/1/README.md)
-
-###### [3.1.4 Issues](docs/3/1/4/README.md)
-
-###### [3.1.4.1 Labels](docs/3/1/4/1/README.md)
-
-###### [3.1.4.2 Issue Erstellungs Guide](docs/3/1/4/2/README.md)
-
-###### [3.1.5 GitHub Actions](docs/3/1/5/README.md)
-
-###### [3.1.6 GitHub Notifications](docs/3/1/6/README.md)
-
-###### [3.1.7 GitHub Suchfunktion](docs/3/1/7/README.md)
-
-###### [3.1.8 GitHub Markdown](docs/3/1/8/README.md)
-
-###### [3.1.9 Selbstständig Veränderungen innerhalb des Wikis vornehmen (später auch am Launchpad). Ein kleiner Guide.](docs/3/1/9/README.md)
-
----
-
-##### [3.2 Visual Studio Code](docs/3/2/README.md) - integrierte Entwicklungsumgebung (IDE) für multiplattformübergreifende Softwareentwicklung
-
-###### [3.2.1 Installation & Einrichtung](docs/3/2/1/README.md)
-
-###### [3.2.2 Erweiterungen](docs/3/2/2/README.md)
-
-###### [3.2.3 Arbeitsbereiche (Workspaces)](docs/3/2/3/README.md)
-
-###### [3.2.4 Editorfunktionen & IntelliSense](docs/3/2/4/README.md)
-
-###### [3.2.5 Debugging & Terminal](docs/3/2/5/README.md)
-
----
-
-#### [3.3 IntelliJ IDEA](docs/3/3/README.md) - integrierte Entwicklungsumgebung (IDE) für die Programmiersprache Java
-
-##### [3.3.1 Installation & Einrichtung](docs/3/3/1/README.md)
-
----
-
-##### [3.4 Java](docs/3/4/README.md) - Programmiersprache
-
----
-
-##### [3.7 Dokumentation](docs/3/7/README.md)
-
-##### [3.8 Clean Architecture](docs/3/8/README.md)
-
-##### [3.9 Einstieg mit der eigenen App](docs/3/9/README.md)
-
-##### [3.10 KI‐Nutzung: Ein umfassender Leitfaden](docs/3/10/README.md)
-
-###### [3.10.1 Nutzung der Gemini API – Anleitung](docs/3/10/1/README.md)
-
-###### [3.10.2 Unterschiede zwischen LLM und MLX (MacOS Silicon)](docs/3/10/2/README.md)
-
-##### [3.11 Terminal Grundlagen](docs/3/11/README.md)
-
-##### [3.12 Mögliche interessante Orte zum Arbeiten und Lernen](docs/3/12/README.md)
-
----
+## 📘 Einstieg & Orientierung
 
 <details>
-<summary>3.13 Python - Programmiersprache (Archiv)</summary>
+<summary>🔹 Onboarding und Probemonat</summary>
 
-- [3.13.1 Debugging](docs/3/13/1/README.md)  
-- [3.13.2 Praktische Umsetzung mit NADOO-Launchpad](docs/3/13/2/README.md)  
-- [3.13.3 Speech‐to‐Text‐Feature im NADOO Launchpad](docs/3/13/3/README.md)  
+- 🔹 [Übersicht](docs/00-willkommen/README.md)
 
 </details>
 
 ---
 
-<details>
-<summary>3.14 Briefcase & Toga - Python-Framework für plattformübergreifende Apps (Archiv)</summary>
+<!-- 1. Organisation & Rahmenbedingungen -->
 
-- [3.14.1 Debugging](docs/3/14/1/README.md)  
+## 🗂️ Organisation & Rahmenbedingungen
+
+<!-- Zeit- und Ausbildungsnachweise -->
+
+<details>
+<summary>🔹 Zeit- und Ausbildungsnachweise</summary>
+
+- 🔹 [Übersicht](docs/01-organisation/01-zeit-ausbildungsnachweise/README.md)
+- 🔹 [Beispiele zu Aubildungs- und Zeitnachweisen](docs/01-organisation/01-zeit-ausbildungsnachweise/01-beispiele/README.md)
+- 🔹 [Dateibenunngsrichtlinien](docs/01-organisation/01-zeit-ausbildungsnachweise/02-dateibenennung/README.md)
+- 🔹 [Prüfung des Dateinamens](/docs/01-organisation/01-zeit-ausbildungsnachweise/03-ueberpruefung/README.md)
+
+</details>
+
+<!-- Arbeitszeit und Pausen -->
+
+<details>
+<summary>🔹 Arbeits- und Pausenzeiten</summary>
+
+- 🔹 [Übersicht](docs/01-organisation/02-arbeits-pausenzeiten/README.md)
+
+</details>
+
+<!-- Urlaub -->
+
+<details>
+<summary>🔹 Urlaub</summary>
+
+- 🔹 [Übersicht](docs/01-organisation/03-urlaub/README.md)
+
+</details>
+
+<!-- Krankmeldungen -->
+
+<details>
+<summary>🔹 Krankmeldungen</summary>
+
+- 🔹 [Übersicht](docs/01-organisation/04-krankmeldungen/README.md)
+
+</details>
+
+<!-- Zeiterfassung mit NADOO-Launchpad -->
+
+<details>
+<summary>🔹 Zeiterfassung</summary>
+
+- 🔹 [Übersicht](docs/01-organisation/05-zeiterfassung/README.md)
+- 🔹 Anleitung NADOO-Launchpad
+
+</details>
+
+<!-- Verhaltensregelen -->
+
+<details>
+<summary>🔹 Verhaltensregeln und Umgang miteinander</summary>
+
+- 🔹 [Übersicht](/docs/01-organisation/06-verhalten-umgang/README.md)
+
+</details>
+
+<!-- Feedback-Kultur -->
+
+<details>
+<summary>🔹 Feedback-Kultur</summary>
+
+- 🔹 [Übersicht](/docs/01-organisation/07-feedback-kultur/README.md)
+
+</details>
+
+<!-- Mutterschutz & Elternzeit -->
+
+<details>
+<summary>🔹 Mutterschutz & Elternzeit</summary>
+
+- 🔹 [Übersicht](/docs/01-organisation/08-mutterschutz-elternzeit/README.md)
+
+</details>
+
+<!-- Jobrotation & Weiterbildung -->
+
+<details>
+<summary>🔹 Jobrotation & Weiterbildung</summary>
+
+- 🔹 [Übersicht](/docs/01-organisation/09-jobrotation-weiterbildung/README.md)
+
+</details>
+
+<!-- Teamkoordinations-Rolle -->
+
+<details>
+<summary>🔹 Teamkoordinations-Rolle</summary>
+
+- 🔹 [Übersicht](/docs/01-organisation/10-teamkoordination/README.md)
+
+</details>
+
+<!-- Prüfungs-Vorbereitung und Präsentationstraining -->
+
+<details>
+<summary>🔹 Prüfungs-Vorbereitung und Präsentationstraining</summary>
+
+- 🔹 [Übersicht](/docs/01-organisation/11-vorbereitung-training/README.md)
+
+</details>
+
+<!-- KAIZEN -->
+
+<details>
+<summary>🔹 KAIZEN bei Christoph Backhaus IT</summary>
+
+- 🔹 [Übersicht](/docs/01-organisation/12-kaizen/README.md)
+
+</details>
+
+<!-- Die Verantwortung und Unsicherheit des Programmierer‐Daseins -->
+<details>
+<summary>🔹 Die Verantwortung und Unsicherheit des Programmierer‐Daseins</summary>
+
+- 🔹 [Übersicht](/docs/01-organisation/13-verantwortung-unsicherheit/README.md)
 
 </details>
 
 ---
 
-#### [4. Kommunikation & Zusammenarbeit](docs/4/README.md)
+<!-- 2. Tools & Technologien -->
 
-##### [4.1 Discord](docs/4/1/README.md) - zentrale Kommunikationsplattform
+## 🛠️ Tools & Technologie
 
-###### [4.1.1 Discord - Einrichten und Anmelden](docs/4/1/1/README.md)
+<!-- Github -->
 
-##### [4.3 Video/Avatar-Pflicht](docs/4/3/README.md)
+<details>
+<summary>🔹 Versionsverwaltung GitHub</summary>
 
-###### [4.3.1 Android - Smartphone als Webcam nutzen](docs/4/3/1/README.md)
+- [Übersicht](docs/02-tools/01-github/README.md)
+- [Repository](docs/02-tools/01-github/01-repository/README.md)
+- [Branches](docs/02-tools/01-github/02-branches/README.md)
+- [Pull Requests](docs/02-tools/01-github/03-pull-requests/README.md)
+  - [Merge Konflikte](docs/02-tools/01-github/03-pull-requests/01-merge-konflikte/README.md)
+  - [Code Review](docs/02-tools/01-github/03-pull-requests/02-code-review/README.md)
+- [Issues](docs/02-tools/01-github/04-issues/README.md)
+  - [Labels](docs/02-tools/01-github/04-issues/01-labels/README.md)
+  - [Types](docs/02-tools/01-github/04-issues/02-types/README.md)
+  - [Assignees](docs/02-tools/01-github/04-issues/03-assignees/README.md)
+  - [Milestones](docs/02-tools/01-github/04-issues/04-milestones/README.md)
+  - [Projects](docs/02-tools/01-github/04-issues/05-projects/README.md)
+  - [Discussions](docs/02-tools/01-github/04-issues/06-discussions/README.md)
+  - [Templates](docs/02-tools/01-github/04-issues/07-templates/README.md)
+  - [Issue-Erstellungs-Guide](docs/02-tools/01-github/04-issues/08-erstellungs-guide/README.md)
+- [Actions](docs/02-tools/01-github/05-actions/README.md)
+- [Notifications](docs/02-tools/01-github/06-notifications/README.md)
+- [Suche](docs/02-tools/01-github/07-suche/README.md)
+- [Markdown](docs/02-tools/01-github/08-markdown/README.md)
 
-##### [4.4 Feedback-Kultur](docs/4/4/README.md)
+</details>
 
----
+<!-- Visual Studio Code -->
 
-#### [5. Weiterbildung & Karriereentwicklung](docs/5/README.md)
+<details>
+<summary>🔹 Integrierte Entwicklungsumgebung Visual Studio Code</summary>
 
-##### 5.1 Jobrotationsverfahren
+- [Übersicht](docs/02-tools/02-vscode/README.md)
+- [Installation](docs/02-tools/02-vscode/01-installation/README.md)
+- [Plugins](docs/02-tools/02-vscode/02-plugins/README.md)
+- [Workspaces](docs/02-tools/02-vscode/03-workspaces/README.md)
+- [Editor](docs/02-tools/02-vscode/04-editor/README.md)
+- [Terminal](docs/02-tools/02-vscode/05-terminal/README.md)
 
-##### 5.2 Präsentationstraining
+</details>
 
-##### [5.3 Netzwerken](docs/5/3/README.md)
+<!-- IntelliJ IDEA -->
 
-###### [5.3.1 GitHub-Profil](docs/5/3/1/README.md)
+<details>
+<summary>🔹 Java IDE IntelliJ IDEA</summary>
 
-###### [5.3.2 LinkedIn-Profil](docs/5/3/2/README.md)
+- [Übersicht](docs/02-tools/03-intellij/README.md)
+- [Installation](docs/02-tools/03-intellij/01-installation/README.md)
 
-###### [5.3.3 Xing-Profil](docs/5/3/3/README.md)
+</details>
 
-###### [5.3.4 Online-Kalender mit Doodle einrichten und in LinkedIn-Profil integrieren](docs/5/3/4/README.md)
+<!-- Terminal -->
 
-##### [5.4 Teamkoordination](docs/5/4/README.md)
+<details>
+<summary>🔹 Terminal</summary>
 
----
+- [Übersicht](docs/02-tools/04-terminal/README.md)
 
-### 6. Projektmanagement & Zeitmanagement
+</details>
 
-#### [6.1 Zeitmanagement](docs/6/1/README.md)
+<!-- KI -->
 
-#### [6.2 Projektmanagement](docs/6/2/README.md)
+<details>
+<summary>🔹 Künstliche Intelligenz - LLM und MLX</summary>
 
-#### 6.3 Scrum
+- [Übersicht](docs/02-tools/05-ki/README.md)
+- [Large Language Model (LLM) und Apple MLX Framework](docs/02-tools/05-ki/01-llm-mlx/README.md)
+- [Gemini API](docs/02-tools/05-ki/02-gemini-api/README.md)
 
-#### 6.4 Kanban
-
-#### [6.5 Projektplanung](docs/6/5/README.md)
-
-##### [6.5.1 Projektantrag](docs/6/5/1/README.md)
-
-#### [6.6 Projektphasen](docs/6/6/README.md)
-
-#### [6.7 Projektstruktur](docs/6/7/README.md)
-
-#### [6.8 Abschlussprojekt](docs/6/8/README.md)
-
-#### 6.9 Projektbudget
-
-#### 6.10 Projektcontrolling
-
-#### 6.11 Projektabschluss
-
----
-
-### [7. Datenschutz & Datensicherheit](docs/7/README.md)
-
----
-
-### [8. Erreichbarkeit & Kontakt](docs/8/README.md)
-
----
-
-### [9. Lizenzen, Open Source und die Welt der Softwareabhängigkeiten](docs/9/README.md)
-
----
-
-### [10. Dein erstes digitales Produkt (last but not least)](docs/10/README.md)
-
----
-
-### [11. Das NADOO-IT Framework](docs/11/README.md)
+</details>
 
 ---
 
-### 12. Wichtige Hinweise
+<!-- Meetings und Zeitpläne -->
 
-#### Krankmeldungen
+## 📅 Termine und zeitlicher Ablauf
 
-Melde Dich bitte bei Krankheit bis spätestens 11:00 Uhr – sowohl direkt an Christoph Backhaus, das zuständige Institut und Deinen Kostenträger (Arbeitsagentur oder Jobcenter).
+<details>
+<summary>🔹 Meetings und Zeitpläne</summary>
 
-**Fehlende oder verspätete Meldungen gelten als Abwesenheit und können entsprechende Konsequenzen haben!**
+- 🔹 [Übersicht](docs/03-meetings/README.md)
+- 🔹 [erweiterte 11er-Meetings](/docs/03-meetings/02-11er/README.md)
+- 🔹 [Team-Koordination](/docs/03-meetings/03-teamkoordination/README.md)
+- 🔹 [33er-Meetings](/docs/03-meetings/04-33er/README.md)
+- 🔹 [Teams](/docs/03-meetings/05-teamuebersicht/README.md)
+
+</details>
 
 ---
 
-### 13. Arbeitszeiten
+<!-- Kommunikation -->
 
-Unsere täglichen [Meetings](docs/2/README.md) und festgelegten [Ruhezeiten](docs/1/5/README.md) (mindestens 11 Stunden zwischen den Arbeitstagen) sind **verbindlich einzuhalten.**
-Die maximale [Arbeitszeit](docs/1/5/README.md) endet um 23:00 Uhr.
+## 📞 Kommunikation
+
+<details>
+<summary>🔹 Tools & Voraussetzungen</summary>
+
+- 🔹 [Discord](docs/04-kommunikation/README.md) - zentrale Kommunikationsplattform der NADOO-IT
+- 🔹 [Video- & Bildschirmübertragung](/docs/04-kommunikation/02-webcam/README.md)
+  - 🔹 [Android - Smartphone als Webcam nutzen](docs/04-kommunikation/02-webcam/01-droidcam/README.md)
+  - 🔹 [iOS und MacOS Integrationskamera](docs/04-kommunikation/02-webcam/02-ios/README.md)
+
+</details>
 
 ---
 
-| [Weiter](docs/1/README.md)
+<!-- Entwicklung & Programmiersprachen -->
+
+## 💻 Entwicklung & Programmiersprachen
+
+<!-- Dokumentation -->
+
+<details>
+<summary>🔹 Dokumentation</summary>
+
+- 🔹 [Übersicht](docs/05-entwicklung/01-dokumentation/README.md)
+</details>
+
+<!-- Clean Architecture -->
+
+<details>
+<summary>🔹 Clean Architecture</summary>
+
+- 🔹 [Übersicht](docs/05-entwicklung/02-clean-architecture/README.md)
+</details>
+
+<!-- Java -->
+
+<details>
+<summary>🔹 Java</summary>
+
+- 🔹 [Übersicht](docs/05-entwicklung/03-java/README.md)
+</details>
+
+<!-- Python -->
+
+<details>
+<summary> 🔹 Python</summary>
+
+- 🔹 [Installation](docs/05-entwicklung/04-python/README.md)
+- 🔹 [Debugging](docs/05-entwicklung/04-python/01-debugging/README.md)  
+- 🔹 [Briefcase & Toga - Python-Framework für plattformübergreifende Apps](docs/05-entwicklung/04-python/02-briefcase-toga/README.md)
+  - 🔹 [Briefcase-Debugging](docs/05-entwicklung/04-python/02-briefcase-toga/01-debugging/README.md)  
+  - 🔹 [Praktische Umsetzung mit NADOO-Launchpad](docs/05-entwicklung/04-python/02-briefcase-toga/02-launchpad/README.md)  
+  - 🔹 [Speech‐to‐Text‐Feature im NADOO Launchpad](docs/05-entwicklung/04-python/02-briefcase-toga/03-speech-to-text/README.md)  
+
+</details>
+
+<!-- Die eigene App -->
+
+<details>
+<summary>🔹 Die eigene App</summary>
+
+- 🔹 [Übersicht](docs/05-entwicklung/05-eigene-app/README.md)
+</details>
+
+<!-- Orte zum Arbeiten und Lernen -->
+
+<details>
+<summary>🔹 Orte zum Arbeiten und Lernen</summary>
+
+- 🔹 [Übersicht](docs/05-entwicklung/06-lernen-arbeiten/README.md)
+</details>
+
+---
+
+<!-- Methoden -->
+
+## 📚 Methoden & Projekte
+
+<details>
+<summary>🔹 Projekt- und Zeitmanagement</summary>
+
+- 🔹 [Zeitmanagement](/docs/06-methoden/01-zeitmanagement/README.md)
+- 🔹 [Planung](/docs/06-methoden/02-planung/README.md)
+  - 🔹 [Antrag](/docs/06-methoden/02-planung/01-antrag/README.md)
+- 🔹 [Projektmanagement](/docs/06-methoden/03-projektmanagement/README.md)
+- 🔹 [Phasen](/docs/06-methoden/04-phasen/README.md)
+- 🔹 [Abschluss](/docs/06-methoden/05-abschluss/README.md)
+
+</details>
+
+---
+
+## [5. Weiterbildung & Karriereentwicklung](docs/5/README.md)
+
+### 5.1 Jobrotationsverfahren
+
+### 5.2 Präsentationstraining
+
+#### [5.3 Netzwerken](docs/5/3/README.md)
+
+##### [5.3.1 GitHub-Profil](docs/5/3/1/README.md)
+
+##### [5.3.2 LinkedIn-Profil](docs/5/3/2/README.md)
+
+##### [5.3.3 Xing-Profil](docs/5/3/3/README.md)
+
+##### [5.3.4 Online-Kalender mit Doodle einrichten und in LinkedIn-Profil integrieren](docs/5/3/4/README.md)
+
+#### [5.4 Teamkoordination](docs/5/4/README.md)
+
+---
+
+## [7. Datenschutz & Datensicherheit](docs/7/README.md)
+
+---
+
+## [9. Lizenzen, Open Source und die Welt der Softwareabhängigkeiten](docs/9/README.md)
+
+---
+
+## [10. Dein erstes digitales Produkt (last but not least)](docs/10/README.md)
+
+---
+
+## [11. Das NADOO-IT Framework](docs/11/README.md)
+
+---
+
+[Weiter](/docs/00-willkommen/README.md) zum Wiki
