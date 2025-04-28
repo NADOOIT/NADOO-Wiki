@@ -1,4 +1,4 @@
-# 5.3.2 LinkedIn-Profil erstellen und optimieren
+# LinkedIn-Profil erstellen und optimieren
 
 Ein professionelles LinkedIn-Profil ist Dein Aushängeschild im beruflichen Netzwerk. Es ermöglicht Dir, Deine Fähigkeiten, Erfahrungen und Interessen zu präsentieren und Dich mit anderen Fachleuten zu vernetzen. In dieser Anleitung erfährst Du, wie Du ein überzeugendes LinkedIn-Profil erstellen und optimieren kannst.
 
@@ -39,3 +39,6 @@ Ein professionelles LinkedIn-Profil ist Dein Aushängeschild im beruflichen Netz
 ## Fazit
 
 Ein gut gepflegtes LinkedIn-Profil ist der erste Schritt, um in der IT-Branche sichtbar zu werden. Nutze dieses Profil, um Dich mit Fachleuten zu vernetzen und neue berufliche Möglichkeiten zu entdecken.
+
+---
+[Zurück](../README.md) | [Weiter](../03-xing-profil/README.md) zu Xing-Profil

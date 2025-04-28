@@ -406,26 +406,15 @@ Herzlich willkommen zu Deinem Einstieg in deine IT-Karriere bei uns!
 <summary>🔹 Jobrotation, Präsentationstraining & Netzwerken</summary>
 
 - 🔹 [Übersicht](docs/07-karriere/README.md)
+  - 🔹 [Jobrotation](/docs/07-karriere/01-jobrotation/README.md)
+  - 🔹 [Präsentationstraining](/docs/07-karriere/02-praesentation/README.md)
+  - 🔹 [Netzwerken](/docs/07-karriere/03-netzwerken/README.md)
+    - 🔹 [GitHub-Profil](/docs/07-karriere/03-netzwerken/01-github-profil/README.md)
+    - 🔹 [LinkedIn-Profil](/docs/07-karriere/03-netzwerken/02-linkedin-profil/README.md)
+    - 🔹 [Xing-Profil](/docs/07-karriere/03-netzwerken/03-xing-profil/README.md)
+    - 🔹 [Online-Kalender](/docs/07-karriere/03-netzwerken/04-online-kalender/README.md)
 
 </details>
-
-## [5. Weiterbildung & Karriereentwicklung](docs/5/README.md)
-
-### 5.1 Jobrotationsverfahren
-
-### 5.2 Präsentationstraining
-
-#### [5.3 Netzwerken](docs/5/3/README.md)
-
-##### [5.3.1 GitHub-Profil](docs/5/3/1/README.md)
-
-##### [5.3.2 LinkedIn-Profil](docs/5/3/2/README.md)
-
-##### [5.3.3 Xing-Profil](docs/5/3/3/README.md)
-
-##### [5.3.4 Online-Kalender mit Doodle einrichten und in LinkedIn-Profil integrieren](docs/5/3/4/README.md)
-
-#### [5.4 Teamkoordination](docs/5/4/README.md)
 
 ---
 

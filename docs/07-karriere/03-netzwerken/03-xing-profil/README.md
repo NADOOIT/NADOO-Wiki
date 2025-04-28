@@ -1,4 +1,4 @@
-# 5.3.3 Xing-Profil
+# Xing-Profil
 
 ![Beispiel](../../../../images/xing_profil.png)
 
@@ -38,3 +38,6 @@ Auch für Freelancer:innen oder Berufseinsteiger:innen ist Xing ein hilfreiches 
 ## Fazit
 
 Ein Xing-Profil ist ein wichtiges Tool, um deine berufliche Sichtbarkeit zu erhöhen und deine Karrierechancen zu verbessern. Es ist eine Plattform, die dir hilft, dich mit anderen Fachleuten zu vernetzen und deine beruflichen Ziele zu erreichen.
+
+---
+[Zurück](../README.md) | [Weiter](../04-online-kalender/README.md) zu Online-Kalender

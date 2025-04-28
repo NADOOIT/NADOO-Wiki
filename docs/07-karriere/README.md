@@ -36,4 +36,4 @@ Der Aufbau dieser Profile ist für den Start in Deine IT-Karriere sehr wichtig. 
 
 Wir fördern Dich in der Übernahme von [Teamkoordinationsrollen](../01-organisation/10-teamkoordination/). Du wirst in die Planung und Koordination von Projekten eingebunden und erhältst dadurch Einblicke in die Teamdynamik.
 
-[Startseite](../../README.md)
+[Zurück](../../README.md) | [Weiter](../01-jobrotation/README.md) zur Jobrotation

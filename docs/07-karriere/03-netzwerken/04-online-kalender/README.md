@@ -1,6 +1,8 @@
-# 5.3.4 Online-Kalender erstellen
+# Online-Kalender erstellen
 
 Ein Online-Kalender erleichtert es potenziellen Arbeitgebern, Kollegen und neuen Kontakten, Termine mit Ihnen zu vereinbaren. In dieser Anleitung erfahren Sie, wie Sie einen Online-Kalender mit Doodle einrichten und in Ihr LinkedIn-Profil integrieren.
+
+---
 
 ## 1. Schritt: Konto bei einem DSGVO-konformen E-Mail-Anbieter erstellen
 

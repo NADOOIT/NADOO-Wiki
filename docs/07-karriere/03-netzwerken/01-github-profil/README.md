@@ -1,4 +1,4 @@
-# 5.3.1 GitHub-Profil
+# GitHub-Profil
 
 ![Beispiel-Profil](../../../../images/github_profil.png)
 
@@ -64,3 +64,7 @@ Also, leg los und mach dein GitHub-Profil zu deinem persönlichen Schaufenster i
 ## Weitere Informationen
 
 - [GitHub-Profil erstellen](https://docs.github.com/de/get-started/start-your-journey/setting-up-your-profile)
+
+---
+
+[Zurück](../README.md) | [Weiter](../02-linkedin-profil/README.md) zu LinkedIn-Profil
