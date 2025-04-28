@@ -1,4 +1,4 @@
-# 3.9 Deine erste eigene App
+# Deine erste eigene App
 
 ## 1. Finde eine App-Idee
 
