@@ -318,6 +318,7 @@ Herzlich willkommen zu Deinem Einstieg in deine IT-Karriere bei uns!
 <summary>🔹 Java</summary>
 
 - 🔹 [Übersicht](docs/05-entwicklung/03-java/README.md)
+  - 🔹 [NADOO MissionControl](docs/05-entwicklung/03-java/01-mission-control/README.md)
 
 </details>
 
