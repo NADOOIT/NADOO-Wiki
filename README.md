@@ -349,6 +349,25 @@ Herzlich willkommen zu Deinem Einstieg in deine IT-Karriere bei uns!
 
 ---
 
+<!-- Methoden -->
+
+## 📚 Methoden & Projekte
+
+<details>
+<summary>🔹 Projekt- und Zeitmanagement</summary>
+
+- 🔹 [Zeitmanagement](/docs/06-methoden/01-zeitmanagement/README.md)
+- 🔹 [Planung](/docs/06-methoden/02-planung/README.md)
+  - 🔹 [Antrag](/docs/06-methoden/02-planung/01-antrag/README.md)
+- 🔹 [Projektmanagement](/docs/06-methoden/03-projektmanagement/README.md)
+- 🔹 [Phasen](/docs/06-methoden/04-phasen/README.md)
+- 🔹 [Abschluss](/docs/06-methoden/05-abschluss/README.md)
+
+</details>
+
+---
+
+
 #### [5. Weiterbildung & Karriereentwicklung](docs/5/README.md)
 
 ##### 5.1 Jobrotationsverfahren
