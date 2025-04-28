@@ -1,7 +1,7 @@
 name: 🚀 Karriere & Entwicklung
 description: Fragen, Probleme oder Beiträge zur Karriere und persönlichen Entwicklung
 title: "[Karriere & Entwicklung] "
-labels: ["onboarding", "documentation", "help-wanted"]
+labels: ["karriere", "documentation", "help-wanted"]
 assignees: []
 body:
   - type: dropdown
@@ -26,3 +26,18 @@ body:
       description: Handelt es sich um einen Fehler, eine Erweiterung oder eine allgemeine Frage?
     validations:
       required: true
+  - type: checkboxes
+    id: self-assigned
+    attributes:
+      label: Zuständigkeit übernehmen
+      description: Bitte übernimm Verantwortung und wähle aus, ob du dich selbst als Bearbeiter (Assignee) einträgst.
+      options:
+        - label: ✅ Ja, ich übernehme dieses Issue und trage mich als Assignee ein.
+    validations:
+      required: true
+  - type: textarea
+    id: beschreibung
+    attributes:
+      label: Beschreibung des Anliegens
+      description: Bitte beschreibe dein Anliegen so detailliert wie möglich. Je mehr Informationen du gibst, desto besser können wir dir helfen.
+      placeholder: "Hier deine Beschreibung..."
