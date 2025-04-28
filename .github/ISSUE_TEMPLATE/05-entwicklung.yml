@@ -1,7 +1,7 @@
 name: 🧑‍💻 Entwicklung & Programmierung
 description: Fragen, Probleme oder Beiträge zur Entwicklung und Programmierung
 title: "[Entwicklung & Programmierung] "
-labels: ["onboarding", "documentation", "help-wanted"]
+labels: ["entwicklung", "documentation", "help-wanted"]
 assignees: []
 body:
   - type: dropdown

@@ -1,7 +1,7 @@
 name: 💬 Kommunikation & Zusammenarbeit
 description: Fragen, Probleme oder Beiträge zur Kommunikation und Zusammenarbeit
 title: "[Kommunikation & Zusammenarbeit] "
-labels: ["onboarding", "documentation", "help-wanted"]
+labels: ["kommunikation", "documentation", "help-wanted"]
 assignees: []
 body:
   - type: dropdown

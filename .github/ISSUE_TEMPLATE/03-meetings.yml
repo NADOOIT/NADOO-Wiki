@@ -1,7 +1,7 @@
 name: 📅 Meetings & Termine
 description: Fragen, Probleme oder Beiträge zu Meetings und Terminen
 title: "[Meetings & Termine] "
-labels: ["onboarding", "documentation", "help-wanted"]
+labels: ["meetings", "documentation", "help-wanted"]
 assignees: []
 body:
   - type: dropdown

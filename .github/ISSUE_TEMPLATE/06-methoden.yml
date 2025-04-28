@@ -1,7 +1,7 @@
 name: 📚 Methoden & Prozesse
 description: Fragen, Probleme oder Beiträge zu Methoden und Prozessen
 title: "[Methoden & Prozesse] "
-labels: ["onboarding", "documentation", "help-wanted"]
+labels: ["methoden", "documentation", "help-wanted"]
 assignees: []
 body:
   - type: dropdown
@@ -24,5 +24,14 @@ body:
         - Erweiterungsvorschlag
         - Allgemeine Frage
       description: Handelt es sich um einen Fehler, eine Erweiterung oder eine allgemeine Frage?
+    validations:
+      required: true
+  - type: checkboxes
+    id: self-assigned
+    attributes:
+      label: Zuständigkeit übernehmen
+      description: Bitte übernimm Verantwortung und wähle aus, ob du dich selbst als Bearbeiter (Assignee) einträgst.
+      options:
+        - label: ✅ Ja, ich übernehme dieses Issue und trage mich als Assignee ein.
     validations:
       required: true
