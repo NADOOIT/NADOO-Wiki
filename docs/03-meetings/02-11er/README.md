@@ -1,4 +1,4 @@
-# 2.2 Erweiterte 11er-Meetings (Montag, Dienstag und Donnerstag)
+# Erweiterte 11er-Meetings (Montag, Dienstag und Donnerstag)
 
 - **Dauer:** 30–40 Minuten
 
@@ -53,4 +53,4 @@ Pro 3er-Team:
 
 ---
 
-[Zurück](../1/README.md) | [Weiter](../3/README.md)
+[Zurück](../01-allgemein-morgens/README.md) | [Weiter](../03-teamkoordination/README.md)

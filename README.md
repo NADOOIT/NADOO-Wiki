@@ -256,15 +256,20 @@ Herzlich willkommen zu Deinem Einstieg in deine IT-Karriere bei uns!
 
 ---
 
-<!-- Meeting Strukturen -->
+<!-- Meetings und Zeitpläne -->
 
-#### [2. Meeting Strukturen](docs/2/README.md)
+## 📅 Termine und zeitlicher Ablauf
 
-##### [2.1 Morgenmeetings – Allgemeine Zeitpläne](docs/2/1/README.md)
+<details>
+<summary>🔹 Meetings und Zeitpläne</summary>
 
-##### [2.2 Erweiterte 11er-Meetings](docs/2/2/README.md)
+- 🔹 [Übersicht](docs/03-meetings/README.md)
+- 🔹 [erweiterte 11er-Meetings](/docs/03-meetings/02-11er/README.md)
+- 🔹 [Team-Koordination](/docs/03-meetings/03-teamkoordination/README.md)
+- 🔹 [33er-Meetings](/docs/03-meetings/04-33er/README.md)
+- 🔹 [Teams](/docs/03-meetings/05-teamuebersicht/README.md)
 
-##### [2.3 33er-Meetings](docs/2/3/README.md)
+</details>
 
 ---
 
