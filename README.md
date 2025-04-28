@@ -309,6 +309,66 @@ Herzlich willkommen zu Deinem Einstieg in deine IT-Karriere bei uns!
 
 ---
 
+<!-- Entwicklung & Programmiersprachen -->
+
+## 💻 Entwicklung & Programmiersprachen
+
+<!-- Dokumentation -->
+
+<details>
+<summary>🔹 Dokumentation</summary>
+
+- 🔹 [Übersicht](docs/05-entwicklung/01-dokumentation/README.md)
+</details>
+
+<!-- Clean Architecture -->
+
+<details>
+<summary>🔹 Clean Architecture</summary>
+
+- 🔹 [Übersicht](docs/05-entwicklung/02-clean-architecture/README.md)
+</details>
+
+<!-- Java -->
+
+<details>
+<summary>🔹 Java</summary>
+
+- 🔹 [Übersicht](docs/05-entwicklung/03-java/README.md)
+</details>
+
+<!-- Python -->
+
+<details>
+<summary> 🔹 Python</summary>
+
+- 🔹 [Installation](docs/05-entwicklung/04-python/README.md)
+- 🔹 [Debugging](docs/05-entwicklung/04-python/01-debugging/README.md)  
+- 🔹 [Briefcase & Toga - Python-Framework für plattformübergreifende Apps](docs/05-entwicklung/04-python/02-briefcase-toga/README.md)
+  - 🔹 [Briefcase-Debugging](docs/05-entwicklung/04-python/02-briefcase-toga/01-debugging/README.md)  
+  - 🔹 [Praktische Umsetzung mit NADOO-Launchpad](docs/05-entwicklung/04-python/02-briefcase-toga/02-launchpad/README.md)  
+  - 🔹 [Speech‐to‐Text‐Feature im NADOO Launchpad](docs/05-entwicklung/04-python/02-briefcase-toga/03-speech-to-text/README.md)  
+
+</details>
+
+<!-- Die eigene App -->
+
+<details>
+<summary>🔹 Die eigene App</summary>
+
+- 🔹 [Übersicht](docs/05-entwicklung/05-eigene-app/README.md)
+</details>
+
+<!-- Orte zum Arbeiten und Lernen -->
+
+<details>
+<summary>🔹 Orte zum Arbeiten und Lernen</summary>
+
+- 🔹 [Übersicht](docs/05-entwicklung/06-lernen-arbeiten/README.md)
+</details>
+
+---
+
 #### [5. Weiterbildung & Karriereentwicklung](docs/5/README.md)
 
 ##### 5.1 Jobrotationsverfahren
@@ -370,16 +430,6 @@ Herzlich willkommen zu Deinem Einstieg in deine IT-Karriere bei uns!
 ---
 
 ### [11. Das NADOO-IT Framework](docs/11/README.md)
-
----
-
-### Dokumentation
-
-### Clean Architecture
-
-### Einstieg mit der eigenen App
-
-## Mögliche interessante Orte zum Arbeiten und Lernen
 
 ---
 

@@ -1,4 +1,4 @@
-# 3.8 Clean Architecture
+# Clean Architecture
 
 Einführung in Clean Architecture am Beispiel einer Zeiterfassungsanwendung
 
@@ -294,7 +294,6 @@ public class TimeTrackerCLI {
         }
     }
 }
-
 ```
 
 ---
@@ -332,3 +331,7 @@ Die Clean Architecture ist ein bewährtes Muster, um Softwareprojekte strukturie
 
 - [Clean Architecture Buch von Robert C. Martin](https://www.oreilly.com/library/view/clean-architecture-a/9780134494166/)
 - [Clean Architecture auf Wikipedia](https://de.wikipedia.org/wiki/Clean_Architecture)
+
+---
+
+[Zurück](../02-clean-architecture/README.md) | [Weiter](../03-java/README.md) zu Java

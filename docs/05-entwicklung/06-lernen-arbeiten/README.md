@@ -1,4 +1,4 @@
-# 3.12 Mögliche interessante Orte zum Arbeiten und Lernen
+# Mögliche interessante Orte zum Arbeiten und Lernen
 
 <https://www.get-in-it.de/>
 

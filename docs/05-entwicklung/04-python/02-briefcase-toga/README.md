@@ -1,4 +1,4 @@
-# 3.14 Vorbereitung für Briefcase & Toga
+# Vorbereitung für Briefcase & Toga
 
 Herzlich Willkommen zu den Briefcase & Toga Tutorials!
 
@@ -20,3 +20,8 @@ Die offiziellen Tutorials führen ebenfalls die Installation von Python und das 
 
 ```bash
 # macOS und Linux
+```
+
+---
+
+[Zurück](../../04-python/01-debugging/) | [Weiter](../02-briefcase-toga/01-debugging/README.md) Briefcase & Toga Debugging

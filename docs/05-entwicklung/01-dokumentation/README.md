@@ -1,4 +1,4 @@
-# 3.7 Dokumentation
+# Dokumentation
 
 Die Dokumentation ist ein zentraler Bestandteil jedes Softwareprojekts. Sie stellt sicher, dass alle wichtigen Informationen über Architektur, Code, Technologien sowie Prozesse festgehalten und leicht auffindbar sind.
 
@@ -54,10 +54,10 @@ Um diese Anforderungen zu erfüllen, empfiehlt es sich, ein zentrales und leicht
 
 ## Fazit
 
-**Dokumentation (#3.7) ist ein unverzichtbarer Teil unserer Entwicklungsprozesse.** Sie sorgt für Transparenz, Wissenstransfer und langfristige Wartbarkeit. GitHub dient uns dabei als zentrales Werkzeug, um unsere Dokumentation strukturiert und kollaborativ zu pflegen. Nur wenn wir GitHub **konsequent** für alle Dokumentationsaufgaben nutzen, können wir sicherstellen, dass unser Wissen aktuell bleibt und jederzeit für alle verfügbar ist.
+**Dokumentation ist ein unverzichtbarer Teil unserer Entwicklungsprozesse.** Sie sorgt für Transparenz, Wissenstransfer und langfristige Wartbarkeit. GitHub dient uns dabei als zentrales Werkzeug, um unsere Dokumentation strukturiert und kollaborativ zu pflegen. Nur wenn wir GitHub **konsequent** für alle Dokumentationsaufgaben nutzen, können wir sicherstellen, dass unser Wissen aktuell bleibt und jederzeit für alle verfügbar ist.
 
 > **Wichtiger Hinweis**: Jede*r im Team trägt Verantwortung für die Dokumentation. Dokumentation ist keine einmalige Aufgabe, sondern ein fortlaufender Prozess, der von allen Beteiligten gelebt und aktiv unterstützt werden muss.
 
 ---
 
-[Zurück](../6/README.md) | [Weiter](../4/README.md)
+[Zurück](../README.md) zur Übersicht | [Weiter](../02-clean-architecture/README.md) zu Clean Architecture
