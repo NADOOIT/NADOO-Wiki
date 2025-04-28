@@ -331,7 +331,8 @@ Herzlich willkommen zu Deinem Einstieg in deine IT-Karriere bei uns!
 - 🔹 [Briefcase & Toga - Python-Framework für plattformübergreifende Apps](docs/05-entwicklung/04-python/02-briefcase-toga/README.md)
   - 🔹 [Briefcase-Debugging](docs/05-entwicklung/04-python/02-briefcase-toga/01-debugging/README.md)  
   - 🔹 [Praktische Umsetzung mit NADOO-Launchpad](docs/05-entwicklung/04-python/02-briefcase-toga/02-launchpad/README.md)  
-  - 🔹 [Speech‐to‐Text‐Feature im NADOO Launchpad](docs/05-entwicklung/04-python/02-briefcase-toga/03-speech-to-text/README.md)  
+  - 🔹 [Speech‐to‐Text‐Feature im NADOO Launchpad](docs/05-entwicklung/04-python/02-briefcase-toga/03-speech-to-text/README.md)
+  - 🔹 [NADOO-Launchpad - PowerShell Execution](docs/05-entwicklung/04-python/02-briefcase-toga/04-powershell/README.md)
 
 </details>
 
