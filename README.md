@@ -293,17 +293,19 @@ Herzlich willkommen zu Deinem Einstieg in deine IT-Karriere bei uns!
 
 ---
 
-#### [4. Kommunikation & Zusammenarbeit](docs/4/README.md)
+<!-- Kommunikation -->
 
-##### [4.1 Discord](docs/4/1/README.md) - zentrale Kommunikationsplattform
+## 📞 Kommunikation
 
-###### [4.1.1 Discord - Einrichten und Anmelden](docs/4/1/1/README.md)
+<details>
+<summary>🔹 Tools & Voraussetzungen</summary>
 
-##### [4.3 Video/Avatar-Pflicht](docs/4/3/README.md)
+- 🔹 [Discord](docs/04-kommunikation/README.md) - zentrale Kommunikationsplattform der NADOO-IT
+- 🔹 [Video- & Bildschirmübertragung](/docs/04-kommunikation/02-webcam/README.md)
+  - 🔹 [Android - Smartphone als Webcam nutzen](docs/04-kommunikation/02-webcam/01-droidcam/README.md)
+  - 🔹 [iOS und MacOS Integrationskamera](docs/04-kommunikation/02-webcam/02-ios/README.md)
 
-###### [4.3.1 Android - Smartphone als Webcam nutzen](docs/4/3/1/README.md)
-
-##### [4.4 Feedback-Kultur](docs/4/4/README.md)
+</details>
 
 ---
 
