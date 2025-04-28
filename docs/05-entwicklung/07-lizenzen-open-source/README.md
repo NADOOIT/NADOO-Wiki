@@ -1,12 +1,16 @@
-# 9 Lizenzen, Open Source und die Welt der Softwareabhängigkeiten
+# Lizenzen, Open Source und die Welt der Softwareabhängigkeiten
 
 Herzlichen Glückwunsch zur Entwicklung Ihrer ersten App! Während dieses Prozesses haben Sie verschiedene Softwarepakete genutzt, die alle unter bestimmten Lizenzen veröffentlicht wurden. Lassen Sie uns einen Moment innehalten, um die Bedeutung dieser Lizenzen und die Welt der Open-Source-Software zu betrachten.
+
+---
 
 ## Die Macht der Open-Source-Gemeinschaft
 
 Zunächst einmal ist es wichtig, sich bewusst zu machen, welch enormer Wert Ihnen durch Open-Source-Software zur Verfügung steht. Denken Sie nur an die KI-Modelle von Meta, Microsoft, Google und vielen anderen, die Milliarden an Entwicklungskosten repräsentieren und nun frei zugänglich sind. Oder betrachten Sie Projekte wie Briefcase und Toga, an denen Entwickler seit über einem Jahrzehnt arbeiten und von deren Arbeit wir nun profitieren können.
 
 Diese Großzügigkeit und Zusammenarbeit in der Entwicklergemeinschaft ist beeindruckend und verdient unsere Dankbarkeit. Es ist wichtig, dass wir diese Dankbarkeit auch zum Ausdruck bringen, sei es durch Beiträge zur Dokumentation, Fehlermeldungen oder, wenn möglich, durch eigene Code-Beiträge.
+
+---
 
 ## Verständnis von Softwarelizenzen
 
@@ -24,9 +28,13 @@ Jedes Softwarepaket, das Sie verwendet haben, kommt mit einer Lizenz. Hier sind 
 
 Es ist wichtig, die Lizenzen der von Ihnen verwendeten Software zu verstehen und zu respektieren, um rechtliche Probleme zu vermeiden und die Open-Source-Gemeinschaft zu unterstützen.
 
+---
+
 ## Die Rolle von Paketmanagern
 
 Tools wie pip (oder das neuere uv) haben die Verwaltung von Abhängigkeiten erheblich vereinfacht. Sie ermöglichen es uns, schnell und einfach Pakete zu installieren und zu aktualisieren, was die Entwicklung beschleunigt und den Zugang zu einer Vielzahl von Bibliotheken erleichtert.
+
+---
 
 ## Die Schattenseiten von Abhängigkeiten
 
@@ -67,3 +75,5 @@ Citations:
 [6] <https://github.com/astral-sh/uv/issues/1870>
 [7] <https://github.com/astral-sh/uv/actions/runs/8210006157/job/22456810854>
 [8] <https://www.ingenieur.de/technik/fachbereiche/kuenstliche-intelligenz/kuenstliche-intelligenz-diese-15-ki-tools-sollten-sie-kennen/>
+
+---
