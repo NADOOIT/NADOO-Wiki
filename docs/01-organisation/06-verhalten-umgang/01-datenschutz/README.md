@@ -1,4 +1,4 @@
-# 7. Umgang mit Unternehmensdaten bei Christoph Backhaus IT: Sicherheit und Vertraulichkeit als oberste Priorität
+# Umgang mit Unternehmensdaten bei Christoph Backhaus IT: Sicherheit und Vertraulichkeit als oberste Priorität
 
 ## Einführung
 
@@ -67,4 +67,4 @@ Citations:
 
 ---
 
-[Startseite](../../README.md)
+[Zurück](../../06-verhalten-umgang/README.md) | [Weiter](../../07-feedback-kultur/README.md) zu Feedback-Kultur
