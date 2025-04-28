@@ -17,8 +17,7 @@ Bei NADOO-IT verwenden wir Discord, um intern schnell und direkt zu kommuniziere
 
 ## Struktur
 
-Die Struktur von des NADOO-IT-Discord ist in verschiedene Bereiche unterteilt, die jeweils unterschiedliche Funktionen erfüllen.  
-
+Die Struktur des NADOO-IT-Discord ist in verschiedene Bereiche unterteilt, die jeweils unterschiedliche Funktionen erfüllen.  
 Hier ist eine Übersicht über die wichtigsten Bereiche und deren Inhalte:
 
 ```txt
