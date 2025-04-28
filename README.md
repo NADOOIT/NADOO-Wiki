@@ -273,26 +273,6 @@ Herzlich willkommen zu Deinem Einstieg in deine IT-Karriere bei uns!
 
 ---
 
-<details>
-<summary>3.13 Python - Programmiersprache (Archiv)</summary>
-
-- [3.13.1 Debugging](docs/3/13/1/README.md)  
-- [3.13.2 Praktische Umsetzung mit NADOO-Launchpad](docs/3/13/2/README.md)  
-- [3.13.3 Speech‐to‐Text‐Feature im NADOO Launchpad](docs/3/13/3/README.md)  
-
-</details>
-
----
-
-<details>
-<summary>3.14 Briefcase & Toga - Python-Framework für plattformübergreifende Apps (Archiv)</summary>
-
-- [3.14.1 Debugging](docs/3/14/1/README.md)  
-
-</details>
-
----
-
 <!-- Kommunikation -->
 
 ## 📞 Kommunikation
