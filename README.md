@@ -380,7 +380,7 @@ Herzlich willkommen zu Deinem Einstieg in deine IT-Karriere bei uns!
 
 ---
 
-<!-- Methoden -->
+<!-- 6. Methoden & Projekte -->
 
 ## 📚 Methoden & Projekte
 
@@ -397,6 +397,17 @@ Herzlich willkommen zu Deinem Einstieg in deine IT-Karriere bei uns!
 </details>
 
 ---
+
+<!-- Entwicklung & Karriere -->
+
+## 🚀 Entwicklung & Karriere
+
+<details>
+<summary>🔹 Jobrotation, Präsentationstraining & Netzwerken</summary>
+
+- 🔹 [Übersicht](docs/07-karriere/README.md)
+
+</details>
 
 ## [5. Weiterbildung & Karriereentwicklung](docs/5/README.md)
 
