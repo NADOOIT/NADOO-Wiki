@@ -2,7 +2,7 @@
 
 | [Christoph Backhaus IT](https://wirrettendeinezeit.de) | **Unser Team** | **Unsere Mission** | **Unsere Kernwerte** |
 |:--- | :--- | :--- | :--- |
-| ![NADOO-IT](images/nadooit.png) | [Abdel](https://github.com/Abdel-213), [Alexander P.](https://github.com/cosinus-a), [Alexander W.](https://github.com/Alexander-AzTech2064), [Asieh](https://github.com/Asiyehjfr), ... | - **Entwicklung einer Platform von Anwendungsentwickler:innen für Anwendungsentwickler:innen** |  - **Es gibt keine Fehler, sondern ausschließlcih - Chancen sich gemeinsam weiter zu entwickeln!** |
+| ![NADOO-IT](images/nadooit.png) | [Abdel](https://github.com/Abdel-213), [Alexander P.](https://github.com/cosinus-a), [Alexander W.](https://github.com/Alexander-AzTech2064), [Asieh](https://github.com/Asiyehjfr), ... | - **Entwicklung einer Plattform von Anwendungsentwickler:innen für Anwendungsentwickler:innen** |  - **Es gibt keine Fehler, sondern ausschließlcih - Chancen sich gemeinsam weiter zu entwickeln!** |
 | 🏣 Anschrift | Am Markt 1, 47229 Duisburg | - Vorbereitung für Unternehmensarbeit und Selbständigkeit | - **Es gibt keine dummen Fragen!** |
 | 📞 Telefon | +49 2065 7098429 | - Programmieren & Teamarbeit |- **nur gemeinsam/zusammen sind wir stark!** |
 | 📱 Mobil | +49 176 565 44 075 | - Ermöglichung von Wegen aus dem Hamsterrad | |
@@ -249,15 +249,15 @@ Herzlich willkommen zu Deinem Einstieg in deine IT-Karriere bei uns!
 <details>
 <summary>🔹 Künstliche Intelligenz - LLM und MLX</summary>
 
-- [Übersicht](docs/02-tools/05-ki/README.md)
-- [Large Language Model (LLM) und Apple MLX Framework](docs/02-tools/05-ki/01-llm-mlx/README.md)
-- [Gemini API](docs/02-tools/05-ki/02-gemini-api/README.md)
+- 🔹 [Übersicht](docs/02-tools/05-ki/README.md)
+- 🔹 [Large Language Model (LLM) und Apple MLX Framework](docs/02-tools/05-ki/01-llm-mlx/README.md)
+- 🔹[Gemini API](docs/02-tools/05-ki/02-gemini-api/README.md)
 
 </details>
 
 ---
 
-<!-- Meetings und Zeitpläne -->
+<!-- 3. Termine und zeitlicher Ablauf -->
 
 ## 📅 Termine und zeitlicher Ablauf
 
@@ -274,7 +274,7 @@ Herzlich willkommen zu Deinem Einstieg in deine IT-Karriere bei uns!
 
 ---
 
-<!-- Kommunikation -->
+<!-- 4. Kommunikation -->
 
 ## 📞 Kommunikation
 
@@ -290,7 +290,7 @@ Herzlich willkommen zu Deinem Einstieg in deine IT-Karriere bei uns!
 
 ---
 
-<!-- Entwicklung & Programmiersprachen -->
+<!-- 5 Entwicklung & Programmiersprachen -->
 
 ## 💻 Entwicklung & Programmiersprachen
 
@@ -350,6 +350,31 @@ Herzlich willkommen zu Deinem Einstieg in deine IT-Karriere bei uns!
 <summary>🔹 Orte zum Arbeiten und Lernen</summary>
 
 - 🔹 [Übersicht](docs/05-entwicklung/06-lernen-arbeiten/README.md)
+
+</details>
+
+<!-- Lizenzen und Open Source -->
+<details>
+<summary>🔹 Lizenzen und Open Source</summary>
+
+- 🔹 [Übersicht](docs/05-entwicklung/07-lizenzen-open-source/README.md)
+
+</details>
+
+<!-- Einstieg in die digitale Produktentwicklung -->
+
+<details>
+<summary>🔹 Einstieg in die digitale Produktentwicklung</summary>
+
+- 🔹 [Übersicht](docs/05-entwicklung/08-digitale-produktentwicklung/README.md)
+
+</details>
+
+<!-- Das NADOO-IT Framework -->
+<details>
+<summary>🔹 Das NADOO-IT Framework</summary>
+
+- 🔹 [Übersicht](docs/05-entwicklung/09-nadoo-framework/README.md)
 
 </details>
 
