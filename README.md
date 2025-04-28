@@ -393,16 +393,4 @@ Herzlich willkommen zu Deinem Einstieg in deine IT-Karriere bei uns!
 
 ---
 
-## [9. Lizenzen, Open Source und die Welt der Softwareabhängigkeiten](docs/9/README.md)
-
----
-
-## [10. Dein erstes digitales Produkt (last but not least)](docs/10/README.md)
-
----
-
-## [11. Das NADOO-IT Framework](docs/11/README.md)
-
----
-
 [Weiter](/docs/00-willkommen/README.md) zum Wiki
