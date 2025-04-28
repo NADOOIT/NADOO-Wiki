@@ -1,4 +1,4 @@
-# 6.2 Projektmanagement
+# Projektmanagement
 
 ## Bedeutung des Projektmanagements in der Ausbildung
 
@@ -49,3 +49,5 @@ Daher empfiehlt NADOO-IT allen Auszubildenden, sich bereits ab Beginn der Ausbil
 Projektmanagement ist kein isoliertes Thema für die Prüfungsphase — es ist ein integraler Bestandteil einer erfolgreichen Ausbildung zum/zur Fachinformatiker*in. Wer frühzeitig Verantwortung für Projekte übernimmt, sammelt nicht nur wichtige Praxiserfahrung, sondern legt gleichzeitig das Fundament für eine erfolgreiche Abschlussprüfung und einen professionellen Einstieg ins Berufsleben.
 
 ---
+
+[Zurück](../02-planung/01-antrag/README.md) | [Weiter](../04-phasen/README.md) zu Projektphasen

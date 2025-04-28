@@ -1,4 +1,4 @@
-# 6.8 Abschlussprojekt
+# Abschlussprojekt
 
 Sammlung von nützlichen Links:
 

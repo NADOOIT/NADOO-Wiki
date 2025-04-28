@@ -273,26 +273,6 @@ Herzlich willkommen zu Deinem Einstieg in deine IT-Karriere bei uns!
 
 ---
 
-<details>
-<summary>3.13 Python - Programmiersprache (Archiv)</summary>
-
-- [3.13.1 Debugging](docs/3/13/1/README.md)  
-- [3.13.2 Praktische Umsetzung mit NADOO-Launchpad](docs/3/13/2/README.md)  
-- [3.13.3 Speech‐to‐Text‐Feature im NADOO Launchpad](docs/3/13/3/README.md)  
-
-</details>
-
----
-
-<details>
-<summary>3.14 Briefcase & Toga - Python-Framework für plattformübergreifende Apps (Archiv)</summary>
-
-- [3.14.1 Debugging](docs/3/14/1/README.md)  
-
-</details>
-
----
-
 <!-- Kommunikation -->
 
 ## 📞 Kommunikation
@@ -369,68 +349,58 @@ Herzlich willkommen zu Deinem Einstieg in deine IT-Karriere bei uns!
 
 ---
 
-#### [5. Weiterbildung & Karriereentwicklung](docs/5/README.md)
+<!-- Methoden -->
 
-##### 5.1 Jobrotationsverfahren
+## 📚 Methoden & Projekte
 
-##### 5.2 Präsentationstraining
+<details>
+<summary>🔹 Projekt- und Zeitmanagement</summary>
 
-##### [5.3 Netzwerken](docs/5/3/README.md)
+- 🔹 [Zeitmanagement](/docs/06-methoden/01-zeitmanagement/README.md)
+- 🔹 [Planung](/docs/06-methoden/02-planung/README.md)
+  - 🔹 [Antrag](/docs/06-methoden/02-planung/01-antrag/README.md)
+- 🔹 [Projektmanagement](/docs/06-methoden/03-projektmanagement/README.md)
+- 🔹 [Phasen](/docs/06-methoden/04-phasen/README.md)
+- 🔹 [Abschluss](/docs/06-methoden/05-abschluss/README.md)
 
-###### [5.3.1 GitHub-Profil](docs/5/3/1/README.md)
-
-###### [5.3.2 LinkedIn-Profil](docs/5/3/2/README.md)
-
-###### [5.3.3 Xing-Profil](docs/5/3/3/README.md)
-
-###### [5.3.4 Online-Kalender mit Doodle einrichten und in LinkedIn-Profil integrieren](docs/5/3/4/README.md)
-
-##### [5.4 Teamkoordination](docs/5/4/README.md)
+</details>
 
 ---
 
-### 6. Projektmanagement & Zeitmanagement
+## [5. Weiterbildung & Karriereentwicklung](docs/5/README.md)
 
-#### [6.1 Zeitmanagement](docs/6/1/README.md)
+### 5.1 Jobrotationsverfahren
 
-#### [6.2 Projektmanagement](docs/6/2/README.md)
+### 5.2 Präsentationstraining
 
-#### 6.3 Scrum
+#### [5.3 Netzwerken](docs/5/3/README.md)
 
-#### 6.4 Kanban
+##### [5.3.1 GitHub-Profil](docs/5/3/1/README.md)
 
-#### [6.5 Projektplanung](docs/6/5/README.md)
+##### [5.3.2 LinkedIn-Profil](docs/5/3/2/README.md)
 
-##### [6.5.1 Projektantrag](docs/6/5/1/README.md)
+##### [5.3.3 Xing-Profil](docs/5/3/3/README.md)
 
-#### [6.6 Projektphasen](docs/6/6/README.md)
+##### [5.3.4 Online-Kalender mit Doodle einrichten und in LinkedIn-Profil integrieren](docs/5/3/4/README.md)
 
-#### [6.7 Projektstruktur](docs/6/7/README.md)
-
-#### [6.8 Abschlussprojekt](docs/6/8/README.md)
-
-#### 6.9 Projektbudget
-
-#### 6.10 Projektcontrolling
-
-#### 6.11 Projektabschluss
+#### [5.4 Teamkoordination](docs/5/4/README.md)
 
 ---
 
-### [7. Datenschutz & Datensicherheit](docs/7/README.md)
+## [7. Datenschutz & Datensicherheit](docs/7/README.md)
 
 ---
 
-### [9. Lizenzen, Open Source und die Welt der Softwareabhängigkeiten](docs/9/README.md)
+## [9. Lizenzen, Open Source und die Welt der Softwareabhängigkeiten](docs/9/README.md)
 
 ---
 
-### [10. Dein erstes digitales Produkt (last but not least)](docs/10/README.md)
+## [10. Dein erstes digitales Produkt (last but not least)](docs/10/README.md)
 
 ---
 
-### [11. Das NADOO-IT Framework](docs/11/README.md)
+## [11. Das NADOO-IT Framework](docs/11/README.md)
 
 ---
 
-| [Weiter](docs/1/README.md)
+[Weiter](/docs/00-willkommen/README.md) zum Wiki
