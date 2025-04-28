@@ -1,4 +1,4 @@
-# 6.5.1 Leitfaden zur Erstellung eines Projektantrags
+# Leitfaden zur Erstellung eines Projektantrags
 
 Dieses Dokument bietet dir eine Schritt-für-Schritt-Anleitung, wie du einen Projektantrag (z. B. für die IHK) erstellen kannst. Es hilft dir dabei, typische Fehler zu vermeiden, deine Ziele klar zu formulieren und einen detaillierten Zeitplan aufzustellen.
 
@@ -144,3 +144,5 @@ Ein gut strukturierter Projektantrag ist der **Schlüssel** für ein erfolgreich
 ---
 
 > **Hinweis**: Prüfe stets die **Richtlinien** deiner IHK oder deines Prüfungsausschusses, da es je nach Region leichte Abweichungen in der geforderten Struktur oder im Umfang geben kann.
+
+[Zurück](../../02-planung/README.md) | [Weiter](../../03-projektmanagement/README.md) zu Projektmanagement

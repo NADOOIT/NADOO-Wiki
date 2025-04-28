@@ -1,6 +1,6 @@
-# 6.6 Projektphasen
+# Projektphasen
 
-## 6.6.1 Projektinitialisierung
+## Projektinitialisierung
 
 Die Projektinitialisierung ist der erste Schritt in der Projektplanung. Hierbei werden die Rahmenbedingungen und Ziele des Projekts definiert. Die Projektinitialisierung umfasst die folgenden Schritte:
 
@@ -12,7 +12,7 @@ Die Projektinitialisierung ist der erste Schritt in der Projektplanung. Hierbei 
 
 ---
 
-## 6.6.2 Projektplanung
+## Projektplanung
 
 In der Projektplanungsphase werden detaillierte Abläufe und Meilensteine definiert.
 
@@ -24,7 +24,7 @@ In der Projektplanungsphase werden detaillierte Abläufe und Meilensteine defini
 
 ---
 
-## 6.6.3 Projektdurchführung
+## Projektdurchführung
 
 Die Durchführungsphase umfasst die eigentliche Umsetzung des Projekts.
 
@@ -36,7 +36,7 @@ Die Durchführungsphase umfasst die eigentliche Umsetzung des Projekts.
 
 ---
 
-## 6.6.4 Projektüberwachung
+## Projektüberwachung
 
 In dieser Phase wird der Fortschritt des Projekts kontinuierlich kontrolliert.
 
@@ -47,7 +47,7 @@ In dieser Phase wird der Fortschritt des Projekts kontinuierlich kontrolliert.
 
 ---
 
-## 6.6.5 Projektabschluss
+## Projektabschluss
 
 Der Projektabschluss fasst Ergebnisse zusammen und leitet zukünftige Maßnahmen ein.
 
@@ -59,6 +59,4 @@ Der Projektabschluss fasst Ergebnisse zusammen und leitet zukünftige Maßnahmen
 
 ---
 
-| |
-| --- |
-| [Weiter](/docs/6/7/README.md) |
+[Zurück](../03-projektmanagement/README.md) | [Weiter](../05-abschluss/README.md) zu Projektabschluss
