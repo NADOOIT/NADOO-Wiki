@@ -14,7 +14,7 @@ Wenn du mehr über die Entwicklung von NADOO MissionControl erfahren möchtest, 
 - Wenn du Fragen oder Anregungen hast, kannst du dich gerne an die Entwicklergemeinschaft wenden.
 - Wir freuen uns über dein Feedback und deine Ideen zur Verbesserung von NADOO MissionControl.
 - Gemeinsam können wir die Software weiterentwickeln und an die Bedürfnisse der Nutzer anpassen.
-- Vielen Dank für dein Interesse an NADOO MissionControl und viel Erfolg bei der Arbeit mit der Software!   
+- Vielen Dank für dein Interesse an NADOO MissionControl und viel Erfolg bei der Arbeit mit der Software!
 
 ---
 
