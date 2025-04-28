@@ -251,8 +251,7 @@ Herzlich willkommen zu Deinem Einstieg in deine IT-Karriere bei uns!
 
 - 🔹 [Übersicht](docs/02-tools/05-ki/README.md)
 - 🔹 [Large Language Model (LLM) und Apple MLX Framework](docs/02-tools/05-ki/01-llm-mlx/README.md)
-- 🔹[Gemini API](docs/02-tools/05-ki/02-gemini-api/README.md)
-
+- 🔹 [Gemini API](docs/02-tools/05-ki/02-gemini-api/README.md)
 </details>
 
 ---
