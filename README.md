@@ -300,6 +300,7 @@ Herzlich willkommen zu Deinem Einstieg in deine IT-Karriere bei uns!
 <summary>🔹 Dokumentation</summary>
 
 - 🔹 [Übersicht](docs/05-entwicklung/01-dokumentation/README.md)
+
 </details>
 
 <!-- Clean Architecture -->
@@ -308,6 +309,7 @@ Herzlich willkommen zu Deinem Einstieg in deine IT-Karriere bei uns!
 <summary>🔹 Clean Architecture</summary>
 
 - 🔹 [Übersicht](docs/05-entwicklung/02-clean-architecture/README.md)
+
 </details>
 
 <!-- Java -->
@@ -316,6 +318,7 @@ Herzlich willkommen zu Deinem Einstieg in deine IT-Karriere bei uns!
 <summary>🔹 Java</summary>
 
 - 🔹 [Übersicht](docs/05-entwicklung/03-java/README.md)
+
 </details>
 
 <!-- Python -->
@@ -338,6 +341,7 @@ Herzlich willkommen zu Deinem Einstieg in deine IT-Karriere bei uns!
 <summary>🔹 Die eigene App</summary>
 
 - 🔹 [Übersicht](docs/05-entwicklung/05-eigene-app/README.md)
+
 </details>
 
 <!-- Orte zum Arbeiten und Lernen -->
@@ -346,6 +350,7 @@ Herzlich willkommen zu Deinem Einstieg in deine IT-Karriere bei uns!
 <summary>🔹 Orte zum Arbeiten und Lernen</summary>
 
 - 🔹 [Übersicht](docs/05-entwicklung/06-lernen-arbeiten/README.md)
+
 </details>
 
 ---
