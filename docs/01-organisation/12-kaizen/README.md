@@ -6,7 +6,7 @@ Willkommen bei Christoph Backhaus IT. Dieser Wiki-Artikel ist ein wesentlicher B
 
 ## Geschichte und Ursprung von KAIZEN
 
-KAIZEN entstand in Japan nach dem Zweiten Weltkrieg, als das Land vor der Herausforderung stand, seine Wirtschaft wiederaufzubauen. Maßgeblich beeinflusst wurde es von amerikanischen Qualitätsexperten wie W. Edwards Deming und Joseph M. Juran[1]. Toyota war einer der ersten Unternehmen, der KAIZEN in großem Umfang implementierte und damit das Toyota-Produktionssystem (TPS) entwickelte.
+KAIZEN entstand in Japan nach dem Zweiten Weltkrieg, als das Land vor der Herausforderung stand, seine Wirtschaft wiederaufzubauen. Maßgeblich beeinflusst wurde es von amerikanischen Qualitätsexperten wie W. Edwards Deming und Joseph M. Juran[1]. Toyota war eines der ersten Unternehmen, das KAIZEN in großem Umfang implementierte und damit das Toyota-Produktionssystem (TPS) entwickelte.
 
 In der Automobilindustrie bedeutet KAIZEN, dass jeder Mitarbeiter, unabhängig von seiner Position, aktiv an der Verbesserung von Prozessen beteiligt ist. Diese Herangehensweise führte zu einer beispiellosen Qualität und Zuverlässigkeit von Toyotas Fahrzeugen[1].
 
