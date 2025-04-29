@@ -2,11 +2,15 @@
 
 Und, hast Du Deine erste App entwickelt? Wenn ja: Herzlichen Glückwunsch! Während dieses Prozesses hast Du verschiedene Softwarepakete genutzt, die alle unter bestimmten Lizenzen veröffentlicht wurden. Auch, wenn Dir Dein erstes App-Projekt noch bevorsteht, ist dieses Kapitel für Dich als angehende:r Anwender:in extrem relevant. Lass uns einen Moment innehalten, um die Bedeutung dieser Lizenzen und die Welt der Open-Source-Software zu betrachten.
 
+---
+
 ## Die Macht der Open-Source-Gemeinschaft
 
 Zunächst einmal ist es wichtig, sich bewusst zu machen, welch enormer Wert Dir durch Open-Source-Software zur Verfügung steht. Denke z.B. an die KI-Modelle von Meta, Microsoft, Google und vielen anderen, die Milliarden an Entwicklungskosten repräsentieren und nun frei zugänglich sind. Oder betrachte Projekte wie Briefcase und Toga, an denen Entwickler seit über einem Jahrzehnt arbeiten und von deren Arbeit wir nun profitieren können.
 
 Diese Großzügigkeit und Zusammenarbeit in der Entwicklergemeinschaft ist beeindruckend und verdient unsere Dankbarkeit. Es ist wichtig, dass wir diese Dankbarkeit auch zum Ausdruck bringen, sei es durch Beiträge zur Dokumentation, Fehlermeldungen oder, wenn möglich, durch eigene Code-Beiträge.
+
+---
 
 ## Verständnis von Softwarelizenzen
 
@@ -24,9 +28,13 @@ Jedes Softwarepaket, das Du verwendest, kommt mit einer Lizenz. Hier sind einige
 
 Es ist wichtig, die Lizenzen der von Dir verwendeten Software zu verstehen und zu respektieren, um rechtliche Probleme zu vermeiden und die Open-Source-Gemeinschaft zu unterstützen.
 
+---
+
 ## Die Rolle von Paketmanagern
 
 Tools wie pip (oder das neuere uv) haben die Verwaltung von Abhängigkeiten erheblich vereinfacht. Sie ermöglichen es uns, schnell und einfach Pakete zu installieren und zu aktualisieren, was die Entwicklung beschleunigt und den Zugang zu einer Vielzahl von Bibliotheken erleichtert.
+
+---
 
 ## Die Schattenseiten von Abhängigkeiten
 
@@ -62,6 +70,7 @@ Während Python eine großartige Sprache zum Lernen und für viele Anwendungen i
 
 Die Welt der Softwareentwicklung ist komplex und voller Nuancen. Während wir die enormen Vorteile von Open-Source-Software und Frameworks genießen, müssen wir uns auch der Verantwortung und potenziellen Risiken bewusst sein. Indem wir diese Aspekte verstehen und respektvoll mit den Werkzeugen umgehen, die uns zur Verfügung stehen, können wir nicht nur bessere Software entwickeln, sondern auch zur Weiterentwicklung der Entwicklergemeinschaft beitragen.
 
+<<<<<<<< HEAD:docs/06-entwicklung/08-lizenzen_open_source/README.md
 **Quellen / Zitate:**
 [1] <https://pypi.org/project/uv/0.1.16/> <br>
 [2] <https://blog.kusho.ai/uv-pip-killer-or-yet-another-package-manager/> <br>
@@ -71,3 +80,6 @@ Die Welt der Softwareentwicklung ist komplex und voller Nuancen. Während wir di
 [6] <https://github.com/astral-sh/uv/issues/1870> <br>
 [7] <https://github.com/astral-sh/uv/actions/runs/8210006157/job/22456810854> <br>
 [8] <https://www.ingenieur.de/technik/fachbereiche/kuenstliche-intelligenz/kuenstliche-intelligenz-diese-15-ki-tools-sollten-sie-kennen/> <br>
+
+---
+

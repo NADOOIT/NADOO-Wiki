@@ -1,4 +1,8 @@
+<<<<<<<< HEAD:docs/01-organisation/07-datenschutz/README.md
 # Umgang mit Unternehmensdaten bei Christoph Backhaus / NADOO-IT: Sicherheit und Vertraulichkeit als oberste Priorität
+========
+# Umgang mit Unternehmensdaten bei Christoph Backhaus IT: Sicherheit und Vertraulichkeit als oberste Priorität
+>>>>>>>> main:docs/01-organisation/06-verhalten-umgang/01-datenschutz/README.md
 
 ## Einführung
 
@@ -61,10 +65,10 @@ Die strikte Einhaltung dieser Richtlinien ist für den Schutz unserer Unternehme
 
 ---
 
-Citations:
+**Quellen / Zitate**:
 
 [1] <https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/14524913/ea1fad59-9296-4854-bf7b-6eef7e23afd1/umgang_mit_unternehmensdaten.txt>
 
 ---
 
-[Startseite](../../README.md)
+[Zurück](../../06-verhalten-umgang/README.md) | [Weiter](../../07-feedback-kultur/README.md) zu Feedback-Kultur

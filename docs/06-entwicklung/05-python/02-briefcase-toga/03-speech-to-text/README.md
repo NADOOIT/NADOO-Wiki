@@ -1,4 +1,4 @@
-# 3.13.3 Speech-to-Text-Feature im NADOO Launchpad
+# Speech-to-Text-Feature im NADOO Launchpad
 
 ## Einleitung
 Das Speech-to-Text-Feature des NADOO Launchpad ermöglicht die automatische Umwandlung von Audiodateien in Text. Dadurch können beispielsweise Besprechungsaufnahmen, Präsentationen oder andere Sprachaufzeichnungen in bearbeitbare Dokumente konvertiert werden.

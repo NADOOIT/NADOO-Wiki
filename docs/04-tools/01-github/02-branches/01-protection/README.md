@@ -1,8 +1,8 @@
-# 3.1.2.1 GitHub Branch Protection: Sicherheit und Qualität im Entwicklungsprozess
+# GitHub Branch Protection: Sicherheit und Qualität im Entwicklungsprozess
 
 ## Einführung
 
-Branch Protection in GitHub ist ein mächtiges Werkzeug, um die Integrität und Qualität des Codes in einem Repository zu gewährleisten. Dieser Wiki-Beitrag erklärt, warum und wie wir Branches schützen, sowie die verschiedenen Einstellungsmöglichkeiten und ihre Auswirkungen auf den Entwicklungsprozess.
+Branch Protection in GitHub ist ein mächtiges Werkzeug, um die Integrität und Qualität des Codes in einem Repository zu gewährleisten. Dieser Wiki-Beitrag erklärt, warum und wie wir Branches schützen sowie die verschiedenen Einstellungsmöglichkeiten und ihre Auswirkungen auf den Entwicklungsprozess.
 
 ## Warum Branches schützen?
 
@@ -15,14 +15,14 @@ Branchschutz bietet mehrere Vorteile:
 
 ## Einrichten von Branch Protection Rules
 
-Um Branch Protection Rules einzurichten, folgen Sie diesen Schritten:
+Um Branch Protection Rules einzurichten, folge diesen Schritten:
 
-1. Navigieren Sie zu Ihrem Repository auf GitHub.
-2. Klicken Sie auf "Settings" in der oberen Menüleiste.
-3. Wählen Sie "Branches" in der linken Seitenleiste.
-4. Unter "Branch protection rules", klicken Sie auf "Add rule".
-5. Geben Sie den Branch-Namen ein, den Sie schützen möchten (z.B. "main").
-6. Konfigurieren Sie die gewünschten Schutzregeln.
+1. Navigiere zu deinem Repository auf GitHub.
+2. Klicke auf "Settings" in der oberen Menüleiste.
+3. Wähle "Branches" in der linken Seitenleiste.
+4. Unter "Branch protection rules" klicke auf "Add rule".
+5. Gib den Branch-Namen ein, den du schützen möchtest (z.B. "main").
+6. Konfiguriere die gewünschten Schutzregeln.
 
 ## Wichtige Branch Protection Rules
 
@@ -59,18 +59,18 @@ Um Branch Protection Rules einzurichten, folgen Sie diesen Schritten:
 
 ## Best Practices
 
-1. Passen Sie die Regeln an die Bedürfnisse Ihres Teams und Projekts an.
-2. Schulen Sie alle Teammitglieder in den festgelegten Prozessen.
-3. Überprüfen und aktualisieren Sie die Regeln regelmäßig.
-4. Balancieren Sie Sicherheit mit Entwicklungsgeschwindigkeit.
+1. Passe die Regeln an die Bedürfnisse deines Teams und Projekts an.
+2. Schule alle Teammitglieder in den festgelegten Prozessen.
+3. Überprüfe und aktualisiere die Regeln regelmäßig.
+4. Balanciere Sicherheit mit Entwicklungsgeschwindigkeit.
 
 ## Übung: Branch Protection in der Praxis
 
 Als Teil des Onboarding-Prozesses empfehlen wir folgende Übung:
 
-1. Richten Sie Branch Protection für den main-Branch Ihrer ersten Übungs-App ein.
-2. Konfigurieren Sie mindestens drei verschiedene Schutzregeln.
-3. Bitten Sie Ihren Lernpartner, zu versuchen, eine der Regeln zu brechen (z.B. direkter Push auf main).
-4. Diskutieren Sie die Ergebnisse und Erfahrungen im Team.
+1. Richte Branch Protection für den main-Branch deiner ersten Übungs-App ein.
+2. Konfiguriere mindestens drei verschiedene Schutzregeln.
+3. Bitte deine Lernpartner zu versuchen, eine der Regeln zu brechen (z.B. direkter Push auf main).
+4. Diskutiere die Ergebnisse und Erfahrungen im Team.
 
 Diese praktische Übung hilft, die Wichtigkeit und Funktionsweise von Branch Protection zu verstehen und fördert gleichzeitig die Zusammenarbeit im Team.

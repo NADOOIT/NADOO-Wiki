@@ -1,9 +1,9 @@
 # Teamkoordinationsrollen
 
-Bereits kurz nach dem Onboarding-Prozess erhältst du die Möglichkeit Verantwortung in Teamkoordinationsrollen zu übernehmen.
+Bereits kurz nach dem Onboarding-Prozess erhältst du die Möglichkeit, Verantwortung in Teamkoordinationsrollen zu übernehmen.
 Das ist **nicht verpflichtend** - aber eine **gute Gelegenheit**, deine **Fähigkeiten** in der Teamkoordination zu **entwickeln!**
 
-du wirst hierbei in die Planung und Koordination von Projekten eingebunden und erhältst dadurch Einblicke in die Teamdynamik.
+Du wirst hierbei in die Planung und Koordination von Projekten eingebunden und erhältst dadurch Einblicke in die Teamdynamik.
 
 Nach dem Onboarding kannst du dadurch dein 11er-Team unterstützen und deine Fähigkeiten in der Teamkoordination weiterentwickeln.
 Das ist eine gute Gelegenheit, deine Fähigkeiten in der Teamkoordination zu entwickeln.
@@ -29,7 +29,7 @@ Typische Aufgaben sind:
 
 ---
 
-👉 Beispiel: Die Teamkoordinator:in des 11er-Teams „Launch“ sammelt Issues rund um die Unterstützung neuer Teammitglieder – vor allem durch Inhalte im NADOO-Wiki. Sie sorgt dafür, dass hilfreiche Informationen aktuell, auffindbar und verständlich sind, und motiviert das Team, offene Fragen schnell aufzugreifen.
+👉 Beispiel: Die Teamkoordinator:in des 11er-Teams „Launch“ sammelt Issues rund um die Unterstützung neuer Teammitglieder – vor allem durch Inhalte im NADOO-Wiki. Sie sorgt dafür, dass hilfreiche Informationen aktuell, auffindbar und verständlich sind und motiviert das Team, offene Fragen schnell aufzugreifen.
 
 Fazit: Die Rolle ist weniger Chef:in als **Team-Enabler** – sie schafft Struktur, damit alle produktiv arbeiten können. Das Team hat die Verantwortung, die Aufgaben zu erledigen und die Qualität der Arbeit zu sichern.
 

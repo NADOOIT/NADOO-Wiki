@@ -1,4 +1,4 @@
-# 3.10.1 Nutzung der Gemini API – Anleitung
+# Nutzung der Gemini API – Anleitung
 
 Die Gemini API von Google ermöglicht Entwicklern den Zugriff auf fortschrittliche KI-Funktionen. Diese Anleitung bietet eine Übersicht zur Einrichtung und Nutzung der API, einschließlich Informationen zur Authentifizierung mittels API-Schlüssel, den verfügbaren kostenlosen Nutzungskontingenten und den entsprechenden Limits.
 
@@ -6,14 +6,14 @@ Die Gemini API von Google ermöglicht Entwicklern den Zugriff auf fortschrittlic
 
 ### Registrierung und API-Schlüssel erhalten
 
-Um die Gemini API zu verwenden, benötigst Du einen API-Schlüssel:
+Um die Gemini API zu verwenden, benötigst du einen API-Schlüssel:
 
-- **Registrierung**: Melde Dich im [Google AI Studio](https://aistudio.google.com/) an.
-- **API-Schlüssel erstellen**: Navigiere zu Deinen Projekteinstellungen und generiere einen neuen API-Schlüssel.
+- **Registrierung**: Melde dich im [Google AI Studio](https://aistudio.google.com/) an.
+- **API-Schlüssel erstellen**: Navigiere zu deinen Projekteinstellungen und generiere einen neuen API-Schlüssel.
 
 ### API-Schlüssel sicher aufbewahren
 
-Es ist essenziell, Deinen API-Schlüssel vertraulich zu behandeln:
+Es ist essenziell, deinen API-Schlüssel vertraulich zu behandeln:
 
 - **Nicht im Code hinterlegen**: Vermeide es, den Schlüssel direkt im Quellcode zu speichern.
 - **Umgebungsvariablen nutzen**: Speichere den Schlüssel in Umgebungsvariablen oder sicheren Konfigurationsdateien.

@@ -4,7 +4,7 @@
 
 ## Merge-Konflikte nach einem Pull-Request auflösen (Best Practice)
 
-Wenn nach einem erfolgreichen Pull-Request Merge-Konflikte entstehen, solltest Du wie folgt vorgehen:
+Wenn nach einem erfolgreichen Pull-Request Merge-Konflikte entstehen, solltest du wie folgt vorgehen:
 
 ### 🔄 Schritt 1: Hole die neuesten Änderungen aus dem Haupt-Repository
 
@@ -13,16 +13,16 @@ git checkout main
 git pull origin main
 ```
 
-Wenn Du mit einem anderen Branch wie `develop` arbeitest, ersetze `main` durch den entsprechenden Namen.
+Wenn du mit einem anderen Branch wie `develop` arbeitest, ersetze `main` durch den entsprechenden Namen.
 
-### 🌿 Schritt 2: Wechsle in Deinen Feature-Branch und merge den Haupt-Branch hinein
+### 🌿 Schritt 2: Wechsle in deinen Feature-Branch und merge in den Haupt-Branch hinein
 
 ```bash
 git checkout dein-feature-branch
 git merge main
 ```
 
-Nun zeigt Dir Git die betroffenen Dateien mit Konflikten an. Öffne diese im Editor.
+Nun zeigt dir Git die betroffenen Dateien mit Konflikten an. Öffne diese im Editor.
 
 ### 🛠️ Schritt 3: Bearbeite die Konfliktstellen
 
@@ -52,7 +52,7 @@ Wiederhole diesen Schritt für alle betroffenen Dateien.
 git commit -m "Merge-Konflikte gelöst"
 ```
 
-### ⬆️ Schritt 6: Push in Deinen Branch
+### ⬆️ Schritt 6: Push in deinen Branch
 
 ```bash
 git push origin dein-feature-branch
@@ -66,4 +66,4 @@ Das Bild zeigt, wie ein Merge-Konflikt im Visual Studio Code aussieht. Du kannst
 
 ---
 
-Damit ist Dein Branch bereit für einen erneuten Merge ohne Konflikte.
+Damit ist dein Branch bereit für einen erneuten Merge ohne Konflikte.
