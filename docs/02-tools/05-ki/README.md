@@ -49,9 +49,9 @@ Dieses Beispiel zeigt, wie man eine einfache Anfrage an die ChatGPT API sendet u
 Ollama ermöglicht die Nutzung von KI-Modellen lokal, ohne die Notwendigkeit eines API-Schlüssels. Dies bietet Vorteile in Bezug auf Datenschutz und Offline-Nutzung, jedoch mit Einschränkungen bei der Leistungsfähigkeit im Vergleich zu cloud-basierten Lösungen.
 
 **Verwendung:**
-1. Installieren Sie Ollama von [ollama.com](https://ollama.com/)
-2. Laden Sie ein Modell herunter: `ollama pull mistral`
-3. Starten Sie eine Konversation: `ollama run mistral`
+1. Installiere Ollama von [ollama.com](https://ollama.com/)
+2. Lade ein Modell herunter: `ollama pull mistral`
+3. Starte eine Konversation: `ollama run mistral`
 
 ### 3. Modelle und Ressourcen
 [Hugging Face](https://huggingface.co/) ist eine zentrale Plattform für das Herunterladen und Teilen von KI-Modellen. Es bietet eine breite Palette von vortrainierten Modellen für verschiedene Aufgaben[5].
@@ -125,7 +125,7 @@ OmniGen zeichnet sich durch folgende Eigenschaften aus:
 
 2. **Einfachheit**: Keine zusätzlichen Plugins oder Operationen sind erforderlich. OmniGen kann automatisch die erforderlichen Merkmale (z.B. Objekte, menschliche Posen, Tiefenkarten) in Eingabebildern entsprechend dem Textprompt identifizieren.
 
-3. **Flexibilität**: Sie können mehrere Bilder als Eingabe verwenden und einfache, allgemeine Sprache verwenden, um auf Objekte in diesen Bildern zu verweisen.
+3. **Flexibilität**: Du kannst mehrere Bilder als Eingabe und einfache, allgemeine Sprache verwenden, um auf Objekte in diesen Bildern zu verweisen.
 
 OmniGen vereinfacht den Workflow der Bildgenerierung erheblich und repräsentiert einen bedeutenden Schritt in Richtung eines universellen Bildgenerierungsmodells. Es ist besonders nützlich für komplexe Aufgaben, die normalerweise mehrere spezialisierte Modelle erfordern würden.
 
@@ -163,13 +163,13 @@ git clone https://huggingface.co/fudan-generative-ai/hallo pretrained_models
 
 2. **Ausführung der Inferenz**
 
-Für eine einfache Inferenz können Sie folgenden Befehl verwenden:
+Für eine einfache Inferenz kannst du folgenden Befehl verwenden:
 
 ```bash
 python scripts/inference.py --source_image examples/reference_images/1.jpg --driving_audio examples/driving_audios/1.wav
 ```
 
-Für mehr Kontrolle über den Prozess können Sie zusätzliche Parameter verwenden:
+Für mehr Kontrolle über den Prozess kannst du zusätzliche Parameter verwenden:
 
 ```bash
 python scripts/inference.py \
@@ -184,9 +184,9 @@ python scripts/inference.py \
 
 3. **Vorbereitung der Trainingsdaten**
 
-Wenn Sie Hallo mit eigenen Daten trainieren möchten, folgen Sie diesen Schritten:
+Wenn du Hallo mit eigenen Daten trainieren möchtest, folge diesen Schritten:
 
-a. Organisieren Sie Ihre Videos in folgende Struktur:
+a. Organisiere deine Videos mit Hilfe folgender Struktur:
 ```
 dataset_name/
 |-- videos/
@@ -195,13 +195,13 @@ dataset_name/
     |-- ...
 ```
 
-b. Verarbeiten Sie die Videos:
+b. Verarbeite die Videos:
 ```bash
 python -m scripts.data_preprocess --input_dir dataset_name/videos --step 1
 python -m scripts.data_preprocess --input_dir dataset_name/videos --step 2
 ```
 
-c. Generieren Sie Metadaten:
+c. Generiere Metadaten:
 ```bash
 python scripts/extract_meta_info_stage1.py -r path/to/dataset -n dataset_name
 python scripts/extract_meta_info_stage2.py -r path/to/dataset -n dataset_name
@@ -209,9 +209,9 @@ python scripts/extract_meta_info_stage2.py -r path/to/dataset -n dataset_name
 
 4. **Training**
 
-a. Aktualisieren Sie die Datenpfade in den Konfigurationsdateien `configs/train/stage1.yaml` und `configs/train/stage2.yaml`.
+a. Aktualisiere die Datenpfade in den Konfigurationsdateien `configs/train/stage1.yaml` und `configs/train/stage2.yaml`.
 
-b. Starten Sie das Training:
+b. Starte das Training:
 ```bash
 accelerate launch -m \
   --config_file accelerate_config.yaml \
@@ -225,7 +225,7 @@ accelerate launch -m \
 
 5. **Integration in Python-Code**
 
-Für eine einfache Integration in bestehende Python-Projekte können Sie folgende Funktion verwenden:
+Für eine einfache Integration in bestehende Python-Projekte kannst du folgende Funktion verwenden:
 
 ```python
 import subprocess
@@ -243,33 +243,33 @@ def run_hallo(image_path, audio_path, output_path):
 run_hallo("path/to/image.jpg", "path/to/audio.wav", "output_video.mp4")
 ```
 
-Beachten Sie die Anforderungen an das Eingabebild und die Audiodatei:
+Beachte die Anforderungen an das Eingabebild und die Audiodatei:
 - Das Bild sollte quadratisch zugeschnitten sein, mit dem Gesicht als Hauptfokus (50-70% des Bildes).
 - Das Gesicht sollte frontal ausgerichtet sein, mit einem Rotationswinkel von weniger als 30°.
 - Die Audiodatei muss im WAV-Format vorliegen und klare englische Sprache enthalten.
 
-Hallo eröffnet faszinierende Möglichkeiten für die Erstellung von animierten Präsentationen, virtuellen Sprechern oder kreativen Multimedia-Projekten. Mit der Möglichkeit des eigenen Trainings können Sie das Modell an Ihre spezifischen Bedürfnisse anpassen.
+Hallo eröffnet faszinierende Möglichkeiten für die Erstellung von animierten Präsentationen, virtuellen Sprechern oder kreativen Multimedia-Projekten. Mit der Möglichkeit des eigenen Trainings kannst du das Modell an deine spezifischen Bedürfnisse anpassen.
 
 ## Aufgabe: Experimentieren mit KI-Tools
 
-1. Implementieren Sie das ChatGPT API-Beispiel und stellen Sie eine eigene Frage.
-2. Installieren Sie Ollama und führen Sie ein lokales Modell aus.
-3. Laden Sie ein Modell von Hugging Face herunter und experimentieren Sie damit.
-4. Versuchen Sie, mit einem der speziellen KI-Anwendungsbeispiele zu arbeiten (z.B. Text-zu-Sprache).
+1. Implementiere das ChatGPT API-Beispiel und stelle eine eigene Frage.
+2. Installiere Ollama und führe ein lokales Modell aus.
+3. Lade ein Modell von Hugging Face herunter und experimentiere damit.
+4. Versuche, mit einem der speziellen KI-Anwendungsbeispiele zu arbeiten (z.B. Text-zu-Sprache).
 
 ## Dokumentation und Fragen
 
-Während Sie mit diesen KI-Tools experimentieren, notieren Sie Ihre Erfahrungen und Fragen. Erstellen Sie für jede wichtige Erkenntnis oder Herausforderung ein separates Issue in unserem Repository. Dies hilft nicht nur Ihnen, sondern verbessert auch die Dokumentation für zukünftige Nutzer.
+Während du mit diesen KI-Tools experimentierst, notiere deine Erfahrungen und Fragen. Erstelle für jede wichtige Erkenntnis oder Herausforderung ein separates Issue in unserem Repository. Dies hilft nicht nur dir, sondern verbessert auch die Dokumentation für zukünftige Nutzer.
 
 ## Ziel
 
-Nach Abschluss dieser Übungen werden Sie ein grundlegendes Verständnis verschiedener KI-Anwendungen und -Tools haben. Sie werden in der Lage sein, KI-Modelle für verschiedene Aufgaben zu nutzen und die Vor- und Nachteile verschiedener Ansätze zu verstehen.
+Nach Abschluss dieser Übungen wirst du ein grundlegendes Verständnis verschiedener KI-Anwendungen und -Tools haben. Du wirst in der Lage sein, KI-Modelle für verschiedene Aufgaben zu nutzen und die Vor- und Nachteile verschiedener Ansätze zu verstehen.
 
 Viel Erfolg beim Erkunden der faszinierenden Welt der KI-Nutzung!
 
 PS: 
 
-Wenn Sie genauer wissen wollen, wie KI funktioniert, können Sie dies wunderbar durch folgendes Video:
+Wenn du genauer wissen willst, wie KI funktioniert, ist folgendes Video empfehlenswert:
 
 https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=1
 
