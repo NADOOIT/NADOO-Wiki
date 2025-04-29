@@ -2,7 +2,7 @@
 
 | |
 | :--- |
-| Von den Bildungsträgern und Handelskammern gibt es unterschiedliche Vorgaben und Vorlagen zu den Nachweisen. Anbei findest du entsprechende exemplarische Beispiele. Es gelten die Vorgaben des jeweiligen Bildungsträgers und der lokalen Handelskammer |
+| Von den Bildungsträgern und Handelskammern gibt es unterschiedliche Vorgaben und Vorlagen zu den Nachweisen. Anbei findest du entsprechende exemplarische Beispiele. Es gelten die Vorgaben des jeweiligen Bildungsträgers und der lokalen Handelskammer. |
 
 ---
 

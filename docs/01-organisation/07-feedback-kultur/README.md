@@ -16,7 +16,7 @@ Dabei gilt für alle Teammitglieder – unabhängig von Erfahrung oder Rolle –
 
 **Fragen sind der Motor unseres Fortschritts!**
 
-Nur Wer fragt, zeigt Interesse, Verantwortung und den Wunsch, Dinge zu verstehen und zu verbessern. Deshalb fördern wir ausdrücklich eine Kultur, in der Fragen gestellt werden dürfen – jederzeit und von jedem.
+Nur wer fragt, zeigt Interesse, Verantwortung und den Wunsch, Dinge zu verstehen und zu verbessern. Deshalb fördern wir ausdrücklich eine Kultur, in der Fragen gestellt werden dürfen – jederzeit und von jedem.
 
 Besonders in einem lernintensiven Umfeld wie der Ausbildung oder beim Onboarding neuer Mitarbeitenden ist dies essenziell.
 

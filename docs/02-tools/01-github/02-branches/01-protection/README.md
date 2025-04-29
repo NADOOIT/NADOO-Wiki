@@ -15,7 +15,7 @@ Branchschutz bietet mehrere Vorteile:
 
 ## Einrichten von Branch Protection Rules
 
-Um Branch Protection Rules einzurichten, folgen Sie diesen Schritten:
+Um Branch Protection Rules einzurichten, folge diesen Schritten:
 
 1. Navigieren Sie zu Ihrem Repository auf GitHub.
 2. Klicken Sie auf "Settings" in der oberen Menüleiste.

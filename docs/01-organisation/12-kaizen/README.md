@@ -2,11 +2,11 @@
 
 ## Einführung
 
-Willkommen bei Christoph Backhaus IT. Dieser Wiki-Artikel ist ein wesentlicher Bestandteil Deines Onboarding-Prozesses und soll Dir einen umfassenden Einblick in unsere Unternehmenskultur geben. Unsere Philosophie basiert auf dem KAIZEN-Prinzip, einem japanischen Konzept, das "Veränderung zum Besseren" bedeutet. Wir haben dieses Konzept, das sich in der Automobilindustrie bewährt hat, erfolgreich auf die Softwareentwicklung übertragen.
+Willkommen bei Christoph Backhaus IT. Dieser Wiki-Artikel ist ein wesentlicher Bestandteil deines Onboarding-Prozesses und soll dir einen umfassenden Einblick in unsere Unternehmenskultur geben. Unsere Philosophie basiert auf dem KAIZEN-Prinzip, einem japanischen Konzept, das "Veränderung zum Besseren" bedeutet. Wir haben dieses Konzept, das sich in der Automobilindustrie bewährt hat, erfolgreich auf die Softwareentwicklung übertragen.
 
 ## Geschichte und Ursprung von KAIZEN
 
-KAIZEN entstand in Japan nach dem Zweiten Weltkrieg, als das Land vor der Herausforderung stand, seine Wirtschaft wiederaufzubauen. Maßgeblich beeinflusst wurde es von amerikanischen Qualitätsexperten wie W. Edwards Deming und Joseph M. Juran[1]. Toyota war eines der ersten Unternehmen, das KAIZEN in großem Umfang implementierte und damit das Toyota-Produktionssystem (TPS) entwickelte.
+KAIZEN entstand in Japan nach dem Zweiten Weltkrieg, als das Land vor der Herausforderung stand, seine Wirtschaft wiederaufzubauen. Maßgeblich beeinflusst wurde es von amerikanischen Qualitätsexperten wie W. Edwards Deming und Joseph M. Juran[1]. Toyota war einer der ersten Unternehmen, der KAIZEN in großem Umfang implementierte und damit das Toyota-Produktionssystem (TPS) entwickelte.
 
 In der Automobilindustrie bedeutet KAIZEN, dass jeder Mitarbeiter, unabhängig von seiner Position, aktiv an der Verbesserung von Prozessen beteiligt ist. Diese Herangehensweise führte zu einer beispiellosen Qualität und Zuverlässigkeit von Toyotas Fahrzeugen[1].
 
@@ -27,11 +27,11 @@ Bei Christoph Backhaus IT haben wir die KAIZEN-Philosophie auf die Softwareentwi
 
 Die 5S-Methode, ursprünglich für die Organisation von Arbeitsplätzen in Fabriken entwickelt, lässt sich hervorragend auf den digitalen Arbeitsplatz eines Softwareentwicklers übertragen[1]:
 
-1. **Sortieren (Seiri)**: Entferne ungenutzte Dateien, alte Codeversionen und überflüssige Tools von Deinem System.
-2. **Systematisieren (Seiton)**: Organisiere Deinen Code, Deine Projekte und Deine Entwicklungsumgebung logisch und effizient.
+1. **Sortieren (Seiri)**: Entferne ungenutzte Dateien, alte Codeversionen und überflüssige Tools von deinem System.
+2. **Systematisieren (Seiton)**: Organisiere deinen Code, deine Projekte und deine Entwicklungsumgebung logisch und effizient.
 3. **Säubern (Seiso)**: Führe regelmäßig Code-Cleanups durch und beseitige technische Schulden.
 4. **Standardisieren (Seiketsu)**: Etabliere Coding-Standards und Best Practices im Team.
-5. **Selbstdisziplin (Shitsuke)**: Halte Dich konsequent an die etablierten Standards und verbessere diese kontinuierlich.
+5. **Selbstdisziplin (Shitsuke)**: Halte dich konsequent an die etablierten Standards und verbessere diese kontinuierlich.
 
 ### PDCA-Zyklus in der Softwareentwicklung
 
@@ -90,7 +90,7 @@ Unsere KAIZEN-basierte Kultur fördert kontinuierliche Verbesserung, Qualität u
 
 Die konsequente Anwendung von KAIZEN-Prinzipien in der Softwareentwicklung führt zu einer Kultur der kontinuierlichen Verbesserung, bei der Fehlerfreiheit die oberste Priorität ist. Methodische Prozesssauberkeit ist entscheidend für den Erfolg aller Beteiligten.
 
-Solltest Du nach dem Lesen dieses Wikis Unklarheiten oder Fragen zu einem der genannten Punkte oder Methoden haben, zögere bitte nicht, dies anzusprechen. Jede Unklarheit ist eine Gelegenheit zur Verbesserung unserer Prozesse und unserer Kommunikation. Dies ist ein wesentlicher Teil unserer Unternehmenskultur und ein wichtiger Schritt in Deinem Onboarding-Prozess bei Christoph Backhaus IT.
+Solltest du nach dem Lesen dieses Wikis Unklarheiten oder Fragen zu einem der genannten Punkte oder Methoden haben, zögere bitte nicht, dies anzusprechen. Jede Unklarheit ist eine Gelegenheit zur Verbesserung unserer Prozesse und unserer Kommunikation. Dies ist ein wesentlicher Teil unserer Unternehmenskultur und ein wichtiger Schritt in deinem Onboarding-Prozess bei Christoph Backhaus IT.
 
 Citations:
 [1] https://www.studysmarter.de/studium/bwl/unternehmensfuehrung-studium/kaizen/
