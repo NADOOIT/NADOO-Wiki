@@ -1,6 +1,6 @@
 # Terminal Grundlagen
 
-Willkommen zu den Terminal Grundlagen! Diese Seite dient als Einführung in die wichtigsten Konzepte und Funktionen des Terminals. Hier lernen Sie, wie Sie ein Terminal starten, die Benutzeroberfläche verstehen und grundlegende Navigationsbefehle anwenden.
+Willkommen zu den Terminal Grundlagen! Diese Seite dient als Einführung in die wichtigsten Konzepte und Funktionen des Terminals. Hier lernst du, wie du ein Terminal startest, die Benutzeroberfläche verstehst und grundlegende Navigationsbefehle anwendest.
 
 ## Inhalte
 
@@ -10,25 +10,25 @@ Willkommen zu den Terminal Grundlagen! Diese Seite dient als Einführung in die 
 
 ## Terminal starten
 
-Das Terminal, auch als Kommandozeile, Shell oder Konsole bekannt, ist ein leistungsstarkes Werkzeug zur Interaktion mit Ihrem Betriebssystem. Es ermöglicht Ihnen, Befehle direkt einzugeben und auszuführen. Hier sind die Methoden zum Öffnen des Terminals auf verschiedenen Betriebssystemen:
+Das Terminal, auch als Kommandozeile, Shell oder Konsole bekannt, ist ein leistungsstarkes Werkzeug zur Interaktion mit deinem Betriebssystem. Es ermöglicht dir, Befehle direkt einzugeben und auszuführen. Hier sind die Methoden zum Öffnen des Terminals auf verschiedenen Betriebssystemen:
 
 ### Windows:
-- Drücken Sie die Windows-Taste + R, geben Sie "cmd" ein und drücken Sie Enter.
-- Alternativ können Sie auch PowerShell verwenden, indem Sie im Startmenü nach "PowerShell" suchen.
+- Drücke die Windows-Taste + R, gib "cmd" ein und drücke Enter.
+- Alternativ kannst du auch PowerShell verwenden, indem du im Startmenü nach "PowerShell" suchst.
 
 ### macOS:
-- Öffnen Sie das Launchpad und suchen Sie nach "Terminal".
-- Alternativ können Sie auch Spotlight (Cmd + Leertaste) verwenden und "Terminal" eingeben.
+- Öffne das Launchpad und suche nach "Terminal".
+- Alternativ kannst du auch Spotlight (Cmd + Leertaste) verwenden und "Terminal" eingeben.
 
 ### Linux:
 - Die meisten Linux-Distributionen ermöglichen das Öffnen eines Terminals mit der Tastenkombination Strg + Alt + T.
-- Sie können auch im Anwendungsmenü nach "Terminal" oder "Konsole" suchen.
+- Du kannst auch im Anwendungsmenü nach "Terminal" oder "Konsole" suchen.
 - Viele Linux-Distributionen bieten eine Schaltfläche oder Verknüpfung auf dem Desktop oder im Anwendungsmenü zum Starten des Terminals.
 
 ### Visual Studio Code:
-Da Sie bereits Visual Studio Code installiert haben, können Sie das integrierte Terminal wie folgt öffnen:
-1. Öffnen Sie Visual Studio Code.
-2. Wählen Sie `View > Terminal` aus dem Menü oder verwenden Sie die Tastenkombination:
+Da du bereits Visual Studio Code installiert hast, kannst du das integrierte Terminal wie folgt öffnen:
+1. Öffne Visual Studio Code.
+2. Wähle `View > Terminal` aus dem Menü oder verwende die Tastenkombination:
    - Windows/Linux: ``Ctrl+` ``
    - macOS: ``Cmd+` ``
 
@@ -46,13 +46,13 @@ Citations:
 
 ## Benutzeroberfläche verstehen
 
-Wenn Sie ein Terminal öffnen, sehen Sie in der Regel folgende Elemente:
+Wenn du ein Terminal öffnest, siehst du in der Regel folgende Elemente:
 
-1. **Prompt**: Dies ist der Bereich, in dem Sie Befehle eingeben. Es zeigt oft Informationen wie den aktuellen Benutzernamen, Computernamen und das aktuelle Verzeichnis an.
+1. **Prompt**: Dies ist der Bereich, in dem du Befehle eingibst. Er zeigt oft Informationen wie den aktuellen Benutzernamen, Computernamen und das aktuelle Verzeichnis an.
 
-2. **Cursor**: Ein blinkender Unterstrich oder Block, der anzeigt, wo Ihre Eingabe erscheinen wird.
+2. **Cursor**: Ein blinkender Unterstrich oder Block, der anzeigt, wo deine Eingabe erscheinen wird.
 
-3. **Ausgabebereich**: Hier werden die Ergebnisse Ihrer Befehle angezeigt.
+3. **Ausgabebereich**: Hier werden die Ergebnisse deiner Befehle angezeigt.
 
 4. **Scrollbalken**: Ermöglicht das Scrollen durch frühere Ausgaben und Befehle.
 
@@ -66,10 +66,10 @@ Hier sind einige grundlegende Befehle zur Navigation im Terminal:
 - `cd ..`: Wechselt in das übergeordnete Verzeichnis.
 
 - `ls` (List): Zeigt den Inhalt des aktuellen Verzeichnisses an.
-  Unter Windows verwenden Sie stattdessen `dir`.
+  Unter Windows verwendest du stattdessen `dir`.
 
 - `tree`: Zeigt die Verzeichnisstruktur als Baum an.
-  Unter macOS müssen Sie möglicherweise zuerst `brew install tree` ausführen.
+  Unter macOS musst du möglicherweise zuerst `brew install tree` ausführen.
 
 ## Hilfreiche Ressourcen
 
@@ -82,14 +82,14 @@ Hier sind einige grundlegende Befehle zur Navigation im Terminal:
 
 ## Aufgabe: Bilder erstellen und hinzufügen
 
-Um die Anleitungen zu vervollständigen, erstellen Sie Screenshots der beschriebenen Schritte:
+Um die Anleitungen zu vervollständigen, erstelle Screenshots der beschriebenen Schritte:
 
-1. Erstellen Sie Screenshots für das Öffnen des Terminals in Windows, macOS und Linux.
-2. Machen Sie einen Screenshot der Terminal-Benutzeroberfläche und beschriften Sie die wichtigsten Elemente.
-3. Zeigen Sie die Ausführung der grundlegenden Navigationsbefehle (`cd`, `ls`, `tree`) in Screenshots.
+1. Erstelle Screenshots für das Öffnen des Terminals in Windows, macOS und Linux.
+2. Mache einen Screenshot der Terminal-Benutzeroberfläche und beschrifte die wichtigsten Elemente.
+3. Zeige die Ausführung der grundlegenden Navigationsbefehle (`cd`, `ls`, `tree`) in Screenshots.
 
-Fügen Sie die Bilder in das Repository ein, indem Sie sie im `images/`-Ordner speichern. Erstellen Sie anschließend einen Pull Request, um Ihre Änderungen vorzuschlagen.
+Füge die Bilder in das Repository ein, indem du sie im `images/`-Ordner speicherst. Erstelle anschließend einen Pull Request, um deine Änderungen vorzuschlagen.
 
 ## Dokumentation und Fragen
 
-Es ist wichtig, dass Sie alle Fragen, die während der Bearbeitung dieses Abschnitts aufkommen, dokumentieren. Notieren Sie Ihre Fragen, bevor Sie sie an andere stellen. Diese Praxis der Dokumentation ist entscheidend für Entwickler, da sie uns hilft, Unklarheiten zu identifizieren und den Lehrgang kontinuierlich zu verbessern und zugänglicher zu gestalten.
+Es ist wichtig, dass du alle Fragen, die während der Bearbeitung dieses Abschnitts aufkommen, dokumentierst. Notiere deine Fragen, bevor du sie anderen stellst. Diese Praxis der Dokumentation ist entscheidend für Entwickler, da sie uns hilft, Unklarheiten zu identifizieren und den Lehrgang kontinuierlich zu verbessern und zugänglicher zu gestalten.
