@@ -30,13 +30,13 @@ print("Hallo Welt")
 
 ## Tipp für GitHub
 
-Wenn Du deine Datei `README.md` nennst und ins Projektverzeichnis legst, wird sie auf der Startseite Deines Repositories automatisch angezeigt.
+Wenn du deine Datei `README.md` nennst und ins Projektverzeichnis legst, wird sie auf der Startseite deines Repositories automatisch angezeigt.
 
 ---
 
 ## GitHub flavored Markdown
 
-GitHub hat einige Erweiterungen zu Markdown hinzugefügt, die dir helfen, Deine Dokumentation noch besser zu gestalten. Hier sind einige Beispiele:
+GitHub hat einige Erweiterungen zu Markdown hinzugefügt, die dir helfen, deine Dokumentation noch besser zu gestalten. Hier sind einige Beispiele:
 ### `<details>` und  `<summary>`
 
 🔎 Was sind `<details>` und `<summary>`?
