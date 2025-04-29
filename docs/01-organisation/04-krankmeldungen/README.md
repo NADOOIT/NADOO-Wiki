@@ -1,6 +1,6 @@
 # Krankmeldungen
 
-Melde dich bitte bei Krankheit bis spätestens 11:00 Uhr – sowohl direkt an Christoph Backhaus, das zuständige Institut und deinen Kostenträger (Arbeitsagentur oder Jobcenter).
+Melde dich bitte bei Krankheit bis spätestens 11:00 Uhr – sowohl direkt bei Christoph Backhaus, dem zuständigen Institut und deinem Kostenträger (Arbeitsagentur oder Jobcenter).
 
 **Fehlende oder verspätete Meldungen gelten als Abwesenheit und können entsprechende Konsequenzen haben!**
 
