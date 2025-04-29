@@ -79,7 +79,7 @@ Informationen zu den Meetings selbst - also, wann diese stattfinden und welche P
 
 ### Keine Sorge -
 
-Bei NADOO ist nichts in Stein gemeißelt. Dir ist selbst überlassen, wie lange Du Dich im Launch-Team beteiligst, bevor Du in ein neues Team wechselst. Du bist auch nicht dazu gezwungen Deine komplette Zeit hier dann in diesem einen 11er-Team zu verbringen.
+Unsere Teams sind dynamisch. Dir ist selbst überlassen, wie lange Du Dich am Onboarding-Prozess beteiligst, bevor Du in ein neues Team wechselst. Du bist nicht dazu gezwungen Deine komplette Zeit hier in einem einzigen 11er-Team zu verbringen.
 
 Natürlich solltest Du schauen, dass Du, wenn Du Dich einem Team anschließt, dann auch eine gewisse Zeit dort verbringst, um einen Beitrag zur gemeinsamen Zielerreichung zu leisten. Insofern auf Deiner Seite nichts Wesentliches mehr offen ist bzw. Dein "Abgang" keine negativen Auswirkungen auf den Arbeitsfortschritt hat, kannst Du das Team jedoch jederzeit verlassen und bei einem neuen einziehen.
 
