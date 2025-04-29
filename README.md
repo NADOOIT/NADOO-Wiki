@@ -136,6 +136,8 @@ Herzlich willkommen zu Deinem Einstieg in deine IT-Karriere bei uns!
 
 </details>
 
+---
+
 <!-- 2. Arbeiten bei NADOO -->
 
 ## 🏢 [**Arbeiten bei Christoph Backhaus IT**](/docs/02-arbeiten_bei_nadoo/README.md)
