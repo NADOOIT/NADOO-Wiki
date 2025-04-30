@@ -1,7 +1,7 @@
 name: 🏢 Arbeiten bei Christoph Backhaus IT
 description: Fragen, Probleme oder Beiträge zum Arbeiten bei Christoph Backhaus IT
-title: "[Organisation & Struktur] "
-labels: ["organisation", "documentation", "help-wanted"]
+title: "[Arbeiten] "
+labels: ["arbeiten", "documentation", "help-wanted"]
 assignees: []
 body:
   - type: dropdown
