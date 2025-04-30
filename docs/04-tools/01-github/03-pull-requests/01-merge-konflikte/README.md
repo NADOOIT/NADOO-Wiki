@@ -67,3 +67,5 @@ Das Bild zeigt, wie ein Merge-Konflikt im Visual Studio Code aussieht. Du kannst
 ---
 
 Damit ist dein Branch bereit für einen erneuten Merge ohne Konflikte.
+
+[Weitereführende Informationen](https://docs.github.com/de/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/about-merge-conflicts)
