@@ -1,7 +1,7 @@
-name: 💬 Kommunikation & Zusammenarbeit
-description: Fragen, Probleme oder Beiträge zur Kommunikation und Zusammenarbeit
-title: "[Kommunikation & Zusammenarbeit] "
-labels: ["kommunikation", "documentation", "help-wanted"]
+name: 📚 Methoden und Prozesse
+description: Fragen, Probleme oder Beiträge zu Methoden und Prozessen
+title: "[Methoden & Prozesse] "
+labels: ["methoden", "documentation", "help-wanted"]
 assignees: []
 body:
   - type: dropdown
@@ -41,4 +41,3 @@ body:
       label: Beschreibung des Anliegens
       description: Bitte beschreibe dein Anliegen so detailliert wie möglich. Je mehr Informationen du gibst, desto besser können wir dir helfen.
       placeholder: "Hier deine Beschreibung..."
-

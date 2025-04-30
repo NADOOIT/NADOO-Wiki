@@ -1,7 +1,7 @@
-name: 📚 Methoden & Prozesse
-description: Fragen, Probleme oder Beiträge zu Methoden und Prozessen
-title: "[Methoden & Prozesse] "
-labels: ["methoden", "documentation", "help-wanted"]
+name: 🧑‍💻 Entwicklung und Programmierung
+description: Fragen, Probleme oder Beiträge zur Entwicklung und Programmierung
+title: "[Entwicklung & Programmierung] "
+labels: ["entwicklung", "documentation", "help-wanted"]
 assignees: []
 body:
   - type: dropdown

@@ -1,7 +1,7 @@
-name: 🚀 Karriere & Entwicklung
-description: Fragen, Probleme oder Beiträge zur Karriere und persönlichen Entwicklung
-title: "[Karriere & Entwicklung] "
-labels: ["karriere", "documentation", "help-wanted"]
+name: 🛠️ Tools
+description: Fragen, Probleme oder Beiträge zu Tools und Ressourcen
+title: "[Tools und Ressourcen] "
+labels: ["tools", "documentation", "help-wanted"]
 assignees: []
 body:
   - type: dropdown

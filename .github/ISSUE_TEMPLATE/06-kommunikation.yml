@@ -1,7 +1,7 @@
-name: 📅 Meetings & Termine
-description: Fragen, Probleme oder Beiträge zu Meetings und Terminen
-title: "[Meetings & Termine] "
-labels: ["meetings", "documentation", "help-wanted"]
+name: 💬 Kommunikation und Zusammenarbeit
+description: Fragen, Probleme oder Beiträge zur Kommunikation und Zusammenarbeit
+title: "[Kommunikation & Zusammenarbeit] "
+labels: ["kommunikation", "documentation", "help-wanted"]
 assignees: []
 body:
   - type: dropdown
@@ -41,5 +41,4 @@ body:
       label: Beschreibung des Anliegens
       description: Bitte beschreibe dein Anliegen so detailliert wie möglich. Je mehr Informationen du gibst, desto besser können wir dir helfen.
       placeholder: "Hier deine Beschreibung..."
-
 
