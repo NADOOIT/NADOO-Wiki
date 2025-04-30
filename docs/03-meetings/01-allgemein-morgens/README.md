@@ -2,7 +2,7 @@
 
 ## Montag, Dienstag, Donnerstag
 
-- 10:14 – 10:30 Uhr: Anwesenheitsfeststellung im Discord-Sprachkanal
+- 10:14 – 10:30 Uhr: Überprüfen der Anwesenheit
   - Umsetzung: Teamkoordinator:innen oder Christoph
 - 10:30 – 11:20 Uhr: 11er-Meeting
   - Umsetzung: Teamkoordinator:innen oder Christoph
@@ -12,7 +12,7 @@
 
 ## Mittwoch
 
-- 10:14 – 10:30 Uhr: Anwesenheitsfestellung
+- 10:14 – 10:30 Uhr: Überprüfen der Anwesenheit
   - Umsetzung: Teamkoordinator:innen oder Christoph
 - 10:30 – 11:20 Uhr: Teamkoordinator-Meeting (freiwillig für 3er-Teams)
 
@@ -20,7 +20,7 @@
 
 ## Freitag
 
-- 10:14 – 10:30 Uhr: Anwesenheitsfestellung
+- 10:14 – 10:30 Uhr: Überprüfen der Anwesenheit
   - Umsetzung: Teamkoordinator:innen oder Christoph
 - 10:30 – 11:10 Uhr: Meeting (33er-Meeting)
 - 11:20 Uhr – offen: Arbeiten an Issues

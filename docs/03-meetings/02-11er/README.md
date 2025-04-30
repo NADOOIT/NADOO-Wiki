@@ -1,4 +1,4 @@
-# Erweiterte 11er-Meetings (Montag, Dienstag und Donnerstag)
+# 11er-Meeting (Montag, Dienstag und Donnerstag)
 
 - **Dauer:** 30–40 Minuten
 
