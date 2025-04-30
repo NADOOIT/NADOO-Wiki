@@ -9,7 +9,7 @@ Aus diesem Grund sind Trainingsbeiträge fester Bestandteil deiner Zeit bei NADO
 
 ## 1. Was ist ein Trainingsbeitrag?
 
-Ein Trainingsbeitrag beinhaltet eine kurze Lerneinheit zu einem von dir frei wählbaren Thema aus unserem [Themenkatalog] <!--Anker-Link zum Punkt Themenfindung-->. deine Aufgabe ist es, dein Thema in einer knappen Übersicht, die die wichtigsten Punkte gut verständlich aufgreift, zusammenzufassen. Das Ergebnis präsentierst du anschließend vor deinem Team.
+Ein Trainingsbeitrag beinhaltet eine kurze Lerneinheit zu einem von dir frei wählbaren Thema aus unserem [Themenkatalog] <!--Anker-Link zum Punkt Themenfindung-->. Deine Aufgabe ist es, dein Thema in einer knappen Übersicht, die die wichtigsten Punkte gut verständlich aufgreift, zusammenzufassen. Das Ergebnis präsentierst du anschließend vor deinem Team.
 
 ## 2. Wer darf einen Trainingsbeitrag leisten?
 
