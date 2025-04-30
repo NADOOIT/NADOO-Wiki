@@ -26,7 +26,7 @@ body:
       description: Handelt es sich um einen Fehler, eine Erweiterung oder eine allgemeine Frage?
     validations:
       required: true
-    - type: checkboxes
+  - type: checkboxes
     id: self-assigned
     attributes:
       label: Zuständigkeit übernehmen
@@ -41,4 +41,3 @@ body:
       label: Beschreibung des Anliegens
       description: Bitte beschreibe dein Anliegen so detailliert wie möglich. Je mehr Informationen du gibst, desto besser können wir dir helfen.
       placeholder: "Hier deine Beschreibung..."
-
