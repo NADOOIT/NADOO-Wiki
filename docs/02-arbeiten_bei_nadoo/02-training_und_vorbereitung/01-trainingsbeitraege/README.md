@@ -109,7 +109,7 @@ Für jeden Trainingsbeitrag wird unter dem **Parent-Issue** [**Trainingsbeiträg
 
 <br>
 
-6. Dieser Schritt ist kein Muss (und auch nicht bei jedem Thema super sinnvoll), aber: wenn du richtig Bock hast und deinen Beitrag interaktiv gestalten möchtest, dann bereite zusätzlich ein paar kleine, Themen-relevante Aufgaben vor. Die packst du dann einfach mit ins Issue, damit deine Teamkollegen diese zur Übung oder Auffrischung nutzen können. 
+6. Dieser Schritt ist kein Muss (und auch nicht bei jedem Thema super sinnvoll), aber: wenn du richtig Bock hast und deinen Beitrag interaktiv gestalten möchtest, dann bereite zusätzlich ein paar kleine, themenrelevante Aufgaben vor. Die packst du dann einfach mit ins Issue, damit deine Teamkollegen diese zur Übung oder Auffrischung nutzen können. 
 <!--screenshot editor--> 
 **So geht's**:
 
