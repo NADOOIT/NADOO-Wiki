@@ -11,4 +11,4 @@
 5. Teamkoordinator:in
 
 Klicke auf eine Rolle, um mehr über dessen Aufgaben- und Verantwortungsbereiche zu erfahren.
-Alternativ kannst Du diesen Abschnitt natürlich auch einfach von oben nach unten durcharbeiten.
+Alternativ kannst du diesen Abschnitt natürlich auch einfach von oben nach unten durcharbeiten.
