@@ -30,7 +30,7 @@ In unseren 11er-Meetings präsentierst du regelmäßig technische Themen als sog
 
 Deine erstellten Unterlagen fließen laufend in unser Wiki ein. Das bedeutet, dass du mit deinen Beiträgen aktiv am Unternehmensziel der Entwicklung einer modernen Lernplattform teilnimmst und diese fester Bestandteil der medialen Präsenz der [NADOO-IT](https://nadooit.de) sind.
 
-Alles, was du zum Thema **Trainingsbeitrag** wissen musst, findest du auf der nächsten Seite im Kapitel [**01-trainingsbeitraege**](/docs/02-arbeiten_bei_nadoo/02-training_und_vorbereitung/01-trainingsbeitraege/README.m) dieses Abschnitts.
+Alles, was du zum Thema **Trainingsbeitrag** wissen musst, findest du auf der nächsten Seite im Kapitel [**01-trainingsbeitraege**](/docs/02-arbeiten_bei_nadoo/02-training_und_vorbereitung/01-trainingsbeitraege/README.md) dieses Abschnitts.
 
 ---
 
