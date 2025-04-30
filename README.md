@@ -11,9 +11,9 @@
 
 ---
 
-Herzlich willkommen zu Deinem Einstieg in deine IT-Karriere bei uns!
+Herzlich willkommen zu deinem Einstieg in deine IT-Karriere bei uns!
 
-- Wir freuen uns 😊, Dich auf Deinem Weg in die Welt der Anwendungsentwicklung und die Zukunft der IT 🍀 begleiten zu dürfen 🙏.
+- Wir freuen uns 😊, dich auf deinem Weg in die Welt der Anwendungsentwicklung und die Zukunft der IT 🍀 begleiten zu dürfen 🙏.
 
 - Das "#globalyou" oder auch "#gerneperdu" ist bei uns Programm.
 
@@ -28,12 +28,12 @@ Herzlich willkommen zu Deinem Einstieg in deine IT-Karriere bei uns!
 
 | |
 | :--- |
-| **WICHTIG**: Bevor Du weiterliest, um mit dem Wiki zu starten! |
+| **WICHTIG**: Bevor du weiterliest, um mit dem Wiki zu starten! |
 | 1. Sende eine eMail mit Deinem GitHub-Benutzernamen an <christoph.backhaus@nadooit.de> |
-| 2. Du erhältst anschließend zeitnah eine eMail, in welcher Du aktiv Deine Einladung zu diesem öffentlichen Repository bestätigst. |
-| 3. Du kannst dann mit dem Wiki starten und Deine ersten Schritte bei der NADOO-IT gehen 🚀 |
+| 2. Du erhältst anschließend zeitnah eine eMail, in welcher du aktiv deine Einladung zu diesem öffentlichen Repository bestätigst. |
+| 3. Du kannst dann mit dem Wiki starten und deine ersten Schritte bei der NADOO-IT gehen 🚀 |
 | 4. Sollte dabei etwas unverständlich sein, dann erstelle umgehend ein [Issue](https://github.com/NADOOIT/NADOO-Wiki/issues/new/choose) ❗❗❗ |
-| 5. Unsere erfahrenen Kolleginnen und Kollegen werden sich dann zeitnah um Dein Anliegen kümmern und Dich unterstützen! |
+| 5. Unsere erfahrenen Kolleginnen und Kollegen werden sich dann zeitnah um dein Anliegen kümmern und dich unterstützen! |
 
 **Viel Spass und Erfolg bei uns - [Feedback](/docs/01-organisation/07-feedback-kultur/README.md) ist immer willkommen und ausdrücklich erwünscht**  ❗
 
@@ -47,7 +47,7 @@ Herzlich willkommen zu Deinem Einstieg in deine IT-Karriere bei uns!
 <details>
 <summary>🔹 Onboarding und Probemonat</summary>
 
-- 🔹 [Leitfaden für Deine ersten Tage](docs/00-willkommen/README.md)
+- 🔹 [Leitfaden für deine ersten Tage](docs/00-willkommen/README.md)
 
 </details>
 
@@ -344,7 +344,7 @@ Herzlich willkommen zu Deinem Einstieg in deine IT-Karriere bei uns!
 <!-- Digitale Produktentwicklung -->
 
 <details>
-<summary>🔹 Dein Einstieg in die digitale Produktentwicklung</summary>
+<summary>🔹 dein Einstieg in die digitale Produktentwicklung</summary>
 
 - 🔹 [Kapitel-Einstieg](docs/06-entwicklung/06-digitale_produktentwicklung/README.md)
 - 🔹 [Deine erste eigene App](docs/06-entwicklung/07-eigene_app/README.md)
