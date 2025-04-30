@@ -7,7 +7,7 @@ Ein Repository ist ein Speicherort für Projekte, in dem Code, Dokumentation und
 ## Inhalt
 
 - Speichert sämtlichen Code
-- Enthält die gesamte Entwicklunghistorie
+- Enthält die gesamte Entwicklungshistorie
 - Dient zur Verwaltung und Nachverfolgung von Projekten
 
 ---
