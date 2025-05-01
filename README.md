@@ -73,7 +73,7 @@ Herzlich willkommen zu deinem Einstieg in deine IT-Karriere bei uns!
 <summary>🔹 Zeit- und Ausbildungsnachweise</summary>
 
 - 🔹 [Kapitel-Übersicht](docs/01-organisation/02-zeit_und_ausbildungsnachweise/README.md)
-- 🔹 [Beispiele für Ausbildungs- und Zeitnachweise](docs/01-organisation/02-zeit_und_ausbildungsnachweisee/01-beispiele/README.md)
+- 🔹 [Beispiele für Ausbildungs- und Zeitnachweise](docs/01-organisation/02-zeit_und_ausbildungsnachweise/01-beispiele/README.md)
 - 🔹 [Dateibenennungsrichtlinien](docs/01-organisation/02-zeit_und_ausbildungsnachweise/02-dateibenennung/README.md)
 - 🔹 [Prüfung des Dateinamens](/docs/01-organisation/02-zeit_und_ausbildungsnachweise/03-ueberpruefung/README.md)
 
