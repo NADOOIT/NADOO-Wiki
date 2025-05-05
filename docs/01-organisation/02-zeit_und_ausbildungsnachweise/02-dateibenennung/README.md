@@ -1,4 +1,4 @@
-# Dateibenennungsrichtlinien
+# <p align="center">Dateibenennungsrichtlinien</p>
 
 Diese Regeln wurden entwickelt, um die Bearbeitung der Dateien zu vereinfachen und eine bessere Sortierung zu gewährleisten.
 
@@ -44,4 +44,6 @@ Für weitere Informationen und Einblicke in den Entscheidungsprozess verweisen w
 
 ---
 
-[Zurück](/docs/01-organisation/01-zeit-ausbildungsnachweise/01-beispiele/README.md) | [Weiter](/docs/01-organisation/01-zeit-ausbildungsnachweise/03-ueberpruefung/README.md)
+<p align="center">
+<a href="/docs/01-organisation/02-zeit_und_ausbildungsnachweise/01-beispiele/README.md"><strong>Zurück</strong></a> | <a href="/docs/01-organisation/02-zeit_und_ausbildungsnachweise/03-ueberpruefung/README.md"><strong>Weiter</strong></a>
+</p>
