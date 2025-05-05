@@ -203,6 +203,7 @@ Debugging ist eine Fähigkeit, die mit der Zeit und Übung verbessert wird. Je m
 
 - 🔗 [Real Python: Python Debugging With Pdb](https://realpython.com/python-debugging-pdb/)
 - 🔗 [Visual Studio Code Python Debugging](https://code.visualstudio.com/docs/python/debugging)
+- 🔗 [Bitecode: What's up Python? Better packaging and better debugging](https://www.bitecode.dev/p/whats-up-python-better-packaging?utm_source=post-email-title&publication_id=1516188&post_id=158124913&utm_campaign=email-post-title&isFreemail=true&r=2x3pm0&triedRedirect=true&utm_medium=email)
 
 ### Video-Tutorials
 
