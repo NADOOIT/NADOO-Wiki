@@ -9,7 +9,7 @@ body:
     attributes:
       label: Auf welchen Unterbereich bezieht sich deine Frage?
       options:
-        - Kaptitel- oder Inhaltsübersicht
+        - Kapitel- oder Inhaltsübersicht
         - Spezifisches Thema oder Kapitel
         - Sonstiges
       description: Bitte wähle den Bereich, auf den sich dein Anliegen hauptsächlich bezieht.
