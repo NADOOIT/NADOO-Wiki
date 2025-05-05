@@ -1,42 +1,43 @@
 # Willkommen bei NADOO-IT
-| [Christoph Backhaus IT](https://wirrettendeinezeit.de) | **Unser Team** | **Unsere Mission** | **Unsere Kernwerte** |
-|:--- | :--- | :--- | :--- |
-| ![NADOO-IT](images/nadooit.png) |  ... | - **Entwicklung einer Plattform von Anwendungsentwickler:innen für Anwendungsentwickler:innen** |  - **Es gibt keine Fehler, sondern ausschließlich Chancen, sich gemeinsam weiter zu entwickeln!** |
-| 🏣 Anschrift | Am Markt 1, 47229 Duisburg | - Vorbereitung für Unternehmensarbeit und Selbständigkeit | - **Es gibt keine dummen Fragen!** |
-| 📞 Telefon | +49 2065 7098429 | - Programmieren & Teamarbeit |- **nur gemeinsam/zusammen sind wir stark!** |
-| 📱 Mobil | +49 176 565 44 075 | - Ermöglichung von Wegen aus dem Hamsterrad | |
-| 📧 E-Mail | <christoph.backhaus@nadooit.de> | - Etablierung von Standort-unbhängigen Möglichkeiten zur Zusammenarbeit | |
-| Discord | [NADOO-IT]( https://discord.gg/Ffv4JTFE7E) | - Ermöglichung von work-life-balance für alle | -Vereinbarkeit von Job & Familie |
-| Twitch | [NADOO-IT](https://www.twitch.tv/nadooit_christophba) | | |
+
+| [Christoph Backhaus IT](https://wirrettendeinezeit.de) | **Unser Team**                                        | **Unsere Mission**                                                                              | **Unsere Kernwerte**                                                                             |
+| :----------------------------------------------------- | :---------------------------------------------------- | :---------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------- |
+| ![NADOO-IT](images/nadooit.png)                        | ...                                                   | - **Entwicklung einer Plattform von Anwendungsentwickler:innen für Anwendungsentwickler:innen** | - **Es gibt keine Fehler, sondern ausschließlich Chancen, sich gemeinsam weiter zu entwickeln!** |
+| 🏣 Anschrift                                           | Am Markt 1, 47229 Duisburg                            | - Vorbereitung für Unternehmensarbeit und Selbständigkeit                                       | - **Es gibt keine dummen Fragen!**                                                               |
+| 📞 Telefon                                             | +49 2065 7098429                                      | - Programmieren & Teamarbeit                                                                    | - **nur gemeinsam/zusammen sind wir stark!**                                                     |
+| 📱 Mobil                                               | +49 176 565 44 075                                    | - Ermöglichung von Wegen aus dem Hamsterrad                                                     |                                                                                                  |
+| 📧 E-Mail                                              | <christoph.backhaus@nadooit.de>                       | - Etablierung von Standort-unbhängigen Möglichkeiten zur Zusammenarbeit                         |                                                                                                  |
+| Discord                                                | [NADOO-IT](https://discord.gg/Ffv4JTFE7E)             | - Ermöglichung von work-life-balance für alle                                                   | -Vereinbarkeit von Job & Familie                                                                 |
+| Twitch                                                 | [NADOO-IT](https://www.twitch.tv/nadooit_christophba) |                                                                                                 |                                                                                                  |
 
 ---
 
-Herzlich willkommen zu deinem Einstieg in deine IT-Karriere bei uns!
+### Herzlich willkommen zum Einstieg in deine IT-Karriere bei uns!
 
-- Wir freuen uns 😊, dich auf deinem Weg in die Welt der Anwendungsentwicklung und die Zukunft der IT 🍀 begleiten zu dürfen 🙏.
+Wir freuen uns 😊, dich auf deinem Weg in die Welt der Anwendungsentwicklung und die Zukunft der IT 🍀 begleiten zu dürfen 🙏.
 
-- Das "#globalyou" oder auch "#gerneperdu" ist bei uns Programm.
+> Das "**#globalyou**" - oder auch "**#gerneperdu**" - ist bei uns Programm.
 
-- Wir sind ein junges, dynamisches [Team](https://github.com/orgs/NADOOIT/people) - ergänzt um erfahrene Mitarbeitende - welches es sich auf die Fahnen geschrieben hat, mit Innovationen die  IT-Welt voranzubringen und damit einen **wertvollen** Beitrag zum **dringend notwendigen Bürokratie-Abbau** in Deutschland zu leisten.
+Wir sind ein junges, dynamisches [Team](https://github.com/orgs/NADOOIT/people) - ergänzt um erfahrene Mitarbeitende - welches es sich auf die Fahnen geschrieben hat, mit Innovationen die IT-Welt voranzubringen und damit einen **wertvollen** Beitrag zum **dringend notwendigen Bürokratie-Abbau** in Deutschland zu leisten.
 
-- Wir sind **multikulturell**, **multilingual** und **international** aufgestellt und freuen uns über jede/n, der/die sich uns anschließen möchte.
-- Bei uns werden unterschiedliche Kulturen und Sprachen gelebt und geschätzt, wie das auch in der IT-Welt üblich ist.
+> Wir sind **multikulturell**, **multilingual** und **international** aufgestellt und freuen uns über jede/n, der/die sich uns anschließen möchte.
+
+Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und geschätzt, so wie es in der IT-Welt üblich ist.
 
 ---
 
 ## Das Wiki und unser gelebtes Issue 1st-Prinzip
 
-| |
-| :--- |
-| **WICHTIG**: Bevor du weiterliest, um mit dem Wiki zu starten! |
-| 1. Sende eine eMail mit Deinem GitHub-Benutzernamen an <christoph.backhaus@nadooit.de> |
-| 2. Du erhältst anschließend zeitnah eine eMail, in welcher du aktiv deine Einladung zu diesem öffentlichen Repository bestätigst. |
-| 3. Du kannst dann mit dem Wiki starten und deine ersten Schritte bei der NADOO-IT gehen 🚀 |
-| 4. Sollte dabei etwas unverständlich sein, dann erstelle umgehend ein [Issue](https://github.com/NADOOIT/NADOO-Wiki/issues/new/choose) ❗❗❗ |
-| 5. Unsere erfahrenen Kolleginnen und Kollegen werden sich dann zeitnah um dein Anliegen kümmern und dich unterstützen! |
+|                                                                                                                                           |
+| :---------------------------------------------------------------------------------------------------------------------------------------- |
+| **WICHTIG**: Bevor du weiterliest, um mit dem Wiki zu starten:                                                                            |
+| 1. Sende eine E-Mail mit deinem GitHub-Benutzernamen an <christoph.backhaus@nadooit.de>                                                   |
+| 2. Du erhältst anschließend zeitnah eine E-Mail, in welcher du aktiv deine Einladung zu diesem öffentlichen Repository bestätigst.        |
+| 3. Anschließend kannst du mit dem Wiki starten und deine ersten Schritte bei der NADOO-IT gehen! 🚀                                       |
+| 4. Sollte dabei etwas unverständlich sein, dann erstelle umgehend ein [Issue](https://github.com/NADOOIT/NADOO-Wiki/issues/new/choose) ❗ |
+| 5. Unsere erfahrenen Kolleginnen und Kollegen werden sich dann zeitnah um dein Anliegen kümmern und dich unterstützen.                    |
 
-**Viel Spass und Erfolg bei uns - [Feedback](/docs/01-organisation/07-feedback-kultur/README.md) ist immer willkommen und ausdrücklich erwünscht**  ❗
-
+**Viel Spaß und Erfolg bei uns - [Feedback](/docs/01-organisation/07-feedback-kultur/README.md) ist immer willkommen und ausdrücklich erwünscht** ❗
 
 ---
 
@@ -127,7 +128,7 @@ Herzlich willkommen zu deinem Einstieg in deine IT-Karriere bei uns!
 <!-- NADOO-Philosophie -->
 
 <details>
-<summary>🔹 Verhalten und Kultur bei Christoph Backhaus IT - Unsere Firmenphilosophien</summary>
+<summary>🔹 Verhaltenskodex und Kultur bei Christoph Backhaus IT - Unsere Firmenphilosophien</summary>
 
 - 🔹 [Kapitel-Übersicht](/docs/01-organisation/08-firmenphilosophie/README.md)
 - 🔹 [Unsere Verhaltensregeln](/docs/01-organisation/08-firmenphilosophie/01-verhaltensregeln/README.md)
@@ -145,7 +146,7 @@ Herzlich willkommen zu deinem Einstieg in deine IT-Karriere bei uns!
 <!-- Rollen & Aufgaben(bereiche) -->
 
 <details>
-<summary>🔹 Rollen & Aufgaben(bereiche) bei Christoph Backhaus IT</summary>
+<summary>🔹 Rollen & Aufgaben(bereiche)</summary>
 
 - 🔹 [Kapitel-Übersicht](/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/README.md)
 - 🔹 [Dokumentar(ist):in](/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/01-dokumentar/README.md)
@@ -208,18 +209,19 @@ Herzlich willkommen zu deinem Einstieg in deine IT-Karriere bei uns!
 - [Kapitel-Übersicht](/docs/04-tools/01-github/README.md)
 - [Repository](/docs/04-tools/01-github/01-repository/README.md)
 - [Branches](/docs/04-tools/01-github/02-branches/README.md)
+  - [Branch Protection](/docs/04-tools/01-github/02-branches/01-protection/README.md)
 - [Pull Requests](/docs/04-tools/01-github/03-pull-requests/README.md)
   - [Merge Konflikte](/docs/04-tools/01-github/03-pull-requests/01-merge-konflikte/README.md)
-  - [Code Review](/docs/04-tools/01-github/03-pull-requests/02-code-review/README.md)
+  - [Code Review](/docs/04-tools/01-github/03-pull-requests/02-code-review/README.md) <!-- Datei fehlt (noch?)-->
 - [Issues](/docs/04-tools/01-github/04-issues/README.md)
-  - [Labels](/docs/04-tools/01-github/04-issues/01-labels/README.md)
-  - [Types](/docs/04-tools/01-github/04-issues/02-types/README.md)
-  - [Assignees](/docs/04-tools/01-github/04-issues/03-assignees/README.md)
-  - [Milestones](/docs/04-tools/01-github/04-issues/04-milestones/README.md)
-  - [Projects](/docs/04-tools/01-github/04-issues/05-projects/README.md)
-  - [Discussions](/docs/04-tools/01-github/04-issues/06-discussions/README.md)
-  - [Templates](/docs/04-tools/01-github/04-issues/07-templates/README.md)
-  - [Issue-Erstellungs-Guide](/docs/04-tools/01-github/04-issues/08-erstellungs-guide/README.md)
+  - [Issue-Erstellungs-Guide](/docs/04-tools/01-github/04-issues/01-wiki-guide/README.md)
+  - [Labels](/docs/04-tools/01-github/04-issues/02-labels/README.md)
+  - [Types](/docs/04-tools/01-github/04-issues/02-types/README.md) <!-- Datei fehlt (noch?), 02 dopplung-->
+  - [Assignees](/docs/04-tools/01-github/04-issues/03-assignees/README.md) <!-- Datei fehlt (noch?)-->
+  - [Milestones](/docs/04-tools/01-github/04-issues/04-milestones/README.md) <!-- Datei fehlt (noch?)-->
+  - [Projects](/docs/04-tools/01-github/04-issues/05-projects/README.md) <!-- Datei fehlt (noch?)-->
+  - [Discussions](/docs/04-tools/01-github/04-issues/06-discussions/README.md) <!-- Datei fehlt (noch?)-->
+  - [Templates](/docs/04-tools/01-github/04-issues/07-templates/README.md) <!-- Datei fehlt (noch?)-->
 - [Actions](/docs/04-tools/01-github/05-actions/README.md)
 - [Notifications](/docs/04-tools/01-github/06-notifications/README.md)
 - [Suche](/docs/04-tools/01-github/07-suche/README.md)
@@ -237,7 +239,7 @@ Herzlich willkommen zu deinem Einstieg in deine IT-Karriere bei uns!
 - [Plugins](/docs/04-tools/02-vscode/02-plugins/README.md)
 - [Workspaces](/docs/04-tools/02-vscode/03-workspaces/README.md)
 - [Editor](/docs/04-tools/02-vscode/04-editor/README.md)
-- [Terminal](/docs/04-tools/02-vscode/05-terminal/README.md)
+- [Terminal](/docs/04-tools/02-vscode/05-debugging/README.md)
 
 </details>
 
@@ -266,8 +268,8 @@ Herzlich willkommen zu deinem Einstieg in deine IT-Karriere bei uns!
 <summary>🔹 Künstliche Intelligenz - LLM und MLX</summary>
 
 - [Übersicht](/docs/04-tools/05-ki/README.md)
-- [Large Language Model (LLM) und Apple MLX Framework](/docs/04-tools/05-ki/01-llm-mlx/README.md)
-- [Gemini API](/docs/04-tools/05-ki/02-gemini-api/README.md)
+- [Large Language Model (LLM) und das Apple MLX Framework](/docs/04-tools/05-ki/01-llm-mlx/README.md)
+- [Gemini API](/docs/04-tools/05-ki/02-gemini/README.md)
 
 </details>
 
@@ -337,14 +339,14 @@ Herzlich willkommen zu deinem Einstieg in deine IT-Karriere bei uns!
 - 🔹 [Briefcase & Toga - Python-Framework für plattformübergreifende Apps](/docs/06-entwicklung/05-python/02-briefcase-toga/README.md)
   - 🔹 [Briefcase-Debugging](/docs/06-entwicklung/05-python/02-briefcase-toga/01-debugging/README.md)
   - 🔹 [Praktische Umsetzung mit NADOO-Launchpad](/docs/06-entwicklung/05-python/02-briefcase-toga/02-launchpad/README.md)
-  - 🔹 [Speech‐to‐Text‐Feature im NADOO Launchpad](/docs/06-entwicklung/05-python/02-briefcase-toga/03-speech-to-text/README.md)
+  - 🔹 [Speech‐to‐Text‐Feature im NADOO-Launchpad](/docs/06-entwicklung/05-python/02-briefcase-toga/03-speech-to-text/README.md)
 
 </details>
 
 <!-- Digitale Produktentwicklung -->
 
 <details>
-<summary>🔹 dein Einstieg in die digitale Produktentwicklung</summary>
+<summary>🔹 Dein Einstieg in die digitale Produktentwicklung</summary>
 
 - 🔹 [Kapitel-Einstieg](docs/06-entwicklung/06-digitale_produktentwicklung/README.md)
 - 🔹 [Deine erste eigene App](docs/06-entwicklung/07-eigene_app/README.md)
@@ -391,7 +393,7 @@ Herzlich willkommen zu deinem Einstieg in deine IT-Karriere bei uns!
 <!-- Social Media zum Netzwerken -->
 
 <details>
-<summary>🔹 Social Media für Dein berufliches Netzwerk</summary>
+<summary>🔹 Social Media für dein berufliches Netzwerk</summary>
 
 - 🔹 [Kapitel-Übersicht](/docs/08-karriere/01-social_media_netzwerk/README.md)
 - 🔹 [Dein GitHub-Profil](/docs/08-karriere/01-social_media_netzwerk/01-github/README.md)
