@@ -1,6 +1,6 @@
 # 11er-Meeting (Montag, Dienstag und Donnerstag)
 
-- **Dauer:** 30–40 Minuten
+- **Dauer:** 30–60 Minuten (Im Gesamtablauf standardmäßig 60 Minuten)
 
 - **Ziel:** Effektive Zusammenarbeit, schnelle Problemlösung und kontinuierliches Training der Präsentations- sowie Kommunikationsfähigkeiten.
 
@@ -31,13 +31,13 @@ Kurze Wiederholung der Unternehmensmission, Werte (z.B. Transparenz, Agilität, 
 
 ---
 
-### 4. 10:45–10:51 Uhr – Teamkoordinator-Update & Offene Issues
+### 4. 10:45–10:50 Uhr – Teamkoordinator-Update & Offene Issues
 
 - Aktuelle Informationen, offene Tasks und Updates werden kurz vorgestellt.
 
 ---
 
-### 5. 10:51–11:21 Uhr – Teampräsentation
+### 5. 10:50–11:20 Uhr – Teampräsentation
 
 Pro 3er-Team:
 
@@ -47,7 +47,7 @@ Pro 3er-Team:
 
 ---
 
-### 6. 11:21-11:31 Uhr - Abschluss & Freies Netzwerken
+### 6. 11:20-11:30 Uhr - Abschluss & Freies Netzwerken
 
 - Offene Diskussion, Klärung letzter Fragen und Austausch zwischen den Teilnehmern (5–10 Minuten)
 
