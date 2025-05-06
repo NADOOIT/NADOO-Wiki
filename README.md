@@ -218,7 +218,7 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
     - [Branch Protection](/docs/04-tools/01-github/02-branches/01-protection/README.md)
   - 🔹 [Pull Requests](/docs/04-tools/01-github/03-pull-requests/README.md)
     - [Merge Konflikte](/docs/04-tools/01-github/03-pull-requests/01-merge-konflikte/README.md)
-    - [Code Review](/docs/04-tools/01-github/03-pull-requests/02-code-review/README.md) <!-- Datei fehlt (noch?)-->
+    - [Code Review](/docs/04-tools/01-github/03-pull-requests/02-code-review/README.md)
   - 🔹 [Issues](/docs/04-tools/01-github/04-issues/README.md)
     - [Issue-Erstellungs-Guide](/docs/04-tools/01-github/04-issues/01-wiki-guide/README.md)
     - [Labels](/docs/04-tools/01-github/04-issues/02-labels/README.md)
