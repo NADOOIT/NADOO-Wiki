@@ -1,7 +1,7 @@
-# Organisation & Rahmenbedingungen
+# <p align="center">Organisation & Rahmenbedingungen</p>
 
 <p align="center">
-<a href="#dieses-wiki-thema-beinhaltet-folgende-abschnitte">zu den Themen-Abschnitten</a>
+<a href="#dieser-wiki-themenbereich-beinhaltet-folgende-themen-abschnitte">zu den Themen-Abschnitten</a>
 </p>
 
 <!-- ggf. noch ergänzen: Einleitungstext zum Abschnitt -->
