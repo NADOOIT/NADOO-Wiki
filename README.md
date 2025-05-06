@@ -370,7 +370,7 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
 
 ## 📚 [Methoden und Projekte](/docs/07-methoden/README.md)
 
-🟦 [Einstieg zum Themenbereich und Übersicht der Themen](/docs/07-methoden/README.md) <!-- inhaltliche/strukturelle Anpassungen ausstehend -->
+🟦 [**Einstieg zum Themenbereich und Übersicht der Themen**](/docs/07-methoden/README.md) <!-- inhaltliche/strukturelle Anpassungen ausstehend -->
 
 <details>
 <summary>🔹 Projektmanagement mit besonderem Hinblick auf deine IHK-Abschlussprüfung</summary>
@@ -402,7 +402,7 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
 
 ## 🚀 [Netzwerken und Karriere](/docs/08-karriere/README.md)
 
-🟦 [Einstieg zum Themenbereich und Übersicht der Themen](/docs/08-karriere/README.md) <!-- inhaltliche/strukturelle Anpassungen ausstehend -->
+🟦 [**Einstieg zum Themenbereich und Übersicht der Themen**](/docs/08-karriere/README.md) <!-- inhaltliche/strukturelle Anpassungen ausstehend -->
 
 <!-- Social Media zum Netzwerken -->
 
