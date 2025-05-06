@@ -46,7 +46,7 @@ Ein Code-Review ist die Überprüfung von Code durch andere Teammitglieder, bevo
 
 ---
 
-## Weitere Ressourcen
+## Weitere Informationen
 
 - [GitHub Docs: Code Review](https://docs.github.com/de/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/about-pull-request-reviews)
 
