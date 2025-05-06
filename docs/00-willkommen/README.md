@@ -32,7 +32,7 @@ Dieselbe Anleitung findest du außerdem im dedizierten Wiki-Kapitel [**Das NADOO
 
 <!--Launchoad-Guide zieht in der Ordnerstruktur doch nochmal um, wird dann wieder angepasst-->
 
-[Dort](/docs/01-organisation/01-zeiterfassung/01-launchpad-guide/README.md) wird dir außerdem die **Benutzeroberfläche** des Launchpads im Detail erklärt, damit du ganz genau weißt _wie_ du mit der App deine Zeiten richtig verbuchst und welche Funktionen das Programm sonst noch so bietet.
+[Dort](/docs/01-organisation/01-zeiterfassung/01-launchpad-guide/README.md) wird dir außerdem die **Benutzeroberfläche** des Launchpads im Detail erklärt, damit du ganz genau weißt, _wie_ du mit der App deine Zeiten richtig verbuchst und welche Funktionen das Programm sonst noch so bietet.
 
 ⚠️**Wichtig**: Damit das Einstempeln an Tag 1 reibungslos klappt, solltest du dich also am besten im Voraus schon mal mit dem Tool und den zugehörigen Wiki-Abschnitten vertraut machen.
 
@@ -65,7 +65,7 @@ Für den Anfang empfehlen wir dir jedoch, dich dem **Launch-Team** anzuschließe
 
 Da du dich als Neuzugang gerade mitten in diesem Prozess befindest, bist du aktiv Teil der Zielgruppe, an die sich das Onboarding richtet und somit ein wertvoller Ansprechspartner. Wenn dir in deinen ersten Tagen und Wochen also irgendwelche Unklarheiten, Fragen, Probleme oder Verbesserungs-Potenziale bezüglich des Onboardings auffallen, kannst du diese direkt im Team ansprechen und dich aktiv an der Optimierung des Prozesses beteiligen.
 
-⚠️**Hinweis**: Aufgrund der aktuellen Umstrukturierung und der damit verbundenen Neugestaltung der Teams, kann es sein, dass die 11er-Meetings nicht immer im vorgesehenen Kanal stattfinden. Im Moment trifft sich das **Launch-Team** mit zukünftigen Mitgliedern des neuen Teams **Code Qualität & Research** in dessem gleichnamigen Kanal.
+⚠️**Hinweis**: Aufgrund der aktuellen Umstrukturierung und der damit verbundenen Neugestaltung der Teams kann es sein, dass die 11er-Meetings nicht immer im vorgesehenen Kanal stattfinden. Im Moment trifft sich das **Launch-Team** mit zukünftigen Mitgliedern des neuen Teams **Code Qualität & Research** in dessen gleichnamigem Kanal.
 
 <!--hier Screenshot "Code Qualität & Research Kanal" einfügen-->
 
@@ -73,7 +73,7 @@ Eigentlich stehen für den Austausch zum Thema Onboarding aber die 3 **Team-Laun
 
 <!--hier Screenshot "Team-Launch Kanäle" einfügen-->
 
-Hüpf in den ersten Tagen gerne durch unterschiedliche Kanäle, um dich mit deinen neuen Kollegen auszutauschen und herauszufinden, wo gerade "die Musik spielt", wie sich die einzelnen Teams untereinander organisiert haben und wie du dich einbringen kannst. Falls du doch noch unsicher bist, wo du hin sollst, wende dich einfach an Christoph oder an einen der Mitglieder aus dem **Launch-Team**.
+Hüpf in den ersten Tagen gerne durch unterschiedliche Kanäle, um dich mit deinen neuen Kollegen auszutauschen und herauszufinden, wo gerade "die Musik spielt", wie sich die einzelnen Teams untereinander organisiert haben und wie du dich einbringen kannst. Falls du doch noch unsicher bist, wo du hin sollst, wende dich einfach an Christoph oder an eines der Mitglieder aus dem **Launch-Team**.
 
 ℹ️ **Relevante Wiki-Docs**
 
@@ -85,7 +85,7 @@ Informationen zu den Meetings selbst - also, wann diese stattfinden und welche P
 
 ### Keine Sorge -
 
-Unsere Teams sind dynamisch. Dir ist selbst überlassen, wie lange du dich am Onboarding-Prozess beteiligst, bevor du in ein neues Team wechselst. Du bist nicht dazu gezwungen, deine komplette Zeit hier in einem einzigen 11er-Team zu verbringen.
+unsere Teams sind dynamisch. Dir ist selbst überlassen, wie lange du dich am Onboarding-Prozess beteiligst, bevor du in ein neues Team wechselst. Du bist nicht dazu gezwungen, deine komplette Zeit hier in einem einzigen 11er-Team zu verbringen.
 
 Natürlich solltest du schauen, dass du, wenn du dich einem Team anschließt, dann auch eine gewisse Zeit dort verbringst, um einen Beitrag zur gemeinsamen Zielerreichung zu leisten. Insofern auf deiner Seite nichts Wesentliches mehr offen ist bzw. dein "Abgang" keine negativen Auswirkungen auf den Arbeitsfortschritt hat, kannst du das Team jedoch jederzeit verlassen und bei einem neuen einziehen.
 
@@ -120,7 +120,7 @@ Wir empfehlen dir jedoch, erstmal ganz entspannt anzukommen. Nutze die ersten pa
 
 ## Organisatorisches
 
-Alles weitere, was du zum Thema Organisatorisches wissen musst, findest du im nächsten Wiki-Themenbereich **Organisation und Rahmenbedingungen**.
+Alles Weitere, was du zum Thema Organisatorisches wissen musst, findest du im nächsten Wiki-Themenbereich **Organisation und Rahmenbedingungen**.
 
 Dort wird umfassend auf grundlegende Punkte wie Zeiterfassung, Ausbildungsnachweise, Urlaub, Pausen, Krankmeldung, Umgangskultur und vieles mehr eingegangen.
 
