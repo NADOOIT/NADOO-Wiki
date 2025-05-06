@@ -17,6 +17,8 @@
 
 3. Alle Dateien müssen via **Email** an [**christoph.backhaus@nadooit.de**](mailto:christoph.backhaus@nadooit.de) gesendet werden.
 
+4. Als Betreff für die Email verwendest du "Zeit- und Ausbildungsnachweise - Monat - Name". <br>![alt text](image-1.png) <br> Abgesehen vom Anhang bleibt die Email leer.
+
 #
 
 ### Dieser Themen-Abschnitt beinhaltet folgende Kapitel:
