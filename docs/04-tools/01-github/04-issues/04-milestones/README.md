@@ -34,3 +34,7 @@ Verwende Milestones für größere Themenblöcke, wie z. B. Releases, Sprints 
 ---
 
 [Zurück](../README.md) | [Weiter](../05-templates/README.md) zu Templates
+
+---
+
+**Tags:** #GitHub, #Issues, #Milestones, #Projektmanagement
