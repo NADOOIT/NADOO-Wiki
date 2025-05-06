@@ -34,7 +34,7 @@ Du kannst mehrere Templates für unterschiedliche Zwecke erstellen, z. B. für
 
 ---
 
-[Zurück](../README.md) | [Weiter](../05-templates/README.md) zu Templates
+[Zurück](../README.md) | [Weiter](../../05-actions/) zu GitHub Actions
 
 ---
 
