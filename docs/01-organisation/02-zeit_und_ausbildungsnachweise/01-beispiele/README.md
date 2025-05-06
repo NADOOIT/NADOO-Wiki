@@ -1,4 +1,4 @@
-# Beispiele für Ausbildungs- und Zeitnachweise
+# <p align="center">Beispiele für Ausbildungs- und Zeitnachweise</p>
 
 | |
 | :--- |
@@ -102,4 +102,6 @@ Bitte die Anwesenheitsliste immer am dritten Tag des Folgemonats an Musterinstit
 
 ---
 
-[Zurück](/docs/01-organisation/01-zeit-ausbildungsnachweise/README.md) | [Weiter](/docs/01-organisation/01-zeit-ausbildungsnachweise/02-dateibenennung/README.md)
+<p align="center">
+<a href="/docs/01-organisation/02-zeit_und_ausbildungsnachweise/README.md"><strong>Zurück</strong></a> | <a href="/docs/01-organisation/02-zeit_und_ausbildungsnachweise/02-dateibenennung/README.md"><strong>Weiter</strong></a>
+</p>

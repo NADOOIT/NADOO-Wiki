@@ -1,8 +1,12 @@
-# Onboarding und Probemonat
+# <p align="center">Onboarding und Probemonat</p>
 
 ![Willkommen](../../images/onboarding.png)
 
----
+<p align="center">
+<a href="#übersicht-dein-fahrplan-für-den-ersten-tag">➡️ direkt zum First-Day-Fahrplan</a>
+</p>
+
+#
 
 ## Direkte Aufnahme
 
@@ -24,9 +28,11 @@ Sobald du für deinen ersten Tag online kommst, darfst und solltest du dich eins
 
 Wie du das Tool installierst und startest, ist Schritt für Schritt im [**README des Launchpad-Repositories**](https://github.com/NADOOIT/NADOO-Launchpad/blob/main/README.md) beschrieben.
 
-Dieselbe Anleitung findest du außerdem im dedizierten Wiki-Kapitel [**05-Zeiterfassung**](/docs/01-organisation/05-zeiterfassung/README.md) im Abschnitt [**01-organisation**](/docs/01-organisation).
+Dieselbe Anleitung findest du außerdem im dedizierten Wiki-Kapitel [**Das NADOO-Launchpad: Was es kann und wie es funktioniert**](/docs/01-organisation/01-zeiterfassung/01-launchpad-guide/README.md) im Abschnitt [**Zeiterfassung**](/docs/01-organisation/01-zeiterfassung/README.md).
 
-[Hier](/docs/01-organisation/05-zeiterfassung/README.md) wird dir außerdem die **Benutzeroberfläche** des Launchpads im Detail erklärt, damit du ganz genau weißt _wie_ du mit der App deine Zeiten richtig verbuchst und welche Funktionen das Programm sonst noch so bietet.
+<!--Launchoad-Guide zieht in der Ordnerstruktur doch nochmal um, wird dann wieder angepasst-->
+
+[Dort](/docs/01-organisation/01-zeiterfassung/01-launchpad-guide/README.md) wird dir außerdem die **Benutzeroberfläche** des Launchpads im Detail erklärt, damit du ganz genau weißt _wie_ du mit der App deine Zeiten richtig verbuchst und welche Funktionen das Programm sonst noch so bietet.
 
 ⚠️**Wichtig**: Damit das Einstempeln an Tag 1 reibungslos klappt, solltest du dich also am besten im Voraus schon mal mit dem Tool und den zugehörigen Wiki-Abschnitten vertraut machen.
 
@@ -114,8 +120,12 @@ Wir empfehlen dir jedoch, erstmal ganz entspannt anzukommen. Nutze die ersten pa
 
 ## Organisatorisches
 
-Alles, was du zum Thema Organisatorisches wissen musst, findest du im nächsten Wiki-Abschnitt [**01-organisation**](/docs/01-organisation).
+Alles weitere, was du zum Thema Organisatorisches wissen musst, findest du im nächsten Wiki-Themenbereich **Organisation und Rahmenbedingungen**.
 
 Dort wird umfassend auf grundlegende Punkte wie Zeiterfassung, Ausbildungsnachweise, Urlaub, Pausen, Krankmeldung, Umgangskultur und vieles mehr eingegangen.
 
-[Zurück](/README.md) | [Weiter](/docs/01-organisation/01-zeit-ausbildungsnachweise/README.md)
+---
+
+<p align="center">
+<a href="/README.md"><strong>Zurück zur Übersicht</strong></a> | <a href="/docs/01-organisation/README.md"><strong>Weiter</strong></a>
+</p>

@@ -1,8 +1,9 @@
-# Dateinamen überprüfen
+# <p align="center">Überprüfung der Dateinamen</p>
 
 Dies ist ein Skript, das du in Visual Studio Code einfügen kannst, um zu überprüfen, ob deine Datei gemäß den Benennungsrichtlinien korrekt benannt wurde. Es dient als Beispiel dafür, wie ein Skript zur automatischen Validierung von Dateinamen funktioniert.
 
 Skript:
+
 ```python
 import os
 
@@ -70,4 +71,6 @@ https://github.com/NADOOIT/NADOO-Launchpad/issues/463.
 
 ---
 
-[Zurück](/docs/01-organisation/01-zeit-ausbildungsnachweise/02-dateibenennung/README.md) | [Weiter](/docs/01-organisation/02-arbeits-pausenzeiten/README.md)
+<p align="center">
+<a href="/docs/01-organisation/02-zeit_und_ausbildungsnachweise/02-dateibenennung/README.md"><strong>Zurück</strong></a> | <a href="/docs/01-organisation/03-arbeits_und_pausenzeiten/README.md"><strong>Weiter</strong></a>
+</p>
