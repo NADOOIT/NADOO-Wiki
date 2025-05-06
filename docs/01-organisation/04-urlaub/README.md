@@ -30,7 +30,7 @@ Wenn du bei **Christoph Backhaus IT** im Zuge einer **Umschulung** als **Praktik
 ```
 Hallo Christoph,
 
-Hiermit beantrage ich Urlaub für den Zeitraum vom [dein Startdatum] bis einschließlich [dein Enddatum].
+hiermit beantrage ich Urlaub für den Zeitraum vom [dein Startdatum] bis einschließlich [dein Enddatum].
 
 Viele / Freundliche / Herzliche Grüße / [deine Präferenz]
 [dein Name]
