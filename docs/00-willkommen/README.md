@@ -85,7 +85,7 @@ Informationen zu den Meetings selbst - also, wann diese stattfinden und welche P
 
 ### Keine Sorge -
 
-unsere Teams sind dynamisch. Dir ist selbst überlassen, wie lange du dich am Onboarding-Prozess beteiligst, bevor du in ein neues Team wechselst. Du bist nicht dazu gezwungen, deine komplette Zeit hier in einem einzigen 11er-Team zu verbringen.
+Unsere Teams sind dynamisch. Dir ist selbst überlassen, wie lange du dich am Onboarding-Prozess beteiligst, bevor du in ein neues Team wechselst. Du bist nicht dazu gezwungen, deine komplette Zeit hier in einem einzigen 11er-Team zu verbringen.
 
 Natürlich solltest du schauen, dass du, wenn du dich einem Team anschließt, dann auch eine gewisse Zeit dort verbringst, um einen Beitrag zur gemeinsamen Zielerreichung zu leisten. Insofern auf deiner Seite nichts Wesentliches mehr offen ist bzw. dein "Abgang" keine negativen Auswirkungen auf den Arbeitsfortschritt hat, kannst du das Team jedoch jederzeit verlassen und bei einem neuen einziehen.
 
