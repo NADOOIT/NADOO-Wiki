@@ -225,8 +225,8 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
     - [Types](/docs/04-tools/01-github/04-issues/02-types/README.md)
     - [Assignees](/docs/04-tools/01-github/04-issues/03-assignees/README.md)
     - [Milestones](/docs/04-tools/01-github/04-issues/04-milestones/README.md)
-    - [Projects](/docs/04-tools/01-github/04-issues/05-projects/README.md) <!-- Datei fehlt (noch?)-->
-    - [Discussions](/docs/04-tools/01-github/04-issues/06-discussions/README.md) <!-- Datei fehlt (noch?)-->
+    - [Projects](/docs/04-tools/01-github/04-issues/05-projects/README.md)
+    - [Discussions](/docs/04-tools/01-github/04-issues/06-discussions/README.md)
     - [Templates](/docs/04-tools/01-github/04-issues/07-templates/README.md) <!-- Datei fehlt (noch?)-->
   - 🔹 [Actions](/docs/04-tools/01-github/05-actions/README.md)
   - 🔹 [Notifications](/docs/04-tools/01-github/06-notifications/README.md)
