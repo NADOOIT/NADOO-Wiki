@@ -29,7 +29,7 @@ Wie bereits erwähnt, hast du die Möglichkeit, dir ein Thema aus einem unserer 
 
 [**IHK-Prüfungsthemen AP2 | Stand: April 2025**](https://github.com/NADOOIT/NADOO-Launchpad/issues/1185)
 
-Zusätzlich haben wir hier für Dich alle bisher eingereichten Trainingsbeiträge in einer Liste zusammengefasst:
+Zusätzlich haben wir hier für dich alle bisher eingereichten Trainingsbeiträge in einer Liste zusammengefasst:
 
 [**Alle Trainingsbeiträge**](https://github.com/NADOOIT/NADOO-Launchpad/issues/1200)
 
