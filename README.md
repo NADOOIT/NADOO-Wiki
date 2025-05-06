@@ -307,8 +307,6 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
 
 🟦 [**Einstieg zum Themenabschnitt und Übersicht der Themen**](/docs/06-entwicklung/README.md)
 
-<!-- Dokumentation --> docs\06-entwicklung\README.md
-
 <details>
 <summary>🔹 Dokumentation</summary>
 
