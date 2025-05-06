@@ -25,7 +25,7 @@
 
 <br> 
 
-Abgesehen vom Anhang bleibt die Email leer.
+Abgesehen vom Anhang bleibt die E-Mail leer.
 
 #
 
