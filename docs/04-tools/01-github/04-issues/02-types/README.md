@@ -26,4 +26,4 @@ Mit klaren Typen kann man schneller filtern, sortieren und priorisieren. Besonde
 
 ---
 
-[Zurück](../README.md) | [Weiter](../03-pull-requests/README.md) zu Pull-Requests
+[Zurück](../README.md) | [Weiter](../03-assignees/README.md) zu Assignees
