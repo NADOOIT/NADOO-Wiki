@@ -56,5 +56,4 @@ Diese Labels helfen dir und dem Team, Aufgaben schnell zu finden und sinnvoll ei
 - [GitHub Docs: Labels](https://docs.github.com/de/issues/using-labels-and-milestones-to-track-work/managing-labels)
 
 ---
-[Zurück](../README.md) | [Weiter](../03-pull-requests/README.md) zu Pull-Requests
-
+[Zurück](../README.md) | [Weiter](../02-types/README.md) zu Typen
