@@ -37,4 +37,4 @@ Verwende Milestones für größere Themenblöcke, wie z. B. Releases, Sprints 
 
 ---
 
-**Tags:** #github, #issues, #milestones, #projektmanagement
+**Tags:** #github #issues #milestones #projektmanagement

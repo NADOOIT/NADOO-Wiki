@@ -34,7 +34,7 @@ Nutze Projects zusammen mit Labels, Milestones und Assignees für eine strukturi
 
 ---
 
-[Zurück](../README.md) | [Weiter](../05-templates/README.md) zu Templates
+[Zurück](../README.md) | [Weiter](../06-discussions/README.md) zu Templates
 
 ---
 
