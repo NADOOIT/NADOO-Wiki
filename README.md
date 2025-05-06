@@ -1,4 +1,4 @@
-# Willkommen bei NADOO-IT
+# <p align="center">Willkommen bei NADOO-IT</p>
 
 | [Christoph Backhaus IT](https://wirrettendeinezeit.de) | **Unser Team**                                        | **Unsere Mission**                                                                              | **Unsere Kernwerte**                                                                             |
 | :----------------------------------------------------- | :---------------------------------------------------- | :---------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------- |
@@ -146,7 +146,7 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
 <!-- Rollen & Aufgaben(bereiche) -->
 
 <details>
-<summary>🔹 Rollen & Aufgaben(bereiche)</summary>
+<summary>🔹 Rollen & Aufgaben/Aufgabenbereiche</summary>
 
 - 🔹 [Kapitel-Übersicht](/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/README.md)
 - 🔹 [Dokumentar(ist):in](/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/01-dokumentar/README.md)
