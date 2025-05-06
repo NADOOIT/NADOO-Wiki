@@ -38,4 +38,10 @@ Issues helfen bei der systematischen Nachverfolgung von Aufgaben, der Kommunikat
 
 ---
 
+## Weitere Informationen
+
+- [GitHub Docs: Issues](https://docs.github.com/de/issues)
+
+---
+
 [Zurück](../README.md) | [Weiter](../04-issues/01-wiki-guide/README.md) zu Wiki-Guide
