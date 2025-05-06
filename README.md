@@ -58,7 +58,7 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
 
 ## 🗂️ [**Organisation und Rahmenbedingungen**](docs/01-organisation/README.md)
 
-🔹 [Einstieg zum Themenbereich und Übersicht der Themen](docs/01-organisation/README.md)
+🟦 [**Einstieg zum Themenbereich und Übersicht der Themen**](docs/01-organisation/README.md)
 
 <!-- Zeiterfassung mit NADOO-Launchpad -->
 
@@ -145,7 +145,7 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
 
 ## 🏢 [**Arbeiten bei Christoph Backhaus IT**](/docs/02-arbeiten_bei_nadoo/README.md)
 
-🔹 [Einstieg zum Themenbereich und Übersicht der Themen](/docs/02-arbeiten_bei_nadoo/README.md)
+🟦 [**Einstieg zum Themenbereich und Übersicht der Themen**](/docs/02-arbeiten_bei_nadoo/README.md)
 
 <!-- Rollen und Aufgaben/Aufgabenbereiche -->
 
@@ -205,7 +205,7 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
 
 ## 🛠️ [**Tools und Technologien**](/docs/04-tools/README.md)
 
-🔹 [Einstieg zum Themenbereich und Übersicht der Themen](/docs/04-tools/README.md)
+🟦 [**Einstieg zum Themenbereich und Übersicht der Themen**](/docs/04-tools/README.md)
 
 <!-- Github -->
 
@@ -305,12 +305,7 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
 
 ## 💻 [**Entwicklung und Programmiersprachen**](/docs/06-entwicklung/README.md)
 
-<details>
-<summary>🔹 Krankmeldungen</summary>
-
-- 🔹 [Themeneinstieg und Übersicht der Abschnitte](/docs/06-entwicklung/README.md)
-
-</details>
+🟦 [**Einstieg zum Themenabschnitt und Übersicht der Themen**](/docs/06-entwicklung/README.md)
 
 <!-- Dokumentation --> docs\06-entwicklung\README.md
 
@@ -377,7 +372,7 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
 
 ## 📚 [Methoden und Projekte](/docs/07-methoden/README.md)
 
-🔹 [Einstieg zum Themenbereich und Übersicht der Themen](/docs/07-methoden/README.md) <!-- inhaltliche/strukturelle Anpassungen ausstehend -->
+🟦 [Einstieg zum Themenbereich und Übersicht der Themen](/docs/07-methoden/README.md) <!-- inhaltliche/strukturelle Anpassungen ausstehend -->
 
 <details>
 <summary>🔹 Projektmanagement mit besonderem Hinblick auf deine IHK-Abschlussprüfung</summary>
@@ -409,7 +404,7 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
 
 ## 🚀 [Netzwerken und Karriere](/docs/08-karriere/README.md)
 
-🔹 [Einstieg zum Themenbereich und Übersicht der Themen](/docs/08-karriere/README.md) <!-- inhaltliche/strukturelle Anpassungen ausstehend -->
+🟦 [Einstieg zum Themenbereich und Übersicht der Themen](/docs/08-karriere/README.md) <!-- inhaltliche/strukturelle Anpassungen ausstehend -->
 
 <!-- Social Media zum Netzwerken -->
 
