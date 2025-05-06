@@ -74,4 +74,4 @@ Damit ist dein Branch bereit für einen erneuten Merge ohne Konflikte.
 
 ---
 
-[Zurück](../01-merge-konflikte/) | [Weiter](../02-code-review/) zu Code-Review
+[Zurück](../01-merge-konflikte/) | [Weiter](../../04-issues/README.md) zu Issues

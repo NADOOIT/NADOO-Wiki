@@ -38,4 +38,4 @@ Issues helfen bei der systematischen Nachverfolgung von Aufgaben, der Kommunikat
 
 ---
 
-[Zurück](../3/README.md)| [Weiter](../5/README.md)|
+[Zurück](../README.md) | [Weiter](../04-issues/01-wiki-guide/README.md) zu Wiki-Guide
