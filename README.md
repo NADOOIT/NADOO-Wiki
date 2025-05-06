@@ -16,11 +16,11 @@
 
 Wir freuen uns 😊, dich auf deinem Weg in die Welt der Anwendungsentwicklung und die Zukunft der IT 🍀 begleiten zu dürfen 🙏.
 
-> Das "**#globalyou**" - oder auch "**#gerneperdu**" - ist bei uns Programm.
+🤝 Das "**#globalyou**" - oder auch "**#gerneperdu**" - ist bei uns Programm.
 
 Wir sind ein junges, dynamisches [Team](https://github.com/orgs/NADOOIT/people) - ergänzt um erfahrene Mitarbeitende - welches es sich auf die Fahnen geschrieben hat, mit Innovationen die IT-Welt voranzubringen und damit einen **wertvollen** Beitrag zum **dringend notwendigen Bürokratie-Abbau** in Deutschland zu leisten.
 
-> Als **weltoffenes** Unternehmen, welches **Diversität** feiert, sind wir **multikulturell** und **multilingual** aufgestellt und freuen uns über jede/n, der/die sich uns anschließen möchte.
+🌍 Als **weltoffenes** Unternehmen, welches **Diversität** feiert, sind wir **multikulturell** und **multilingual** aufgestellt und freuen uns über jede/n, der/die sich uns anschließen möchte.
 
 Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und geschätzt, so wie es in der IT-Welt üblich ist.
 
