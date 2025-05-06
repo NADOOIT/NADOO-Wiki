@@ -1,7 +1,7 @@
 # <p align="center">Abgabe von Zeit- und Ausbildungsnachweisen</p>
 
 <p align="center">
-<a href="#dieser-abschnitt-beinhaltet-folgende-kapitel">zur Kapitelübersicht</a>
+<a href="#dieser-themen-abschnitt-beinhaltet-folgende-kapitel">zur Kapitelübersicht</a>
 </p>
 
 ---
