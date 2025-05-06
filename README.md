@@ -1,8 +1,8 @@
-# Willkommen bei NADOO-IT
+# <p align="center">Willkommen bei Christoph Backhaus / NADOO-IT</p>
 
 | [Christoph Backhaus IT](https://wirrettendeinezeit.de) | **Unser Team**                                        | **Unsere Mission**                                                                              | **Unsere Kernwerte**                                                                             |
 | :----------------------------------------------------- | :---------------------------------------------------- | :---------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------- |
-| ![NADOO-IT](images/nadooit.png)                        | ...                                                   | - **Entwicklung einer Plattform von Anwendungsentwickler:innen für Anwendungsentwickler:innen** | - **Es gibt keine Fehler, sondern ausschließlich Chancen, sich gemeinsam weiter zu entwickeln!** |
+| ![NADOO-IT](images/nadooit.png)                        | ...                                                   | - **Entwicklung einer Plattform von Anwendungsentwickler:innen für Anwendungsentwickler:innen** | - **Es gibt keine Fehler, sondern ausschließlich Chancen, sich gemeinsam weiterzuentwickeln!** |
 | 🏣 Anschrift                                           | Am Markt 1, 47229 Duisburg                            | - Vorbereitung für Unternehmensarbeit und Selbständigkeit                                       | - **Es gibt keine dummen Fragen!**                                                               |
 | 📞 Telefon                                             | +49 2065 7098429                                      | - Programmieren & Teamarbeit                                                                    | - **nur gemeinsam/zusammen sind wir stark!**                                                     |
 | 📱 Mobil                                               | +49 176 565 44 075                                    | - Ermöglichung von Wegen aus dem Hamsterrad                                                     |                                                                                                  |
@@ -12,37 +12,38 @@
 
 ---
 
-Herzlich willkommen zu deinem Einstieg in deine IT-Karriere bei uns!
+### Herzlich willkommen zum Einstieg in deine IT-Karriere bei uns!
 
-- Wir freuen uns 😊, dich auf deinem Weg in die Welt der Anwendungsentwicklung und die Zukunft der IT 🍀 begleiten zu dürfen 🙏.
+Wir freuen uns 😊, dich auf deinem Weg in die Welt der Anwendungsentwicklung und die Zukunft der IT 🍀 begleiten zu dürfen 🙏.
 
-- Das "#globalyou" oder auch "#gerneperdu" ist bei uns Programm.
+> Das "**#globalyou**" - oder auch "**#gerneperdu**" - ist bei uns Programm.
 
-- Wir sind ein junges, dynamisches [Team](https://github.com/orgs/NADOOIT/people) - ergänzt um erfahrene Mitarbeitende - welches es sich auf die Fahnen geschrieben hat, mit Innovationen die IT-Welt voranzubringen und damit einen **wertvollen** Beitrag zum **dringend notwendigen Bürokratie-Abbau** in Deutschland zu leisten.
+Wir sind ein junges, dynamisches [Team](https://github.com/orgs/NADOOIT/people) - ergänzt um erfahrene Mitarbeitende - welches es sich auf die Fahnen geschrieben hat, mit Innovationen die IT-Welt voranzubringen und damit einen **wertvollen** Beitrag zum **dringend notwendigen Bürokratie-Abbau** in Deutschland zu leisten.
 
-- Wir sind **multikulturell**, **multilingual** und **international** aufgestellt und freuen uns über jede/n, der/die sich uns anschließen möchte.
-- Bei uns werden unterschiedliche Kulturen und Sprachen gelebt und geschätzt, wie das auch in der IT-Welt üblich ist.
+> Als **weltoffenes** Unternehmen, welches **Diversität** feiert, sind wir **multikulturell** und **multilingual** aufgestellt und freuen uns über jede/n, der/die sich uns anschließen möchte.
+
+Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und geschätzt, so wie es in der IT-Welt üblich ist.
 
 ---
 
 ## Das Wiki und unser gelebtes Issue 1st-Prinzip
 
-|                                                                                                                                               |
-| :-------------------------------------------------------------------------------------------------------------------------------------------- |
-| **WICHTIG**: Bevor du weiterliest, um mit dem Wiki zu starten!                                                                                |
-| 1. Sende eine eMail mit Deinem GitHub-Benutzernamen an <christoph.backhaus@nadooit.de>                                                        |
-| 2. Du erhältst anschließend zeitnah eine eMail, in welcher du aktiv deine Einladung zu diesem öffentlichen Repository bestätigst.             |
-| 3. Du kannst dann mit dem Wiki starten und deine ersten Schritte bei der NADOO-IT gehen 🚀                                                    |
-| 4. Sollte dabei etwas unverständlich sein, dann erstelle umgehend ein [Issue](https://github.com/NADOOIT/NADOO-Wiki/issues/new/choose) ❗❗❗ |
-| 5. Unsere erfahrenen Kolleginnen und Kollegen werden sich dann zeitnah um dein Anliegen kümmern und dich unterstützen!                        |
+|                                                                                                                                           |
+| :---------------------------------------------------------------------------------------------------------------------------------------- |
+| **WICHTIG**: Bevor du weiterliest, um mit dem Wiki zu starten:                                                                            |
+| 1. Sende eine E-Mail mit deinem GitHub-Benutzernamen an <christoph.backhaus@nadooit.de>                                                   |
+| 2. Du erhältst anschließend zeitnah eine E-Mail, in welcher du aktiv deine Einladung zu diesem öffentlichen Repository bestätigst.        |
+| 3. Anschließend kannst du mit dem Wiki starten und deine ersten Schritte bei der NADOO-IT gehen! 🚀                                       |
+| 4. Sollte dabei etwas unverständlich sein, dann erstelle umgehend ein [Issue](https://github.com/NADOOIT/NADOO-Wiki/issues/new/choose) ❗ |
+| 5. Unsere erfahrenen Kolleginnen und Kollegen werden sich dann zeitnah um dein Anliegen kümmern und dich unterstützen.                    |
 
-**Viel Spass und Erfolg bei uns - [Feedback](/docs/01-organisation/07-feedback-kultur/README.md) ist immer willkommen und ausdrücklich erwünscht** ❗
+**Viel Spaß und Erfolg bei uns - [Feedback](/docs/01-organisation/07-feedback-kultur/README.md) ist immer willkommen und ausdrücklich erwünscht** ❗
 
 ---
 
 <!-- Einstieg & Orientierung -->
 
-## 📘 [**Einstieg & Orientierung**](docs/00-willkommen/README.md)
+## 📘 [**Einstieg und Orientierung**](docs/00-willkommen/README.md)
 
 <details>
 <summary>🔹 Onboarding und Probemonat</summary>
@@ -53,9 +54,11 @@ Herzlich willkommen zu deinem Einstieg in deine IT-Karriere bei uns!
 
 ---
 
-<!-- 1. Organisation & Rahmenbedingungen -->
+<!-- 1. Organisation und Rahmenbedingungen -->
 
-## 🗂️ [**Organisation & Rahmenbedingungen**](docs/01-organisation/README.md)
+## 🗂️ [**Organisation und Rahmenbedingungen**](docs/01-organisation/README.md)
+
+🔹 [Einstieg zum Themenbereich und Übersicht der Themen](docs/01-organisation/README.md)
 
 <!-- Zeiterfassung mit NADOO-Launchpad -->
 
@@ -63,7 +66,7 @@ Herzlich willkommen zu deinem Einstieg in deine IT-Karriere bei uns!
 <summary>🔹 Zeiterfassung / Einstempeln </summary>
 
 - 🔹 [Kapitel-Übersicht](docs/01-organisation/01-zeiterfassung/README.md)
-- 🔹 [Anwendungs-Guide: Das NADOO-Launchpad erklärt](docs/01-organisation/01-zeiterfassung/01-launchpad-guide/README.md)
+  - 🔹 [Anwendungs-Guide: Das NADOO-Launchpad erklärt](docs/01-organisation/01-zeiterfassung/01-launchpad-guide/README.md)
 
 </details>
 
@@ -73,9 +76,9 @@ Herzlich willkommen zu deinem Einstieg in deine IT-Karriere bei uns!
 <summary>🔹 Zeit- und Ausbildungsnachweise</summary>
 
 - 🔹 [Kapitel-Übersicht](docs/01-organisation/02-zeit_und_ausbildungsnachweise/README.md)
-- 🔹 [Beispiele für Ausbildungs- und Zeitnachweise](docs/01-organisation/02-zeit_und_ausbildungsnachweise/01-beispiele/README.md)
-- 🔹 [Dateibenennungsrichtlinien](docs/01-organisation/02-zeit_und_ausbildungsnachweise/02-dateibenennung/README.md)
-- 🔹 [Prüfung des Dateinamens](/docs/01-organisation/02-zeit_und_ausbildungsnachweise/03-ueberpruefung/README.md)
+  - 🔹 [Beispiele für Ausbildungs- und Zeitnachweise](docs/01-organisation/02-zeit_und_ausbildungsnachweise/01-beispiele/README.md)
+  - 🔹 [Dateibenennungsrichtlinien](docs/01-organisation/02-zeit_und_ausbildungsnachweise/02-dateibenennung/README.md)
+  - 🔹 [Prüfung des Dateinamens](/docs/01-organisation/02-zeit_und_ausbildungsnachweise/03-ueberpruefung/README.md)
 
 </details>
 
@@ -84,7 +87,7 @@ Herzlich willkommen zu deinem Einstieg in deine IT-Karriere bei uns!
 <details>
 <summary>🔹 Arbeits- und Pausenzeiten</summary>
 
-- 🔹 [Inhalts-Übersicht](docs/01-organisation/03-arbeits_und_pausenzeiten/README.md)
+- 🔹 [Regelungen zu Arbeitszeit und Pausen](docs/01-organisation/03-arbeits_und_pausenzeiten/README.md)
 
 </details>
 
@@ -93,7 +96,7 @@ Herzlich willkommen zu deinem Einstieg in deine IT-Karriere bei uns!
 <details>
 <summary>🔹 Urlaub</summary>
 
-- 🔹 [Inhalts-Übersicht](docs/01-organisation/04-urlaub/README.md)
+- 🔹 [Urlaubsregelung](docs/01-organisation/04-urlaub/README.md)
 
 </details>
 
@@ -102,16 +105,16 @@ Herzlich willkommen zu deinem Einstieg in deine IT-Karriere bei uns!
 <details>
 <summary>🔹 Krankmeldungen</summary>
 
-- 🔹 [Inhalts-Übersicht](docs/01-organisation/05-krankmeldungen/README.md)
+- 🔹 [Regelungen zur Krankmeldung](docs/01-organisation/05-krankmeldungen/README.md)
 
 </details>
 
-<!-- Mutterschutz & Elternzeit -->
+<!-- Mutterschutz und Elternzeit -->
 
 <details>
-<summary>🔹 Mutterschutz & Elternzeit</summary>
+<summary>🔹 Mutterschutz und Elternzeit</summary>
 
-- 🔹 [Inhalts-Übersicht](/docs/01-organisation/06-mutterschutz-elternzeit/README.md)
+- 🔹 [Gesetzliche Regelungen zu Mutterschutz und Elternzeit](/docs/01-organisation/06-mutterschutz-elternzeit/README.md)
 
 </details>
 
@@ -120,19 +123,19 @@ Herzlich willkommen zu deinem Einstieg in deine IT-Karriere bei uns!
 <details>
 <summary>🔹 Umgang mit Unternehmensdaten</summary>
 
-- 🔹 [Inhalts-Übersicht](/docs/01-organisation/07-datenschutz/README.md)
+- 🔹 [Umgang mit Unternehmensdaten bei Christoph Backhaus IT: Sicherheit und Vertraulichkeit als oberste Priorität](/docs/01-organisation/07-datenschutz/README.md)
 
 </details>
 
 <!-- NADOO-Philosophie -->
 
 <details>
-<summary>🔹 Verhalten und Kultur bei Christoph Backhaus IT - Unsere Firmenphilosophien</summary>
+<summary>🔹 Verhaltenskodex und Kultur bei Christoph Backhaus IT - Unsere Firmenphilosophien</summary>
 
 - 🔹 [Kapitel-Übersicht](/docs/01-organisation/08-firmenphilosophie/README.md)
-- 🔹 [Unsere Verhaltensregeln](/docs/01-organisation/08-firmenphilosophie/01-verhaltensregeln/README.md)
-- 🔹 [Unsere Feedback-Kultur](/docs/01-organisation/08-firmenphilosophie/02-feedback-kultur/README.md)
-- 🔹 [KAIZEN bei Christoph Backhaus / NADOO-IT](/docs/01-organisation/08-firmenphilosophie/03-kaizen/README.md)
+  - 🔹 [Unsere Verhaltensregeln](/docs/01-organisation/08-firmenphilosophie/01-verhaltensregeln/README.md)
+  - 🔹 [Unsere Feedback-Kultur](/docs/01-organisation/08-firmenphilosophie/02-feedback-kultur/README.md)
+  - 🔹 [KAIZEN bei Christoph Backhaus / NADOO-IT](/docs/01-organisation/08-firmenphilosophie/03-kaizen/README.md)
 
 </details>
 
@@ -142,28 +145,30 @@ Herzlich willkommen zu deinem Einstieg in deine IT-Karriere bei uns!
 
 ## 🏢 [**Arbeiten bei Christoph Backhaus IT**](/docs/02-arbeiten_bei_nadoo/README.md)
 
-<!-- Rollen & Aufgaben(bereiche) -->
+🔹 [Einstieg zum Themenbereich und Übersicht der Themen](/docs/02-arbeiten_bei_nadoo/README.md)
+
+<!-- Rollen und Aufgaben/Aufgabenbereiche -->
 
 <details>
-<summary>🔹 Rollen & Aufgaben(bereiche) bei Christoph Backhaus IT</summary>
+<summary>🔹 Rollen und Aufgaben/Aufgabenbereiche</summary>
 
 - 🔹 [Kapitel-Übersicht](/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/README.md)
-- 🔹 [Dokumentar(ist):in](/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/01-dokumentar/README.md)
-- 🔹 [Researcher:in](/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/02-researcher/README.md)
-- 🔹 [Entwickler:in](/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/03-entwickler/README.md)
-- 🔹 [Tester:in](/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/04-tester/README.md)
-- 🔹 [Teamkoordinator:in](/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/05-teamkoordinator/README.md)
+  - 🔹 [Dokumentar(ist):in](/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/01-dokumentar/README.md)
+  - 🔹 [Researcher:in](/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/02-researcher/README.md)
+  - 🔹 [Entwickler:in](/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/03-entwickler/README.md)
+  - 🔹 [Tester:in](/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/04-tester/README.md)
+  - 🔹 [Teamkoordinator:in](/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/05-teamkoordinator/README.md)
 
 </details>
 
 <!-- Prüfungs-Vorbereitung und Präsentationstraining -->
 
 <details>
-<summary>🔹 Training & Vorbereitungsmaßnahmen</summary>
+<summary>🔹 Training und Vorbereitungsmaßnahmen</summary>
 
 - 🔹 [Kapitel-Übersicht](/docs/02-arbeiten_bei_nadoo/02-training_und_vorbereitung/README.md)
-- 🔹 [Trainingsbeiträge](/docs/02-arbeiten_bei_nadoo/02-training_und_vorbereitung/01-trainingsbeitraege/README.md)
-- 🔹 [Präsentationstraining](/docs/02-arbeiten_bei_nadoo/02-training_und_vorbereitung/02-praesentationstraining/README.md)
+  - 🔹 [Trainingsbeiträge](/docs/02-arbeiten_bei_nadoo/02-training_und_vorbereitung/01-trainingsbeitraege/README.md)
+  - 🔹 [Präsentationstraining](/docs/02-arbeiten_bei_nadoo/02-training_und_vorbereitung/02-praesentationstraining/README.md)
 
 </details>
 
@@ -173,8 +178,8 @@ Herzlich willkommen zu deinem Einstieg in deine IT-Karriere bei uns!
 <summary>🔹 Übersicht der Teams und Projekte</summary>
 
 - 🔹 [Kapitel-Übersicht](/docs/02-arbeiten_bei_nadoo/03-teamuebersicht/README.md)
-- 🔹 [Aktive Teams](docs/02-arbeiten_bei_nadoo/03-teamuebersicht/01-aktive_teams/README.md)
-- 🔹 [Team-Archiv](docs/02-arbeiten_bei_nadoo/03-teamuebersicht/02-team_archiv/README.md)
+  - 🔹 [Aktive Teams](docs/02-arbeiten_bei_nadoo/03-teamuebersicht/01-aktive_teams/README.md)
+  - 🔹 [Team-Archiv](docs/02-arbeiten_bei_nadoo/03-teamuebersicht/02-team_archiv/README.md)
 
 </details>
 
@@ -188,42 +193,45 @@ Herzlich willkommen zu deinem Einstieg in deine IT-Karriere bei uns!
 <summary>🔹 Meetings und Zeitpläne</summary>
 
 - 🔹 [Kapitel-Übersicht](/docs/03-meetings/README.md)
-- 🔹 [11er-Meeting](/docs/03-meetings/02-11er/README.md)
-- 🔹 [Team-Koordinations-Meeting](/docs/03-meetings/03-teamkoordination/README.md)
-- 🔹 [33er-Meeting](/docs/03-meetings/04-33er/README.md)
+  - 🔹 [11er-Meeting](/docs/03-meetings/02-11er/README.md)
+  - 🔹 [Team-Koordinations-Meeting](/docs/03-meetings/03-teamkoordination/README.md)
+  - 🔹 [33er-Meeting](/docs/03-meetings/04-33er/README.md)
 
 </details>
 
 ---
 
-<!-- 4. Tools & Technologien -->
+<!-- 4. Tools und Technologien -->
 
-## 🛠️ [**Tools & Technologie**](/docs/04-tools/README.md)
+## 🛠️ [**Tools und Technologien**](/docs/04-tools/README.md)
+
+🔹 [Einstieg zum Themenbereich und Übersicht der Themen](/docs/04-tools/README.md)
 
 <!-- Github -->
 
 <details>
 <summary>🔹 Versionsverwaltung mit GitHub</summary>
 
-- [Kapitel-Übersicht](/docs/04-tools/01-github/README.md)
-- [Repository](/docs/04-tools/01-github/01-repository/README.md)
-- [Branches](/docs/04-tools/01-github/02-branches/README.md)
-- [Pull Requests](/docs/04-tools/01-github/03-pull-requests/README.md)
-  - [Merge Konflikte](/docs/04-tools/01-github/03-pull-requests/01-merge-konflikte/README.md)
-  - [Code Review](/docs/04-tools/01-github/03-pull-requests/02-code-review/README.md)
-- [Issues](/docs/04-tools/01-github/04-issues/README.md)
-  - [Labels](/docs/04-tools/01-github/04-issues/01-labels/README.md)
-  - [Types](/docs/04-tools/01-github/04-issues/02-types/README.md)
-  - [Assignees](/docs/04-tools/01-github/04-issues/03-assignees/README.md)
-  - [Milestones](/docs/04-tools/01-github/04-issues/04-milestones/README.md)
-  - [Projects](/docs/04-tools/01-github/04-issues/05-projects/README.md)
-  - [Discussions](/docs/04-tools/01-github/04-issues/06-discussions/README.md)
-  - [Templates](/docs/04-tools/01-github/04-issues/07-templates/README.md)
-  - [Issue-Erstellungs-Guide](/docs/04-tools/01-github/04-issues/08-erstellungs-guide/README.md)
-- [Actions](/docs/04-tools/01-github/05-actions/README.md)
-- [Notifications](/docs/04-tools/01-github/06-notifications/README.md)
-- [Suche](/docs/04-tools/01-github/07-suche/README.md)
-- [Markdown](/docs/04-tools/01-github/08-markdown/README.md)
+- 🔹 [Kapitel-Übersicht](/docs/04-tools/01-github/README.md)
+  - 🔹 [Repository](/docs/04-tools/01-github/01-repository/README.md)
+  - 🔹 [Branches](/docs/04-tools/01-github/02-branches/README.md)
+    - [Branch Protection](/docs/04-tools/01-github/02-branches/01-protection/README.md)
+  - 🔹 [Pull Requests](/docs/04-tools/01-github/03-pull-requests/README.md)
+    - [Merge Konflikte](/docs/04-tools/01-github/03-pull-requests/01-merge-konflikte/README.md)
+    - [Code Review](/docs/04-tools/01-github/03-pull-requests/02-code-review/README.md) <!-- Datei fehlt (noch?)-->
+  - 🔹 [Issues](/docs/04-tools/01-github/04-issues/README.md)
+    - [Issue-Erstellungs-Guide](/docs/04-tools/01-github/04-issues/01-wiki-guide/README.md)
+    - [Labels](/docs/04-tools/01-github/04-issues/02-labels/README.md)
+    - [Types](/docs/04-tools/01-github/04-issues/02-types/README.md) <!-- Datei fehlt (noch?), 02 dopplung-->
+    - [Assignees](/docs/04-tools/01-github/04-issues/03-assignees/README.md) <!-- Datei fehlt (noch?)-->
+    - [Milestones](/docs/04-tools/01-github/04-issues/04-milestones/README.md) <!-- Datei fehlt (noch?)-->
+    - [Projects](/docs/04-tools/01-github/04-issues/05-projects/README.md) <!-- Datei fehlt (noch?)-->
+    - [Discussions](/docs/04-tools/01-github/04-issues/06-discussions/README.md) <!-- Datei fehlt (noch?)-->
+    - [Templates](/docs/04-tools/01-github/04-issues/07-templates/README.md) <!-- Datei fehlt (noch?)-->
+  - 🔹 [Actions](/docs/04-tools/01-github/05-actions/README.md)
+  - 🔹 [Notifications](/docs/04-tools/01-github/06-notifications/README.md)
+  - 🔹 [Suche](/docs/04-tools/01-github/07-suche/README.md)
+  - 🔹 [Markdown](/docs/04-tools/01-github/08-markdown/README.md)
 
 </details>
 
@@ -232,12 +240,12 @@ Herzlich willkommen zu deinem Einstieg in deine IT-Karriere bei uns!
 <details>
 <summary>🔹 Integrierte Entwicklungsumgebung (IDE) Visual Studio Code</summary>
 
-- [Kapitel-Übersicht](/docs/04-tools/02-vscode/README.md)
-- [Installation](/docs/04-tools/02-vscode/01-installation/README.md)
-- [Plugins](/docs/04-tools/02-vscode/02-plugins/README.md)
-- [Workspaces](/docs/04-tools/02-vscode/03-workspaces/README.md)
-- [Editor](/docs/04-tools/02-vscode/04-editor/README.md)
-- [Terminal](/docs/04-tools/02-vscode/05-terminal/README.md)
+- 🔹 [Kapitel-Übersicht](/docs/04-tools/02-vscode/README.md)
+  - 🔹 [Installation](/docs/04-tools/02-vscode/01-installation/README.md)
+  - 🔹 [Plugins](/docs/04-tools/02-vscode/02-plugins/README.md)
+  - 🔹 [Workspaces](/docs/04-tools/02-vscode/03-workspaces/README.md)
+  - 🔹 [Editor](/docs/04-tools/02-vscode/04-editor/README.md)
+  - 🔹 [Terminal](/docs/04-tools/02-vscode/05-debugging/README.md)
 
 </details>
 
@@ -246,8 +254,9 @@ Herzlich willkommen zu deinem Einstieg in deine IT-Karriere bei uns!
 <details>
 <summary>🔹 Integrierte Entwicklungsumgebung (IDE) für Java: IntelliJ IDEA</summary>
 
-- [Kapitel-Übersicht](/docs/04-tools/03-intellij/README.md)
-- [Installation](/docs/04-tools/03-intellij/01-installation/README.md)
+- 🔹 [Kapitel-Übersicht]() <!-- muss noch erstellt/innerhalb der Ordnerstruktur angepasst werden -->
+  - 🔹 [IntelliJ IDEA - Ein Überblick](/docs/04-tools/03-intellij/README.md)
+  - 🔹 [Installation](/docs/04-tools/03-intellij/01-installation/README.md)
 
 </details>
 
@@ -256,7 +265,7 @@ Herzlich willkommen zu deinem Einstieg in deine IT-Karriere bei uns!
 <details>
 <summary>🔹 Terminal</summary>
 
-- [Inhalts-Übersicht](/docs/04-tools/04-terminal/README.md)
+- 🔹 [Das Terminal - Die Grundlagen](/docs/04-tools/04-terminal/README.md)
 
 </details>
 
@@ -265,9 +274,10 @@ Herzlich willkommen zu deinem Einstieg in deine IT-Karriere bei uns!
 <details>
 <summary>🔹 Künstliche Intelligenz - LLM und MLX</summary>
 
-- [Übersicht](/docs/04-tools/05-ki/README.md)
-- [Large Language Model (LLM) und Apple MLX Framework](/docs/04-tools/05-ki/01-llm-mlx/README.md)
-- [Gemini API](/docs/04-tools/05-ki/02-gemini-api/README.md)
+- 🔹 [Kapitel-Übersicht]() <!-- muss noch erstellt/innerhalb der Ordnerstruktur angepasst werden -->
+  - 🔹 [KI‐Nutzung: Ein umfassender Leitfaden](/docs/04-tools/05-ki/README.md)
+  - 🔹 [Large Language Model (LLM) und das Apple MLX Framework](/docs/04-tools/05-ki/01-llm-mlx/README.md)
+  - 🔹 [Gemini API](/docs/04-tools/05-ki/02-gemini/README.md)
 
 </details>
 
@@ -275,32 +285,39 @@ Herzlich willkommen zu deinem Einstieg in deine IT-Karriere bei uns!
 
 <!-- 5. Kommunikation -->
 
-## 📞 [**Kommunikation**](/docs/05-kommunikation/README.md)
+## 📞 [**Kommunikation und Zusammenarbeit**](/docs/05-kommunikation/README.md)
 
 <details>
-<summary>🔹 Tools & Voraussetzungen</summary>
+<summary>🔹 Tools und Voraussetzungen</summary>
 
-- 🔹 [Discord - zentrale Kommunikationsplattform der NADOO-IT](/docs/05-kommunikation/01-discord/README.md)
-  - 🔹 [Inhalts-Übersicht](/docs/05-kommunikation/01-discord/README.md)
-  - 🔹 [Einrichung](/docs/05-kommunikation/01-discord/01-einrichtung/README.md)
-- 🔹 [Video- & Bildschirmübertragung](/docs/05-kommunikation/02-webcam/README.md)
-  - 🔹 [Android-Smartphone als Webcam nutzen](/docs/05-kommunikation/02-webcam/01-droidcam/README.md)
-  - 🔹 [iOS und MacOS Integrationskamera](/docs/05-kommunikation/02-webcam/02-ios/README.md)
+- 🔹 [Kapitel-Übersicht](/docs/05-kommunikation/README.md)
+  - 🔹 [Discord: Die zentrale Kommunikationsplattform der NADOO-IT](/docs/05-kommunikation/01-discord/README.md)
+    - [Anmeldung und Einrichtung](/docs/05-kommunikation/01-discord/01-einrichtung/README.md)
+  - 🔹 [Video- & Bildschirmübertragung](/docs/05-kommunikation/02-webcam/README.md)
+    - [Das Android-Smartphone als Webcam nutzen](/docs/05-kommunikation/02-webcam/01-droidcam/README.md)
+    - [Das iPhone als Webcam für den Mac verwenden](/docs/05-kommunikation/02-webcam/02-ios/README.md)
 
 </details>
 
 ---
 
-<!-- 6. Entwicklung & Programmiersprachen -->
+<!-- 6. Entwicklung und Programmiersprachen -->
 
-## 💻 [**Entwicklung & Programmiersprachen**](/docs/06-entwicklung/README.md)
+## 💻 [**Entwicklung und Programmiersprachen**](/docs/06-entwicklung/README.md)
 
-<!-- Dokumentation -->
+<details>
+<summary>🔹 Krankmeldungen</summary>
+
+- 🔹 [Themeneinstieg und Übersicht der Abschnitte](/docs/06-entwicklung/README.md)
+
+</details>
+
+<!-- Dokumentation --> docs\06-entwicklung\README.md
 
 <details>
 <summary>🔹 Dokumentation</summary>
 
-- 🔹 [Inhalts-Übersicht](docs/06-entwicklung/01-dokumentation/README.md)
+- 🔹 [Dokumentation](docs/06-entwicklung/01-dokumentation/README.md)
 </details>
 
 <!-- Clean Architecture -->
@@ -308,7 +325,7 @@ Herzlich willkommen zu deinem Einstieg in deine IT-Karriere bei uns!
 <details>
 <summary>🔹 Clean Architecture</summary>
 
-- 🔹 [Inhalts-Übersicht](docs/06-entwicklung/02-clean_architecture/README.md)
+- 🔹 [Clean Architecture](docs/06-entwicklung/02-clean_architecture/README.md)
 </details>
 
 <!-- das NADOO-Framework -->
@@ -316,7 +333,7 @@ Herzlich willkommen zu deinem Einstieg in deine IT-Karriere bei uns!
 <details>
 <summary>🔹 Das NADOO-IT-Framework</summary>
 
-- 🔹 [Inhalts-Übersicht](docs/06-entwicklung/03-nadoo_framework/README.md)
+- 🔹 [Das NADOO-IT-Framework](docs/06-entwicklung/03-nadoo_framework/README.md)
 </details>
 
 <!-- Java -->
@@ -324,7 +341,7 @@ Herzlich willkommen zu deinem Einstieg in deine IT-Karriere bei uns!
 <details>
 <summary>🔹 Java</summary>
 
-- 🔹 [Inhalts-Übersicht](docs/06-entwicklung/04-java/README.md)
+- 🔹 [Java](docs/06-entwicklung/04-java/README.md)
 </details>
 
 <!-- Python -->
@@ -332,23 +349,25 @@ Herzlich willkommen zu deinem Einstieg in deine IT-Karriere bei uns!
 <details>
 <summary> 🔹 Python</summary>
 
-- 🔹 [Installation](/docs/06-entwicklung/05-python/README.md)
-- 🔹 [Debugging](/docs/05-entwicklung/05-python/01-debugging/README.md)
-- 🔹 [Briefcase & Toga - Python-Framework für plattformübergreifende Apps](/docs/06-entwicklung/05-python/02-briefcase-toga/README.md)
-  - 🔹 [Briefcase-Debugging](/docs/06-entwicklung/05-python/02-briefcase-toga/01-debugging/README.md)
-  - 🔹 [Praktische Umsetzung mit NADOO-Launchpad](/docs/06-entwicklung/05-python/02-briefcase-toga/02-launchpad/README.md)
-  - 🔹 [Speech‐to‐Text‐Feature im NADOO Launchpad](/docs/06-entwicklung/05-python/02-briefcase-toga/03-speech-to-text/README.md)
+- 🔹 [Kapitel-Übersicht](/docs/05-kommunikation/README.md) <!-- muss nochmal neu angelegt/Inhalts-technisch umstrukturiert werden -->
+  - 🔹 [Installation und Grundkonzepte von Python](/docs/06-entwicklung/05-python/README.md)
+  - 🔹 [Debugging](/docs/05-entwicklung/05-python/01-debugging/README.md)
+  - 🔹 [Briefcase & Toga - Python-Framework für plattformübergreifende Apps](/docs/06-entwicklung/05-python/02-briefcase-toga/README.md)
+    - [Briefcase-Debugging](/docs/06-entwicklung/05-python/02-briefcase-toga/01-debugging/README.md)
+    - [Praktische Umsetzung mit NADOO-Launchpad](/docs/06-entwicklung/05-python/02-briefcase-toga/02-launchpad/README.md)
+    - [Speech‐to‐Text‐Feature im NADOO-Launchpad](/docs/06-entwicklung/05-python/02-briefcase-toga/03-speech-to-text/README.md)
 
 </details>
 
 <!-- Digitale Produktentwicklung -->
 
 <details>
-<summary>🔹 dein Einstieg in die digitale Produktentwicklung</summary>
+<summary>🔹 Digitale Produktentwicklung</summary> <!-- Umstrukturierung notwendig: 06-08 sollte in gemeinsamer Ordnerstruktur für das Thema "Digitale Produktentwicklung" liegen-->
 
-- 🔹 [Kapitel-Einstieg](docs/06-entwicklung/06-digitale_produktentwicklung/README.md)
-- 🔹 [Deine erste eigene App](docs/06-entwicklung/07-eigene_app/README.md)
-- 🔹 [Lizenzen, Open Source und die Welt der Softwareabhängigkeiten](docs/06-entwicklung/08-lizenzen_open_source/README.md)
+- 🔹 [Kapitel-Übersicht](docs/06-entwicklung/README.md) <!-- entsprechende Anpassungen ausstehend -->
+  - 🔹 [Dein Einstieg in die digitale Produktentwicklung](docs/06-entwicklung/06-digitale_produktentwicklung/README.md)
+  - 🔹 [Deine erste eigene App](docs/06-entwicklung/07-eigene_app/README.md)
+  - 🔹 [Lizenzen, Open Source und die Welt der Softwareabhängigkeiten](docs/06-entwicklung/08-lizenzen_open_source/README.md)
 
 </details>
 
@@ -356,18 +375,20 @@ Herzlich willkommen zu deinem Einstieg in deine IT-Karriere bei uns!
 
 <!-- 7. Methoden -->
 
-## 📚 Methoden & Projekte
+## 📚 [Methoden und Projekte](/docs/07-methoden/README.md)
+
+🔹 [Einstieg zum Themenbereich und Übersicht der Themen](/docs/07-methoden/README.md) <!-- inhaltliche/strukturelle Anpassungen ausstehend -->
 
 <details>
-<summary>🔹 Projektmanagement mit besonderem Hinblick auf Deine IHK-Abschlussprüfung</summary>
+<summary>🔹 Projektmanagement mit besonderem Hinblick auf deine IHK-Abschlussprüfung</summary>
 
 - 🔹 [Kapitel-Übersicht](/docs/07-methoden/README.md)
-- 🔹 [Zeitmanagement](/docs/07-methoden/01-zeitmanagement/README.md)
-- 🔹 [Planung](/docs/07-methoden/02-planung/README.md)
-  - 🔹 [Antrag](/docs/07-methoden/02-planung/01-antrag/README.md)
-- 🔹 [Projektmanagement](/docs/07-methoden/03-projektmanagement/README.md)
-- 🔹 [Projekthasen](/docs/07-methoden/04-phasen/README.md)
-- 🔹 [Projekt-Abschluss](/docs/07-methoden/05-abschluss/README.md)
+  - 🔹 [Zeitmanagement](/docs/07-methoden/01-zeitmanagement/README.md)
+  - 🔹 [Planung](/docs/07-methoden/02-planung/README.md)
+    - [Antrag](/docs/07-methoden/02-planung/01-antrag/README.md)
+  - 🔹 [Projektmanagement](/docs/07-methoden/03-projektmanagement/README.md)
+  - 🔹 [Projektphasen](/docs/07-methoden/04-phasen/README.md)
+  - 🔹 [Projekt-Abschluss](/docs/07-methoden/05-abschluss/README.md)
 
 </details>
 
@@ -377,27 +398,29 @@ Herzlich willkommen zu deinem Einstieg in deine IT-Karriere bei uns!
 <summary>🔹 Bewährte Methoden und Frameworks</summary>
 
 - 🔹 [Kapitel-Übersicht](/docs/07-methoden/02-methoden_und_frameworks/README.md)
-- 🔹 [Scrum](/docs/07-methoden/02-methoden_und_frameworks/01-scrum/README.md)
-- 🔹 [Kanban](/docs/07-methoden/02-methoden_und_frameworks/02-kanban/README.md)
+  - 🔹 [Scrum](/docs/07-methoden/02-methoden_und_frameworks/01-scrum/README.md)
+  - 🔹 [Kanban](/docs/07-methoden/02-methoden_und_frameworks/02-kanban/README.md)
 
 </details>
 
 ---
 
-<!--8. Netzwerken & Karriere-->
+<!--8. Netzwerken und Karriere-->
 
-## 🚀 [Netzwerken & Karriere](/docs/08-karriere/README.md)
+## 🚀 [Netzwerken und Karriere](/docs/08-karriere/README.md)
+
+🔹 [Einstieg zum Themenbereich und Übersicht der Themen](/docs/08-karriere/README.md) <!-- inhaltliche/strukturelle Anpassungen ausstehend -->
 
 <!-- Social Media zum Netzwerken -->
 
 <details>
-<summary>🔹 Social Media für Dein berufliches Netzwerk</summary>
+<summary>🔹 Social Media für dein berufliches Netzwerk</summary>
 
 - 🔹 [Kapitel-Übersicht](/docs/08-karriere/01-social_media_netzwerk/README.md)
-- 🔹 [Dein GitHub-Profil](/docs/08-karriere/01-social_media_netzwerk/01-github/README.md)
-- 🔹 [Dein LinkedIn-Profil](/docs/08-karriere/01-social_media_netzwerk/02-linkedin/README.md)
-- 🔹 [Dein Xing-Profil](/docs/08-karriere/01-social_media_netzwerk/03-xing/README.md)
-- 🔹 [Online-Kalender mit Doodle einrichten und in LinkedIn-Profil integrieren](/docs/08-karriere/01-social_media_netzwerk/04-doodle_kalender/README.md)
+  - 🔹 [Dein GitHub-Profil](/docs/08-karriere/01-social_media_netzwerk/01-github/README.md)
+  - 🔹 [Dein LinkedIn-Profil](/docs/08-karriere/01-social_media_netzwerk/02-linkedin/README.md)
+  - 🔹 [Dein Xing-Profil](/docs/08-karriere/01-social_media_netzwerk/03-xing/README.md)
+  - 🔹 [Online-Kalender mit Doodle einrichten und in LinkedIn-Profil integrieren](/docs/08-karriere/01-social_media_netzwerk/04-doodle_kalender/README.md)
 
 </details>
 
@@ -407,13 +430,13 @@ Herzlich willkommen zu deinem Einstieg in deine IT-Karriere bei uns!
 <summary>🔹 Deine Karriere als Anwendungsentwickler:in</summary>
 
 - 🔹 [Kapitel-Übersicht](/docs/08-karriere/02-anwendungsentwickler_beruf/README.md)
-- 🔹 [Die Verantwortung und Unsicherheit des Programmierer‐Daseins](/docs/08-karriere/02-anwendungsentwickler_beruf/01-programmierer_dasein/README.md)
-- 🔹 [Das Bewerbungsverfahren im IT-Sektor](/docs/08-karriere/02-anwendungsentwickler_beruf/02-bewerbungsverfahren/README.md)
-  - 🔹 [IT-Lebenslauf-101](/docs/08-karriere/02-anwendungsentwickler_beruf/02-bewerbungsverfahren//01-lebenslauf/README.md)
-  - 🔹 [Technische Interviews](/docs/08-karriere/02-anwendungsentwickler_beruf/02-bewerbungsverfahren//02-technisches_interview/README.md)
-  - 🔹 [Do's & Dont's](/docs/08-karriere/02-anwendungsentwickler_beruf/02-bewerbungsverfahren//03-dos_and_donts/README.md)
-- 🔹 [Mögliche Orte zum Arbeiten und Lernen](/docs/08-karriere/02-anwendungsentwickler_beruf/03-lernen_und_arbeiten/README.md)
-- 🔹 [Arbeiten bei Christoph Backhaus / NADOO-IT](/docs/08-karriere/02-anwendungsentwickler_beruf/04-karriere_bei_nadoo/README.md)
+  - 🔹 [Die Verantwortung und Unsicherheit des Programmierer‐Daseins](/docs/08-karriere/02-anwendungsentwickler_beruf/01-programmierer_dasein/README.md)
+  - 🔹 [Das Bewerbungsverfahren im IT-Sektor](/docs/08-karriere/02-anwendungsentwickler_beruf/02-bewerbungsverfahren/README.md)
+    - [IT-Lebenslauf-101](/docs/08-karriere/02-anwendungsentwickler_beruf/02-bewerbungsverfahren//01-lebenslauf/README.md)
+    - [Technische Interviews](/docs/08-karriere/02-anwendungsentwickler_beruf/02-bewerbungsverfahren//02-technisches_interview/README.md)
+    - [Do's & Dont's](/docs/08-karriere/02-anwendungsentwickler_beruf/02-bewerbungsverfahren//03-dos_and_donts/README.md)
+  - 🔹 [Mögliche Orte zum Arbeiten und Lernen](/docs/08-karriere/02-anwendungsentwickler_beruf/03-lernen_und_arbeiten/README.md)
+  - 🔹 [Arbeiten bei Christoph Backhaus / NADOO-IT](/docs/08-karriere/02-anwendungsentwickler_beruf/04-karriere_bei_nadoo/README.md)
 
 </details>
 
