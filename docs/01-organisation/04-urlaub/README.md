@@ -17,7 +17,11 @@ Wenn du bei **Christoph Backhaus IT** im Zuge einer **Umschulung** als **Praktik
 
 <p align=center><strong>Urlaubsantrag - [Zeitraum] - [dein Nachname, dein Vorname]</strong></p>
 
-<!--screenshot urlaub email muster -->
+---
+
+![show: Muster / Beispiel Empfänger und Betreff](https://github.com/user-attachments/assets/a514ec78-36ba-4510-8587-8ed2c99e3ac8)
+
+<br>
 
 3. Füge im Body die folgende Standard-Floskel ein, in welcher du deine **Wunschtermine** nochmal wiederholst und **bestätigst**:
 
@@ -31,7 +35,10 @@ Hiermit beantrage ich Urlaub für den Zeitraum vom [dein Startdatum] bis einschl
 Viele / Freundliche / Herzliche Grüße / [deine Präferenz]
 [dein Name]
 ```
-<!-- screenshot muster komplett -->
+
+---
+
+![show: Muster / Beispiel komplette E-Mail](https://github.com/user-attachments/assets/6f25fa96-8f73-452b-9765-98838a9c9f37)
 
 ---
 
