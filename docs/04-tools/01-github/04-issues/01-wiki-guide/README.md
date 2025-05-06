@@ -69,3 +69,7 @@ Wenn du bis hier hin alles richtig gemacht hast, sollte sich automatisch Github 
 <img width="869" alt="Image" src="https://github.com/user-attachments/assets/e06a1e2c-c8a3-4fea-b0d1-3f281a543015" />
 
 ### Das war´s auch schon. Ich hoffe, du konntest dich gut zurecht finden und erste Eindrücke und Erfahrungen im Umgang mit Github sammeln
+
+---
+
+[Zurück](../README.md) | [Weiter](../02-labels/README.md) zu Labels
