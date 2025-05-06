@@ -34,4 +34,4 @@ Nutze Assignees zusammen mit Labels und Milestones für eine strukturierte Arbei
 
 ---
 
-[Zurück](../README.md) | [Weiter](../04-labels/README.md) zu Labels
+[Zurück](../README.md) | [Weiter](../04-milestones/README.md) zu Milestones
