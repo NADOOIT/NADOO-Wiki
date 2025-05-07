@@ -44,7 +44,7 @@ Zusätzlich haben wir hier für dich alle bisher eingereichten Trainingsbeiträg
 
 Natürlich kannst du auch ein Thema wählen, welches nicht direkt IHK-relevant bzw. in keiner der beiden Listen aufgeführt ist.
 
-Unser Ziel ist es, eine möglichst umfangreiche Bibliothek an Trainingsmaterial rund ums Thema IT/Anwendungsentwicklung aufzubauen - auch über Inhalte der Abschlussprüfungen hinweg. Ganz nach dem Motto "_The sky is the limit_"!
+Unser Ziel ist es, eine möglichst umfangreiche Bibliothek an Trainingsmaterial rund ums Thema IT/Anwendungsentwicklung aufzubauen - auch über Inhalte der Abschlussprüfungen hinaus. Ganz nach dem Motto "_The sky is the limit_"!
 
 **Übrigens**: Es ist völlig okay, wenn sich Themen wiederholen, da wir alle unterschiedliche fachliche "Entwicklungspotenziale" besitzen. Außerdem erweitern laufend neue Mitglieder das Team, die ebenfalls von deinem Beitrag profitieren, wenn du dabei ein Thema aufgreifst, das bereits vorgestellt wurde, bevor sie NADOO-Member waren.
 
@@ -112,7 +112,7 @@ Super, du befindest dich jetzt in der Vorlage! Hier machst du folgende Angaben:
 
 <br>
 
-4. Das Textfeld unter **Trainingsbeitrag** ist dein _body_ - hier fügst du also den Hauptteil deiner Inhalte ein:
+4. Das Textfeld unter **Trainingsbeitrag** ist dein _Body_ - hier fügst du also den Hauptteil deiner Inhalte ein:
 
    ✨ Implementiere hier neben Text gerne auch **andere Medien** wie Bilder, Animationen, Graphen, Links etc., um deinen Beitrag so anschaulich wie möglich zu gestalten.
    
@@ -120,11 +120,11 @@ Super, du befindest dich jetzt in der Vorlage! Hier machst du folgende Angaben:
 
    ✨ Ein weiteres Mittel zur verbesserten Struktur in deinem Trainingsbeitrag könnte die Integration von Elementen wie **Tabellen oder Listen** sein.
 
-   Schau am besten mal in den **Github Docs** vorbei:
+   Schau am besten mal in den **GitHub Docs** vorbei:
 
    [Erste Schritte / Schreiben auf GitHub](https://docs.github.com/de/get-started/writing-on-github)
 
-   In dem Abschnitt findest du leicht verständliche Erklärungen zu allen möglichen Arten, auf die du deinen Trainingsbeitrag formatieren, optimieren und ausschmücken kannst.
+   In dem Abschnitt findest du leicht verständliche Erklärungen zu allen möglichen Arten, wie du deinen Trainingsbeitrag formatieren, optimieren und ausschmücken kannst.
 
 <br>
 
@@ -144,7 +144,7 @@ Super, du befindest dich jetzt in der Vorlage! Hier machst du folgende Angaben:
 
 #### **6.4** Übungsaufgaben hinzufügen
 
-Dieser Schritt ist kein Muss (und auch nicht bei jedem Thema super sinnvoll), aber: wenn du richtig Bock hast und deinen Beitrag interaktiv gestalten möchtest, dann bereite zusätzlich **ein paar kleine, Themen-relevante Aufgaben** vor. Die packst du dann einfach mit ins Issue, damit deine Teamkollegen diese zur Übung oder Auffrischung nutzen können.
+Dieser Schritt ist kein Muss (und auch nicht bei jedem Thema super sinnvoll), aber: wenn du richtig Bock hast und deinen Beitrag interaktiv gestalten möchtest, dann bereite zusätzlich **ein paar kleine, themenrelevante Aufgaben** vor. Die packst du dann einfach mit ins Issue, damit deine Teamkollegen diese zur Übung oder Auffrischung nutzen können.
 
 <br>
 
@@ -193,7 +193,7 @@ Aufgabe 2) **Frage zu Pseudocode?**
 
 ---
 
-Überlege dir für das Aufgaben-Sub-Issue einen passenden, möglichst prägnanten Titel. Falls die Aufgabenstellung nicht zu lang ist, kannst du sie natürlich auch einfach ausformulieren. Gib hier außerdem auf jeden Fall die **ID deines Trainingsbeitrags** mit an. So lässt sich das Issue weiterhin zuordnen, sollte es aus irgendeinem Grund nicht am vorhergesehenen Ort liegen.
+Überlege dir für das Aufgaben-Sub-Issue einen passenden, möglichst prägnanten Titel. Falls die Aufgabenstellung nicht zu lang ist, kannst du sie natürlich auch einfach ausformulieren. Gib hier außerdem auf jeden Fall die **ID deines Trainingsbeitrags** mit an. So lässt sich das Issue weiterhin zuordnen, sollte es aus irgendeinem Grund nicht am vorgesehenen Ort liegen.
 
 Sobald das Sub-Issue erstellt wurde, besitzt es **eine eigene ID**. Kopiere nun den gewählten Titel (**ohne** den "_Trainingsbeitrag #xyz_"-Part) und nimm diesen **als Verlinkung** in deine Auflistung im Abschnitt **Aufgaben / Sub-Issues** samt dessen **ID** auf.
 
@@ -266,7 +266,7 @@ Jede/r, der/die will, kann sich aus der Sub-Issue-Sammlung nun eine beliebige Au
 
 ---
 
-Die **Benennung des Branches** sollte mindestens den (Github-)**Namen des Team-Mitglieds** sowie die **ID des Sub-Issues** beinhalten, damit mehrere Leute dieselbe Aufgabe bearbeiten und ihre Ergebnisse einreichen können, ohne dass es zu Verwirrungen und/oder technischen Problemen aufgrund von mehreren Branches mit demselben Default-Namen kommt.
+Die **Benennung des Branches** sollte mindestens den (GitHub-)**Namen des Team-Mitglieds** sowie die **ID des Sub-Issues** beinhalten, damit mehrere Leute dieselbe Aufgabe bearbeiten und ihre Ergebnisse einreichen können, ohne dass es zu Verwirrungen und/oder technischen Problemen aufgrund von mehreren Branches mit demselben Default-Namen kommt.
 
 <br>
 
@@ -300,7 +300,7 @@ Sobald die erste bzw. mindestens eine Lösung für eine Aufgabe vorliegt, kann d
 
 **⚠️Wichtig:** Wir l(i)eben saubere Dokumentation.
 
-Füge deine bzw. andere neue/alte Trainingsbeiträge bitte der [Liste](https://github.com/NADOOIT/NADOO-Launchpad/issues/1200) an, wenn du siehst, dass diese aus irgendeinem Grund nicht darin auftauchen. So bleibt die Sammlung aktuell und vollständig. Sollten dir Berechtigungen fehlen, melde dich einfach bei Christoph oder bei einem Member, der das Parent-Issue bearbeiten kann.
+Füge deine bzw. andere neue/alte Trainingsbeiträge bitte der [Liste](https://github.com/NADOOIT/NADOO-Launchpad/issues/1200) an, wenn du siehst, dass diese aus irgendeinem Grund nicht darin auftauchen. So bleibt die Sammlung aktuell und vollständig. Sollten dir Berechtigungen fehlen, melde dich einfach bei Christoph oder bei einem Member, das das Parent-Issue bearbeiten kann.
 
 ---
 <br>

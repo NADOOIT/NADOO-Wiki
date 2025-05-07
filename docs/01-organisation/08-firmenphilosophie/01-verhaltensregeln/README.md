@@ -1,6 +1,6 @@
 # <p align="center">Verhaltensregeln bei Christoph Backhaus / NADOO-IT</p>
 
-## Pünktlichkeit & Termingerechtes Arbeiten
+## Pünktlichkeit & termingerechtes Arbeiten
 
 Halte die **festgelegten Zeiten** (z. B. Anwesenheitscheck, Abgabe von Nachweisen) strikt ein. Dies ist entscheidend für einen reibungslosen Ablauf und den Erfolg unserer Projekte.
 

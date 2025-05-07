@@ -49,7 +49,7 @@ So sollte es aussehen:
 ![image](https://github.com/user-attachments/assets/ac00367f-542f-48ca-80ef-7af5ef06cc0d)
 
 1. Code in VSC mit copy paste einfügen.
-2. In Zeile 31 (Screenshot unten) den Path eingeben, in dem sich Deine Dateien befinden.
+2. In Zeile 31 (Screenshot unten) den Path eingeben, in dem sich deine Dateien befinden.
 3. Save As > check_filenames.py
 
 ![image](https://github.com/user-attachments/assets/5950250a-443e-4cd2-87e2-b8e4c36b45fd)
@@ -66,7 +66,7 @@ Es ist deutlich erkennbar, was korrekt ist und was nicht. Die Benennung sollte e
 
 Die neue Version wurde um eine zusätzliche Regel für die ID erweitert, da jeder Teilnehmer eine spezifische ID erhält. ( 01 bis 999 )
 
-Eine vorherige Version des Skripts findest Du im Issue:
+Eine vorherige Version des Skripts findest du im Issue:
 https://github.com/NADOOIT/NADOO-Launchpad/issues/463.
 
 ---
