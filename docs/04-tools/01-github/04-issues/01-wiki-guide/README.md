@@ -62,13 +62,13 @@ Ist dies getan, wählst du in derselben Schaltfläche den Dropdown-Pfeil und geh
 
 ## Reviewer hinzufügen und Mergen
 
-Wenn du bis hier hin alles richtig gemacht hast, sollte sich automatisch Github im Browser öffnen (mit deinem geöffneten Pull Request). Hier fügst du 3 Reviewer hinzu (6 Augen Pinzip), welche deine Veränderung überprüfen sollen. Erst wenn diese ihr "Ok" gegeben haben, kannst du deinen Pull Request "mergen", was bedeutet, dass deine Veränderungen in die Wiki-main aufgenommen werden.
+Wenn du bis hier hin alles richtig gemacht hast, sollte sich automatisch GitHub im Browser öffnen (mit deinem geöffneten Pull Request). Hier fügst du 3 Reviewer hinzu (6 Augen Pinzip), welche deine Veränderung überprüfen sollen. Erst wenn diese ihr "Ok" gegeben haben, kannst du deinen Pull Request "mergen", was bedeutet, dass deine Veränderungen in die Wiki-main aufgenommen werden.
 
 <img width="451" alt="Image" src="https://github.com/user-attachments/assets/fd59b6fc-2800-4488-95f2-c552cbadfce5" />
 <img width="876" alt="Image" src="https://github.com/user-attachments/assets/8c4049c8-1bf4-4284-8cef-edc1b9c75edc" />
 <img width="869" alt="Image" src="https://github.com/user-attachments/assets/e06a1e2c-c8a3-4fea-b0d1-3f281a543015" />
 
-### Das war´s auch schon. Ich hoffe, du konntest dich gut zurecht finden und erste Eindrücke und Erfahrungen im Umgang mit Github sammeln
+### Das war´s auch schon. Ich hoffe, du konntest dich gut zurechtfinden und erste Eindrücke und Erfahrungen im Umgang mit GitHub sammeln
 
 ---
 

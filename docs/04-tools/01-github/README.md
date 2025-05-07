@@ -52,7 +52,7 @@ Labels sind Tags, die Issues und Pull Requests kategorisieren und organisieren, 
 
 ### Assignees
 
-Assignees sind Personen, die für die Bearbeitung eines Issues oder Pull Requests verantwortlich sind. Sie können mehrere Personen zuweisen, um die Verantwortung zu verteilen.
+Assignees sind Personen, die für die Bearbeitung eines Issues oder Pull Requests verantwortlich sind. Du kannst mehrere Personen zuweisen, um die Verantwortung zu verteilen.
 
 ### Milestones
 
@@ -74,7 +74,7 @@ Templates sind vorgefertigte Formate für Issues und Pull Requests, die es ermö
 
 ## Actions
 
-GitHub Actions ist eine CI/CD-Plattform (Continuous Integration/Continuous Deployment), die es ermöglicht, automatisierte Workflows für den Entwicklungsprozess zu erstellen. Sie können Aktionen definieren, die bei bestimmten Ereignissen (z. B. Push, Pull Request) ausgelöst werden, um Tests auszuführen, Builds zu erstellen und Bereitstellungen durchzuführen.
+GitHub Actions ist eine CI/CD-Plattform (Continuous Integration/Continuous Deployment), die es ermöglicht, automatisierte Workflows für den Entwicklungsprozess zu erstellen. Du kannst Aktionen definieren, die bei bestimmten Ereignissen (z. B. Push, Pull Request) ausgelöst werden, um Tests auszuführen, Builds zu erstellen und Bereitstellungen durchzuführen.
 
 ---
 
