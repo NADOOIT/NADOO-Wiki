@@ -221,7 +221,7 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
     - [Code Review](/docs/04-tools/01-github/03-pull-requests/02-code-review/README.md)
   - 🔹 [Issues](/docs/04-tools/01-github/04-issues/README.md)
     - [Issue-Erstellungs-Guide](/docs/04-tools/01-github/04-issues/01-wiki-guide/README.md)
-    - [Labels](/docs/04-tools/01-github/04-issues/02-labels/README.md)
+    - [Labels](/docs/04-tools/01-github/04-issues/01-labels/README.md)
     - [Types](/docs/04-tools/01-github/04-issues/02-types/README.md)
     - [Assignees](/docs/04-tools/01-github/04-issues/03-assignees/README.md)
     - [Milestones](/docs/04-tools/01-github/04-issues/04-milestones/README.md)
