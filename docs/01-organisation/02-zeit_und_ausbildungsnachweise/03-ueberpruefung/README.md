@@ -52,7 +52,7 @@ So sollte es aussehen:
 
 ![image](https://github.com/user-attachments/assets/ac00367f-542f-48ca-80ef-7af5ef06cc0d)
 
-1. Code in VSC mit copy paste einfügen.
+1. Code in Visual Studio Code via Copy-Paste einfügen.
 2. In Zeile 31 (Screenshot unten) den Path eingeben, in dem sich deine Dateien befinden.
 3. Save As > check_filenames.py
 
