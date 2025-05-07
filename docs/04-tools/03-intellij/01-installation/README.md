@@ -61,7 +61,7 @@ Lade das **ZIP-Archiv von Apache Maven** herunter (nicht den Installer):
 1. Entpacke das ZIP-Archiv mit einem Rechtsklick → „Alle extrahieren“.
 2. Wähle als Ziel:  
    `C:\Programmierung\Java`
-3. Benenne den Extrahierten Ordner in `Maven` um
+3. Benenne den extrahierten Ordner in `Maven` um
 
 ![Image](https://github.com/user-attachments/assets/d7238d05-b300-41b7-9cab-d2adc19f03c8)
 
