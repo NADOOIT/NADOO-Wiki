@@ -1,39 +1,43 @@
-# 11er-Meeting (Montag, Dienstag und Donnerstag)
+# <p align="center">11er-Meeting (Montag, Dienstag und Donnerstag)</p>
 
-- **Dauer:** 30–60 Minuten (Im Gesamtablauf standardmäßig 60 Minuten)
+<br>
 
-- **Ziel:** Effektive Zusammenarbeit, schnelle Problemlösung und kontinuierliches Training der Präsentations- sowie Kommunikationsfähigkeiten.
+**Dauer:** 30–60 Minuten (im Gesamtablauf standardmäßig 60 Minuten)
 
-- **Dokumentation:** Über das entsprechende Issue-Template in GitHub.
+**Ziel:** Effektive Zusammenarbeit, schnelle Problemlösung und kontinuierliches Training der Präsentations- sowie Kommunikationsfähigkeiten.
+
+**Dokumentation:** Über das entsprechende Issue-Template in GitHub.
+
+---
+<br>
+<h2 align="center">Der Ablauf im Detail</h2>
 
 ---
 
-## Ablauf im Detail
+### 1. 10:14–10:30 Uhr – Anwesenheitsüberprüfung und Freies Netzwerken
 
-### 1. 10:14–10:30 Uhr – Anwesenheitsüberprüfung & Freies Netzwerken
-
-- Treffen im jeweiligen zugewiesenen 11er-Team Discord-Kanal.
-- Nach 10:30 Uhr wird die Anwesenheit als verpasst registriert.
+👉 Treffen im jeweiligen zugewiesenen 11er-Team Discord-Kanal. <br>
+🚫 Nach 10:30 Uhr wird die Anwesenheit als verpasst registriert.
 
 ---
 
-### 2. 10:30–10:35 Uhr – Begrüßung & Unternehmensvorstellung
+### 2. 10:30–10:35 Uhr – Begrüßung und Unternehmensvorstellung
 
-Kurze Wiederholung der Unternehmensmission, Werte (z.B. Transparenz, Agilität, Kundenzentrierung) und Ziele.
+ℹ️ Kurze Wiederholung der Unternehmensmission, Werte (z.B. Transparenz, Agilität, Kundenzentrierung) und Ziele.
 
 ---
 
 ### 3. 10:35–10:45 Uhr – Trainingsbeitrag
 
-- Ein Beitrag zu einem IHK-Prüfungsthema wird präsentiert.
-- Folien und Zusammenfassungen werden als **GitHub-Issues** vorbereitet und geteilt.
-- Fragen und Diskussionen sind erwünscht.
+📚 Ein Trainingsbeitrag zu einem IHK-Prüfungsthema wird präsentiert. <br>
+📄 Folien und Zusammenfassungen werden als **GitHub-Issues** vorbereitet und geteilt. <br>
+🗨️ Fragen und Diskussionen sind erwünscht.
 
 ---
 
 ### 4. 10:45–10:50 Uhr – Teamkoordinator-Update & Offene Issues
 
-- Aktuelle Informationen, offene Tasks und Updates werden kurz vorgestellt.
+📝 Aktuelle Informationen, offene Tasks und Updates werden kurz vorgestellt.
 
 ---
 
@@ -41,15 +45,15 @@ Kurze Wiederholung der Unternehmensmission, Werte (z.B. Transparenz, Agilität, 
 
 Pro 3er-Team:
 
-1. **Dokumentation:** Vorstellung des aktuellen Issues durch den/die Dokomentator:in. Nennung vorhandener Problme, Fortschritt und gegebenenfalls benötigter Unterstützung (45-60 Sekunden).
-2. **Breakout-Phase:** Aufteilung in Discord-Räume (Programmierer, Dokumentierer, Researcher) zur Erarbeitung von Lösungsansätzen. Mindestens ein Dokumentator dokumentiert die Ergebnisse (ca. 7 Minuten)
+1. **Dokumentation:** Vorstellung des aktuellen Issues durch den/die Dokomentator:in. Nennung vorhandener Problme, Fortschritt und gegebenenfalls benötigter Unterstützung (45-60 Sekunden). <br>
+2. **Breakout-Phase:** Aufteilung in Discord-Räume (Programmierer, Dokumentierer, Researcher) zur Erarbeitung von Lösungsansätzen. Mindestens ein Dokumentator dokumentiert die Ergebnisse (ca. 7 Minuten). <br>
 3. **Rückkehr in den Haupt-Channel:** Kurzes Feedback aus den Breakout-Räumen. Dieser Teil dient dazu, das Präsentieren vor Gruppen zu trainieren, effizient Probleme zu lösen und schnelles Feedback zu erhalten (2 Minuten).
 
 ---
 
-### 6. 11:20-11:30 Uhr - Abschluss & Freies Netzwerken
+### 6. 11:20-11:30 Uhr - Abschluss und Freies Netzwerken
 
-- Offene Diskussion, Klärung letzter Fragen und Austausch zwischen den Teilnehmern (5–10 Minuten)
+🗨️ Offene Diskussion, Klärung letzter Fragen und Austausch zwischen den Teilnehmern (5–10 Minuten)
 
 ---
 
