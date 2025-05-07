@@ -14,9 +14,9 @@ Dabei steht nicht die Leitung, sondern **Begleitung, Anleitung und Unterstützun
 
 ---
 
-Typische Aufgaben sind:
+**Typische Aufgaben sind:**
 
-- Vorbereitung des [Protokolls](https://github.com/NADOOIT/NADOO-Launchpad/issues) der wöchentlichen 11er Team-Meetings für Montag, Dienstag und Donnerstag
+- Vorbereitung des [Protokolls](https://github.com/NADOOIT/NADOO-Launchpad/issues) der wöchentlichen 11er-Team-Meetings für Montag, Dienstag und Donnerstag
 - Anwesenheitskontrolle
 - Koordination der Aufgabenverteilung im Team
 - Unterstützung bei der Planung von Sprints
@@ -29,11 +29,11 @@ Typische Aufgaben sind:
 
 ---
 
-👉 Beispiel: Die Teamkoordinator:in des 11er-Teams „Launch“ sammelt Issues rund um die Unterstützung neuer Teammitglieder – vor allem durch Inhalte im NADOO-Wiki. Sie sorgt dafür, dass hilfreiche Informationen aktuell, auffindbar und verständlich sind und motiviert das Team, offene Fragen schnell aufzugreifen.
+👉 Beispiel: Die Teamkoordinator:in des 11er-Teams „Launch“ sammelt Issues rund um die Unterstützung neuer Teammitglieder – vor allem durch Inhalte im NADOO-Wiki. Sie sorgt dafür, dass hilfreiche Informationen aktuell, auffindbar und verständlich sind, und motiviert das Team, offene Fragen schnell aufzugreifen.
 
-Fazit: Die Rolle ist weniger Chef:in als **Team-Enabler** – sie schafft Struktur, damit alle produktiv arbeiten können. Das Team hat die Verantwortung, die Aufgaben zu erledigen und die Qualität der Arbeit zu sichern.
+**Fazit:** Die Rolle ist weniger Chef:in als **Team-Enabler** – sie schafft Struktur, damit alle produktiv arbeiten können. Das Team hat die Verantwortung, die Aufgaben zu erledigen und die Qualität der Arbeit zu sichern.
 
-Die Teamkoordinator:in ist dafür da, dass alle im Team ihre Aufgaben gut erledigen können.
+Der/die Teamkoordinator:in ist dafür da, dass alle im Team ihre Aufgaben gut erledigen können.
 
 ---
 

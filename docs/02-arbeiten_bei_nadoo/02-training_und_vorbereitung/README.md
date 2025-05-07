@@ -18,7 +18,7 @@ Du rotierst regelmäßig durch die verschiedenen [**Rollen**](/docs/02-arbeiten_
 
 Das heißt, du arbeitest z.B. mal 3 Tage lang als [Dokumentar](/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/01-dokumentar/README.md), dann 2 Tage lang als [Researcher](/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/02-researcher/README.md) und die nächste komplette Woche als ausführender [Entwickler](/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/03-entwickler/README.md) im Pair-Programming.
 
-Wichtig ist, dass du nicht an einer Rolle "kleben bleibst", sondern dich aktiv in alle verfügbaren Aufgabenbereiche einbringst. Da dir diese Rollen niemand _direkt_ zuteilt, musst du **selbst** dafür sorgen, dass du nicht an einer Stelle stagnierst und deine Weiterentwicklung so eigeninitiativ vorantreiben.
+Wichtig ist, dass du nicht an einer Rolle "kleben bleibst", sondern dich aktiv in alle verfügbaren Aufgabenbereiche einbringst. Da dir diese Rollen niemand _direkt_ zuteilt, musst du **selbst** dafür sorgen, dass du nicht an einer Stelle stagnierst und deine Weiterentwicklung so eigeninitiativ vorantreibst.
 
 <br>
 

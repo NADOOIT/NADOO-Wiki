@@ -10,5 +10,5 @@
 4. Tester:in <!--nicht sicher, ob bereits irgendwo definiert, sollte aber mit aufgenommen werden-->
 5. Teamkoordinator:in
 
-Klicke auf eine Rolle, um mehr über dessen Aufgaben- und Verantwortungsbereiche zu erfahren.
+Klicke auf eine Rolle, um mehr über deren Aufgaben- und Verantwortungsbereiche zu erfahren.
 Alternativ kannst du diesen Abschnitt natürlich auch einfach von oben nach unten durcharbeiten.
