@@ -15,9 +15,17 @@
 2. Wird diese Frist nicht eingehalten, erfolgt eine sofortige Kündigung.
    Diese Regelung trainiert Pünktlichkeit und termingerechtes Arbeiten – Eigenschaften, die in der Arbeitswelt hoch geschätzt werden.
 
-3. Alle Dateien müssen via **Email** an [**christoph.backhaus@nadooit.de**](mailto:christoph.backhaus@nadooit.de) gesendet werden.
+3. Alle Dateien müssen via **E-Mail** an [**christoph.backhaus@nadooit.de**](mailto:christoph.backhaus@nadooit.de) gesendet werden.
 
-4. Als Betreff für die Email verwendest du "Zeit- und Ausbildungsnachweise - Monat - Name". <br>![alt text](image-1.png) <br> Abgesehen vom Anhang bleibt die Email leer.
+4. Als Betreff für die E-Mail verwendest du "**Zeit- und Ausbildungsnachweise - Monat - Name**".
+
+<br>
+
+![alt text](image-1.png) 
+
+<br> 
+
+Abgesehen vom Anhang bleibt die E-Mail leer.
 
 #
 
