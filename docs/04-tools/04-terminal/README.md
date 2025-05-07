@@ -18,7 +18,7 @@ Das Terminal, auch als Kommandozeile, Shell oder Konsole bekannt, ist ein leistu
 
 ### macOS:
 - Öffne das Launchpad und suche nach "Terminal".
-- Alternativ kannst du auch Spotlight (Cmd + Leertaste) verwenden und "Terminal" eingeben.
+- Alternativ kannst du auch Spotlight (cmd + Leertaste) verwenden und "Terminal" eingeben.
 
 ### Linux:
 - Die meisten Linux-Distributionen ermöglichen das Öffnen eines Terminals mit der Tastenkombination Strg + Alt + T.
