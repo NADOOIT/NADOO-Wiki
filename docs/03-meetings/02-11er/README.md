@@ -1,6 +1,6 @@
 # 11er-Meeting (Montag, Dienstag und Donnerstag)
 
-- **Dauer:** 30–60 Minuten (Im Gesamtablauf standardmäßig 60 Minuten)
+- **Dauer:** 30–60 Minuten (im Gesamtablauf standardmäßig 60 Minuten)
 
 - **Ziel:** Effektive Zusammenarbeit, schnelle Problemlösung und kontinuierliches Training der Präsentations- sowie Kommunikationsfähigkeiten.
 
@@ -42,7 +42,7 @@ Kurze Wiederholung der Unternehmensmission, Werte (z.B. Transparenz, Agilität, 
 Pro 3er-Team:
 
 1. **Dokumentation:** Vorstellung des aktuellen Issues durch den/die Dokomentator:in. Nennung vorhandener Problme, Fortschritt und gegebenenfalls benötigter Unterstützung (45-60 Sekunden).
-2. **Breakout-Phase:** Aufteilung in Discord-Räume (Programmierer, Dokumentierer, Researcher) zur Erarbeitung von Lösungsansätzen. Mindestens ein Dokumentator dokumentiert die Ergebnisse (ca. 7 Minuten)
+2. **Breakout-Phase:** Aufteilung in Discord-Räume (Programmierer, Dokumentierer, Researcher) zur Erarbeitung von Lösungsansätzen. Mindestens ein Dokumentator dokumentiert die Ergebnisse (ca. 7 Minuten).
 3. **Rückkehr in den Haupt-Channel:** Kurzes Feedback aus den Breakout-Räumen. Dieser Teil dient dazu, das Präsentieren vor Gruppen zu trainieren, effizient Probleme zu lösen und schnelles Feedback zu erhalten (2 Minuten).
 
 ---

@@ -10,11 +10,11 @@ Im Folgenden findest du unsere Meeting-Strukturen und Zeitpläne, die dir helfen
 
 - Die Morgenmeetings finden täglich um 10:14 Uhr statt.
 
-- die erweiterten 11er-Meetings finden jeden Montag, Dienstag und Donnerstag nach der Anwesenheitsfeststellung statt.
+- Die erweiterten 11er-Meetings finden jeden Montag, Dienstag und Donnerstag nach der Anwesenheitsfeststellung statt.
 
-- das Meeting der Teamkordinator:innen findet jeden Mittwoch um 10:30 Uhr statt.
+- Das Meeting der Teamkordinator:innen findet jeden Mittwoch um 10:30 Uhr statt.
 
-- die erweiterten 33er-Meetings finden jeden Freitag nach der Anwesenheitsfeststellung statt.
+- Die erweiterten 33er-Meetings finden jeden Freitag nach der Anwesenheitsfeststellung statt.
 
 ---
 
