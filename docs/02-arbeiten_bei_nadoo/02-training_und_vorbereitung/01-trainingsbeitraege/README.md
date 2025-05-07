@@ -300,7 +300,7 @@ Sobald die erste bzw. mindestens eine Lösung für eine Aufgabe vorliegt, kann d
 
 **⚠️Wichtig:** Wir l(i)eben saubere Dokumentation.
 
-Füge deine bzw. andere neue/alte Trainingsbeiträge bitte der [Liste](https://github.com/NADOOIT/NADOO-Launchpad/issues/1200) an, wenn du siehst, dass diese aus irgendeinem Grund nicht darin auftauchen. So bleibt die Sammlung aktuell und vollständig. Sollten dir Berechtigungen fehlen, melde dich einfach bei Christoph oder bei einem Member, das das Parent-Issue bearbeiten kann.
+Füge deine bzw. andere neue/alte Trainingsbeiträge bitte der [Liste](https://github.com/NADOOIT/NADOO-Launchpad/issues/1200) an, wenn du siehst, dass diese aus irgendeinem Grund nicht darin auftauchen. So bleibt die Sammlung aktuell und vollständig. Sollten dir Berechtigungen fehlen, melde dich einfach bei Christoph oder bei einem Teammitglied, das das Parent-Issue bearbeiten kann.
 
 ---
 <br>
