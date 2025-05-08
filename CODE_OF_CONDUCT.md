@@ -8,7 +8,7 @@ Damit unser Miteinander von Offenheit, Respekt und Produktivität geprägt ist, 
 
 ## 📨 Einladung & Einstieg
 
-Mit deiner Einladung wirst du Teil einer lernenden Community, die gemeinschaftlich an Ausbildungsinhalten, Softwareprojekten und innovativen Lösungen arbeitet. 
+Mit deiner Einladung wirst du Teil einer lernenden Community, die gemeinschaftlich an Ausbildungsinhalten, Softwareprojekten und innovativen Lösungen arbeitet.
 
 Wir freuen uns, wenn du dich aktiv einbringst – unabhängig von deinem aktuellen Wissensstand.
 
