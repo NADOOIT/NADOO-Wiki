@@ -43,7 +43,7 @@ Wenn du Fragen hast oder Unterstützung benötigst, kannst du dich jederzeit an 
 
 Dort helfen dir unsere erfahrenen Kolleginnen und Kollegen gerne weiter.
 
-Alternativ kannst du natürlich auch jederzeit ein Issue dazu erstellen, auch dort wirst du Hilfe erhalten.
+Alternativ kannst du natürlich auch jederzeit ein Issue unter [Kommunikation und Zusammenarbeit](https://github.com/NADOOIT/NADOO-Wiki/issues/new/choose) dazu erstellen, auch dort wirst du Hilfe erhalten.
 <!-- Link zum entsprechenden Issue-Template und zugehöriger Screenshot werden später eingefügt.-->
 
 ---
