@@ -51,7 +51,7 @@ Unser Discord ist unser zentraler Kommunikationsraum für schnelle Rückfragen, 
 ### Verhalten & Kommunikation
 
 * Wir kommunizieren **wertschätzend und hilfsbereit** – Diskussionen sind erwünscht, Beleidigungen tabu.
-* Nutze **deinen echtes Vornamen** oder ein erkennbares Alias mit Bild – Avatare sind erlaubt.
+* Nutze **deinen echten Vornamen** oder ein erkennbares Alias mit Bild – Avatare sind erlaubt.
 * In Meetings gilt **Kamera an**, alternativ mit virtuellem Avatar.
 
 ### Technische Regeln
