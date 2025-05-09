@@ -14,7 +14,7 @@ Wie du das Tool installierst und startest, ist Schritt für Schritt im [**README
 
 Dieselbe Anleitung findest du außerdem im dedizierten Wiki-Kapitel [**Das NADOO-Launchpad: Was es kann und wie es funktioniert**](/docs/01-organisation/01-zeiterfassung/01-launchpad-guide/README.md) im Abschnitt [**Zeiterfassung**](/docs/01-organisation/01-zeiterfassung/README.md).
 
-<!--Launchopad-Guide zieht in der Ordnerstruktur doch nochmal um, wird dann wieder angepasst-->
+<!--Launchpad-Guide zieht in der Ordnerstruktur doch nochmal um, wird dann wieder angepasst-->
 
 [Dort](/docs/01-organisation/01-zeiterfassung/01-launchpad-guide/README.md) wird dir außerdem die **Benutzeroberfläche** des Launchpads im Detail erklärt, damit du ganz genau weißt, _wie_ du mit der App deine Zeiten richtig verbuchst und welche Funktionen das Programm sonst noch so bietet.
 
