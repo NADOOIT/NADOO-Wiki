@@ -44,7 +44,7 @@ Du hast ein bisschen getrödelt, dein erster Tag steht quasi schon mit dem Fuß 
 
 <br>
 
-**_Langer Rede, kurzer Sinn_** - Lass uns den Startschuss für deine Reise durchs NADOO-versum abfeuern! 🚀
+**_Langer Rede kurzer Sinn_** - Lass uns den Startschuss für deine Reise durchs NADOO-versum abfeuern! 🚀
 
 #
 
