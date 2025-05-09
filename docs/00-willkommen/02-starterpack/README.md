@@ -1,6 +1,6 @@
 # <p align="center">NADOO-IT for Newbies: Die wichtigsten Docs für deine Einstiegsphase</p>
 
-**Der Titel verrät es eigentlich schon:** hier findest du eine **Auflistung** aller Wiki-Dokumente, die **für dich als Neuzugang besonders relevant** sind. Da unser Wiki laufend angepasst und erweitert wird, ist es bereits auf einen beachtlichen Umfang angestiegen. Tatsächlich ist das übergeordnete Ziel der kontinuierliche Ausbau - weniger wird's also definitiv nicht! 😁
+**Der Titel verrät es eigentlich schon:** Hier findest du eine **Auflistung** aller Wiki-Dokumente, die **für dich als Neuzugang besonders relevant** sind. Da unser Wiki laufend angepasst und erweitert wird, ist es bereits auf einen beachtlichen Umfang angewachsen. Tatsächlich ist das übergeordnete Ziel der kontinuierliche Ausbau - weniger wird's also definitiv nicht! 😁
 
 Damit du nach den Informationen, die du vor allem für den Start in einem neuen Arbeitsumfeld benötigst, nicht ewig suchen musst und sie bei Erinnerungsbedarf schnell wiederfindest, haben wir diese für dich herausgefiltert und in unserem **Wiki-Docs-Starterpack** zusammengefasst:
 
@@ -30,7 +30,7 @@ Damit du nach den Informationen, die du vor allem für den Start in einem neuen 
 - Visual Studio Code Installation / Einrichtung
 - IntelliJ Installation / Einrichtung
 <!-- Video: „Einstieg GitHub“ (-> Wiki-Issue #375) hier einfügen, sobald fertiggestellt -->
-- (bis dahin verfügbare relevante) Docs aus Github-Kapitel für ersten groben Überblick
+- (Bis dahin verfügbare relevante) Docs aus Github-Kapitel für ersten groben Überblick
 - Issue-Erstellungsguide
 
 ### 📚 [Gezieltes Lernen und] Prüfungsvorbereitung
