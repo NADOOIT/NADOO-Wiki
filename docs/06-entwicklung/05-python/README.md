@@ -6,12 +6,12 @@ Bevor wir mit dem Coding beginnen, installieren wir Python 3.11 mithilfe von uv 
 
 ### Warum virtuelle Umgebungen?
 
-Virtuelle Umgebungen haben eine Reihe von Vorteilen, die für das Arbeiten in Projekten essentiell sind. Es ist wichtig, sich das arbeiten in virtuellen Umgebungen so früh wie irgend möglich anzugewöhnen, um spätere Umgewöhnung und dadurch enstehende Schleifpunkte, zu vermeiden.
+Virtuelle Umgebungen haben eine Reihe von Vorteilen, die für das Arbeiten in Projekten essentiell sind. Es ist wichtig, sich das Arbeiten in virtuellen Umgebungen so früh wie irgend möglich anzugewöhnen, um eine spätere Umgewöhnung und dadurch enstehende Schleifpunkte zu vermeiden.
 
 1. **Isolierung von Projekten:**  
-Jede virtuelle Umgebung ist isoliert und enthält ihre eigene Python-Version, sowie spezifische Bibliotheken. Dadurch wird verhindert, dass Abhängigkeiten zwischen verschiedenen Projekten Konflikte verursachen.
+Jede virtuelle Umgebung ist isoliert und enthält ihre eigene Python-Version sowie spezifische Bibliotheken. Dadurch wird verhindert, dass Abhängigkeiten zwischen verschiedenen Projekten Konflikte verursachen.
 
-> Abhängigkeiten(Dependencies), sind externe Bibliotheken, Frameworks oder Module, die in ein Softwareprojekt himzugefügt werden können, um vorgefertigte Funktionen, die den Entwicklungsaufwand reduzieren können, zu liefern. Sie machen die Software aber abhängig von sich selbst, und können zu Fehlern führen, da sie sich mit Updates ändern, was zu  schwerwiegenden Problemen führen kann.
+> Abhängigkeiten(Dependencies) sind externe Bibliotheken, Frameworks oder Module, die in ein Softwareprojekt hinzugefügt werden können, um vorgefertigte Funktionen, die den Entwicklungsaufwand reduzieren können, zu liefern. Sie machen die Software aber abhängig von sich selbst und können zu Fehlern führen, da sie sich mit Updates ändern, was zu schwerwiegenden Problemen führen kann.
 
 2. **Unabhängigkeit von System-Python:**  
 Virtuelle Umgebungen erlauben es, eine bestimmte Python-Version und Abhängigkeiten zu verwenden, ohne das System-Python zu beeinträchtigen oder dessen Version zu ändern. Dies ist besonders hilfreich, wenn verschiedene Projekte unterschiedliche Versionen erfordern.
@@ -30,9 +30,9 @@ Durch die Verwendung von virtuellen Umgebungen und gemeinsamen Konfigurationsdat
 
 ### Python 3.11 Installation mit uv
 
-1. Öffnen Sie das Terminal in Visual Studio Code (View > Terminal oder ``Ctrl+` ``).
+1. Öffnen das Terminal in Visual Studio Code (View > Terminal oder ``Ctrl+` ``).
 
-2. Installieren Sie uv:
+2. Installiere uv:
 
    Für macOS und Linux:
    ```bash
@@ -48,24 +48,24 @@ Durch die Verwendung von virtuellen Umgebungen und gemeinsamen Konfigurationsdat
    irm https://astral.sh/uv/install.ps1 | iex
    ```
 
-3. Installieren Sie Python 3.11:
+3. Installiere Python 3.11:
    ```bash
    uv python install 3.11
    ```
 
-4. Überprüfen Sie die Installation:
+4. Überprüfe die Installation:
    ```bash
    uv python --version
    ```
 
 ### Erstellen einer virtuellen Umgebung
 
-1. Erstellen Sie eine virtuelle Umgebung:
+1. Erstelle eine virtuelle Umgebung:
    ```bash
    uv venv -p 3.11
    ```
 
-2. Aktivieren Sie die virtuelle Umgebung:
+2. Aktiviere die virtuelle Umgebung:
 
    Für macOS und Linux:
    ```bash
@@ -183,10 +183,10 @@ Nachdem wir das Skript erstellt haben, können wir es ausführen, um zu sehen, w
 
 ### Schritte zur Ausführung:
 
-1. Speichern Sie den Code in einer Datei namens `python_grundlagen.py`.
-2. Öffnen Sie das Terminal in VS Code oder nutzen Sie ein anderes Terminalfenster.
-3. Stellen Sie sicher, dass Ihre virtuelle Umgebung aktiviert ist.
-4. Führen Sie das Skript mit folgendem Befehl aus:
+1. Speicher den Code in einer Datei namens `python_grundlagen.py`.
+2. Öffne das Terminal in VS Code oder nutze ein anderes Terminalfenster.
+3. Stelle sicher, dass deine virtuelle Umgebung aktiviert ist.
+4. Führen das Skript mit folgendem Befehl aus:
 
 ```bash
 python python_grundlagen.py
@@ -197,7 +197,7 @@ python python_grundlagen.py
 ```
 a = 7, b = 7, c = 7
 # Erklärung: Dies zeigt das Ergebnis der Mehrfachzuweisung. 2*3 wird zuerst berechnet (6), 
-# dann 1+6 (7), und schließlich wird 7 allen drei Variablen zugewiesen.
+# dann 1+6 (7) und schließlich wird 7 allen drei Variablen zugewiesen.
 
 5 + 3 = 8
 # Erklärung: Dies ist das Ergebnis des Funktionsaufrufs addiere(5, 3).
@@ -210,12 +210,12 @@ Schleifendurchlauf: 1
 Schleifendurchlauf: 2
 Schleifendurchlauf: 3
 Schleifendurchlauf: 4
-# Erklärung: Die for-Schleife läuft 5 mal (0 bis 4) und gibt jeden Durchlauf aus.
+# Erklärung: Die for-Schleife läuft 5-mal (0 bis 4) und gibt jeden Durchlauf aus.
 
 While-Schleife: Zähler = 0
 While-Schleife: Zähler = 1
 While-Schleife: Zähler = 2
-# Erklärung: Die while-Schleife läuft 3 mal (0 bis 2) und gibt den Zählerstand aus.
+# Erklärung: Die while-Schleife läuft 3-mal (0 bis 2) und gibt den Zählerstand aus.
 
 VW Golf fährt.
 # Erklärung: Dies ist die Ausgabe der fahren()-Methode des Auto-Objekts.
@@ -239,7 +239,7 @@ Programm beendet
 
 1. **Variablen und Zuweisungen**: 
    - Die Mehrfachzuweisung `a = b = c = 1 + 2 * 3` wird korrekt ausgewertet und zugewiesen.
-   - Zuerst wird `2 * 3` berechnet (6), dann `1 + 6` (7), und schließlich wird 7 allen drei Variablen zugewiesen.
+   - Zuerst wird `2 * 3` berechnet (6), dann `1 + 6` (7) und schließlich wird 7 allen drei Variablen zugewiesen.
 
 2. **Funktionen**: 
    - Die `addiere()`-Funktion wird aufgerufen und gibt das korrekte Ergebnis zurück.
@@ -247,8 +247,8 @@ Programm beendet
 
 3. **Kontrollstrukturen**:
    - Die `if`-Anweisung führt den richtigen Block aus, da `zahl == 10` wahr ist.
-   - Die `for`-Schleife iteriert wie erwartet über den Bereich von 0 bis 4, insgesamt 5 Mal.
-   - Die `while`-Schleife läuft dreimal (0 bis 2), wie durch die Bedingung `counter < 3` festgelegt.
+   - Die `for`-Schleife iteriert wie erwartet über den Bereich von 0 bis 4, insgesamt 5-mal.
+   - Die `while`-Schleife läuft 3-mal (0 bis 2), wie durch die Bedingung `counter < 3` festgelegt.
 
 4. **Klassen und Objekte**: 
    - Ein `Auto`-Objekt wird erstellt und seine `fahren()`-Methode aufgerufen.
@@ -267,13 +267,13 @@ Diese praktische Ausführung hilft, die theoretischen Konzepte in Aktion zu sehe
 
 ### Tipps zur erfolgreichen Skriptausführung:
 
-1. **Korrekte Python-Version**: Stellen Sie sicher, dass Sie die richtige Python-Version verwenden (in diesem Fall Python 3.11).
-2. **Virtuelle Umgebung**: Aktivieren Sie die virtuelle Umgebung vor der Ausführung des Skripts.
-3. **Dateipfad**: Vergewissern Sie sich, dass Sie sich im richtigen Verzeichnis befinden, wenn Sie das Skript ausführen.
-4. **Berechtigungen**: Stellen Sie sicher, dass Sie die nötigen Berechtigungen haben, um das Skript auszuführen.
-5. **Fehlerüberprüfung**: Sollten Sie Fehlermeldungen haben, melden Sie diese umgehend an Christoph Backhaus.
+1. **Korrekte Python-Version**: Stelle sicher, dass du die richtige Python-Version verwenden (in diesem Fall Python 3.11).
+2. **Virtuelle Umgebung**: Aktiviere die virtuelle Umgebung vor der Ausführung des Skripts.
+3. **Dateipfad**: Vergewissere dich, dass du dich im richtigen Verzeichnis befindest, wenn du das Skript ausführst.
+4. **Berechtigungen**: Stelle sicher, dass du die nötigen Berechtigungen hast, um das Skript auszuführen.
+5. **Fehlerüberprüfung**: Solltest du Fehlermeldungen haben, melde diese umgehend Christoph Backhaus.
 
-Durch das Verstehen und Anwenden dieser Konzepte in der Praxis legen Sie eine solide Grundlage für Ihre weitere Python-Entwicklung.
+Durch das Verstehen und Anwenden dieser Konzepte in der Praxis legst du eine solide Grundlage für deine weitere Python-Entwicklung.
 
 ## Citations
 
