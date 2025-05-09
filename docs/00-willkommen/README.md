@@ -35,7 +35,7 @@ In diesem Monat hast du die Chance, dich zu beweisen, indem du zeigst, dass du d
 ## _Heiße Spur_ 🔥
 
 Du hast ein bisschen getrödelt, dein erster Tag steht quasi schon mit dem Fuß in deiner Tür und jetzt fehlt dir die Zeit für's lange Lesen? Kein Ding, hier kommst du ohne Umwege zu deinem <span align="center">
-<a href="/docs/00-willkommen/01-leitfaden//README.md/#übersicht-dein-fahrplan-für-den-ersten-tag"><strong>First-Day-Fahrplan</strong></a>
+<a href="/docs/00-willkommen/01-leitfaden/README.md/#übersicht-dein-fahrplan-für-den-ersten-tag"><strong>First-Day-Fahrplan</strong></a>
 </span>!
 
 ### 💡 Denke aber daran, zeitnah ins Wiki zurückzukehren und deine Einarbeitung nachzuholen bzw. fortzuführen.
