@@ -75,7 +75,7 @@ Wenn du auf unangemessenes Verhalten stößt oder Hilfe brauchst:
 
 ## 🤝 Unser gemeinsames Ziel
 
-Wir wollen eine Umgebung schaffen, in der **lernen, wachsen und ausprobieren** möglich ist – mit Struktur, aber ohne Angst. Jede\:r ist willkommen, Verantwortung zu übernehmen und sich einzubringen.
+Wir wollen eine Umgebung schaffen, in der **lernen, wachsen und ausprobieren** möglich ist – mit Struktur, aber ohne Angst. Jede:r ist willkommen, Verantwortung zu übernehmen und sich einzubringen.
 
 Vielen Dank, dass du Teil von **NADOO-IT** bist 💙
 
