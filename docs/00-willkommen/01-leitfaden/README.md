@@ -85,7 +85,7 @@ Wir empfehlen dir jedoch, erstmal ganz entspannt anzukommen. Nutze die ersten pa
 
 <!--hier vllt. KI-Image zum Thema "entspannen" einfügen-->
 
-⚠️**Hinweis**: Solltest du noch keinen Zugriff auf das Launchpad-Repository haben, melde dich bitte umgehend bei Christoph mit deinem **github-Account-Namen**, damit dieser dich einladen und dir die nötigen Zugriffsrechte erteilen kann.
+⚠️**Hinweis**: Solltest du noch keinen Zugriff auf das Launchpad-Repository haben, melde dich bitte umgehend bei Christoph mit deinem **GitHub-Account-Namen**, damit dieser dich einladen und dir die nötigen Zugriffsrechte erteilen kann.
 
 ---
 
