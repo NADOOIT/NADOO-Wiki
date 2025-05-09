@@ -1,6 +1,6 @@
 # Debuggen und Fehlerbehandlung in Briefcase & Toga
 
-Fehler sind ein natürlicher Teil des Entwicklungsprozesses. Sie zeigen Ddr, wo du deine Annahmen überprüfen und deinen Code verbessern musst. In diesem Abschnitt wirst du lernen, wie du Fehler effektiv identifizierst, analysierst und behebst.
+Fehler sind ein natürlicher Teil des Entwicklungsprozesses. Sie zeigen dir, wo du deine Annahmen überprüfen und deinen Code verbessern musst. In diesem Abschnitt wirst du lernen, wie du Fehler effektiv identifizierst, analysierst und behebst.
 
 ## Ein fehlerhaftes Beispielprogramm
 
