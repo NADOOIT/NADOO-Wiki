@@ -18,7 +18,7 @@ Das System basiert auf einem Watchdog, der einen festgelegten Ordner überwacht.
 1. Öffne das NADOO Launchpad.
 2. Aktiviere den Audio Converter Watchdog über die entsprechende Schaltfläche.
 3. Über Einstellungen->Base Dir öffnen->Dir/converter/in 
-4. Legen die gewünschte Audiodatei im **IN-Ordner** ab.
+4. Lege die gewünschte Audiodatei im **IN-Ordner** ab.
 5. Der Watchdog erkennt die Datei, konvertiert sie bei Bedarf in WAV und startet die Transkription.
 6. Nach Abschluss der Verarbeitung werden die Originaldateien in den **PROCESSED-Ordner** verschoben und im **OUT-Ordner** die fertigen Textdateien abgelegt.
 
