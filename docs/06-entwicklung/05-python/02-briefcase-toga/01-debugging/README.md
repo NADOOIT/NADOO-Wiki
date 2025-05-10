@@ -1,6 +1,6 @@
 # Debuggen und Fehlerbehandlung in Briefcase & Toga
 
-Fehler sind ein natürlicher Teil des Entwicklungsprozesses. Sie zeigen Dir, wo Du Deine Annahmen überprüfen und Deinen Code verbessern musst. In diesem Abschnitt wirst Du lernen, wie Du Fehler effektiv identifizierst, analysierst und behebst.
+Fehler sind ein natürlicher Teil des Entwicklungsprozesses. Sie zeigen dir, wo du deine Annahmen überprüfen und deinen Code verbessern musst. In diesem Abschnitt wirst du lernen, wie du Fehler effektiv identifizierst, analysierst und behebst.
 
 ## Ein fehlerhaftes Beispielprogramm
 
@@ -113,7 +113,7 @@ print(f"Debug: Name eingegeben: {name}")
 
 ### Logging
 
-Für fortgeschritteneres Debugging und dauerhafte Aufzeichnungen kannst Du das `logging`-Modul verwenden. Füge am Anfang der Datei hinzu:
+Für fortgeschritteneres Debugging und dauerhafte Aufzeichnungen kannst du das `logging`-Modul verwenden. Füge am Anfang der Datei hinzu:
 
 ```python
 import logging
@@ -132,15 +132,15 @@ Dies schreibt Debug-Informationen in eine Datei namens `app.log`.
 
 ## Fazit
 
-Fehler sind ein wichtiger Teil des Lernprozesses. Sie zeigen Dir, wo Du Deine Fähigkeiten verbessern kannst. Mit der Zeit und mehr Erfahrung wirst Du in der Lage sein, komplexere Features zu entwickeln und weniger Fehler zu machen. Dennoch bleiben Fehler ein natürlicher Teil des Entwicklungsprozesses, selbst für erfahrene Programmierer.
+Fehler sind ein wichtiger Teil des Lernprozesses. Sie zeigen dir, wo du deine Fähigkeiten verbessern kannst. Mit der Zeit und mehr Erfahrung wirst du in der Lage sein, komplexere Features zu entwickeln und weniger Fehler zu machen. Dennoch bleiben Fehler ein natürlicher Teil des Entwicklungsprozesses, selbst für erfahrene Programmierer.
 
-Erinnere Dich:
+Erinnere dich:
 
 - Lies Fehlermeldungen sorgfältig. Sie enthalten oft wertvolle Informationen über den Ort und die Art des Problems.
-- Nutze Print-Anweisungen und Logging, um den Zustand Deines Programms zu verschiedenen Zeitpunkten zu überprüfen.
-- Mach Dir keine Sorgen über Fehler. Jeder Fehler ist eine Gelegenheit zu lernen und Deinen Code zu verbessern.
+- Nutze Print-Anweisungen und Logging, um den Zustand deines Programms zu verschiedenen Zeitpunkten zu überprüfen.
+- Mach dir keine Sorgen über Fehler. Jeder Fehler ist eine Gelegenheit zu lernen und deinen Code zu verbessern.
 
-In zukünftigen Tutorials werden wir fortgeschrittenere Techniken zur Fehlervermeidung und zum Schreiben von robusterem Code kennenlernen. Bis dahin: Fürchte Dich nicht vor Fehlern, sondern nutze sie als Lernchancen!
+In zukünftigen Tutorials werden wir fortgeschrittenere Techniken zur Fehlervermeidung und zum Schreiben von robusterem Code kennenlernen. Bis dahin: Fürchte dich nicht vor Fehlern, sondern nutze sie als Lernchancen!
 
 Ein spannendes Video, das von den berühmtesten und größten Bugs berichtet:
 

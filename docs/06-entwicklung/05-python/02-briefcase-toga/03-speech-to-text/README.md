@@ -10,24 +10,24 @@ Das System basiert auf einem Watchdog, der einen festgelegten Ordner überwacht.
 - und das Ergebnis als Textdatei gespeichert.
 
 ## Ordnerstruktur
-- **IN-Ordner:** Hier legen Sie die zu verarbeitenden Audiodateien ab (z. B. `.mp3`, `.wav`).
+- **IN-Ordner:** Hier legst du die zu verarbeitenden Audiodateien ab (z. B. `.mp3`, `.wav`).
 - **PROCESSED-Ordner:** Hier werden die Originaldateien abgelegt, nachdem sie vollständig bearbeitet wurden.
-- **OUT-Ordner:** In diesem Ordner finden Sie die fertigen Textdateien sowie ggf. konvertierte WAV-Dateien.
+- **OUT-Ordner:** In diesem Ordner findest du die fertigen Textdateien sowie ggf. konvertierte WAV-Dateien.
 
 ## Anwendungsschritte
-1. Öffnen Sie das NADOO Launchpad.
-2. Aktivieren Sie den Audio Converter Watchdog über die entsprechende Schaltfläche.
+1. Öffne das NADOO Launchpad.
+2. Aktiviere den Audio Converter Watchdog über die entsprechende Schaltfläche.
 3. Über Einstellungen->Base Dir öffnen->Dir/converter/in 
-4. Legen Sie die gewünschte Audiodatei im **IN-Ordner** ab.
+4. Lege die gewünschte Audiodatei im **IN-Ordner** ab.
 5. Der Watchdog erkennt die Datei, konvertiert sie bei Bedarf in WAV und startet die Transkription.
 6. Nach Abschluss der Verarbeitung werden die Originaldateien in den **PROCESSED-Ordner** verschoben und im **OUT-Ordner** die fertigen Textdateien abgelegt.
 
 ## Anwendungsbeispiele
 - **Automatisierte Dokumentation:**  
-  Erstellen Sie Wiki-Artikel, Protokolle oder Notizen aus Besprechungsaufnahmen.
+  Erstelle einen Wiki-Artikel, Protokolle oder Notizen aus Besprechungsaufnahmen.
   
 - **KI-gestützte Weiterverarbeitung:**  
-  Nutzen Sie den transkribierten Text als Basis, um Zusammenfassungen, Präsentationen oder Aufgabenlisten mithilfe weiterer KI-Tools zu generieren.
+  Nutze den transkribierten Text als Basis, um Zusammenfassungen, Präsentationen oder Aufgabenlisten mithilfe weiterer KI-Tools zu generieren.
   
 - **Archivierung und Suche:**  
   Durch die Umwandlung in Textform können Audiodateien leicht durchsucht und archiviert werden.
@@ -45,6 +45,6 @@ Das System basiert auf einem Watchdog, der einen festgelegten Ordner überwacht.
   - Hinweis: Windows arbeitet in der Regel schneller als macOS.
 
 ## Zusammenfassung
-Das Speech-to-Text-Feature im NADOO Launchpad automatisiert die Umwandlung von Sprache in Text und spart so Zeit bei der Dokumentation. Es eignet sich hervorragend für Teams, die regelmäßig Besprechungen oder Präsentationen aufzeichnen und diese Inhalte anschließend weiterverarbeiten oder archivieren möchten. Beachten Sie die anfängliche Downloadzeit und die aktuelle Limitierung bei der gleichzeitigen Verarbeitung mehrerer Dateien.
+Das Speech-to-Text-Feature im NADOO Launchpad automatisiert die Umwandlung von Sprache in Text und spart so Zeit bei der Dokumentation. Es eignet sich hervorragend für Teams, die regelmäßig Besprechungen oder Präsentationen aufzeichnen und diese Inhalte anschließend weiterverarbeiten oder archivieren möchten. Beachte die anfängliche Downloadzeit und die aktuelle Limitierung bei der gleichzeitigen Verarbeitung mehrerer Dateien.
 
-Für Fragen oder Probleme nutzen Sie bitte den Issue-Tracker im Repository des Projekts.
+Für Fragen oder Probleme nutze bitte den Issue-Tracker im Repository des Projekts.
