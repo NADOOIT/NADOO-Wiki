@@ -186,7 +186,7 @@ print("Programm erfolgreich beendet!")
 
 1. Lies die Fehlermeldungen sorgfältig. Sie enthalten oft wertvolle Informationen über den Ort und die Art des Problems.
 2. Verwende print-Anweisungen oder Logging, um den Zustand von Variablen an kritischen Stellen zu überprüfen.
-3. Nutze den VS Code Debugger für komplexere Probleme und um den Programmablauf Schritt für Schritt zu verfolgen.
+3. Nutze den VS Code Debugger, um komplexe Probleme zu lösen und den Programmablauf Schritt für Schritt nachzuvollziehen. 
 4. Teste deinen Code regelmäßig in kleinen Abschnitten, um Fehler frühzeitig zu erkennen.
 5. Kommentiere deinen Code ausführlich, um die Lesbarkeit und das Verständnis zu verbessern.
 
