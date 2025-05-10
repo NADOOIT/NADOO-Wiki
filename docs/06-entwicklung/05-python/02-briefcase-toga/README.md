@@ -3,7 +3,7 @@
 Herzlich Willkommen zu den Briefcase & Toga Tutorials!
 
 In diesem Wiki-Artikel bereiten wir dich auf die Tutorials vor, in denen du lernst, wie du mit **Briefcase** und **Toga** plattformübergreifende Anwendungen in Python entwickelst.  
-Bevor es losgeht, zeigen wir dir, wie du Python 3.11 mithilfe von **uv** installierst und eine virtuelle Umgebung einrichtest – ein Schritt, der in den offiziellen Tutorials ebenfalls vorkommt. Wir haben diesen Ansatz gewählt, weil er häufig auftretende Probleme vermeidet.
+Bevor es losgeht, zeigen wir dir, wie du Python 3.11 mithilfe von **uv** installierst und eine virtuelle Umgebung einrichtest – ein Schritt, der in den offiziellen Tutorials von Python.org ebenfalls vorkommt. Wir haben diesen Ansatz gewählt, weil er häufig auftretende Probleme vermeidet.
 
 ---
 
