@@ -188,7 +188,7 @@ print("Programm erfolgreich beendet!")
 2. Verwende print-Anweisungen oder Logging, um den Zustand von Variablen an kritischen Stellen zu überprüfen.
 3. Nutze den VS Code Debugger, um komplexe Probleme zu lösen und den Programmablauf Schritt für Schritt nachzuvollziehen. 
 4. Teste deinen Code regelmäßig in kleinen Abschnitten, um Fehler frühzeitig zu erkennen.
-5. Kommentiere deinen Code prägnant und informativ, um die Lesbarkeit und das Verständnis zu verbessern.
+5. Kommentiere deinen Code ausführlich, aber halte die Kommentare prägnant und informativ, um die Lesbarkeit und das Verständnis zu verbessern.
 
 Debugging ist eine Fähigkeit, die mit der Zeit und Übung verbessert wird. Je mehr du debuggst, desto besser wirst du darin, Fehler schnell zu identifizieren und zu beheben.
 
