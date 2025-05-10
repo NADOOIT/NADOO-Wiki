@@ -10,7 +10,7 @@
 
 Herzlich willkommen im offiziellen Wiki des Passionprojects **NADOO-IT** von **Christoph Backhaus IT**! 🌞 Schön, dass du deinen Weg zu uns gefunden hast. 🙌
 
-Nimm dir einen Moment Zeit, um dich mit den ersten Seiten unserer Wissens-Bibliothek vertraut zu machen. Gerade der Themenbereich **Einstieg und Orientierung**, in dem du dich aktuell befindest, ist darauf ausgerichtet, deinen Einstieg in das NADOO-Team so reibungslos wie möglich zu gestalten.
+Nimm dir einen Moment Zeit, um dich mit den ersten Seiten unserer Wissensbibliothek vertraut zu machen. Gerade der Themenbereich **Einstieg und Orientierung**, in dem du dich aktuell befindest, ist darauf ausgerichtet, deinen Einstieg in das NADOO-Team so reibungslos wie möglich zu gestalten.
 
 Hier nehmen wir dich **ab Tag 1** an die Hand und helfen dir dabei, deine ersten Schritte gezielt in die richtige Richtung zu machen.
 
@@ -34,7 +34,7 @@ In diesem Monat hast du die Chance, dich zu beweisen, indem du zeigst, dass du d
 
 ## _Heiße Spur_ 🔥
 
-Du hast ein bisschen getrödelt, dein erster Tag steht quasi schon mit dem Fuß in deiner Tür und jetzt fehlt dir die Zeit für's lange Lesen? Kein Ding, hier kommst du ohne Umwege zu deinem <span align="center">
+Du hast ein bisschen getrödelt, dein erster Tag steht quasi schon mit dem Fuß in deiner Tür und jetzt fehlt dir die Zeit fürs lange Lesen? Kein Ding, hier kommst du ohne Umwege zu deinem <span align="center">
 <a href="/docs/00-willkommen/01-leitfaden/README.md/#übersicht-dein-fahrplan-für-den-ersten-tag"><strong>First-Day-Fahrplan</strong></a>
 </span>!
 
@@ -44,7 +44,7 @@ Du hast ein bisschen getrödelt, dein erster Tag steht quasi schon mit dem Fuß 
 
 <br>
 
-**_Lange Rede, kurzer Sinn_** - Lass uns den Startschuss für deine Reise durch's NADOO-versum abfeuern! 🚀
+**_Langer Rede kurzer Sinn_** - Lass uns den Startschuss für deine Reise durchs NADOO-versum abfeuern! 🚀
 
 #
 
