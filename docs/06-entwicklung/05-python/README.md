@@ -6,7 +6,7 @@ Bevor wir mit dem Coding beginnen, installieren wir Python 3.11 mithilfe von uv 
 
 ### Warum virtuelle Umgebungen?
 
-Virtuelle Umgebungen haben eine Reihe von Vorteilen, die für das Arbeiten in Projekten essentiell sind. Es ist wichtig, sich das Arbeiten in virtuellen Umgebungen so früh wie irgend möglich anzugewöhnen, um eine spätere Umgewöhnung und dadurch enstehende Schleifpunkte zu vermeiden.
+Virtuelle Umgebungen bieten zahlreiche Vorteile, die für die effiziente Arbeit in Projekten unerlässlich sind. Daher ist es ratsam, sich frühzeitig an das Arbeiten in solchen Umgebungen zu gewöhnen, um spätere Anpassungsschwierigkeiten und mögliche Unterbrechungen im Workflow zu vermeiden. 
 
 1. **Isolierung von Projekten:**  
 Jede virtuelle Umgebung ist isoliert und enthält ihre eigene Python-Version sowie spezifische Bibliotheken. Dadurch wird verhindert, dass Abhängigkeiten zwischen verschiedenen Projekten Konflikte verursachen.
