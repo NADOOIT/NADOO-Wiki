@@ -1,4 +1,4 @@
-<p align="center"><em>Vorschau des Platzhalters zur Ansicht im Browser</em></p>
+<p align="center"><em>Vorschau des Platzhalters zur Ansicht im Browser (hier würde ggf. die Überschrift des geplanten Eintrags stehen)</em></p>
 
 # <p align="center">Sorry, hier gibt es leider (noch) nichts zu sehen! 👀</p>
 
@@ -24,3 +24,5 @@ Insofern ein:e **Ersteller:in** vermerkt ist, kannst du dich auch direkt an dies
 <br>
 <strong>Von:</strong> maxmuster (GitHub)
 </p>
+
+[Zurück](/docs/00-willkommen/03-styleguide/00-platzhalter/01-anleitung/README.md) | [Weiter](/docs/01-organisation/README.md)

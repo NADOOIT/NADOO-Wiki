@@ -1,18 +1,26 @@
-# Praktische Umsetzung mit NADOO-Launchpad
+# Video-Tutorials und Demonstrationen
 
-## Schau Dir dieses Video an
+---
+
+## Video zum Thema "Isssue Workflow" ⬇️
 
 <https://www.youtube.com/watch?v=rpypwW70h2E>
 
-## Das NADOO Launchpad Dateisystem
+#
+
+## Video zum Thema "NADOO-Launchpad-Dateisystem" ⬇️
 
 <https://youtu.be/HxhmYYeR5uE>
 
-## Wie man Issues bearbeitet und die Implementierung eines externen Pakets
+#
+
+## Video zum Thema "Bearbeitung von Issues und die Implementierung eines externen Pakets" ⬇️
 
 <https://youtu.be/aGJtvC4xXbI>
 
-## NADOOIT Backend selbst einrichten:
+#
+
+## Video zum Thema "eigenständige Einrichtung des NADOO-IT Backends" ⬇️
 
 <https://youtu.be/CzzFbya7dk0>
 

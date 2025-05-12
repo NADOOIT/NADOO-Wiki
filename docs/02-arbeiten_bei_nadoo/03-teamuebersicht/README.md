@@ -1,4 +1,4 @@
-# Übersicht aller 11er-Teams & Projekte
+# Übersicht aller Teams und Projekte
 
 Hier findest du sowohl eine Übersicht aller **aktuell bestehenden 11er-Teams samt ihrer Team-Ziele** sowie einen **Rückblick** auf die erfolgreich abgeschlossenen Projekte vorheriger 11er-Teams.
 

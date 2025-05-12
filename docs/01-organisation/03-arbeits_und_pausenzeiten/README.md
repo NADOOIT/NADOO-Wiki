@@ -1,4 +1,4 @@
-# <p align="center">Arbeitszeit & Pausen</p>
+# <p align="center">Arbeitszeit und Pausen</p>
 
 Unsere täglichen [**Meetings**](/docs/03-meetings/README.md) und festgelegten **Ruhezeiten** (mindestens 11 Stunden zwischen den Arbeitstagen) sind **verbindlich einzuhalten.** Es muss um **spätestens 23:00 Uhr Feierabend** gemacht werden.
 

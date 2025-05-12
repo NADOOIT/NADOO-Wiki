@@ -1,7 +1,7 @@
-# Step-by-Step: So verwendest du die Vorlage
+# Step-by-Step: so verwendest du die Vorlage
 <br>
 
-1. **Kopiere den [Inhalt des Platzhalters](#die-vorlage---diesen-part-bitte-kopieren-und-in-neue-dokumente-übertragen)** und füge ihn in das neu erstellte README-Dokument, welches vorerst leer bleibt. <br><br>
+1. **Kopiere den [Inhalt des Platzhalters](#die-vorlage---diesen-part-bitte-kopieren-und-in-neue-dokumente-übertragen)** und füge ihn im neu erstellten README-Dokument **zwischen** der **Überschrift** (falls vorhanden) **und** der **Navigation-Bar** (_"Zurück | Weiter"_) ein. <br><br> <!-- evtl. Screenshot zur Verdeutlichung-->
 ⚠️ **Gemeint ist damit der _Code_** und nicht das, was am Ende im Browser angezeigt wird - ansonsten gehen Bilder und Text-Formatierungen **verloren**. <br><br> <!-- hier ggf. Screenshot zur Verdeutlichung einfügen--> 
 💡 **Tipp**: Alternativ kannst du auch einfach die **README-Datei aus** [**01-vorschau**](/docs/00-willkommen/03-styleguide/00-platzhalter/02-vorschau/README.md) kopieren und in die betroffenen Ordner einfügen. **Denke** bei diesem Weg aber **daran**, die **erste Zeile** "_Vorschau des Platzhalters zur Ansicht im Browser_" zu **entfernen** und ggf. das "_maxmuster (GitHub)_" <strong>durch `<em>Keine Angabe</em>`</strong> zu **ersetzen**. Fahre ansonsten ganz normal mit den folgenden Schritten fort.
 

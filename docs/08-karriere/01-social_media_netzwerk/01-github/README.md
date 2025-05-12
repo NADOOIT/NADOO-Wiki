@@ -1,8 +1,4 @@
-<<<<<<<< HEAD:docs/08-karriere/01-social_media_netzwerk/01-github/README.md
 # Dein GitHub-Profil
-========
-### GitHub-Profil
->>>>>>>> main:docs/07-karriere/03-netzwerken/01-github-profil/README.md
 
 ![Beispiel-Profil](../../../../images/github_profil.png)
 

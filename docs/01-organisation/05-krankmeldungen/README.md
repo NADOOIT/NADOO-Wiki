@@ -1,4 +1,4 @@
-# <p align="center">Krankmeldungen</p>
+# <p align="center">Ablauf bei Krankmeldungen</p>
 
 Melde dich bitte bei Krankheit **bis spätestens 11:00 Uhr** als erstes direkt **bei Christoph** ab. Benachrichtige im Anschluss ebenfalls dein zuständiges **Bildungsinstitut** sowie deinen **Kostenträger** (Arbeitsagentur oder Jobcenter).
 

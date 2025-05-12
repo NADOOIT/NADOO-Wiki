@@ -1,4 +1,4 @@
-# Rollen und Aufgaben(bereiche) bei NADOO-IT
+# Rollen und Aufgaben/Aufgabenbereiche
 
 <!--kurze Einleitung in das Thema, dann Auflistung der Rollen als Unterpunkte/Kapitel des Abschnitts-->
 

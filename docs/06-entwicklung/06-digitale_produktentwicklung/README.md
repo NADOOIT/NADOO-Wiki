@@ -1,8 +1,10 @@
 # Dein Einstieg in die digitale Produktentwicklung
-<<<<<<<< HEAD:docs/06-entwicklung/06-digitale_produktentwicklung/README.md
-========
+<!-- dringende inhaltliche Überarbeitung des Themas notwendig: 
 
->>>>>>>> main:docs/05-entwicklung/08-digitale-produktentwicklung/README.md
+-> es muss ein fließender Übergang von "dein Eintsteg" bzw. "deine Aufgabe" zu "lizenzen" und dann zu "erste eigene app" stattfinden 
+
+-> Reihenfolge der Docs wurde angepasst, Text bisher nicht/nur minimal
+-> hier im Doc noch Kapitelübersicht hinzufügen -->
 Digitale Produkte sind das Herzstück jedes IT-Unternehmens. Sie umfassen sowohl Dienstleistungen (z. B. Einrichtung, Wartung, Schulungen) als auch Softwareprodukte (z. B. Apps).
 
 ---
@@ -44,5 +46,7 @@ Deine Aufgabe ist es, ein neues digitales Produkt zu entwickeln. Überlege dir e
    Starte einen Testverkauf, um die Resonanz auf dein Produkt zu überprüfen. Bereite dann die vollständige Markteinführung vor.
 
 Am Ende des Prozesses hast du dein eigenes digitales Produkt entwickelt, das du entweder über uns vertreiben oder später selbst vermarkten kannst.
+
+
 
 ---

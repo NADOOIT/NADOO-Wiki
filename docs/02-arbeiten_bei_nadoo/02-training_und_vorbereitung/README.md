@@ -1,4 +1,4 @@
-# Training & Vorbereitung - auf die IHK-Prüfungen sowie deine allgemeine Zukunft in der IT-Arbeitswelt
+# Vorbereitung auf die IHK-Prüfungen und deine Zukunft in der IT-Arbeitswelt
 
 ## Persönliche Weiterentwicklung durch Jobrotation
 

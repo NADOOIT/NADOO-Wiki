@@ -1,4 +1,4 @@
-# <p align="center">Mutterschutz & Elternzeit</p>
+# <p align="center">Gesetzliche Regelungen zu Mutterschutz und Elternzeit</p>
 
 Gesetzliche Regelungen zum Mutterschutz und zur Elternzeit sind in Deutschland im [**Mutterschutzgesetz (MuSchG)**](https://www.gesetze-im-internet.de/muschg_2018/) und im [**Bundeselterngeld- und Elternzeitgesetz (BEEG)**](https://www.gesetze-im-internet.de/beeg/) festgelegt.
 

@@ -1,4 +1,4 @@
-# <p align="center">NADOO-IT for Newbies: Die wichtigsten Docs für deine Einstiegsphase</p>
+# <p align="center">NADOO-IT for Newbies: die wichtigsten Docs für deine Einstiegsphase</p>
 
 **Der Titel verrät es eigentlich schon:** hier findest du eine **Auflistung** aller Wiki-Dokumente, die **für dich als Neuzugang besonders relevant** sind. Da unser Wiki laufend angepasst und erweitert wird, ist es bereits auf einen beachtlichen Umfang angestiegen. Tatsächlich ist das übergeordnete Ziel der kontinuierliche Ausbau - weniger wird's also definitiv nicht! 😁
 
