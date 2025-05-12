@@ -8,7 +8,8 @@
 
 ---
 
-Herzlich willkommen im offiziellen Wiki des Passionprojects **NADOO-IT** von **Christoph Backhaus IT**! 🌞 Schön, dass du deinen Weg zu uns gefunden hast. 🙌
+<p align="center">Herzlich willkommen im offiziellen Wiki des Passionprojects <strong>NADOO-IT</strong> von <strong>Christoph Backhaus IT</strong>! 🌞<br> 
+Schön, dass du deinen Weg zu uns gefunden hast. 🙌</p>
 
 Nimm dir einen Moment Zeit, um dich mit den ersten Seiten unserer Wissensbibliothek vertraut zu machen. Gerade der Themenbereich **Einstieg und Orientierung**, in dem du dich aktuell befindest, ist darauf ausgerichtet, deinen Einstieg in das NADOO-Team so reibungslos wie möglich zu gestalten.
 
@@ -41,10 +42,9 @@ Du hast ein bisschen getrödelt, dein erster Tag steht quasi schon mit dem Fuß 
 ### 💡 Denke aber daran, zeitnah ins Wiki zurückzukehren und deine Einarbeitung nachzuholen bzw. fortzuführen.
 
 ---
-
 <br>
 
-**_Langer Rede kurzer Sinn_** - Lass uns den Startschuss für deine Reise durchs NADOO-versum abfeuern! 🚀
+<p align="center"><strong><em>Langer Rede kurzer Sinn</em></strong> — lass uns den Startschuss für deine Reise durchs NADOO-versum abfeuern! 🚀</p3>
 
 #
 
