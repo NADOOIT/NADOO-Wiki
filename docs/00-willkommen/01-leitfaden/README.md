@@ -94,19 +94,11 @@ Wir empfehlen dir jedoch, erstmal ganz entspannt anzukommen. Nutze die ersten pa
 | Uhrzeit              | Beschreibung                                        | Wo?                                                                                               |
 | -------------------- | --------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
 | 06:00 bis 10:14 Uhr  | **Einstempeln** / Arbeitstag beginnen               | **Launchpad**-App                                                                                 |
-| 10:14 bis 10:30 Uhr  | **Anwesenheitskontrolle**                           | Discord-Channel **Team-Launch** (gelber Punkt)                                                    |
+| 10:14 bis 10:30 Uhr  | **Anwesenheitskontrolle**                           | Discord-Channel **33er [weekly]** (roter Punkt)                                                    |
 | 10:30 bis 11:20 Uhr  | **11er-Meeting**                                    | Discord-Channel **Code Qualität & Research** ODER einer der **Team-Launch**-Kanäle (grüner Punkt) |
-| ab 11:20 - 11:45 Uhr | freies Arbeiten und Netzwerken mit Team-Mitgliedern | _Discord-Channel deiner Wahl_                                                                     |
+| ab 11:20 - 11:45 Uhr | freies Arbeiten / Netzwerken mit Team-Mitgliedern | Discord-Channel deiner Wahl                                                                     |
 | _freie Einteilung_   | **Pause**                                           | Discord-Channels **afk** ODER **Ruhebereich**                                                     |
 | _freie Einteilung_   | **Stillarbeit**                                     | Discord-Channel **Ruhebereich**                                                                   |
-
----
-
-## Organisatorisches
-
-Alles Weitere, was du zum Thema Organisatorisches wissen musst, findest du im nächsten Wiki-Themenbereich **Organisation und Rahmenbedingungen**.
-
-Dort wird umfassend auf grundlegende Punkte wie Zeiterfassung, Ausbildungsnachweise, Urlaub, Pausen, Krankmeldung, Umgangskultur und vieles mehr eingegangen.
 
 ---
 

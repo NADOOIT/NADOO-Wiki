@@ -2,7 +2,7 @@
 
 <!--kurze Einleitung in das Thema, dann Auflistung der Rollen als Unterpunkte/Kapitel des Abschnitts-->
 
-### Folgende Rollen sind aktuell bei NADOO-IT definiert:
+## Folgende Rollen sind aktuell bei NADOO-IT definiert:
 
 1. Dokumentar(ist):in
 2. Researcher:in

@@ -40,3 +40,11 @@ Damit du nach den Informationen, die du vor allem für den Start in einem neuen 
 mögliche Docs:
  -->
 - Trainingsbeiträge
+
+---
+
+## Organisatorisches im Detail
+
+Generell findest du alles Weitere, was du zum Thema Organisatorisches wissen musst, im nächsten Wiki-Themenbereich [**Organisation und Rahmenbedingungen**](/docs/01-organisation/README.md).
+
+Dort wird neben den hier bereits verlinkten Einträgen **in großem Umfang** auf alles Mögliche rund um Christoph Backhaus / NADOO IT eingegangen.
