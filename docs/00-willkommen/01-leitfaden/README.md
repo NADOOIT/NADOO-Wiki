@@ -6,7 +6,7 @@
 
 #
 
-### 1. Einstempeln
+## 1. Einstempeln
 
 Sobald du für deinen ersten Tag online kommst, darfst und solltest du dich einstempeln. Für die Zeiterfassung nutzen wir ein internes Tool, unser [**NADOO-Launchpad**](https://github.com/NADOOIT/NADOO-Launchpad).
 
@@ -22,9 +22,9 @@ Dieselbe Anleitung findest du außerdem im dedizierten Wiki-Kapitel [**Das NADOO
 
 ---
 
-### 2. Dein Start auf Discord
+## 2. Dein Start auf Discord
 
-#### 2.1 Anwesenheitskontrolle
+### 2.1 Anwesenheitskontrolle
 
 Christoph sollte dich bereits vor deinem ersten Tag auf dem Discord-Server **NADOO-IT** zum NADOO-Member ernannt und für die Interaktion in allen relevanten Kanälen freigeschaltet haben.
 
@@ -38,7 +38,7 @@ Wer ohne Grund oder vorherige Absprache mit Christoph bis 10:30 Uhr nicht da ist
 
 ---
 
-#### 2.2 Beitritt in ein 11er-Team
+### 2.2 Beitritt in ein 11er-Team
 
 Bei NADOO-IT arbeiten wir in sogennanten **11er-Teams**. Diese Teams, die (vorausgesetzt, es gibt genügend Mitglieder) intern nochmal in **3er-Teams** unterteilt werden, fokussieren sich jeweils auf bestimmte Themen- bzw. Arbeitsbereiche.
 
@@ -75,7 +75,7 @@ Natürlich solltest du schauen, dass du, wenn du dich einem Team anschließt, da
 
 ---
 
-### 3. Deine Aufgaben
+## 3. Deine Aufgaben
 
 Sowas wie eine "feste Aufgabe" gibt es für dich (noch) nicht direkt. Ein großer Teil deiner ersten Tage wird darin bestehen, dich in das [**NADOO-Wiki**](https://github.com/NADOOIT/NADOO-Wiki/) einzulesen und die **Issues** sowohl [**im Wiki-**](https://github.com/NADOOIT/NADOO-Wiki/issues) als auch [**im Launchpad-Repository**](https://github.com/NADOOIT/NADOO-Launchpad/issues) zu durchforsten.
 
@@ -89,7 +89,7 @@ Wir empfehlen dir jedoch, erstmal ganz entspannt anzukommen. Nutze die ersten pa
 
 ---
 
-### Übersicht: Dein Fahrplan für den ersten Tag
+## Übersicht: Dein Fahrplan für den ersten Tag
 
 | Uhrzeit              | Beschreibung                                        | Wo?                                                                                               |
 | -------------------- | --------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
