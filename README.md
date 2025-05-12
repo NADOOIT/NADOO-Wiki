@@ -69,6 +69,7 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
   &nbsp;&nbsp;🔹 [[Textvorlage / Template] Platzhalter für leere Docs](/docs/00-willkommen/03-styleguide/00-platzhalter/README.md) <br>
         &emsp;&emsp;◻️ [Step-by-Step: so verwendest du die Vorlage](/docs/00-willkommen/03-styleguide/00-platzhalter/01-anleitung/README.md) <br>
         &emsp;&emsp;◻️ [Vorschau des Platzhalters zur Ansicht im Browser](/docs/00-willkommen/03-styleguide/00-platzhalter/02-vorschau/README.md) <br>
+</details>
 
 ---
 
