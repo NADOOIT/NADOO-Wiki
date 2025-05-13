@@ -6,7 +6,7 @@ Bevor du mit der Entwicklung deiner ersten eigenen App beginnst, solltest du dic
 
 ## Die Macht der Open-Source-Gemeinschaft
 
-Zunächst einmal ist es wichtig, sich bewusst zu machen, welch enormer Wert Dir durch Open-Source-Software zur Verfügung steht. Denke z.B. an die KI-Modelle von Meta, Microsoft, Google und vielen anderen, die Milliarden an Entwicklungskosten repräsentieren und nun frei zugänglich sind. Oder betrachte Projekte wie Briefcase und Toga, an denen Entwickler seit über einem Jahrzehnt arbeiten und von deren Arbeit wir nun profitieren können.
+Zunächst einmal ist es wichtig, sich bewusst zu machen, welch enormer Wert dir durch Open-Source-Software zur Verfügung steht. Denke z.B. an die KI-Modelle von Meta, Microsoft, Google und viele andere, die Milliarden an Entwicklungskosten repräsentieren und nun frei zugänglich sind. Oder betrachte Projekte wie Briefcase und Toga, an denen Entwickler seit über einem Jahrzehnt arbeiten und von deren Arbeit wir nun profitieren können.
 
 Diese Großzügigkeit und Zusammenarbeit in der Entwicklergemeinschaft ist beeindruckend und verdient unsere Dankbarkeit. Es ist wichtig, dass wir diese Dankbarkeit auch zum Ausdruck bringen, sei es durch Beiträge zur Dokumentation, Fehlermeldungen oder, wenn möglich, durch eigene Code-Beiträge.
 
@@ -14,7 +14,7 @@ Diese Großzügigkeit und Zusammenarbeit in der Entwicklergemeinschaft ist beein
 
 ## Verständnis von Softwarelizenzen
 
-Jedes Softwarepaket, das Du verwendest, kommt mit einer Lizenz. Hier sind einige der häufigsten:
+Jedes Softwarepaket, das du verwendest, kommt mit einer Lizenz. Hier sind einige der häufigsten:
 
 1. **MIT-Lizenz**: Eine sehr permissive Lizenz, die fast alles erlaubt, solange der Urheberrechtshinweis und die Lizenz mitgeliefert werden.
 
@@ -26,7 +26,7 @@ Jedes Softwarepaket, das Du verwendest, kommt mit einer Lizenz. Hier sind einige
 
 5. **GNU Affero General Public License (AGPL)**: Ähnlich wie die GPL, aber mit zusätzlichen Anforderungen für Software, die über ein Netzwerk bereitgestellt wird.
 
-Es ist wichtig, die Lizenzen der von Dir verwendeten Software zu verstehen und zu respektieren, um rechtliche Probleme zu vermeiden und die Open-Source-Gemeinschaft zu unterstützen.
+Es ist wichtig, die Lizenzen der von dir verwendeten Software zu verstehen und zu respektieren, um rechtliche Probleme zu vermeiden und die Open-Source-Gemeinschaft zu unterstützen.
 
 ---
 
@@ -40,7 +40,7 @@ Tools wie pip (oder das neuere uv) haben die Verwaltung von Abhängigkeiten erhe
 
 Trotz der vielen Vorteile bringen Abhängigkeiten auch Risiken mit sich:
 
-1. **Sicherheitslücken**: Jede Abhängigkeit kann potenziell Sicherheitslücken enthalten. Ein beeindruckendes Beispiel dafür findest Du in [diesem Video](https://www.youtube.com/watch?v=yewkv8pTAu0).
+1. **Sicherheitslücken**: Jede Abhängigkeit kann potenziell Sicherheitslücken enthalten. Ein beeindruckendes Beispiel dafür findest du in [diesem Video](https://www.youtube.com/watch?v=yewkv8pTAu0).
 
 2. **Update-Druck**: Mit mehr Abhängigkeiten steigt der Druck, immer auf dem neuesten Stand zu bleiben. Dies kann zeitaufwändig und manchmal problematisch sein.
 
@@ -48,7 +48,7 @@ Trotz der vielen Vorteile bringen Abhängigkeiten auch Risiken mit sich:
 
 ## Die Bedeutung von Frameworks
 
-Briefcase, was Du unter Umständen bereits verwendet hast, ist ein Framework. Frameworks geben eine Struktur vor, nach der Projekte organisiert sein müssen. Dies mag zunächst einschränkend erscheinen, bietet aber viele Vorteile:
+Briefcase, was du unter Umständen bereits verwendet hast, ist ein Framework. Frameworks geben eine Struktur vor, nach der Projekte organisiert sein müssen. Dies mag zunächst einschränkend erscheinen, bietet aber viele Vorteile:
 
 1. **Verbesserte Code-Lesbarkeit**: Durch einheitliche Strukturen wird es einfacher, sich in fremdem Code zurechtzufinden.
 
@@ -58,13 +58,13 @@ Briefcase, was Du unter Umständen bereits verwendet hast, ist ein Framework. Fr
 
 Andere beliebte Frameworks in der Python-Welt sind Django, Flask und FastAPI für Webentwicklung.
 
-<!--bisher nur Fokus auf Python, muss mit der Zeit nochmal überarbeitet werden-->
+<!--bisher nur Fokus auf Python, muss mit der Zeit nochmal überarbeitet werden (Stand: 13.05.25)-->
 
 ## Blick in die Zukunft: Mojo
 
-Während Python eine großartige Sprache zum Lernen und für viele Anwendungen ist, hat es Nachteile in Bezug auf Geschwindigkeit und Energieeffizienz. Deshalb werden wir in Zukunft auf Mojo umsteigen, eine Sprache, die Du im Verlauf dieses Lehrgangs kennenlernen wirst. Mojo verspricht, die Vorteile von Python mit deutlich verbesserter Performance zu kombinieren.
+Während Python eine großartige Sprache zum Lernen und für viele Anwendungen ist, hat es Nachteile in Bezug auf Geschwindigkeit und Energieeffizienz. Deshalb werden wir in Zukunft auf Mojo umsteigen, eine Sprache, die du im Verlauf dieses Lehrgangs kennenlernen wirst. Mojo verspricht, die Vorteile von Python mit deutlich verbesserter Performance zu kombinieren.
 
-<!--Plan vermutlich nicht mehr aktuell, da auf Java umgestiegen wird-->
+<!--Plan vermutlich nicht mehr aktuell, da auf Java umgestiegen wird (Stand: 13.05.25)-->
 
 ## Fazit
 
