@@ -2,15 +2,15 @@
 
 ## 1. Finde eine App-Idee
 
-Bevor Du mit dem Programmieren beginnst, ist es wichtig, eine geeignete Idee für Deine erste App zu finden. Hier sind einige Richtlinien:
+Bevor du mit dem Programmieren beginnst, ist es wichtig, eine geeignete Idee für deine erste App zu finden. Hier sind einige Richtlinien:
 
 - **Halte es einfach**: Deine erste App sollte überschaubar sein. Ziel ist es, das in den Tutorials Gelernte anzuwenden, nicht ein komplexes Projekt zu erstellen.
 
-- **Einfache GUI**: Strebe eine einfache grafische Benutzeroberfläche an. Idealerweise sollte Deine App nur ein Fenster haben oder maximal einen Fensterwechsel beinhalten.
+- **Einfache GUI**: Strebe eine einfache grafische Benutzeroberfläche an. Idealerweise sollte deine App nur ein Fenster haben oder maximal einen Fensterwechsel beinhalten.
 
-- **Brainstorming**: Nimm Dir Zeit, mehrere Ideen zu sammeln, bevor Du Dich für eine entscheidest. Qualität entsteht oft durch Quantität bei Ideen.
+- **Brainstorming**: Nimm dir Zeit, mehrere Ideen zu sammeln, bevor du dich für eine entscheidest. Qualität entsteht oft durch Quantität bei Ideen.
 
-- **Alltags- oder Hobbybezug**: Schau Dich in Deinem Alltag oder Deinen Hobbys um. Oft finden sich dort Probleme, die durch eine einfache App gelöst werden können.
+- **Alltags- oder Hobbybezug**: Schau dich in deinem Alltag oder deinen Hobbys um. Oft finden sich dort Probleme, die durch eine einfache App gelöst werden können.
 
 ### Beispiele für einfache App-Ideen
 
@@ -25,35 +25,35 @@ Bevor Du mit dem Programmieren beginnst, ist es wichtig, eine geeignete Idee fü
 9. Datumszähler mit KI-basierter Ereignisvorhersage
 10. KI-gestützter Passwortgenerator mit Sicherheitsbewertung
 
-Beachte, dass viele dieser App-Ideen durch die Integration von KI-Funktionen erheblich verbessert werden können. Im Kapitel [KI-Nutzung: Ein umfassender Leitfaden](docs/04-tools/05-ki/README.md) lernst Du, wie Du KI in Deine App implementieren kannst. Der Abschnitt bietet außerdem wertvolle Einblicke in verschiedene KI-Tools und -Plattformen, die Deine App-Entwicklung auf ein neues Level heben können.
+Beachte, dass viele dieser App-Ideen durch die Integration von KI-Funktionen erheblich verbessert werden können. Im Kapitel [KI-Nutzung: Ein umfassender Leitfaden](docs/04-tools/05-ki/README.md) lernst du, wie du KI in deine App implementieren kannst. Der Abschnitt bietet außerdem wertvolle Einblicke in verschiedene KI-Tools und -Plattformen, die deine App-Entwicklung auf ein neues Level heben können.
 
-In Abschnitt [7.1]<!--alter Abschnitt - wo sind die Informationen jetzt?--> findest Du umfassende Informationen zu:
+In Abschnitt [7.1]<!--alter Abschnitt - wo sind die Informationen jetzt? (Stand: 13.05.25)--> findest du umfassende Informationen zu:
 
 - Nutzung der ChatGPT API für natürliche sprachliche Interaktionen
 - Lokale KI-Modelle mit Ollama für datenschutzsensible Anwendungen
 - Zugriff auf eine Vielzahl von KI-Modellen über Hugging Face
 - Spezielle KI-Anwendungen für Konvertierungen von Sprache-zu-Text, Text-zu-Sprache und Text-zu-Bild
 
-Diese KI-Tools sind oft überraschend benutzerfreundlich und können auch von Anfängern effektiv eingesetzt werden. Sie bieten eine hervorragende Möglichkeit, Deine erste App mit fortschrittlichen Funktionen auszustatten, ohne tiefgreifende KI-Kenntnisse zu benötigen.
+Diese KI-Tools sind oft überraschend benutzerfreundlich und können auch von Anfängern effektiv eingesetzt werden. Sie bieten eine hervorragende Möglichkeit, deine erste App mit fortschrittlichen Funktionen auszustatten, ohne tiefgreifende KI-Kenntnisse zu benötigen.
 
-Denke daran, dass der Einsatz von KI Deine App zwar leistungsfähiger machen kann, aber achte darauf, den Umfang Deines ersten Projekts überschaubar zu halten. Wähle eine Idee, die Dich begeistert und die gleichzeitig realistisch für Deine erste App-Entwicklung ist.
+Denke daran, dass der Einsatz von KI deine App zwar leistungsfähiger machen kann, aber achte darauf, den Umfang deines ersten Projekts überschaubar zu halten. Wähle eine Idee, die dich begeistert und die gleichzeitig realistisch für deine erste App-Entwicklung ist.
 
 ## 2. Erstelle ein eigenes neues Repository
 
-Für Deine erste App ist es wichtig, ein eigenes Repository zu erstellen. Dies hilft Dir, Deine Arbeit zu organisieren und Versionskontrolle zu üben.
+Für deine erste App ist es wichtig, ein eigenes Repository zu erstellen. Dies hilft dir, deine Arbeit zu organisieren und Versionskontrolle zu üben.
 
-1. Gehe zu GitHub (oder Deiner bevorzugten Git-Plattform).
+1. Gehe zu GitHub (oder deiner bevorzugten Git-Plattform).
 2. Klicke auf "New Repository".
-3. Gib Deiner App einen Namen (z.B. "meine-erste-toga-app").
-4. Wähle "Public" oder "Private" je nach Deinen Präferenzen.
+3. Gib deiner App einen Namen (z.B. "meine-erste-toga-app").
+4. Wähle "Public" oder "Private" je nach deinen Präferenzen.
 5. Initialisiere das Repository mit einer README-Datei.
 6. Klicke auf "Create Repository".
 
-## 3. Erstelle Deine App
+## 3. Erstelle deine App
 
-Nun ist es Zeit, Deine App zu erstellen! Hier sind die grundlegenden Schritte:
+Nun ist es Zeit, deine App zu erstellen! Hier sind die grundlegenden Schritte:
 
-1. Klone Dein neues Repository auf Deinen lokalen Computer.
+1. Klone dein neues Repository auf deinen lokalen Computer.
 
 2. Öffne ein Terminal und navigiere zum geklonten Repository.
 
@@ -63,7 +63,7 @@ Nun ist es Zeit, Deine App zu erstellen! Hier sind die grundlegenden Schritte:
 briefcase new
 ```
 
-Folge den Anweisungen und verwende den Namen Deiner App.
+Folge den Anweisungen und verwende den Namen deiner App.
 
 4. Öffne das Projekt in Visual Studio Code:
 
@@ -71,15 +71,15 @@ Folge den Anweisungen und verwende den Namen Deiner App.
 code .
 ```
 
-5. Navigiere zur `app.py`-Datei in Deinem Projekt und beginne mit der Implementierung Deiner App-Logik.
+5. Navigiere zur `app.py`-Datei in deinem Projekt und beginne mit der Implementierung deiner App-Logik.
 
-6. Teste Deine App regelmäßig mit:
+6. Teste deine App regelmäßig mit:
 
    ```
    briefcase dev
    ```
 
-7. Wenn Du mit Deiner App zufrieden bist, committe und pushe Deine Änderungen zurück zu GitHub:
+7. Wenn du mit deiner App zufrieden bist, committe und pushe deine Änderungen zurück zu GitHub:
 
    ```
    git add .
@@ -89,13 +89,13 @@ code .
 
 ## Tipps für die Entwicklung
 
-- **Inkrementelle Entwicklung**: Entwickle Deine App in kleinen Schritten. Implementiere eine Funktion nach der anderen und teste häufig.
-- **Kommentare**: Kommentiere Deinen Code, um Deine Gedankengänge festzuhalten und den Code verständlicher zu machen.
-- **Fehlerbehandlung**: Denke an mögliche Fehler und wie Deine App damit umgehen soll.
+- **Inkrementelle Entwicklung**: Entwickle deine App in kleinen Schritten. Implementiere eine Funktion nach der anderen und teste häufig.
+- **Kommentare**: Kommentiere deinen Code, um deine Gedankengänge festzuhalten und den Code verständlicher zu machen.
+- **Fehlerbehandlung**: Denke an mögliche Fehler und wie deine App damit umgehen soll.
 - **Benutzerfreundlichkeit**: Achte auf eine intuitive Benutzeroberfläche, auch wenn die App einfach ist.
-- **Dokumentation**: Aktualisiere die README-Datei Deines Repositories mit einer kurzen Beschreibung Deiner App und Anweisungen zur Ausführung.
+- **Dokumentation**: Aktualisiere die README-Datei deines Repositories mit einer kurzen Beschreibung deiner App und Anweisungen zur Ausführung.
 
-Viel Erfolg bei der Erstellung Deiner ersten App! Denke daran, dass der Lernprozess genauso wichtig ist wie das Endergebnis. Zögere nicht, Fragen zu stellen oder Hilfe zu suchen, wenn Du auf Probleme stößt.
+Viel Erfolg bei der Erstellung deiner ersten App! Denke daran, dass der Lernprozess genauso wichtig ist wie das Endergebnis. Zögere nicht, Fragen zu stellen oder Hilfe zu suchen, wenn du auf Probleme stößt.
 
 **Quellen / Zitate:**
 

@@ -12,7 +12,7 @@ Diese Regeln wurden entwickelt, um die Bearbeitung der Dateien zu vereinfachen u
 
 - ( keine 01 oder 08 oder 012 )
 
-**2. kw = 1 bis 52, KEINE 01 ...**
+**2. kw = 1 bis 52, KEINE 01 ... (kw entspricht der Kalenderwoche des aktuellen Kalenderjahres.)**
 
 - bei Berichtsheft / Ausbildungsnachweis ( wir benennen die Datei "berichtsheft" )
 
