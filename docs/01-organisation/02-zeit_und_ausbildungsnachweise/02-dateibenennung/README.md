@@ -12,8 +12,15 @@ Diese Regeln wurden entwickelt, um die Bearbeitung der Dateien zu vereinfachen u
 
 - ( keine 01 oder 08 oder 012 )
 
-**2. kw = 1 bis 52, KEINE 01 ... (kw entspricht der Kalenderwoche des aktuellen Kalenderjahres.)**
+**2. kw = 1 bis 52, KEINE 01 ...**
 
+---
+
+ ⚠️ **Wichtig:** "kw" entspricht hier der *tatsächlichen* **aktuellen** Kalenderwoche des entsprechenden Kalenderjahres — **nicht** der Anzahl an Wochen, die seit Beginn deines Praktikums vergangen sind! 
+ Wenn deine **erste Praktikumswoche** bspw. am 12.05.2025 begonnen hat, dann handelt es sich dabei **nicht** um "**kw01**", sondern um **kw20 ❗ des Jahres 2025**.
+
+---
+ 
 - bei Berichtsheft / Ausbildungsnachweis ( wir benennen die Datei "berichtsheft" )
 
 - Beispiel: ID_musterovski_boris_berichtsheft_2024_kw1
