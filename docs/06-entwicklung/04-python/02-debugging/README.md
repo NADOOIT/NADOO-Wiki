@@ -4,7 +4,7 @@ Debugging ist ein wesentlicher Teil des Programmierprozesses. In diesem Abschnit
 
 ## 1. Fehlerhaftes Beispielskript
 
-Kopieren Sie den folgenden Code in eine Datei namens `buggy_script.py`:
+Kopiere den folgenden Code in eine Datei namens `buggy_script.py`:
 
 ```python
 # Dies ist ein Beispielskript mit verschiedenen Bugs und Grundkonzepten der Python-Programmierung
@@ -75,13 +75,13 @@ print("Programm beendet")
 
 ## 2. Fehleranalyse
 
-Führen Sie das Skript aus und analysieren Sie die Fehlermeldungen:
+Führe das Skript aus und analysiere die Fehlermeldungen:
 
 ```bash
 python buggy_script.py
 ```
 
-Sie werden verschiedene Fehlermeldungen sehen. Lassen Sie uns diese analysieren:
+Du wirst verschiedene Fehlermeldungen sehen. Lasse uns diese analysieren:
 
 1. `SyntaxError`: Fehlender Doppelpunkt nach der Funktionsdefinition (Zeile 11)
 2. `IndentationError`: Falsche Einrückung in der Funktion (Zeile 13)
@@ -98,7 +98,7 @@ Sie werden verschiedene Fehlermeldungen sehen. Lassen Sie uns diese analysieren:
 
 ### 3.1 Print-Debugging
 
-Print-Debugging ist die einfachste Methode zur Fehlersuche. Dabei fügen Sie print-Anweisungen in Ihren Code ein, um Variablenwerte oder den Programmfluss zu überprüfen:
+Print-Debugging ist die einfachste Methode zur Fehlersuche. Dabei fügst du print-Anweisungen in deinen Code ein, um Variablenwerte oder den Programmfluss zu überprüfen:
 
 ```python
 print(f"Der Wert von zahl ist: {zahl}")
@@ -123,12 +123,12 @@ Logging bietet verschiedene Ausgabeebenen (DEBUG, INFO, WARNING, ERROR, CRITICAL
 
 Der integrierte Debugger in VS Code ist ein mächtiges Werkzeug für die Fehlersuche:
 
-1. Setzen Sie Breakpoints, indem Sie links neben die Zeilennummern in VS Code klicken.
-2. Klicken Sie auf "Run and Debug" in der Seitenleiste von VS Code.
-3. Wählen Sie "Python File" aus dem Dropdown-Menü.
-4. Klicken Sie auf den grünen Play-Button oder drücken Sie F5.
+1. Setze Breakpoints, indem du links neben die Zeilennummern in VS Code klickst.
+2. Klicke auf "Run and Debug" in der Seitenleiste von VS Code.
+3. Wähle "Python File" aus dem Dropdown-Menü.
+4. Klicke auf den grünen Play-Button oder drücke F5.
 
-Mit dem Debugger können Sie:
+Mit dem Debugger kannst du:
 
 - Variablenwerte inspizieren
 - Schrittweise durch den Code gehen (Step Over, Step Into, Step Out)
@@ -184,13 +184,13 @@ print("Programm erfolgreich beendet!")
 
 ## 5. Debugging-Tipps
 
-1. Lesen Sie Fehlermeldungen sorgfältig. Sie enthalten oft wertvolle Informationen über den Ort und die Art des Problems.
-2. Verwenden Sie print-Anweisungen oder Logging, um den Zustand von Variablen an kritischen Stellen zu überprüfen.
-3. Nutzen Sie den VS Code Debugger für komplexere Probleme und um den Programmablauf Schritt für Schritt zu verfolgen.
-4. Testen Sie Ihren Code regelmäßig in kleinen Abschnitten, um Fehler frühzeitig zu erkennen.
-5. Kommentieren Sie Ihren Code ausführlich, um die Lesbarkeit und das Verständnis zu verbessern.
+1. Lies die Fehlermeldungen sorgfältig. Sie enthalten oft wertvolle Informationen über den Ort und die Art des Problems.
+2. Verwende print-Anweisungen oder Logging, um den Zustand von Variablen an kritischen Stellen zu überprüfen.
+3. Nutze den VS Code Debugger, um komplexe Probleme zu lösen und den Programmablauf Schritt für Schritt nachzuvollziehen. 
+4. Teste deinen Code regelmäßig in kleinen Abschnitten, um Fehler frühzeitig zu erkennen.
+5. Kommentiere deinen Code ausführlich, aber halte die Kommentare prägnant und informativ, um die Lesbarkeit und das Verständnis zu verbessern.
 
-Debugging ist eine Fähigkeit, die mit der Zeit und Übung verbessert wird. Je mehr Sie debuggen, desto besser werden Sie darin, Fehler schnell zu identifizieren und zu beheben.
+Debugging ist eine Fähigkeit, die mit der Zeit und Übung verbessert wird. Je mehr du debuggst, desto besser wirst du darin, Fehler schnell zu identifizieren und zu beheben.
 
 ## 6. Weiterführende Ressourcen
 
@@ -210,9 +210,9 @@ Debugging ist eine Fähigkeit, die mit der Zeit und Übung verbessert wird. Je m
 - 🔗 [Python Debugging in VS Code (Deutsch)](https://www.youtube.com/watch?v=w8QHoVam1-I)
 - 🔗 [Python Debugging Techniques (Englisch)](https://www.youtube.com/watch?v=_aCGeGvVoLk)
 
-Diese Ressourcen bieten zusätzliche Einblicke und praktische Übungen, um Ihre Debugging-Fähigkeiten zu verbessern. Denken Sie daran, dass effektives Debugging eine Kombination aus Wissen, Erfahrung und Geduld erfordert. Mit der Zeit werden Sie immer besser darin, Fehler zu finden und zu beheben.
+Diese Ressourcen bieten zusätzliche Einblicke und praktische Übungen, um deine Debugging-Fähigkeiten zu verbessern. Denke daran, dass effektives Debugging eine Kombination aus Wissen, Erfahrung und Geduld erfordert. Mit der Zeit wirst du immer besser darin, Fehler zu finden und zu beheben.
 
-## Citations
+## Quellen
 
 [1] <https://python.plainenglish.io/popular-and-easy-debugging-techniques-for-python-applications-79d6b8dd2999?gi=08e89f39b1d5>  
 [2] <https://databasecamp.de/en/python-coding/debugging-en>  
