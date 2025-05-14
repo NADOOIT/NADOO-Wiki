@@ -1,4 +1,4 @@
-# <p align="center">KAIZEN bei Christoph Backhaus IT: Eine Kultur der kontinuierlichen Verbesserung</p>
+# <p align="center">KAIZEN bei Christoph Backhaus IT: eine Kultur der kontinuierlichen Verbesserung</p>
 
 ## Einführung
 

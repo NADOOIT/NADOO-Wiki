@@ -1,4 +1,4 @@
-# Android - Smartphone als Webcam nutzen
+# Das Android-Smartphone als Webcam nutzen
 
 ## DroidCam Webcam-App installieren
 

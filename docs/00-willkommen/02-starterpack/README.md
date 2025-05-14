@@ -1,4 +1,4 @@
-# <p align="center">NADOO-IT for Newbies: Die wichtigsten Docs für deine Einstiegsphase</p>
+# <p align="center">NADOO-IT for Newbies: die wichtigsten Docs für deine Einstiegsphase</p>
 
 **Der Titel verrät es eigentlich schon:** Hier findest du eine **Auflistung** aller Wiki-Dokumente, die **für dich als Neuzugang besonders relevant** sind. Da unser Wiki laufend angepasst und erweitert wird, ist es bereits auf einen beachtlichen Umfang angewachsen. Tatsächlich ist das übergeordnete Ziel der kontinuierliche Ausbau - weniger wird's also definitiv nicht! 😁
 
@@ -40,3 +40,11 @@ Damit du nach den Informationen, die du vor allem für den Start in einem neuen 
 mögliche Docs:
  -->
 - Trainingsbeiträge
+
+---
+
+## Organisatorisches im Detail
+
+Generell findest du alles Weitere, was du zum Thema Organisatorisches wissen musst, im nächsten Wiki-Themenbereich [**Organisation und Rahmenbedingungen**](/docs/01-organisation/README.md).
+
+Dort wird neben den hier bereits verlinkten Einträgen **in großem Umfang** auf alles Mögliche rund um Christoph Backhaus / NADOO IT eingegangen.

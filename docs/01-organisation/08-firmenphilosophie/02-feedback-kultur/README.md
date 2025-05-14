@@ -1,4 +1,4 @@
-# <p align="center">Feedback-Kultur bei Christoph Backhaus IT</p>
+# <p align="center">Meinungsaustausch bei Christoph Backhaus IT: eine Kultur, die von Feedback lebt</p>
 
 ## Offene Kommunikation als Grundlage für gemeinsames Wachstum
 

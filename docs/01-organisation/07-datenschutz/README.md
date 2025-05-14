@@ -1,4 +1,4 @@
-# <p align="center">Umgang mit Unternehmensdaten bei Christoph Backhaus IT: Sicherheit und Vertraulichkeit als oberste Priorität</p>
+# <p align="center">Umgang mit Unternehmensdaten bei Christoph Backhaus IT — Sicherheit und Vertraulichkeit als oberste Priorität</p>
 
 ## Einführung
 

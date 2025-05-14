@@ -1,4 +1,4 @@
-# GitHub
+# Versionsverwaltung mit GitHub
 
 GitHub ist eine Plattform zur **Versionsverwaltung** und **Zusammenarbeit**, die auf Git basiert. Sie ermöglicht es Entwicklern, Code zu hosten, zu überprüfen und gemeinsam an Projekten zu arbeiten. Mit Funktionen wie Pull Requests, Issues und Actions unterstützt GitHub den gesamten Entwicklungsprozess von der Planung bis zur Bereitstellung.
 

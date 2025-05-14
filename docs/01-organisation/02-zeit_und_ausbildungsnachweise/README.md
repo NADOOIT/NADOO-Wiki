@@ -29,7 +29,7 @@ Abgesehen vom Anhang bleibt die E-Mail leer.
 
 #
 
-### Dieser Themen-Abschnitt beinhaltet folgende Kapitel:
+### Dieses Thema beinhaltet folgende Kapitel:
 
 #
 

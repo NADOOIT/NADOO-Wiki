@@ -1,4 +1,4 @@
-# Morgenmeetings – Allgemeine Zeitpläne
+# Zeitpläne des allgemeinen Morgenmeetings
 
 ## Montag, Dienstag, Donnerstag
 

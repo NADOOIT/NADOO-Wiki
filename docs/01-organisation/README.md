@@ -1,4 +1,4 @@
-# <p align="center">Organisation & Rahmenbedingungen</p>
+# <p align="center">Organisation und Rahmenbedingungen</p>
 
 <p align="center">
 <a href="#dieser-wiki-themenbereich-beinhaltet-folgende-themen-abschnitte">zu den Themen-Abschnitten</a>

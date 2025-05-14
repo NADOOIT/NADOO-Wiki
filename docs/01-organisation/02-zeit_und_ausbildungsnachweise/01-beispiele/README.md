@@ -7,7 +7,7 @@
 ---
 
 ## Ausbildungsnachweise
-
+<!-- hier sollte u.U. klar erwähnt werden, dass auch einfach die Vorlage für Berichtshefte weiterverwendet werden kann, die vom jeweiligen Bildungsträger ausgestellt wurde und die Beispiele (aktuell) wirklich nur zur Veranschaulichung dienen und nicht, um darauf basierend eine komplett neue Vorlage zu erstellen -->
 ### Ausbildungsnachweis (täglich)
 
 | Name des Auszubildenden: | Nachname, Vorname | | |

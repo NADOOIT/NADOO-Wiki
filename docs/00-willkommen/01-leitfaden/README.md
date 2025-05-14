@@ -6,7 +6,7 @@
 
 #
 
-### 1. Einstempeln
+## 1. Einstempeln
 
 Sobald du für deinen ersten Tag online kommst, darfst und solltest du dich einstempeln. Für die Zeiterfassung nutzen wir ein internes Tool, unser [**NADOO-Launchpad**](https://github.com/NADOOIT/NADOO-Launchpad).
 
@@ -22,9 +22,9 @@ Dieselbe Anleitung findest du außerdem im dedizierten Wiki-Kapitel [**Das NADOO
 
 ---
 
-### 2. Dein Start auf Discord
+## 2. Dein Start auf Discord
 
-#### 2.1 Anwesenheitskontrolle
+### 2.1 Anwesenheitskontrolle
 
 Christoph sollte dich bereits vor deinem ersten Tag auf dem Discord-Server **NADOO-IT** zum NADOO-Member ernannt und für die Interaktion in allen relevanten Kanälen freigeschaltet haben.
 
@@ -38,13 +38,13 @@ Wer ohne Grund oder vorherige Absprache mit Christoph bis 10:30 Uhr nicht da ist
 
 ---
 
-#### 2.2 Beitritt in ein 11er-Team
+### 2.2 Beitritt in ein 11er-Team
 
-Bei NADOO-IT arbeiten wir in sogennanten **11er-Teams**. Diese Teams, die (vorausgesetzt, es gibt genügend Mitglieder) intern nochmal in **3er-Teams** unterteilt werden, fokussieren sich jeweils auf bestimmte Themen- bzw. Arbeitsbereiche.
+Bei NADOO-IT arbeiten wir in sogennanten [**11er-Teams**](/docs/02-arbeiten_bei_nadoo/03-teams/README.md). Diese Teams, die (vorausgesetzt, es gibt genügend Mitglieder) intern nochmal in **3er-Teams** unterteilt werden, fokussieren sich jeweils auf bestimmte Themen- bzw. Arbeitsbereiche.
 
 **Nach Beenden der Anwesenheitskontrolle, triffst du dich um 10:30 Uhr mit deinem 11er-Team im festgelegten Discord-Kanal.**
 
-Welchem der Teams du beitreten möchtest, ist dir grundsätzlich selbst überlassen, insofern dieses nicht bereits voll ist.
+Welchem der [Teams](/docs/02-arbeiten_bei_nadoo/03-teams/README.md) du beitreten möchtest, ist dir grundsätzlich selbst überlassen, insofern dieses nicht bereits voll ist.
 Für den Anfang empfehlen wir dir jedoch, dich dem **Launch-Team** anzuschließen, dessen Kernziel die **laufende Anpassung und Optimierung des NADOO-Onboarding-Prozesses** ist.
 
 Da du dich als Neuzugang gerade mitten in diesem Prozess befindest, bist du aktiv Teil der Zielgruppe, an die sich das Onboarding richtet und somit ein wertvoller Ansprechspartner. Wenn dir in deinen ersten Tagen und Wochen also irgendwelche Unklarheiten, Fragen, Probleme oder Verbesserungs-Potenziale bezüglich des Onboardings auffallen, kannst du diese direkt im Team ansprechen und dich aktiv an der Optimierung des Prozesses beteiligen.
@@ -75,7 +75,7 @@ Natürlich solltest du schauen, dass du, wenn du dich einem Team anschließt, da
 
 ---
 
-### 3. Deine Aufgaben
+## 3. Deine Aufgaben
 
 Sowas wie eine "feste Aufgabe" gibt es für dich (noch) nicht direkt. Ein großer Teil deiner ersten Tage wird darin bestehen, dich in das [**NADOO-Wiki**](https://github.com/NADOOIT/NADOO-Wiki/) einzulesen und die **Issues** sowohl [**im Wiki-**](https://github.com/NADOOIT/NADOO-Wiki/issues) als auch [**im Launchpad-Repository**](https://github.com/NADOOIT/NADOO-Launchpad/issues) zu durchforsten.
 
@@ -89,24 +89,16 @@ Wir empfehlen dir jedoch, erstmal ganz entspannt anzukommen. Nutze die ersten pa
 
 ---
 
-### Übersicht: Dein Fahrplan für den ersten Tag
+## Übersicht: dein Fahrplan für den ersten Tag
 
 | Uhrzeit              | Beschreibung                                        | Wo?                                                                                               |
 | -------------------- | --------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
 | 06:00 bis 10:14 Uhr  | **Einstempeln** / Arbeitstag beginnen               | **Launchpad**-App                                                                                 |
-| 10:14 bis 10:30 Uhr  | **Anwesenheitskontrolle**                           | Discord-Channel **Team-Launch** (gelber Punkt)                                                    |
+| 10:14 bis 10:30 Uhr  | **Anwesenheitskontrolle**                           | Discord-Channel **33er [weekly]** (roter Punkt)                                                    |
 | 10:30 bis 11:20 Uhr  | **11er-Meeting**                                    | Discord-Channel **Code Qualität & Research** ODER einer der **Team-Launch**-Kanäle (grüner Punkt) |
-| ab 11:20 - 11:45 Uhr | freies Arbeiten und Netzwerken mit Team-Mitgliedern | _Discord-Channel deiner Wahl_                                                                     |
+| ab 11:20 - 11:45 Uhr | freies Arbeiten / Netzwerken mit Team-Mitgliedern | Discord-Channel deiner Wahl                                                                     |
 | _freie Einteilung_   | **Pause**                                           | Discord-Channels **afk** ODER **Ruhebereich**                                                     |
 | _freie Einteilung_   | **Stillarbeit**                                     | Discord-Channel **Ruhebereich**                                                                   |
-
----
-
-## Organisatorisches
-
-Alles Weitere, was du zum Thema Organisatorisches wissen musst, findest du im nächsten Wiki-Themenbereich **Organisation und Rahmenbedingungen**.
-
-Dort wird umfassend auf grundlegende Punkte wie Zeiterfassung, Ausbildungsnachweise, Urlaub, Pausen, Krankmeldung, Umgangskultur und vieles mehr eingegangen.
 
 ---
 

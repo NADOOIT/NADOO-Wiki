@@ -1,6 +1,6 @@
-# Kommunikation und Zusammenarbeit
+# Tools und Voraussetzungen
 
-## Discord als zentrales Tool
+## Discord als zentrales Kommunikations-Tool
 
 Unsere interne Kommunikation erfolgt über Discord.
 

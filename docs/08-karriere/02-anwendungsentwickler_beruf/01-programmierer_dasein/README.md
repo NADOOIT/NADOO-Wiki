@@ -1,4 +1,4 @@
-# 1.9 Die Verantwortung und Unsicherheit des Programmierer-Daseins
+# Die Verantwortung und Unsicherheit des Programmierer-Daseins
 
 In der glitzernden Welt der Technologie, wo Innovationen im Sekundentakt entstehen und Codezeilen die Zukunft formen, verbirgt sich eine oft übersehene Realität: die immense Verantwortung und die damit einhergehende Unsicherheit, die auf den Schultern von Programmierern lastet. Dieser Artikel beleuchtet die Schattenseiten und Herausforderungen des Berufs, aber auch die unglaublichen Chancen und die Hoffnung, die er mit sich bringt.
 

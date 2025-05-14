@@ -1,5 +1,7 @@
-# Netzwerken auf GitHub, LinkedIn und Xing
+# Social Media für dein berufliches Netzwerk
 
+## Netzwerken auf GitHub, LinkedIn und Xing
+<!-- ggf. inhaltliche Anpassungen ; Kapitelübersicht hinzufügen -->
 Das Netzwerken ist ein zentraler Bestandteil Deiner Karriereentwicklung. Besonders im IT-Bereich ist es wichtig, Kontakte zu pflegen und Dich mit anderen Fachleuten zu vernetzen.
 
 Diese Anleitung zeigt Dir, wie Du effektiv Netzwerkanfragen über GitHub, LinkedIn und Xing senden und Dein berufliches Netzwerk ausbauen kannst.
