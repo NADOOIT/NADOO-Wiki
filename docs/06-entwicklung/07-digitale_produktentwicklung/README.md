@@ -1,9 +1,15 @@
 # Dein Einstieg in die digitale Produktentwicklung
-<!-- dringende inhaltliche Überarbeitung des Themas notwendig: 
+<!-- 
+Stand: 12.05.2025
 
--> es muss ein fließender Übergang von "dein Eintsteg" bzw. "deine Aufgabe" zu "lizenzen" und dann zu "erste eigene app" stattfinden 
+dringende inhaltliche Überarbeitung des Themas notwendig: 
 
--> Reihenfolge der Docs wurde angepasst, Text bisher nicht/nur minimal
+-> es muss ein fließender Übergang von "dein Eintstieg" bzw. "deine Aufgabe" zu "Lizenzen" und dann zu "erste eigene App" stattfinden 
+
+Stand: 14.05.2025
+
+-> Reihenfolge der Docs wurde angepasst: thematisch arbeitet der komplette Themenbereich 06-entwicklung auf die Übungsaufgabe hin - daher komplettes Verzeichnis ensprechend umstrukturiert. Texte bisher teilweise angepasst, aber bisher nur lokal (-> inhaltlicher roter Faden steht, Implementierung/Umsetzung wip) 
+
 -> hier im Doc noch Kapitelübersicht hinzufügen -->
 Digitale Produkte sind das Herzstück jedes IT-Unternehmens. Sie umfassen sowohl Dienstleistungen (z. B. Einrichtung, Wartung, Schulungen) als auch Softwareprodukte (z. B. Apps).
 

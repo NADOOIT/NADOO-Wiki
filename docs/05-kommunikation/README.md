@@ -1,4 +1,4 @@
-# Kommunikation und Zusammenarbeit
+# Tools und Voraussetzungen
 
 ## Discord als zentrales Kommunikations-Tool
 

@@ -8,7 +8,7 @@ Hier findest du sowohl eine Übersicht aller **aktuell bestehenden 11er-Teams sa
 
 #
 
-1. [**Derzeit aktive Teams**](docs/02-arbeiten_bei_nadoo/03-teamuebersicht/01-aktive_teams/README.md)
+1. [**Derzeit aktive Teams**](docs/02-arbeiten_bei_nadoo/03-teams/01-aktive_teams/README.md)
 
-2. [**Ehemalige Teams und ihre abgeschlossenen Projekte**](docs/02-arbeiten_bei_nadoo/03-teamuebersicht/02-team_archiv/README.md)
+2. [**Ehemalige Teams und ihre abgeschlossenen Projekte**](docs/02-arbeiten_bei_nadoo/03-teams/02-team_archiv/README.md)
 

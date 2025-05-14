@@ -1,4 +1,4 @@
-# <p align="center">Das NADOO-Launchpad: Was es kann und wie es funktioniert</p>
+# <p align="center">Das NADOO-Launchpad — was es kann und wie es funktioniert</p>
  
 
 <!--

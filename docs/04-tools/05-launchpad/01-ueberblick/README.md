@@ -1,4 +1,4 @@
-# Das NADOO-Launchpad - Ein grundlegender Überblick
+# Das NADOO-Launchpad - ein grundlegender Überblick
 
 <!-- Mögliche Inhalte / zu beantwortende Fragen:
 
