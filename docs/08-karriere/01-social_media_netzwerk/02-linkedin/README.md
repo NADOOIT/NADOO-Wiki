@@ -1,8 +1,4 @@
-<<<<<<<< HEAD:docs/08-karriere/01-social_media_netzwerk/02-linkedin/README.md
-# Dein LinkedIn-Profil erstellen und optimieren
-========
-# LinkedIn-Profil erstellen und optimieren
->>>>>>>> main:docs/07-karriere/03-netzwerken/02-linkedin-profil/README.md
+# Dein LinkedIn-Profil
 
 Ein professionelles LinkedIn-Profil ist Dein Aushängeschild im beruflichen Netzwerk. Es ermöglicht Dir, Deine Fähigkeiten, Erfahrungen und Interessen zu präsentieren und Dich mit anderen Fachleuten zu vernetzen. In dieser Anleitung erfährst Du, wie Du ein überzeugendes LinkedIn-Profil erstellen und optimieren kannst.
 

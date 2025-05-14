@@ -1,5 +1,5 @@
-# <p align="center">11er-Meeting (Montag, Dienstag und Donnerstag)</p>
-
+# <p align="center">11er-Meeting</p>
+### Montag, Dienstag und Donnerstag
 <br>
 
 **Dauer:** 30–60 Minuten (im Gesamtablauf standardmäßig 60 Minuten)
