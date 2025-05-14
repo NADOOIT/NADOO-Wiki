@@ -57,18 +57,19 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
 <details>
 <summary>Das Wiki-Docs-Starterpack</summary>
 
-  &nbsp;&nbsp;🔹 [NADOO-IT for Newbies: die wichtigsten Docs für deine Einstiegsphase](/docs/00-willkommen/02-starterpack-start/README.md)
+  &nbsp;&nbsp;🔹 [NADOO-IT for Newbies: die wichtigsten Docs für deine Einstiegsphase](/docs/00-willkommen/02-starterpack/README.md)
 
 </details>
 
 <details>
 <summary>Deine Mitgestaltung des NADOO-Wikis</summary>
 
-  &emsp;🎨 [**Der Wiki-Doc-Styleguide:** Einführung und Übersicht der Kapitel](/docs/00-willkommen/03-styleguide/README.md)
+  &emsp;🎨 [**Der Wiki-Doc-Styleguide:** Einführung und Inhaltsverzeichnis](/docs/00-willkommen/03-styleguide/README.md)
   
   &nbsp;&nbsp;🔹 [[Textvorlage / Template] Platzhalter für leere Docs](/docs/00-willkommen/03-styleguide/00-platzhalter/README.md) <br>
         &emsp;&emsp;◻️ [Step-by-Step: so verwendest du die Vorlage](/docs/00-willkommen/03-styleguide/00-platzhalter/01-anleitung/README.md) <br>
         &emsp;&emsp;◻️ [Vorschau des Platzhalters zur Ansicht im Browser](/docs/00-willkommen/03-styleguide/00-platzhalter/02-vorschau/README.md) <br>
+        
 </details>
 
 ---
@@ -133,7 +134,7 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
 <details>
 <summary>Mutterschutz und Elternzeit</summary>
 
-  &nbsp;&nbsp;🔹 [Gesetzliche Regelungen zu Mutterschutz und Elternzeit](/docs/01-organisation/06-mutterschutz-elternzeit/README.md)
+  &nbsp;&nbsp;🔹 [Gesetzliche Regelungen zu Mutterschutz und Elternzeit](/docs/01-organisation/06-mutterschutz_und_elternzeit/README.md)
 
 </details>
 
@@ -199,10 +200,10 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
 <details>
 <summary>Übersicht aller Teams und Projekte</summary>
 
-  &emsp;📄 [Kapitel-Übersicht](/docs/02-arbeiten_bei_nadoo/03-teamuebersicht/README.md)
+  &emsp;📄 [Kapitel-Übersicht](/docs/02-arbeiten_bei_nadoo/03-teams/README.md)
   
-  &nbsp;&nbsp;🔹 [Derzeit aktive Teams](docs/02-arbeiten_bei_nadoo/03-teamuebersicht/01-aktive_teams/README.md) <br>
-  &nbsp;&nbsp;🔹 [Team-Archiv: ehemalige Teams und ihre abgeschlossenen Projekte](docs/02-arbeiten_bei_nadoo/03-teamuebersicht/02-team_archiv/README.md) <br>
+  &nbsp;&nbsp;🔹 [Derzeit aktive Teams](docs/02-arbeiten_bei_nadoo/03-teams/01-aktive_teams/README.md) <br>
+  &nbsp;&nbsp;🔹 [Team-Archiv: ehemalige Teams und ihre abgeschlossenen Projekte](docs/02-arbeiten_bei_nadoo/03-teams/02-team_archiv/README.md) <br>
 
 </details>
 
@@ -241,24 +242,24 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
   
   &nbsp;&nbsp;🔹 [**Repository**](/docs/04-tools/01-github/01-repository/README.md) <br>
   &nbsp;&nbsp;🔹 [**Branches**](/docs/04-tools/01-github/02-branches/README.md) <br>
-        &emsp;&emsp;◻️ [GitHub Branch Protection: Sicherheit und Qualität im Entwicklungsprozess](/docs/04-tools/01-github/02-branches/01-protection/README.md) <br>
+        &emsp;&emsp;◻️ [GitHub Branch Protection: Sicherheit und Qualität im Entwicklungsprozess](/docs/04-tools/01-github/02-branches/01-protection/README.md) <br><br>
   &nbsp;&nbsp;🔹 [**Pull Requests**](/docs/04-tools/01-github/03-pull-requests/README.md) <br>
         &emsp;&emsp;◻️ [Merge Konflikte](/docs/04-tools/01-github/03-pull-requests/01-merge-konflikte/README.md) <br>
-        &emsp;&emsp;◻️ [Code Review](/docs/04-tools/01-github/03-pull-requests/02-code-review/README.md) <br>
+        &emsp;&emsp;◻️ [Code Review](/docs/04-tools/01-github/03-pull-requests/02-code-review/README.md) <br><br>
   &nbsp;&nbsp;🔹 [**Issues**](/docs/04-tools/01-github/04-issues/README.md) <br>
         &emsp;&emsp;◻️ [Selbstständig Veränderungen innerhalb des Wikis vornehmen: ein kleiner Guide](/docs/04-tools/01-github/04-issues/01-wiki-guide/README.md) <br>
         &emsp;&emsp;◻️ [Labels](/docs/04-tools/01-github/04-issues/02-labels/README.md) <br>
-        &emsp;&emsp;◻️ [Types](/docs/04-tools/01-github/04-issues/02-types/README.md) <br>
-        &emsp;&emsp;◻️ [Assignees](/docs/04-tools/01-github/04-issues/03-assignees/README.md) <br>
-        &emsp;&emsp;◻️ [Milestones](/docs/04-tools/01-github/04-issues/04-milestones/README.md) <br>
-        &emsp;&emsp;◻️ [Projects](/docs/04-tools/01-github/04-issues/05-projects/README.md) <br>
-        &emsp;&emsp;◻️ [Discussions](/docs/04-tools/01-github/04-issues/06-discussions/README.md) <br>
-        &emsp;&emsp;◻️ [Templates](/docs/04-tools/01-github/04-issues/07-templates/README.md) <br>
+        &emsp;&emsp;◻️ [Types](/docs/04-tools/01-github/04-issues/03-types/README.md) <br>
+        &emsp;&emsp;◻️ [Assignees](/docs/04-tools/01-github/04-issues/04-assignees/README.md) <br>
+        &emsp;&emsp;◻️ [Milestones](/docs/04-tools/01-github/04-issues/05-milestones/README.md) <br>
+        &emsp;&emsp;◻️ [Projects](/docs/04-tools/01-github/04-issues/06-projects/README.md) <br>
+        &emsp;&emsp;◻️ [Discussions](/docs/04-tools/01-github/04-issues/07-discussions/README.md) <br>
+        &emsp;&emsp;◻️ [Templates](/docs/04-tools/01-github/04-issues/08-templates/README.md) <br><br>
   &nbsp;&nbsp;🔹 [**Actions**](/docs/04-tools/01-github/05-actions/README.md) <br>
   &nbsp;&nbsp;🔹 [**GitHub-Notifications und Visual Studio Code**](/docs/04-tools/01-github/06-notifications/README.md) <br>
   &nbsp;&nbsp;🔹 [**Die GitHub-Suchfunktion effizient nutzen**](/docs/04-tools/01-github/07-suche/README.md) <br>
   &nbsp;&nbsp;🔹 [**Markdown**](/docs/04-tools/01-github/08-markdown/README.md) <br>
-<!-- Vorschlag Code-/Formatierungsstandard: sobald in einem Themenbereich Kapitel mit Abschnitten (◻️ Unterordnern) auftauchen, werden Kapitel-Namen für verbesserte Lesbarkeit fettgeschrieben -->
+
 </details>
 
 <!-- Visual Studio Code -->
@@ -300,26 +301,26 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
 <!-- Launchpad -->
 
 <details>
-<summary>Das NADOO-Launchpad: Was es kann und wie es funktioniert</summary>
+<summary>Das NADOO-Launchpad — was es kann und wie es funktioniert</summary>
 
  &emsp;📄 [Kapitel-Übersicht](/docs/04-tools/05-launchpad/README.md) 
   
-  &nbsp;&nbsp;🔹 [**Das NADOO-Launchpad - Ein grundlegender Überblick**](/docs/04-tools/05-launchpad/01-ueberblick/README.md) <br> 
-       &emsp;&emsp;◻️ [Installation [Windows](/docs/04-tools/05-launchpad/01-ueberblick/01-windows/README.md) <br>
-       &emsp;&emsp;◻️ [Installation [MAC]](/docs/04-tools/05-launchpad/01-ueberblick/02-mac/README.md) <br>
+  &nbsp;&nbsp;🔹 [**Das NADOO-Launchpad - ein grundlegender Überblick**](/docs/04-tools/05-launchpad/01-ueberblick/README.md) <br> 
+       &emsp;&emsp;◻️ [Installation [Windows]](/docs/04-tools/05-launchpad/01-ueberblick/01-windows/README.md) <br>
+       &emsp;&emsp;◻️ [Installation [MAC]](/docs/04-tools/05-launchpad/01-ueberblick/02-mac/README.md) <br><br>
   &nbsp;&nbsp;🔹 [**Der Launchpad-Feature-Guide: Funktions- und Anwendungsweise aller Features und Komponenten**](/docs/04-tools/05-launchpad/02-features/README.md) <br>
-       &emsp;&emsp;◻️ [[Feature-Guide] Menüleiste](/docs/04-tools/05-launchpad/02-features/01-features/README.md) <br> 
-       &emsp;&emsp;◻️ [[Feature-Guide] Berechtigungen](/docs/04-tools/05-launchpad/02-features/01-features/README.md) <br> 
-       &emsp;&emsp;◻️ [[Feature-Guide]: Tokens](/docs/04-tools/05-launchpad/01-guide/02-features/README.md) <br>
-       &emsp;&emsp;◻️ [[Feature-Guide] Erfassung der Arbeitszeiten](/docs/04-tools/05-launchpad/02-features/01-features/README.md) <br>
-       &emsp;&emsp;◻️ [[Feature-Guide] Projektverwaltung](/docs/04-tools/05-launchpad/02-features/01-features/README.md) <br>
-       &emsp;&emsp;◻️ [[Feature-Guide] Aktivitäten](/docs/04-tools/05-launchpad/02-features/01-features/README.md) <br> 
-       &emsp;&emsp;◻️ [[Feature-Guide]: Wochenübersicht](/docs/04-tools/05-launchpad/02-features/01-features/README.md) <br> 
-       &emsp;&emsp;◻️ [[Feature-Guide] Watchdog](/docs/04-tools/05-launchpad/02-features/01-features/README.md) <br> 
-       &emsp;&emsp;◻️ [[Feature-Guide] Create Snippets](/docs/04-tools/05-launchpad/02-features/01-features/README.md) <br>
-       &emsp;&emsp;◻️ [[Feature-Guide] Function Names](/docs/04-tools/05-launchpad/02-features/01-features/README.md) <br> 
-       &emsp;&emsp;◻️ [[Feature-Guide] Tokens versenden](/docs/04-tools/05-launchpad/02-features/01-features/README.md) <br> 
-  &nbsp;&nbsp;🔹 [**Video-Tutorials und Demonstrationen**](/docs/04-tools/05-launchpad/03-videos/README.md) <br> <!-- Titel/Info zu Videos im Doc angeben & evtl. Reihenfolge anpassen (Video 1: "Issue Workflow"....) --> 
+       &emsp;&emsp;◻️ [[Feature-Guide] Menüleiste](/docs/04-tools/05-launchpad/02-features/01-menu/README.md) <br> 
+       &emsp;&emsp;◻️ [[Feature-Guide] Berechtigungen](/docs/04-tools/05-launchpad/02-features/02-berechtigungen/README.md) <br> 
+       &emsp;&emsp;◻️ [[Feature-Guide]: Tokens](/docs/04-tools/05-launchpad/01-guide/03-tokens/README.md) <br>
+       &emsp;&emsp;◻️ [[Feature-Guide] Erfassung der Arbeitszeiten](/docs/04-tools/05-launchpad/02-features/04-zeiterfassung/README.md) <br>
+       &emsp;&emsp;◻️ [[Feature-Guide] Projektverwaltung](/docs/04-tools/05-launchpad/02-features/05-projektverwaltung/README.md) <br>
+       &emsp;&emsp;◻️ [[Feature-Guide] Aktivitäten](/docs/04-tools/05-launchpad/02-features/06-aktivitaeten/README.md) <br> 
+       &emsp;&emsp;◻️ [[Feature-Guide]: Wochenübersicht](/docs/04-tools/05-launchpad/02-features/07-wochenuebersicht/README.md) <br> 
+       &emsp;&emsp;◻️ [[Feature-Guide] Watchdog](/docs/04-tools/05-launchpad/02-features/08-watchdog/README.md) <br> 
+       &emsp;&emsp;◻️ [[Feature-Guide] Create Snippets](/docs/04-tools/05-launchpad/02-features/09-create_snippets/README.md) <br>
+       &emsp;&emsp;◻️ [[Feature-Guide] Function Names](/docs/04-tools/05-launchpad/02-features/10-function_names/README.md) <br> 
+       &emsp;&emsp;◻️ [[Feature-Guide] Tokens versenden](/docs/04-tools/05-launchpad/02-features/11-t_bar_senden/README.md) <br><br> 
+  &nbsp;&nbsp;🔹 [**Video-Tutorials und Demonstrationen**](/docs/04-tools/05-launchpad/03-videos/README.md) <br>
  
 </details>
 
@@ -348,7 +349,7 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
   &emsp;📄 [Kapitel-Übersicht](/docs/05-kommunikation/README.md)
   
   &nbsp;&nbsp;🔹 [**Discord: Die zentrale Kommunikationsplattform bei Christoph Backhaus / NADOO-IT**](/docs/05-kommunikation/01-discord/README.md) <br>
-        &emsp;&emsp;◻️ [Anmeldung und Einrichtung](/docs/05-kommunikation/01-discord/01-einrichtung/README.md) <br>
+        &emsp;&emsp;◻️ [Anmeldung und Einrichtung](/docs/05-kommunikation/01-discord/01-einrichtung/README.md) <br><br>
   &nbsp;&nbsp;🔹 [**Video- und Bildschirmübertragung**](/docs/05-kommunikation/02-webcam/README.md) <br>
         &emsp;&emsp;◻️ [Das Android-Smartphone als Webcam nutzen](/docs/05-kommunikation/02-webcam/01-droidcam/README.md) <br>
         &emsp;&emsp;◻️ [Das iPhone als Webcam für den Mac verwenden](/docs/05-kommunikation/02-webcam/02-ios/README.md) <br>
@@ -374,36 +375,62 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
 <details>
 <summary>Clean Architecture</summary>
 
-  &nbsp;&nbsp;🔹 [Clean Architecture](/docs/06-entwicklung/02-clean_architecture/README.md)
+  &emsp;📄 [Kapitel-Übersicht](/docs/06-entwicklung/02-clean_architecture/README.md)
+  
+  &nbsp;&nbsp;🔹 [Clean Architecture in der Praxis](/docs/06-entwicklung/02-clean_architecture/01-praxisbeispiel/README.md) <br>
+  &nbsp;&nbsp;🔹 [Best Practices und Tipps für Einsteiger(-Teams)](/docs/06-entwicklung/02-clean_architecture/02-best_practices/README.md) <br>
+
 </details>
 
-<!-- das NADOO-Framework -->
+<!-- Lizenzen und Open Source -->
 
 <details>
-<summary>Das NADOO-IT-Framework</summary>
+<summary>Lizenzen, Open Source und Softwareabhängigkeiten</summary>
+  
+  &nbsp;&nbsp;🔹 [Lizenzen, Open Source und die Welt der Softwareabhängigkeiten](docs/06-entwicklung/06-digitale_produkte/03-lizenzen_open_source/README.md) <br>
 
-  &nbsp;&nbsp;🔹 [Das NADOO-IT-Framework](/docs/06-entwicklung/03-nadoo_framework/README.md)
+</details>
+
+<!-- Python -->
+
+<details>
+<summary>Python</summary>
+
+  &emsp;📄 [Kapitel-Übersicht](docs/06-entwicklung/04-python/README.md) 
+  
+  &nbsp;&nbsp;🔹 [**Erste Schritte**](/docs/06-entwicklung/04-python/01-einstieg/README.md) <br>
+        &emsp;&emsp;◻️ [Python und virtuelle Umgebungen — ein Überblick](/docs/06-entwicklung/04-python/01-einstieg/01-virtuelle_umgebungen/README.md) <br>
+        &emsp;&emsp;◻️ [Installation und Erstellung der virtuellen Umgebung](/docs/06-entwicklung/04-python/01-einstieg/02-installation/README.md) <br>
+        &emsp;&emsp;◻️ [Python-Grundkonzepte: Veranschaulichung anhand eines Beispielskripts](/docs/06-entwicklung/04-python/01-einstieg/03-grundkonzept_bsp/README.md) <br><br>
+  &nbsp;&nbsp;🔹 [**Debugging in Python**](/docs/04-entwicklung/04-python/02-debugging/README.md) <br>
+
 </details>
 
 <!-- Java -->
 
 <details>
 <summary>Java</summary>
-
-  &nbsp;&nbsp;🔹 [Java - Ein Überblick](/docs/06-entwicklung/04-java/README.md)
+  
+  &emsp;📄 [Kapitel-Übersicht](docs/06-entwicklung/05-java/README.md) <!-- vorsorglich angelegt, da hier wohl noch mehr Inhalte eingeplant sind -->
+  
+  &nbsp;&nbsp;🔹 [Java](/docs/06-entwicklung/05-java/README.md)
+  
 </details>
 
-<!-- Python -->
+<!-- Frameworks -->
 
 <details>
-<summary> Python</summary>
+<summary>Frameworks</summary>
 
-  &emsp;📄 [Kapitel-Übersicht](docs/06-entwicklung/05-python/README.md) 
+  &emsp;📄 [Kapitel-Übersicht](docs/06-entwicklung/06-frameworks/README.md)
   
-  &nbsp;&nbsp;🔹 [**Installation**](/docs/06-entwicklung/05-python/01-installation/README.md) <br>
-  &nbsp;&nbsp;🔹 [**Debugging in Python**](/docs/05-entwicklung/05-python/02-debugging/README.md) <br>
-  &nbsp;&nbsp;🔹 [**Briefcase und Toga: Python-Frameworks für plattformübergreifende Apps**](/docs/06-entwicklung/05-python/02-briefcase-toga/README.md) <br>
-        &emsp;&emsp;◻️ [Debugging und Fehlerbehandlung in Briefcase und Toga](/docs/06-entwicklung/05-python/03-briefcase-toga/01-debugging/README.md) <br>
+  &nbsp;&nbsp;🔹 [**Das NADOO-IT-Framework**](/docs/06-entwicklung/06-frameworks/06-frameworks/01-nadoo_framework/README.md)
+
+  &nbsp;&nbsp;🔹 [**Briefcase und Toga: Python-Frameworks für plattformübergreifende Apps**](/docs/06-entwicklung/06-frameworks/02-briefcase_und_toga/README.md) <br>
+        &emsp;&emsp;◻️ [Briefcase](/docs/06-entwicklung/06-frameworks/02-briefcase_und_toga/01-briefcase/README.md) <br>
+        &emsp;&emsp;◻️ [Toga](/docs/06-entwicklung/06-frameworks/02-briefcase_und_toga/02-toga/README.md) <br>
+        &emsp;&emsp;◻️ [Briefcase und Toga Hand in Hand - die beiden Tools im Vergleich und in Kombination](/docs/06-entwicklung/06-frameworks/02-briefcase_und_toga/03-zusammenspiel/README.md) <br>
+        &emsp;&emsp;◻️ [Debugging und Fehlerbehandlung in Briefcase und Toga](/docs/06-entwicklung/06-frameworks/02-briefcase_und_toga/04-debugging/README.md) <br>
 
 </details>
 
@@ -412,12 +439,12 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
 <details>
 <summary>Dein Einstieg in die digitale Produktentwicklung</summary> 
 
-  &emsp;📄 [Kapitel-Übersicht](docs/06-entwicklung/06-digitale_produktentwicklung/README.md) <!-- Ordner umbenannt | entsprechende Anpassungen ausstehend -->
+  &emsp;📄 [Kapitel-Übersicht](docs/06-entwicklung/07-digitale_produktentwicklung/README.md)
   
-  &nbsp;&nbsp;🔹 [Dein Einstieg in die digitale Produktentwicklung](docs/06-entwicklung/06-digitale_produkte/01-einstieg/README.md) <br>
-  &nbsp;&nbsp;🔹 [Deine erste eigene App](docs/06-entwicklung/06-digitale_produkte/02-eigene_app/README.md) <br>
-  &nbsp;&nbsp;🔹 [Lizenzen, Open Source und die Welt der Softwareabhängigkeiten](docs/06-entwicklung/06-digitale_produkte/03-lizenzen_open_source/README.md) <br>
-<!-- eig. wäre erst Lizenzen, dann erste App als Reihenfolge sinnvoller, dann müssten aber die Texte angepasst werden, da diese aufeinander aufbauen -->
+  &nbsp;&nbsp;🔹 [Phase 1: Ideenfindung und Projektvorbereitung](docs/06-entwicklung/07-digitale_produktentwicklung/01-idee_und_vorbereitung/README.md) <br>
+  &nbsp;&nbsp;🔹 [Phase 2: Von der Idee zur Umsetzung](docs/06-entwicklung/07-digitale_produktentwicklung/02-umsetzung/README.md) <br>
+  &nbsp;&nbsp;🔹 [Phase 3: Feedback und Testing](docs/06-entwicklung/07-digitale_produktentwicklung/03-feedback_und_testing/README.md) <br>
+
 </details>
 
 ---
@@ -435,10 +462,10 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
   
   &nbsp;&nbsp;🔹 [**Zeitmanagement**](/docs/07-methoden_und_projekte/01-zeitmanagement/README.md) <br>
   &nbsp;&nbsp;🔹 [**Projektplanung**](/docs/07-methoden_und_projekte/02-planung/README.md) <br>
-        &emsp;&emsp;◻️ [Leitfaden zur Erstellung eines Projektantrags](/docs/07-methoden_und_projekte/02-planung/01-antrag/README.md) <br>
+        &emsp;&emsp;◻️ [Leitfaden zur Erstellung eines Projektantrags](/docs/07-methoden_und_projekte/02-planung/01-antrag/README.md) <br><br>
   &nbsp;&nbsp;🔹 [**Projektmanagement**](/docs/07-methoden_und_projekte/03-projektmanagement/README.md) <br>
   &nbsp;&nbsp;🔹 [**Projektphasen**](/docs/07-methoden_und_projekte/04-phasen/README.md) <br>
-  &nbsp;&nbsp;🔹 [**Das IHK-Abschlussprojekt**](/docs/07-methoden_und_projekte/05-abschluss/README.md) <br>
+  &nbsp;&nbsp;🔹 [**Das IHK-Abschlussprojekt**](/docs/07-methoden_und_projekte/05-abschlussprojekt/README.md) <br>
 
 </details>
 
@@ -447,10 +474,10 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
 <details>
 <summary>Bewährte Methoden und Frameworks im Projektmanagement</summary>
 
-  &emsp;📄 [Kapitel-Übersicht](/docs/07-methoden/02-methoden/README.md)
+  &emsp;📄 [Kapitel-Übersicht](/docs/07-methoden_und_projekte/02-methoden/README.md)
   
-  &nbsp;&nbsp;🔹 [Scrum](/docs/07-methoden/02-methoden/01-scrum/README.md) <br>
-  &nbsp;&nbsp;🔹 [Kanban](/docs/07-methoden/02-methoden/02-kanban/README.md) <br>
+  &nbsp;&nbsp;🔹 [Scrum](/docs/07-methoden/02-methoden_und_projekte/01-scrum/README.md) <br>
+  &nbsp;&nbsp;🔹 [Kanban](/docs/07-methoden/02-methoden_und_projekte/02-kanban/README.md) <br>
 
 </details>
 
@@ -487,7 +514,7 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
   &nbsp;&nbsp;🔹 [**Das Bewerbungsverfahren im IT-Sektor**](/docs/08-karriere/02-anwendungsentwickler_beruf/02-bewerbungsverfahren/README.md) <br>
         &emsp;&emsp;◻️ [IT-Lebenslauf-101](/docs/08-karriere/02-anwendungsentwickler_beruf/02-bewerbungsverfahren//01-lebenslauf/README.md) <br>
         &emsp;&emsp;◻️ [Technische Interviews und Coding-Aufgaben im Bewerbungsverfahren](/docs/08-karriere/02-anwendungsentwickler_beruf/02-bewerbungsverfahren//02-technisches_interview/README.md) <br>
-        &emsp;&emsp;◻️ [Do's & Dont's bei der Bewerbung um eine Stelle als Anwendungsentwickler](/docs/08-karriere/02-anwendungsentwickler_beruf/02-bewerbungsverfahren//03-dos_and_donts/README.md) <br>
+        &emsp;&emsp;◻️ [Do's & Dont's bei der Bewerbung um eine Stelle als Anwendungsentwickler](/docs/08-karriere/02-anwendungsentwickler_beruf/02-bewerbungsverfahren//03-dos_and_donts/README.md) <br><br>
   &nbsp;&nbsp;🔹 [**Mögliche interessante Orte zum Arbeiten und Lernen**](/docs/08-karriere/02-anwendungsentwickler_beruf/03-lernen_und_arbeiten/README.md) <br>
   &nbsp;&nbsp;🔹 [**Karrieremöglichkeiten bei Christoph Backhaus IT**](/docs/08-karriere/02-anwendungsentwickler_beruf/04-karriere_bei_nadoo/README.md) <br>
 
@@ -495,4 +522,4 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
 
 ---
 
-[Zum Wiki](/docs/00-willkommen/README.md)
+<p  align="center"><a href="/docs/00-willkommen/README.md"><strong>Zum Anfang des Wikis</strong></a></p>
