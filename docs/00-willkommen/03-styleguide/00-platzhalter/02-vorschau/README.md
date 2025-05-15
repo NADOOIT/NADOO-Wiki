@@ -1,8 +1,19 @@
 <p align="center"><em>Vorschau des Platzhalters zur Ansicht im Browser (hier würde ggf. die Überschrift des geplanten Eintrags stehen)</em></p>
 
-# <p align="center">Sorry, hier gibt es leider (noch) nichts zu sehen! 👀</p>
+# <p align="center">Muster-Überschrift</p>
 
-<!-- hier Bild einfügen -->
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github.com/user-attachments/assets/69b70f12-916c-4167-8920-c6055f5903d5" alt="Platzhalter" height="150">
+      </td>
+      <td>
+        <h2>Sorry, hier gibt es leider (noch) nichts zu sehen! 👀</h2>
+      </td>
+    </tr>
+  </table>
+</div>
 
 Unser Wiki wird **laufend** erweitert, angepasst und verbessert. **Das erfordert Zeit** - deshalb kann der ein oder andere geplante Inhalt manchmal nicht sofort umgesetzt werden.
 
@@ -18,11 +29,12 @@ Insofern ein:e **Ersteller:in** vermerkt ist, kannst du dich auch direkt an dies
 
 ---
 
-<br>
 <p align="center">
-<strong>Dieses Dokument wurde erstellt am:</strong> 12.05.2025
+📅 <strong>Dieses Dokument wurde erstellt am:</strong> 12.05.2025
 <br>
-<strong>Von:</strong> maxmuster (GitHub)
+✍️ <strong>Von:</strong> <a href="https://github.com/dein_github_username">maxmuster</a> (GitHub)
 </p>
 
-[Zurück](/docs/00-willkommen/03-styleguide/00-platzhalter/01-anleitung/README.md) | [Weiter](/docs/01-organisation/README.md)
+---
+
+<p align="center"><a href="/docs/00-willkommen/03-styleguide/00-platzhalter/01-anleitung/README.md"><strong>Zurück</strong></a> | <a href="/docs/01-organisation/README.md"><strong>Weiter</strong></a></p>
