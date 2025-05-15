@@ -458,14 +458,14 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
 <details>
 <summary>Durchführung eines Projekts mit besonderem Hinblick auf deine IHK-Abschlussprüfung</summary>
 
-  &emsp;📄 [Kapitel-Übersicht](/docs/07-methoden_und_projekte/README.md)
+  &emsp;📄 [Kapitel-Übersicht](/docs/07-methoden_und_projekte/01-projektmanagement/README.md)
   
-  &nbsp;&nbsp;🔹 [**Zeitmanagement**](/docs/07-methoden_und_projekte/01-zeitmanagement/README.md) <br>
-  &nbsp;&nbsp;🔹 [**Projektplanung**](/docs/07-methoden_und_projekte/02-planung/README.md) <br>
-        &emsp;&emsp;◻️ [Leitfaden zur Erstellung eines Projektantrags](/docs/07-methoden_und_projekte/02-planung/01-antrag/README.md) <br><br>
-  &nbsp;&nbsp;🔹 [**Projektmanagement**](/docs/07-methoden_und_projekte/03-projektmanagement/README.md) <br>
-  &nbsp;&nbsp;🔹 [**Projektphasen**](/docs/07-methoden_und_projekte/04-phasen/README.md) <br>
-  &nbsp;&nbsp;🔹 [**Das IHK-Abschlussprojekt**](/docs/07-methoden_und_projekte/05-abschlussprojekt/README.md) <br>
+  &nbsp;&nbsp;🔹 [**Zeitmanagement**](/docs/07-methoden_und_projekte/01-projektmanagement/01-zeitmanagement/README.md) <br>
+  &nbsp;&nbsp;🔹 [**Projektplanung**](/docs/07-methoden_und_projekte/01-projektmanagement/02-planung/README.md) <br>
+        &emsp;&emsp;◻️ [Leitfaden zur Erstellung eines Projektantrags](/docs/07-methoden_und_projekte/01-projektmanagement/02-planung/01-antrag/README.md) <br><br>
+  &nbsp;&nbsp;🔹 [**Projektmanagement**](/docs/07-methoden_und_projekte/01-projektmanagement/03-projektmanagement/README.md) <br>
+  &nbsp;&nbsp;🔹 [**Projektphasen**](/docs/07-methoden_und_projekte/01-projektmanagement/01-projektmanagement/04-phasen/README.md) <br>
+  &nbsp;&nbsp;🔹 [**Das IHK-Abschlussprojekt**](/docs/07-methoden_und_projekte/01-projektmanagement/05-abschlussprojekt/README.md) <br>
 
 </details>
 
@@ -476,8 +476,8 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
 
   &emsp;📄 [Kapitel-Übersicht](/docs/07-methoden_und_projekte/02-methoden/README.md)
   
-  &nbsp;&nbsp;🔹 [Scrum](/docs/07-methoden/02-methoden_und_projekte/01-scrum/README.md) <br>
-  &nbsp;&nbsp;🔹 [Kanban](/docs/07-methoden/02-methoden_und_projekte/02-kanban/README.md) <br>
+  &nbsp;&nbsp;🔹 [Scrum](/docs/07-methoden_und_projekte/02-methoden/01-scrum/README.md) <br>
+  &nbsp;&nbsp;🔹 [Kanban](/docs/07-methoden_und_projekte/02-methoden/02-kanban/README.md) <br>
 
 </details>
 

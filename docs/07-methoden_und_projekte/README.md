@@ -6,4 +6,4 @@
 
 ---
 
-<p align="center"><a href="/docs/06-entwicklung/07-digitale_produktentwicklung/03-feedback_und_testing/README.md"><strong>Zurück</strong></a> | <a href="/docs/07-methoden_und_projekte/01-zeitmanagement/README.md"><strong>Weiter</strong></a></p>
+<p align="center"><a href="/docs/06-entwicklung/07-digitale_produktentwicklung/03-feedback_und_testing/README.md"><strong>Zurück</strong></a> | <a href="/docs/07-methoden_und_projekte/01-projektmanagement/README.md"><strong>Weiter</strong></a></p>

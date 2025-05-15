@@ -1,4 +1,4 @@
-# Projektmanagement
+# <p align="center">Projektmanagement</p>
 
 ## Bedeutung des Projektmanagements in der Ausbildung
 
@@ -50,4 +50,4 @@ Projektmanagement ist kein isoliertes Thema für die Prüfungsphase — es ist e
 
 ---
 
-[Zurück](../02-planung/01-antrag/README.md) | [Weiter](../04-phasen/README.md) zu Projektphasen
+<p align="center"><a href="/docs/07-methoden_und_projekte/01-projektmanagement/02-planung/01-antrag/README.md"><strong>Zurück</strong></a> | <a href="/docs/07-methoden_und_projekte/01-projektmanagement/04-phasen/README.md"><strong>Weiter</strong></a></p>
