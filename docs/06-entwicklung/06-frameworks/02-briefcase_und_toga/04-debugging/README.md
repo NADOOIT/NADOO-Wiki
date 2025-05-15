@@ -1,4 +1,4 @@
-# Debugging und Fehlerbehandlung in Briefcase und Toga
+# <p align="center">Debugging und Fehlerbehandlung in Briefcase und Toga</p>
 
 Fehler sind ein natürlicher Teil des Entwicklungsprozesses. Sie zeigen dir, wo du deine Annahmen überprüfen und deinen Code verbessern musst. In diesem Abschnitt wirst du lernen, wie du Fehler effektiv identifizierst, analysierst und behebst.
 
@@ -148,4 +148,4 @@ Ein spannendes Video, das von den berühmtesten und größten Bugs berichtet:
 
 ---
 
-[Zurück](../README.md) | [Weiter](../02-launchpad/README.md) zu NADOO-Launchpad
+<p align="center"><a href="/docs/06-entwicklung/06-frameworks/02-briefcase_und_toga/03-zusammenspiel/README.md"><strong>Zurück</strong></a> | <a href="docs/06-entwicklung/07-digitale_produktentwicklung/README.md"><strong>Weiter</strong></a></p>

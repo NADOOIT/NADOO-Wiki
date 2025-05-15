@@ -1,5 +1,6 @@
-# Java - 
-
+# <p align="center">Java</p>
+<!-- hier Kapitel-Übersicht nicht vergessen, sollten neue Inhalte hinzugefügt werden
+-> für diese dann neue Kapitel-Ordner anlegen! -->
 Java ist eine weitverbreitete, objektorientierte Programmiersprache, die erstmals 1995 von Sun Microsystems veröffentlicht wurde. Dieser Artikel bietet einen kurzen Überblick über die Entstehung und die Grundprinzipien von Java.
 
 ---
@@ -20,4 +21,4 @@ Dieser Artikel dient als Auftakt zu weiterführenden Themen rund um Java, welche
 
 ---
 
-[Zurück](../02-clean-architecture/README.md) | [Weiter](../03-java/01-mission-control/README.md) zu Mission Control
+<p align="center"><a href="/docs/04-entwicklung/04-python/02-debugging/README.md"><strong>Zurück</strong></a> | <a href="/docs/06-entwicklung/06-frameworks/README.md"><strong>Weiter</strong></a></p>

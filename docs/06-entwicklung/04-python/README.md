@@ -1,4 +1,5 @@
-# Python
+# <p align="center">Python</p>
+
 
 <!--
 grundlegende Informationen zu Python als Sprache (kurze Einführung)
@@ -6,5 +7,4 @@ Kapitelübersicht
 -->
 
 ---
-
-[Zurück](../03-java/README.md) | [Weiter](../04-python/01-debugging/README.md) zu Python-Debugging
+<p align="center"><a href="docs/06-entwicklung/03-lizenzen_und_opensource/README.md"><strong>Zurück</strong></a> | <a href="/docs/06-entwicklung/04-python/01-einstieg/README.md"><strong>Weiter</strong></a></p>

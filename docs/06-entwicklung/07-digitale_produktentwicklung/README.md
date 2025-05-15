@@ -1,4 +1,5 @@
-# Dein Einstieg in die digitale Produktentwicklung
+# <p align="center">Dein Einstieg in die digitale Produktentwicklung</p>
+
 <!-- 
 Stand: 12.05.2025
 
@@ -53,6 +54,6 @@ Deine Aufgabe ist es, ein neues digitales Produkt zu entwickeln. Überlege dir e
 
 Am Ende des Prozesses hast du dein eigenes digitales Produkt entwickelt, das du entweder über uns vertreiben oder später selbst vermarkten kannst.
 
-
-
 ---
+
+<p align="center"><a href="/docs/06-entwicklung/06-frameworks/02-briefcase_und_toga/04-debugging/README.md"><strong>Zurück</strong></a> | <a href="/docs/06-entwicklung/07-digitale_produktentwicklung/01-idee_und_vorbereitung/README.md"><strong>Weiter</strong></a></p>

@@ -1,4 +1,4 @@
-# Debugging in Python
+# <p align="center">**Debugging in Python**</p>
 
 Debugging ist ein wesentlicher Teil des Programmierprozesses. In diesem Abschnitt werden wir verschiedene Debugging-Techniken anhand eines fehlerhaften Skripts erlernen.
 
@@ -212,17 +212,17 @@ Debugging ist eine Fähigkeit, die mit der Zeit und Übung verbessert wird. Je m
 
 Diese Ressourcen bieten zusätzliche Einblicke und praktische Übungen, um deine Debugging-Fähigkeiten zu verbessern. Denke daran, dass effektives Debugging eine Kombination aus Wissen, Erfahrung und Geduld erfordert. Mit der Zeit wirst du immer besser darin, Fehler zu finden und zu beheben.
 
-## Quellen
+### Quellen
 
-[1] <https://python.plainenglish.io/popular-and-easy-debugging-techniques-for-python-applications-79d6b8dd2999?gi=08e89f39b1d5>  
-[2] <https://databasecamp.de/en/python-coding/debugging-en>  
-[3] <https://apidog.com/blog/how-to-debug-in-python/>  
-[4] <https://www.linkedin.com/advice/0/what-some-common-debugging-tools-techniques-1f>  
-[5] <https://realpython.com/python-debugging-pdb/>  
-[6] <https://www.skillreactor.io/blog/how-to-debug-python-in-vscode/>  
-[7] <https://www.fullstackpython.com/debugging.html>  
-[8] <https://www.freecodecamp.org/news/python-debugging-handbook/>  
+[1] <https://python.plainenglish.io/popular-and-easy-debugging-techniques-for-python-applications-79d6b8dd2999?gi=08e89f39b1d5> <br>
+[2] <https://databasecamp.de/en/python-coding/debugging-en> <br>
+[3] <https://apidog.com/blog/how-to-debug-in-python/> <br> 
+[4] <https://www.linkedin.com/advice/0/what-some-common-debugging-tools-techniques-1f> <br>  
+[5] <https://realpython.com/python-debugging-pdb/> <br> 
+[6] <https://www.skillreactor.io/blog/how-to-debug-python-in-vscode/> <br>
+[7] <https://www.fullstackpython.com/debugging.html> <br>
+[8] <https://www.freecodecamp.org/news/python-debugging-handbook/> <br>
 
 ---
 
-[Zurück](../../04-python/README.md) | [Weiter](../02-briefcase-toga/README.md) zu Briefcase & Toga
+<p align="center"><a href="/docs/06-entwicklung/04-python/01-einstieg/03-grundkonzept_bsp/README.md"><strong>Zurück</strong></a> | <a href="/docs/06-entwicklung/05-java/README.md"><strong>Weiter</strong></a></p>

@@ -387,7 +387,7 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
 <details>
 <summary>Lizenzen, Open Source und Softwareabhängigkeiten</summary>
   
-  &nbsp;&nbsp;🔹 [Lizenzen, Open Source und die Welt der Softwareabhängigkeiten](docs/06-entwicklung/06-digitale_produkte/03-lizenzen_open_source/README.md) <br>
+  &nbsp;&nbsp;🔹 [Lizenzen, Open Source und die Welt der Softwareabhängigkeiten](/docs/06-entwicklung/03-lizenzen_und_opensource/README.md) <br>
 
 </details>
 
@@ -396,7 +396,7 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
 <details>
 <summary>Python</summary>
 
-  &emsp;📄 [Kapitel-Übersicht](docs/06-entwicklung/04-python/README.md) 
+  &emsp;📄 [Kapitel-Übersicht](/docs/06-entwicklung/04-python/README.md) 
   
   &nbsp;&nbsp;🔹 [**Erste Schritte**](/docs/06-entwicklung/04-python/01-einstieg/README.md) <br>
         &emsp;&emsp;◻️ [Python und virtuelle Umgebungen — ein Überblick](/docs/06-entwicklung/04-python/01-einstieg/01-virtuelle_umgebungen/README.md) <br>
@@ -422,9 +422,9 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
 <details>
 <summary>Frameworks</summary>
 
-  &emsp;📄 [Kapitel-Übersicht](docs/06-entwicklung/06-frameworks/README.md)
+  &emsp;📄 [Kapitel-Übersicht](/docs/06-entwicklung/06-frameworks/README.md)
   
-  &nbsp;&nbsp;🔹 [**Das NADOO-IT-Framework**](/docs/06-entwicklung/06-frameworks/06-frameworks/01-nadoo_framework/README.md)
+  &nbsp;&nbsp;🔹 [**Das NADOO-IT-Framework**](/docs/06-entwicklung/06-frameworks/01-nadoo_framework/README.md)
 
   &nbsp;&nbsp;🔹 [**Briefcase und Toga: Python-Frameworks für plattformübergreifende Apps**](/docs/06-entwicklung/06-frameworks/02-briefcase_und_toga/README.md) <br>
         &emsp;&emsp;◻️ [Briefcase](/docs/06-entwicklung/06-frameworks/02-briefcase_und_toga/01-briefcase/README.md) <br>
@@ -439,11 +439,11 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
 <details>
 <summary>Dein Einstieg in die digitale Produktentwicklung</summary> 
 
-  &emsp;📄 [Kapitel-Übersicht](docs/06-entwicklung/07-digitale_produktentwicklung/README.md)
+  &emsp;📄 [Kapitel-Übersicht](/docs/06-entwicklung/07-digitale_produktentwicklung/README.md)
   
-  &nbsp;&nbsp;🔹 [Phase 1: Ideenfindung und Projektvorbereitung](docs/06-entwicklung/07-digitale_produktentwicklung/01-idee_und_vorbereitung/README.md) <br>
-  &nbsp;&nbsp;🔹 [Phase 2: Von der Idee zur Umsetzung](docs/06-entwicklung/07-digitale_produktentwicklung/02-umsetzung/README.md) <br>
-  &nbsp;&nbsp;🔹 [Phase 3: Feedback und Testing](docs/06-entwicklung/07-digitale_produktentwicklung/03-feedback_und_testing/README.md) <br>
+  &nbsp;&nbsp;🔹 [Phase 1: Ideenfindung und Projektvorbereitung](/docs/06-entwicklung/07-digitale_produktentwicklung/01-idee_und_vorbereitung/README.md) <br>
+  &nbsp;&nbsp;🔹 [Phase 2: Von der Idee zur Umsetzung](/docs/06-entwicklung/07-digitale_produktentwicklung/02-umsetzung/README.md) <br>
+  &nbsp;&nbsp;🔹 [Phase 3: Feedback und Testing](/docs/06-entwicklung/07-digitale_produktentwicklung/03-feedback_und_testing/README.md) <br>
 
 </details>
 

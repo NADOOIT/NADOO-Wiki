@@ -1,4 +1,4 @@
-# Python-Grundkonzepte: Veranschaulichung anhand eines Beispielskripts
+# <p align="center">Python-Grundkonzepte: Veranschaulichung anhand eines Beispielskripts</p>
 
 ## Das Skript
 
@@ -197,3 +197,7 @@ Diese praktische Ausführung hilft, die theoretischen Konzepte in Aktion zu sehe
 5. **Fehlerüberprüfung**: Solltest du Fehlermeldungen haben, melde diese umgehend Christoph Backhaus.
 
 Durch das Verstehen und Anwenden dieser Konzepte in der Praxis legst du eine solide Grundlage für deine weitere Python-Entwicklung.
+
+---
+
+<p align="center"><a href="/docs/06-entwicklung/04-python/01-einstieg/02-installation/README.md"><strong>Zurück</strong></a> | <a href="/docs/04-entwicklung/04-python/02-debugging/README.md"><strong>Weiter</strong></a></p>

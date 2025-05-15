@@ -1,4 +1,4 @@
-# Clean Architecture
+# <p align="center">Clean Architecture</p>
 
 Einführung in Clean Architecture am Beispiel einer Zeiterfassungsanwendung
 
@@ -334,4 +334,4 @@ Die Clean Architecture ist ein bewährtes Muster, um Softwareprojekte strukturie
 
 ---
 
-[Zurück](../02-clean-architecture/README.md) | [Weiter](../03-java/README.md) zu Java
+<p align="center"><a href="/docs/06-entwicklung/01-dokumentation/README.md"><strong>Zurück</strong></a> | <a href="/docs/06-entwicklung/02-clean_architecture/01-praxisbeispiel/README.md"><strong>Weiter</strong></a></p>
