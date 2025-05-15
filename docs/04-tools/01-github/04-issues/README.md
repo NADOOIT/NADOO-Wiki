@@ -1,4 +1,4 @@
-# Issues
+# <p align="center">Issues</p>
 
 Ein Issue beschreibt eine offene Aufgabe oder ein Problem in einem Projekt. Es dient zur Nachverfolgung und Verwaltung von Bugs, Feature-Anfragen oder Verbesserungen.
 
@@ -44,4 +44,5 @@ Issues helfen bei der systematischen Nachverfolgung von Aufgaben, der Kommunikat
 
 ---
 
-[Zurück](../README.md) | [Weiter](../04-issues/01-wiki-guide/README.md) zu Wiki-Guide
+<p align="center"><a href="/docs/04-tools/01-github/03-pull-requests/02-code-review/README.md"><strong>Zurück</strong></a> | <a href="/docs/04-tools/01-github/04-issues/01-wiki-guide/README.md"><strong>Weiter</strong></a></p>
+

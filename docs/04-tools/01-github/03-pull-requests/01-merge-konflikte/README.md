@@ -1,6 +1,5 @@
-# Merge-Konflikte
+# <p align="center">Merge Konflikte</p>
 
----
 
 ## Merge-Konflikte nach einem Pull-Request auflösen (Best Practice)
 
@@ -74,4 +73,5 @@ Damit ist dein Branch bereit für einen erneuten Merge ohne Konflikte.
 
 ---
 
-[Zurück](../01-merge-konflikte/) | [Weiter](../../04-issues/README.md) zu Issues
+<p align="center"><a href="/docs/04-tools/01-github/03-pull-requests/README.md"><strong>Zurück</strong></a> | <a href="/docs/04-tools/01-github/03-pull-requests/02-code-review/README.md"><strong>Weiter</strong></a></p>
+
