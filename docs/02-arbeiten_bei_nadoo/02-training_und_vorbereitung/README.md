@@ -34,4 +34,4 @@ Alles, was du zum Thema **Trainingsbeitrag** wissen musst, findest du auf der n�
 
 ---
 
-[Zurück](/docs/01-organisation/10-rollen_und_aufgaben/README.md) | [Weiter](docs/01-organisation/11-training_und_vorbereitung/01-trainingsbeitraege/README.md)
+<p align="center"><a href="/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/05-teamkoordinator/README.md"><strong>Zurück</strong></a> | <a href="/docs/02-arbeiten_bei_nadoo/02-training_und_vorbereitung/01-trainingsbeitraege/README.md"><strong>Weiter</strong></a></p>

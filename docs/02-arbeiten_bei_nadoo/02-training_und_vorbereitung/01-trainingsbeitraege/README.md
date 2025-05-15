@@ -321,6 +321,4 @@ Wir sind hier aber eigentlich ziemlich entspannt, was das angeht. Falls in einem
 
 ---
 
-<p align="center">
-<a href="/docs/02-arbeiten_bei_nadoo/02-training_und_vorbereitung/README.md"><strong>Zurück</strong></a> | <a href="/docs/02-arbeiten_bei_nadoo/02-training_und_vorbereitung/02-praesentationstraining/README.md"><strong>Weiter</strong></a>
-</p>
+<p align="center"><a href="/docs/02-arbeiten_bei_nadoo/02-training_und_vorbereitung/README.md"><strong>Zurück</strong></a> | <a href="/docs/02-arbeiten_bei_nadoo/02-training_und_vorbereitung/02-praesentationstraining/README.md"><strong>Weiter</strong></a></p>
