@@ -57,4 +57,4 @@ Pro 3er-Team:
 
 ---
 
-[Zurück](../01-allgemein-morgens/README.md) | [Weiter](../03-teamkoordination/README.md)
+<p align="center"><a href="/docs/03-meetings/01-allgemein-morgens/README.md"><strong>Zurück</strong></a> | <a href="/docs/03-meetings/03-teamkoordination/README.md"><strong>Weiter</strong></a></p>
