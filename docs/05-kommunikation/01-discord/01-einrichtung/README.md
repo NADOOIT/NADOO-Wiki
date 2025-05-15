@@ -1,4 +1,4 @@
-# Anmeldung und Einrichtung
+# <p align="center">Anmeldung und Einrichtung</p>
 
 Discord ist unser **zentrales Kommunikationstool** bei NADOO-IT.
 
@@ -47,5 +47,4 @@ Alternativ kannst du natürlich auch jederzeit ein Issue unter [Kommunikation un
 
 ---
 
-[Zurück](../README.md) zur Übersicht | [Android-Webcam](../../02-webcam/01-droidcam/README.md) | [iOS-Integrationskamera](../../02-webcam/02-ios/README.md)
-
+<p align="center"><a href="/docs/05-kommunikation/01-discord/README.md"><strong>Zurück</strong></a> | <a href="/docs/05-kommunikation/02-webcam/README.md"><strong>Weiter</strong></a></p>
