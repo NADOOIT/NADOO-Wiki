@@ -1,4 +1,4 @@
-# Discussions
+# <p align="center">Discussions</p>
 
 ## Was sind GitHub Discussions?
 
@@ -35,8 +35,11 @@ Nutze Labels und verlinke relevante Issues oder Pull Requests, um Diskussionen b
 
 ---
 
-[Zurück](../README.md) | [Weiter](../05-templates/README.md) zu Templates
+<p align="center"><a href="/docs/04-tools/01-github/04-issues/06-projects/README.md"><strong>Zurück</strong></a> | <a href="/docs/04-tools/01-github/04-issues/08-templates/README.md"><strong>Weiter</strong></a></p>
 
+<!--
 ---
 
 **Tags:** #github #discussions #community #ideen #fragen
+
+-> Tags vorerst auskommentiert, da noch nicht funktionsfähig / Idee noch nicht ganz ausgereift und bisher auch nirgends außer hier (04-issues) an willkürlichen? Stellen implementiert (Stand: 15.05.2025) -->

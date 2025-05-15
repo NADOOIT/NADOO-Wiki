@@ -1,4 +1,4 @@
-# IntelliJ IDEA — ein Überblick
+# <p align="center">IntelliJ IDEA — Ein Überblick</p>
 
 IntelliJ IDEA ist eine integrierte Entwicklungsumgebung (IDE) des Unternehmens JetBrains, die speziell für die Entwicklung von Java-Anwendungen entwickelt wurde.
 
@@ -33,3 +33,5 @@ Sie gehört zu den beliebtesten und leistungsfähigsten IDEs im Bereich der Java
 | **Performance**                        | Höherer Ressourcenbedarf                     | Leichtgewichtig                             |
 | **Erweiterbarkeit**                    | Großes Plugin-Ökosystem                      | Riesiger Extension-Marktplatz               |
 | **Geeignet für**                       | Große, komplexe Java-Projekte                | Leichte bis mittlere Projekte / Multisprache |
+
+<p align="center"><a href="/docs/04-tools/03-intellij/README.md"><strong>Zurück</strong></a> | <a href="/docs/04-tools/03-intellij/02-installation/README.md"><strong>Weiter</strong></a></p>

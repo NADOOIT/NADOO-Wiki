@@ -1,4 +1,4 @@
-# Actions
+# <p align="center">Actions</p>
 
 GitHub Actions ermöglichen die Automatisierung von Abläufen und Prozessen rund um Softwareprojekte. Über verschiedene Workflows können Tests, Builds oder Deployments ausgelöst werden.
 
@@ -42,6 +42,4 @@ Um manuelle Arbeitsschritte zu reduzieren, die Codequalität zu sichern und schn
 
 ---
 
-| |
-| --- |
-| [Weiter](/docs/3/1/6/README.md) |
+<p align="center"><a href="/docs/04-tools/01-github/04-issues/08-templates/README.md"><strong>Zurück</strong></a> | <a href="/docs/04-tools/01-github/06-notifications/README.md"><strong>Weiter</strong></a></p>

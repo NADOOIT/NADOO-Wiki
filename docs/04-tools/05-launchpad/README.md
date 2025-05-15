@@ -33,6 +33,4 @@ Mögliche Inhalte / zu beantwortende Fragen:
 
 ---
 
-<p align="center">
-<a href="/docs/01-organisation/01-zeiterfassung/README.md"><strong>Zurück</strong></a> | <a href="/docs/01-organisation/02-zeit_und_ausbildungsnachweise/README.md"><strong>Weiter</strong></a>
-</p>
+<p align="center"><a href="/docs/04-tools/04-terminal/README.md"><strong>Zurück</strong></a> | <a href="/docs/04-tools/05-launchpad/01-ueberblick/README.md"><strong>Weiter</strong></a></p>

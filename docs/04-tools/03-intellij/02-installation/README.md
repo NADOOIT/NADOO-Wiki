@@ -1,4 +1,4 @@
-# Installation und Einrichtung
+# <p align="center">Installation und Einrichtung</p>
 
 ## **Download:**
 
@@ -132,3 +132,5 @@ Da der offizielle Installer standardmäßig in `C:\Program Files` installiert un
 ![Image](https://github.com/user-attachments/assets/6ff9f471-c689-43c1-9dba-328e51b03195)
 
 4. Bestätige mit **OK**.
+
+<p align="center"><a href="/docs/04-tools/03-intellij/01-ueberblick/README.md"><strong>Zurück</strong></a> | <a href="/docs/04-tools/04-terminal/README.md"><strong>Weiter</strong></a></p>
