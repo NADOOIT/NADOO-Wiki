@@ -175,11 +175,11 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
 
   &emsp;📄 [Kapitel-Übersicht](/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/README.md)
 
-&nbsp;&nbsp;🔹 [Dokumentar(ist):in](/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/01-dokumentar/README.md) <br>
-&nbsp;&nbsp;🔹 [Researcher:in](/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/02-researcher/README.md) <br>
-&nbsp;&nbsp;🔹 [Entwickler:in](/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/03-entwickler/README.md) <br>
-&nbsp;&nbsp;🔹 [Tester:in](/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/04-tester/README.md) <br>
-&nbsp;&nbsp;🔹 [Teamkoordinator:in](/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/05-teamkoordinator/README.md) <br>
+&nbsp;&nbsp;🔹 [Rolle: Dokumentar(ist):in](/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/01-dokumentar/README.md) <br>
+&nbsp;&nbsp;🔹 [Rolle: Researcher:in](/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/02-researcher/README.md) <br>
+&nbsp;&nbsp;🔹 [Rolle: Entwickler:in](/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/03-entwickler/README.md) <br>
+&nbsp;&nbsp;🔹 [Rolle: Tester:in](/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/04-tester/README.md) <br>
+&nbsp;&nbsp;🔹 [Rolle: Teamkoordinator:in](/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/05-teamkoordinator/README.md) <br>
 
 </details>
 
