@@ -1,5 +1,5 @@
-# <p align="center">Selbstständig Veränderungen innerhalb des Wikis vornehmen (später auch am Launchpad): ein kleiner Guide</p>
-
+# Selbstständig Veränderungen innerhalb des Wikis vornehmen (später auch am Launchpad) - Ein kleiner Guide
+<!-- Verweis auf dieses Doc an passender Stelle im Styleguide einbinden-->
 An dieser Stelle zeigen wir dir, wie du aktiv an der Gestaltung des Wiki mitwirken kannst und wie du bereits jetzt schon Issues, die das Wiki betreffen, bearbeiten und auch vielleicht schon lösen kannst. Möglicherweise hast du noch nicht die Berechtigungen, um im Wiki verschiedene Funktionen zu nutzen. Ist dies der Fall, melde dich bitte bei [Christoph](mailto:Christoph.backhaus@nadooit.de) mit deinem GitHub Namen, damit er sie dir erteilen kann.
 
 ## Issue erstellen

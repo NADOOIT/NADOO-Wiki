@@ -1,4 +1,4 @@
-# <p align="center">Verhaltensregeln bei Christoph Backhaus / NADOO-IT</p>
+# <p align="center">Unsere Verhaltensregeln</p>
 
 ## Pünktlichkeit und termingerechtes Arbeiten
 

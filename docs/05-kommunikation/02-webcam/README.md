@@ -1,4 +1,6 @@
-# Video/Avatar-"Pflicht"
+# Video- und Bildschirmübertragung
+
+## Video- bzw. Avatar-Pflicht
 
 In einem professionellen Umfeld innerhalb unserer digitalen Welt ist es wichtig, durch die Nutzung von Videoübertragung Präsenz zu zeigen.
 

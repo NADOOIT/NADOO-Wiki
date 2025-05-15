@@ -1,4 +1,5 @@
-# 33er-Meetings (Freitag)
+# 33er-Meeting 
+### Freitag
 
 **Dauer:** 10:14–11:44 Uhr
 

@@ -1,4 +1,4 @@
-# <p align="center">Umgang und Kultur bei NADOO-IT - Unsere Firmenphilosophien</p>
+# <p align="center">Umgang und Kultur bei Christoph Backhaus IT — unsere Firmenphilosophien</p>
 
 <p align="center">
 <a href="#dieser-themen-abschnitt-beinhaltet-folgende-kapitel">zur Kapitelübersicht</a>

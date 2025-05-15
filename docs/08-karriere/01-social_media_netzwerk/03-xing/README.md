@@ -1,8 +1,4 @@
-<<<<<<<< HEAD:docs/08-karriere/01-social_media_netzwerk/03-xing/README.md
 # Dein Xing-Profil
-========
-# Xing-Profil
->>>>>>>> main:docs/07-karriere/03-netzwerken/03-xing-profil/README.md
 
 ![Beispiel](../../../../images/xing_profil.png)
 

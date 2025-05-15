@@ -1,3 +1,5 @@
 # Deine Karriere als Anwendungsentwickler:in
 
-<!--kurzer Einleitungstext und ggf. Auflistung der Kapitel-->
+<!--Einleitungstext + Kapitel-Übersicht
+
+Keywords: Tipps, Hinweise, Empfehlungen und Ähnliches-->

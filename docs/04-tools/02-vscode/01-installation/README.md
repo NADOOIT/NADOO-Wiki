@@ -1,4 +1,4 @@
-# Installation & Einrichtung
+# Installation und Einrichtung
 
 1. Systemvoraussetzungen prüfen: Stelle sicher, dass dein System alle benötigten Komponenten (z. B. Node.js, Datenbankserver) installiert hat.
 2. Repository klonen oder Installationspaket herunterladen: Klone das Repository oder lade das Installationspaket von der offiziellen Quelle herunter.

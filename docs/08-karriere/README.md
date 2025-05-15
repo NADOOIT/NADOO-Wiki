@@ -1,6 +1,6 @@
-# Netzwerken & Karriere
+# Netzwerken und Karriere
 
-<!--kurzer Einleitungstext und ggf. Auflisten der Kapitel-->
+<!--kurzer Einleitungstext + Übersicht der Themen-->
 
 <!-- evtl. Verweis auf 
 [Abschnitt "Arbeiten bei NADOO-IT", Kapitel "Training und Vorbereitung"](/docs/02-arbeiten_bei_nadoo/02-training_und_vorbereitung/README.md) 

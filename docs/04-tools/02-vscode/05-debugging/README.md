@@ -1,4 +1,4 @@
-# Debugging & Terminal
+# Terminal und Debugging
 
 1. Debugger einrichten: Erstelle bzw. passe Konfigurationsdateien (z. B. launch.json) an.
 2. Breakpoints setzen: Lege Breakpoints im Code fest, um den Programmablauf zu kontrollieren.

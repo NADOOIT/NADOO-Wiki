@@ -1,4 +1,4 @@
-# GitHub Suchfunktion effizient nutzen
+# Die GitHub-Suchfunktion effizient nutzen
 
 In diesem Artikel erfährst du, wie du die Suchfunktion von GitHub im Webbrowser effizient nutzen kannst, bevor du [neue Issues](https://github.com/NADOOIT/NADOO-Launchpad/issues/new/choose) erstellst.
 

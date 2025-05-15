@@ -1,4 +1,4 @@
-# Visual Studio Code
+# Integrierte Entwicklungsumgebung (IDE) Visual Studio Code
 
 Visual Studio Code (VS Code) ist eine schlanke und vielseitige Entwicklungsumgebung.
 

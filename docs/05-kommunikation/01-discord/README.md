@@ -1,4 +1,4 @@
-# Discord
+# Discord: Die zentrale Kommunikationsplattform bei Christoph Backhaus / NADOO-IT
 
 Discord ist eine kostenlose Kommunikationsplattform, die für Chats, Sprach- und Videoanrufe sowie den Austausch von Dateien genutzt wird – ursprünglich für Gamer entwickelt, heute aber auch im professionellen Bereich weit verbreitet.
 
