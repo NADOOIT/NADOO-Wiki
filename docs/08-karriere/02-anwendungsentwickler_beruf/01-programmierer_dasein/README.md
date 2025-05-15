@@ -1,4 +1,4 @@
-# Die Verantwortung und Unsicherheit des Programmierer-Daseins
+# <p align="center">Die Verantwortung und Unsicherheit des Programmierer‐Daseins</p>
 
 In der glitzernden Welt der Technologie, wo Innovationen im Sekundentakt entstehen und Codezeilen die Zukunft formen, verbirgt sich eine oft übersehene Realität: die immense Verantwortung und die damit einhergehende Unsicherheit, die auf den Schultern von Programmierern lastet. Dieser Artikel beleuchtet die Schattenseiten und Herausforderungen des Berufs, aber auch die unglaublichen Chancen und die Hoffnung, die er mit sich bringt.
 
@@ -64,7 +64,7 @@ Als Programmierer stehen wir an der Schwelle zu einer Zukunft voller Möglichkei
 
 Lasst uns gemeinsam voranschreiten, mit Verantwortung, Mitgefühl und dem unerschütterlichen Glauben an die positive Kraft des Codes. Denn in unseren Händen liegt nicht nur die Zukunft der Technologie, sondern auch ein Teil der Zukunft der Menschheit.
 
-**Quellen / Zitate:**
+### Quellen / Zitate:
 
 [1] https://www.turing.com/blog/programmer-imposter-syndrome-tips <br>
 [2] https://betterprogramming.pub/we-need-to-talk-about-mental-health-for-software-developers-65bfa00e2356 <br>
@@ -77,4 +77,4 @@ Lasst uns gemeinsam voranschreiten, mit Verantwortung, Mitgefühl und dem unersc
 
 ---
 
-[Zurück](docs/01-organisation/11-training_und_vorbereitung/02-praesentationstraining) | [Weiter](docs/02-tools/README.md)
+<p align="center"><a href="/docs/08-karriere/02-anwendungsentwickler_beruf/README.md"><strong>Zurück</strong></a> | <a href="/docs/08-karriere/02-anwendungsentwickler_beruf/02-bewerbungsverfahren/README.md"><strong>Weiter</strong></a></p>

@@ -1,6 +1,8 @@
-# Dein Xing-Profil
+# <p align="center">Dein Xing-Profil</p>
 
 ![Beispiel](../../../../images/xing_profil.png)
+
+#
 
 ## Warum ein Xing-Profil?
 
@@ -30,13 +32,13 @@ Ein aussagekräftiges Xing-Profil ist im deutschsprachigen Raum oft der erste Sc
 
 Recruiter:innen nutzen Xing aktiv zur Suche nach passenden Kandidat:innen. Wer auf Xing sichtbar ist und seine Kompetenzen gut präsentiert, hat größere Chancen auf:
 
->✅ spannende Jobangebote
+✅ spannende Jobangebote
 
->✅ Projektanfragen
+✅ Projektanfragen
 
->✅ Einladungen zu Fachveranstaltungen 
+✅ Einladungen zu Fachveranstaltungen 
 
->✅ Kooperationen mit anderen Unternehmen
+✅ Kooperationen mit anderen Unternehmen
 
 Auch für **Freelancer:innen oder Berufseinsteiger:innen** ist Xing ein hilfreiches Werkzeug, um Kontakte zu knüpfen und sich im **D-A-CH**-Raum bekannt zu machen.
 
@@ -47,4 +49,5 @@ Auch für **Freelancer:innen oder Berufseinsteiger:innen** ist Xing ein hilfreic
 Ein Xing-Profil ist ein wichtiges Tool, um deine berufliche Sichtbarkeit zu erhöhen und deine Karrierechancen zu verbessern. Es ist eine Plattform, die dir hilft, dich mit anderen Fachleuten zu vernetzen und deine beruflichen Ziele zu erreichen.
 
 ---
-[Zurück](../README.md) | [Weiter](../04-online-kalender/README.md) zu Online-Kalender
+
+<p align="center"><a href="/docs/08-karriere/01-social_media_netzwerk/02-linkedin/README.md"><strong>Zurück</strong></a> | <a href="/docs/08-karriere/01-social_media_netzwerk/04-doodle_kalender/README.md"><strong>Weiter</strong></a></p>

@@ -1,4 +1,4 @@
-# Dein GitHub-Profil
+# <p align="center">Dein GitHub-Profil</p>
 
 ![Beispiel-Profil](../../../../images/github_profil.png)
 
@@ -75,4 +75,4 @@ Also, leg los und mach dein GitHub-Profil zu deinem persönlichen Schaufenster i
 
 ---
 
-[Zurück](../README.md) | [Weiter](../02-linkedin-profil/README.md) zu LinkedIn-Profil
+<p align="center"><a href="/docs/08-karriere/01-social_media_netzwerk/README.md"><strong>Zurück</strong></a> | <a href="/docs/08-karriere/01-social_media_netzwerk/02-linkedin/README.md"><strong>Weiter</strong></a></p>
