@@ -1,8 +1,10 @@
 <p align="center"><em>Vorschau des Platzhalters zur Ansicht im Browser (hier würde ggf. die Überschrift des geplanten Eintrags stehen)</em></p>
 
-# <p align="center">Sorry, hier gibt es leider (noch) nichts zu sehen! 👀</p>
+# <p align="center">Muster-Überschrift</p>
 
-<!-- hier Bild einfügen -->
+## <p align="center">Sorry, hier gibt es leider (noch) nichts zu sehen! 👀</p>
+
+![wiki platzhalter image](https://github.com/user-attachments/assets/69b70f12-916c-4167-8920-c6055f5903d5)
 
 Unser Wiki wird **laufend** erweitert, angepasst und verbessert. **Das erfordert Zeit** - deshalb kann der ein oder andere geplante Inhalt manchmal nicht sofort umgesetzt werden.
 
