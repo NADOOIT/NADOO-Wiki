@@ -72,3 +72,5 @@ Das 3er-Team Regulation & Recht (Compliance/Regulatory Affairs) ist für die Ent
 - **Discord:** [Dokumentation & Testing](https://discord.com/channels/1299292608744390707/1364905809972035605)
 
 ---
+
+<p align="center"><a href="/docs/02-arbeiten_bei_nadoo/03-teams/README.md"><strong>Zurück</strong></a> | <a href="/docs/02-arbeiten_bei_nadoo/03-teams/02-team_archiv/README.md"><strong>Weiter</strong></a></p>

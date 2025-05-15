@@ -53,3 +53,9 @@ Du hast ein bisschen getrödelt, dein erster Tag steht quasi schon mit dem Fuß 
 #
 
 <!-- hier Kapitelübersicht hinzufügen -->
+
+---
+
+<p align="center">
+<a href="/README.md"><strong>Zurück</strong></a> | <a href="/docs/00-willkommen/01-leitfaden/README.md"><strong>Weiter</strong></a>
+</p>

@@ -12,3 +12,7 @@ Hier findest du sowohl eine Übersicht aller **aktuell bestehenden 11er-Teams sa
 
 2. [**Ehemalige Teams und ihre abgeschlossenen Projekte**](docs/02-arbeiten_bei_nadoo/03-teams/02-team_archiv/README.md)
 
+---
+
+<p align="center"><a href="/docs/02-arbeiten_bei_nadoo/02-training_und_vorbereitung/02-praesentationstraining/README.md"><strong>Zurück</strong></a> | <a href="/docs/02-arbeiten_bei_nadoo/03-teams/01-aktive_teams/README.md"><strong>Weiter</strong></a></p>
+

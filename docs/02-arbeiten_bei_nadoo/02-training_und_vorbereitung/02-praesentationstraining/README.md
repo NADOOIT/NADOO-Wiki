@@ -13,4 +13,4 @@ Wenn ja, gab's schon Überlegungen zu möglichen Inhalten?
 
 ---
 
-[Zurück](docs/01-organisation/11-training_und_vorbereitung/01-trainingsbeitraege/README.md) | [Weiter](docs/01-organisation/12-programmierer_dasein/README.md)
+<p align="center"><a href="/docs/02-arbeiten_bei_nadoo/02-training_und_vorbereitung/01-trainingsbeitraege/README.md"><strong>Zurück</strong></a> | <a href="/docs/02-arbeiten_bei_nadoo/03-teams/01-aktive_teams/README.md"><strong>Weiter</strong></a></p>
