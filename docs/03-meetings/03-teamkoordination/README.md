@@ -1,4 +1,5 @@
-# Teamkoordinator:innen-Meeting
+# <p align="center">Teamkoordinator:innen-Meeting</p>
+
 
 - An den Teamkordinator:innen-Meetings nehmen alle Teamkoordinator:innen teil.
 - Diese Meetings sind freiwillig für die 3er-Teams.
@@ -10,4 +11,4 @@ Die Meetings sind eine wichtige Gelegenheit, um die Zusammenarbeit und den Austa
 
 ---
 
-[Zurück](../02-11er/README.md) | [Weiter](../04-33er/README.md)
+<p align="center"><a href="/docs/03-meetings/02-11er/README.md"><strong>Zurück</strong></a> | <a href="/docs/03-meetings/04-33er/README.md"><strong>Weiter</strong></a></p>
