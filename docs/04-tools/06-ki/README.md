@@ -1,4 +1,4 @@
-# <p align="center">Künstliche Inteeligenz (KI)</p
+# <p align="center">Künstliche Intelligenz (KI)</p
 
 <!-- Einleitung + Kapitelübersicht -->
 
