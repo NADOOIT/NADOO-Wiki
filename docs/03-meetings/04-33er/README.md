@@ -1,4 +1,5 @@
-# 33er-Meeting 
+# <p align="center">33er-Meeting</p>
+
 ### Freitag
 
 **Dauer:** 10:14–11:44 Uhr
@@ -32,4 +33,4 @@ Zeit | Phase | Beschreibung
 
 ---
 
-[Zurück](../03-teamkoordination/README.md) | [Weiter](../05-teamuebersicht/README.md)
+<p align="center"><a href="/docs/03-meetings/03-teamkoordination/README.md"><strong>Zurück</strong></a> | <a href="/docs/04-tools/README.md"><strong>Weiter</strong></a></p>

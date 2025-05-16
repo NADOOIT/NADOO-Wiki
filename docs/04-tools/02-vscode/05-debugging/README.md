@@ -1,4 +1,4 @@
-# Terminal und Debugging
+# <p align="center">Terminal und Debugging</p>
 
 1. Debugger einrichten: Erstelle bzw. passe Konfigurationsdateien (z. B. launch.json) an.
 2. Breakpoints setzen: Lege Breakpoints im Code fest, um den Programmablauf zu kontrollieren.
@@ -8,4 +8,4 @@
 
 ---
 
-[Zurück](/docs/3/2/4/README.md) | [Weiter](/docs/4/README.md)
+<p align="center"><a href="/docs/04-tools/02-vscode/04-editor/README.md"><strong>Zurück</strong></a> | <a href="/docs/04-tools/03-intellij/README.md"><strong>Weiter</strong></a></p>

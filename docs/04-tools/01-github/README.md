@@ -1,4 +1,8 @@
-# Versionsverwaltung mit GitHub
+# <p align="center">Versionsverwaltung mit GitHub</p>
+<!-- 
+Einleitungstext ggf. nochmal überarbeiten
+Shortcut zur Kapitel-Übersicht hinzufügen
+Kapitel-Übersicht hinzufügen -->
 
 GitHub ist eine Plattform zur **Versionsverwaltung** und **Zusammenarbeit**, die auf Git basiert. Sie ermöglicht es Entwicklern, Code zu hosten, zu überprüfen und gemeinsam an Projekten zu arbeiten. Mit Funktionen wie Pull Requests, Issues und Actions unterstützt GitHub den gesamten Entwicklungsprozess von der Planung bis zur Bereitstellung.
 
@@ -96,6 +100,8 @@ Markdown ist eine einfache Auszeichnungssprache, die es ermöglicht, Text in ein
 
 ### GitHub-Flavored Markdown
 
-GitHub-Flavored Markdown (GFM) ist eine erweiterte Version von Markdown, die zusätzliche Funktionen und Syntaxelemente bietet, die speziell für GitHub entwickelt wurden
+GitHub-Flavored Markdown (GFM) ist eine erweiterte Version von Markdown, die zusätzliche Funktionen und Syntaxelemente bietet, die speziell für GitHub entwickelt wurden.
 
 ---
+
+<p align="center"><a href="/docs/04-tools/README.md"><strong>Zurück</strong></a> | <a href="/docs/04-tools/01-github/01-repository/README.md"><strong>Weiter</strong></a></p>

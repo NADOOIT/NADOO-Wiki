@@ -1,4 +1,4 @@
-# Das Terminal — die Grundlagen
+# <p align="center">Das Terminal — die Grundlagen</p>
 
 Willkommen zu den Terminal Grundlagen! Diese Seite dient als Einführung in die wichtigsten Konzepte und Funktionen des Terminals. Hier lernst du, wie du ein Terminal startest, die Benutzeroberfläche verstehst und grundlegende Navigationsbefehle anwendest.
 
@@ -32,17 +32,7 @@ Da du bereits Visual Studio Code installiert hast, kannst du das integrierte Ter
    - Windows/Linux: ``Ctrl+` ``
    - macOS: ``Cmd+` ``
 
-
-
-Citations:
-[1] https://serverspace.io/de/about/blog/basic-linux-commands-in-the-terminal/
-[2] https://www.heise.de/tipps-tricks/Linux-Befehle-Die-20-wichtigsten-Kommandos-3843388.html
-[3] https://www.linuxumsteiger.net/linux-terminal-befehle/
-[4] https://kinsta.com/de/blog/linux-befehle/
-[5] https://support.apple.com/de-de/guide/terminal/welcome/mac
-[6] https://contabo.com/blog/de/linux-befehle/
-[7] https://www.ionos.de/digitalguide/server/konfiguration/linux-befehle-terminal-kommandos-im-ueberblick/
-[8] https://hsp.pages.cs.uni-duesseldorf.de/programmierung/website/lectures/progra/tutorials/terminal/
+---
 
 ## Benutzeroberfläche verstehen
 
@@ -93,3 +83,21 @@ Füge die Bilder in das Repository ein, indem du sie im `images/`-Ordner speiche
 ## Dokumentation und Fragen
 
 Es ist wichtig, dass du alle Fragen, die während der Bearbeitung dieses Abschnitts aufkommen, dokumentierst. Notiere deine Fragen, bevor du sie anderen stellst. Diese Praxis der Dokumentation ist entscheidend für Entwickler, da sie uns hilft, Unklarheiten zu identifizieren und den Lehrgang kontinuierlich zu verbessern und zugänglicher zu gestalten.
+
+---
+
+### Quellen
+
+[1] https://serverspace.io/de/about/blog/basic-linux-commands-in-the-terminal/
+[2] https://www.heise.de/tipps-tricks/Linux-Befehle-Die-20-wichtigsten-Kommandos-3843388.html
+[3] https://www.linuxumsteiger.net/linux-terminal-befehle/
+[4] https://kinsta.com/de/blog/linux-befehle/
+[5] https://support.apple.com/de-de/guide/terminal/welcome/mac
+[6] https://contabo.com/blog/de/linux-befehle/
+[7] https://www.ionos.de/digitalguide/server/konfiguration/linux-befehle-terminal-kommandos-im-ueberblick/
+[8] https://hsp.pages.cs.uni-duesseldorf.de/programmierung/website/lectures/progra/tutorials/terminal/
+
+---
+
+<p align="center"><a href="/docs/04-tools/03-intellij/02-installation/README.md"><strong>Zurück</strong></a> | <a href="/docs/04-tools/05-launchpad/README.md"><strong>Weiter</strong></a></p>
+

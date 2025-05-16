@@ -1,4 +1,5 @@
-# Zeitpläne des allgemeinen Morgenmeetings
+# <p align="center">Zeitpläne des allgemeinen Morgenmeetings</p>
+
 
 ## Montag, Dienstag, Donnerstag
 
@@ -33,4 +34,5 @@
 
 ---
 
-[Zurück](/docs/02-tools/05-ki/02-gemini/README.md) | [Weiter](../02-11er/README.md)
+<p align="center"><a href="/docs/03-meetings/README.md"><strong>Zurück</strong></a> | <a href="/docs/03-meetings/02-11er/README.md"><strong>Weiter</strong></a></p>
+

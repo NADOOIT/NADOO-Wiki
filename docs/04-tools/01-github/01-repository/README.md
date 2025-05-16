@@ -1,4 +1,5 @@
-# Repository
+# <p align="center">Repository</p>
+
 
 ## Definition
 
@@ -22,5 +23,5 @@ Ein Repository ist ein Speicherort für Projekte, in dem Code, Dokumentation und
 
 ---
 
+<p align="center"><a href="/docs/04-tools/01-github/README.md"><strong>Zurück</strong></a> | <a href="/docs/04-tools/01-github/02-branches/README.md"><strong>Weiter</strong></a></p>
 
-[Zurück](/docs/3/1/README.md)| [Weiter](../2/README.md)|

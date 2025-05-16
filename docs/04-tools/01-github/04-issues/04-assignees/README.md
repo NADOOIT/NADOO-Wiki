@@ -1,4 +1,4 @@
-# Assignees
+# <p align="center">Assignees</p>
 
 ## Was sind Assignees?
 
@@ -34,4 +34,4 @@ Nutze Assignees zusammen mit Labels und Milestones für eine strukturierte Arbei
 
 ---
 
-[Zurück](../README.md) | [Weiter](../04-milestones/README.md) zu Milestones
+<p align="center"><a href="/docs/04-tools/01-github/04-issues/03-types/README.md"><strong>Zurück</strong></a> | <a href="/docs/04-tools/01-github/04-issues/05-milestones/README.md"><strong>Weiter</strong></a></p>

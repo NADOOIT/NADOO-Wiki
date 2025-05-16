@@ -1,4 +1,4 @@
-# Tools und Voraussetzungen
+# <p align="center">Kommunikation und Zusammenarbeit</p>
 
 ## Discord als zentrales Kommunikations-Tool
 
@@ -23,4 +23,4 @@ Die Bildschirmübertragung sollte in allen Meetings aktiviert sein, um den Austa
 
 ---
 
-[Zurück](../README.md) | [Weiter](../04-kommunikation/01-discord/01-einrichtung/README.md) zur Discord-Einrichtung
+<p align="center"><a href="/docs/04-tools/06-ki/03-gemini/README.md"><strong>Zurück</strong></a> | <a href="/docs/05-kommunikation/01-discord/README.md"><strong>Weiter</strong></a></p>

@@ -1,12 +1,13 @@
-# Code-Review
+# <p align="center">Code Reviews</p>
 
-## Was ist ein Code-Review?
 
-Ein Code-Review ist die Überprüfung von Code durch andere Teammitglieder, bevor dieser in den Hauptzweig (z. B. `main` oder `develop`) übernommen wird. Ziel ist es, Fehler frühzeitig zu erkennen, die Codequalität zu verbessern und voneinander zu lernen.
+## Was ist eine Code Review?
+
+Eine Code Review ist die Überprüfung von Code durch andere Teammitglieder, bevor dieser in den Hauptzweig (z. B. `main` oder `develop`) übernommen wird. Ziel ist es, Fehler frühzeitig zu erkennen, die Codequalität zu verbessern und voneinander zu lernen.
 
 ---
 
-## Warum ist ein Code-Review wichtig?
+## Warum sind Code-Reviews wichtig?
 
 - **Fehlererkennung**: Durch die Überprüfung können Bugs und Probleme frühzeitig identifiziert werden.
 - **Wissenstransfer**: Teammitglieder lernen voneinander und teilen ihr Wissen über den Code.
@@ -20,7 +21,7 @@ Ein Code-Review ist die Überprüfung von Code durch andere Teammitglieder, bevo
 
 ---
 
-## Ablauf eines Code-Reviews bei GitHub
+## Ablauf einer Code Review bei GitHub
 
 1. **Pull Request erstellen**  
    Nach dem Fertigstellen eines Features oder Fixes erstellst du einen Pull Request (PR). Damit wird dein Code für andere sichtbar.
@@ -52,4 +53,5 @@ Ein Code-Review ist die Überprüfung von Code durch andere Teammitglieder, bevo
 
 ---
 
-[Zurück](../01-merge-konflikte/README.md) | [Weiter](../../04-issues/README.md) zu Issues
+<p align="center"><a href="/docs/04-tools/01-github/03-pull-requests/01-merge-konflikte/README.md"><strong>Zurück</strong></a> | <a href="/docs/04-tools/01-github/04-issues/README.md"><strong>Weiter</strong></a></p>
+
