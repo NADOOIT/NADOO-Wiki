@@ -50,3 +50,7 @@ Das System basiert auf einem Watchdog, der einen festgelegten Ordner überwacht.
 Das Speech-to-Text-Feature im NADOO Launchpad automatisiert die Umwandlung von Sprache in Text und spart so Zeit bei der Dokumentation. Es eignet sich hervorragend für Teams, die regelmäßig Besprechungen oder Präsentationen aufzeichnen und diese Inhalte anschließend weiterverarbeiten oder archivieren möchten. Beachte die anfängliche Downloadzeit und die aktuelle Limitierung bei der gleichzeitigen Verarbeitung mehrerer Dateien.
 
 Für Fragen oder Probleme nutze bitte den Issue-Tracker im Repository des Projekts.
+
+---
+
+<p align="center"><a href="/docs/04-tools/05-launchpad/02-features/07-wochenuebersicht/README.md"><strong>Zurück</strong></a> | <a href="/docs/04-tools/05-launchpad/02-features/09-create_snippets/README.md"><strong>Weiter</strong></a></p>

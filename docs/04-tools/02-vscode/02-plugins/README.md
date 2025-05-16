@@ -1,4 +1,4 @@
-# Plugins und Erweiterungen
+# <p align="center">Plugins und Erweiterungen</p>
 
 1. Verfügbare Plugins und Erweiterungen recherchieren: Informiere dich über unterstützte Plugins für deine Anwendung.
 2. Auswahl und Installation: Wähle geeignete Plugins aus und installiere sie (z. B. über ein Paketmanagementsystem).
@@ -25,4 +25,4 @@ Kurz gesagt: Markdown Preview Enhanced ist ideal für technische Dokumentationen
 
 ---
 
-[Zurück](/docs/3/2/1/README.md) | [Weiter](/docs/3/2/3/README.md)
+<p align="center"><a href="/docs/04-tools/02-vscode/01-installation/README.md"><strong>Zurück</strong></a> | <a href="/docs/04-tools/02-vscode/03-workspaces/README.md"><strong>Weiter</strong></a></p>

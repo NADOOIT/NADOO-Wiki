@@ -1,5 +1,6 @@
-# Selbstständig Veränderungen innerhalb des Wikis vornehmen (später auch am Launchpad): ein kleiner Guide
+# <p align="center">Selbstständig Veränderungen innerhalb des Wikis vornehmen (später auch am Launchpad): ein kleiner Guide</p>
 <!-- Verweis auf dieses Doc an passender Stelle im Styleguide einbinden-->
+
 An dieser Stelle zeigen wir dir, wie du aktiv an der Gestaltung des Wiki mitwirken kannst und wie du bereits jetzt schon Issues, die das Wiki betreffen, bearbeiten und auch vielleicht schon lösen kannst. Möglicherweise hast du noch nicht die Berechtigungen, um im Wiki verschiedene Funktionen zu nutzen. Ist dies der Fall, melde dich bitte bei [Christoph](mailto:Christoph.backhaus@nadooit.de) mit deinem GitHub Namen, damit er sie dir erteilen kann.
 
 ## Issue erstellen
@@ -72,4 +73,5 @@ Wenn du bis hier hin alles richtig gemacht hast, sollte sich automatisch GitHub 
 
 ---
 
-[Zurück](../README.md) | [Weiter](../02-labels/README.md) zu Labels
+<p align="center"><a href="/docs/04-tools/01-github/04-issues/README.md"><strong>Zurück</strong></a> | <a href="/docs/04-tools/01-github/04-issues/02-labels/README.md"><strong>Weiter</strong></a></p>
+

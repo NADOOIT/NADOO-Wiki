@@ -1,4 +1,4 @@
-# Nutzung der Gemini API – eine Anleitung
+# <p align="center">Nutzung der Gemini API – eine Anleitung</p>
 
 Die Gemini API von Google ermöglicht Entwicklern den Zugriff auf fortschrittliche KI-Funktionen. Diese Anleitung bietet eine Übersicht zur Einrichtung und Nutzung der API, einschließlich Informationen zur Authentifizierung mittels API-Schlüssel, den verfügbaren kostenlosen Nutzungskontingenten und den entsprechenden Limits.
 
@@ -52,3 +52,7 @@ Die Gemini API bietet ein kostenloses Nutzungskontingent (Free Tier), das ideal 
 *Hinweis: Die genauen Limits können je nach Modell variieren. Für aktuelle Informationen konsultiere bitte die [offizielle Dokumentation](https://ai.google.dev/gemini-api/docs/rate-limits?hl=de).*
 
 Diese Anleitung basiert auf Informationen aus der [offiziellen Gemini API-Dokumentation](https://ai.google.dev/gemini-api/docs/api-key?hl=de) und den [Preisinformationen](https://ai.google.dev/gemini-api/docs/pricing?hl=de).
+
+---
+
+<p align="center"><a href="/docs/04-tools/06-ki/02-llm-mlx/README.md"><strong>Zurück</strong></a> | <a href="/docs/05-kommunikation/README.md"><strong>Weiter</strong></a></p>

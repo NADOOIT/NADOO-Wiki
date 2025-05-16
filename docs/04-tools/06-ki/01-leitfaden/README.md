@@ -1,4 +1,4 @@
-# KI‐Nutzung: Ein umfassender Leitfaden
+# <p align="center">KI‐Nutzung: Ein umfassender Leitfaden</p>
 
 Willkommen zu unserem Wiki-Artikel über die Nutzung von Künstlicher Intelligenz (KI). Dieser Leitfaden bietet einen Überblick über verschiedene KI-Tools und -Plattformen, ihre Anwendungen und Besonderheiten. Von API-basierten Diensten bis hin zu lokalen Modellen werden wir die wichtigsten Aspekte der KI-Nutzung beleuchten.
 
@@ -273,7 +273,9 @@ Wenn du genauer wissen willst, wie KI funktioniert, ist folgendes Video empfehle
 
 https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=1
 
-Quellen / Zitate:
+---
+
+### Quellen:
 [1] https://www.microsoft.com/en-us/research/articles/omniparser-for-pure-vision-based-gui-agent/
 [2] https://huggingface.co/papers/2408.00203
 [3] https://microsoft.github.io/OmniParser/
@@ -282,3 +284,7 @@ Quellen / Zitate:
 [6] https://www.youtube.com/watch?v=KOHfJprfN60
 [7] https://openaccess.thecvf.com/content/CVPR2024/papers/Wan_OmniParser_A_Unified_Framework_for_Text_Spotting_Key_Information_Extraction_CVPR_2024_paper.pdf
 [8] https://www.psychology.hu-berlin.de/de/prof/ingpsy/inpsy_old/forschung/tools/literatur/fuhrmann-2010-entwicklung-eines-gui-fur-die-konfiguration-der-software-komponente-zur-systemprozessuberwachung-und-kontrolle-in-einer-psychologischen-versuchsumgebung.pdf
+
+---
+
+<p align="center"><a href="/docs/04-tools/06-ki/README.md"><strong>Zurück</strong></a> | <a href="/docs/04-tools/06-ki/02-llm-mlx/README.md"><strong>Weiter</strong></a></p>

@@ -1,4 +1,4 @@
-# Milestones
+# <p align="center">Milestones</p>
 
 ## Was sind Milestones?
 
@@ -33,8 +33,14 @@ Verwende Milestones für größere Themenblöcke, wie z. B. Releases, Sprints 
 
 ---
 
-[Zurück](../README.md) | [Weiter](../05-templates/README.md) zu Templates
+<p align="center"><a href="/docs/04-tools/01-github/04-issues/04-assignees/README.md"><strong>Zurück</strong></a> | <a href="/docs/04-tools/01-github/04-issues/06-projects/README.md"><strong>Weiter</strong></a></p>
 
+<!-- 
 ---
 
 **Tags:** #github #issues #milestones #projektmanagement
+
+-> Tags vorerst auskommentiert, da noch nicht funktionsfähig / Idee noch nicht ganz ausgereift und bisher auch nirgends außer hier (04-issues) an willkürlichen? Stellen implementiert (Stand: 15.05.2025) -->
+
+
+

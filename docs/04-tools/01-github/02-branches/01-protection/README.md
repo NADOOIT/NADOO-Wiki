@@ -1,4 +1,4 @@
-# GitHub Branch Protection: Sicherheit und Qualität im Entwicklungsprozess
+# <p align="center">GitHub Branch Protection: Sicherheit und Qualität im Entwicklungsprozess</p>
 
 ## Einführung
 
@@ -74,3 +74,7 @@ Als Teil des Onboarding-Prozesses empfehlen wir folgende Übung:
 4. Diskutiere die Ergebnisse und Erfahrungen im Team.
 
 Diese praktische Übung hilft, die Wichtigkeit und Funktionsweise von Branch Protection zu verstehen und fördert gleichzeitig die Zusammenarbeit im Team.
+
+---
+
+<p align="center"><a href="/docs/04-tools/01-github/02-branches/README.md"><strong>Zurück</strong></a> | <a href="/docs/04-tools/01-github/03-pull-requests/README.md"><strong>Weiter</strong></a></p>

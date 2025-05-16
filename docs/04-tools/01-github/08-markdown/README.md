@@ -1,4 +1,4 @@
-# Markdown
+# <p align="center">**Markdown**</p>
 
 Markdown ist eine einfache Auszeichnungssprache, mit der du Texte schnell und leicht lesbar formatieren kannst – zum Beispiel fett, kursiv, Listen, Überschriften oder Code-Blöcke.
 
@@ -78,8 +78,12 @@ Hier finden neue Mitarbeitende alle nötigen Informationen und Zugangsdaten.
 
 ---
 
-[Mehr dazu (englisch)](https://github.github.com/gfm/#what-is-github-flavored-markdown-)
+[**Mehr dazu (Englisch)**](https://github.github.com/gfm/#what-is-github-flavored-markdown-)
+
+#
+
+### <p align="center">Viel Spaß beim Experimentieren mit Markdown! 😊</p>
 
 ---
 
-Viel Spaß beim Markdown-Schreiben! 😊
+<p align="center"><a href="/docs/04-tools/01-github/07-suche/README.md"><strong>Zurück</strong></a> | <a href="/docs/04-tools/02-vscode/README.md"><strong>Weiter</strong></a></p>
