@@ -1,4 +1,4 @@
-# Labels
+# <p align="center">Labels</p>
 
 ## Empfohlene GitHub Labels für NADOO-Projekte
 
@@ -56,4 +56,5 @@ Diese Labels helfen dir und dem Team, Aufgaben schnell zu finden und sinnvoll ei
 - [GitHub Docs: Labels](https://docs.github.com/de/issues/using-labels-and-milestones-to-track-work/managing-labels)
 
 ---
-[Zurück](../README.md) | [Weiter](../02-types/README.md) zu Typen
+
+<p align="center"><a href="/docs/04-tools/01-github/04-issues/01-wiki-guide/README.md"><strong>Zurück</strong></a> | <a href="/docs/04-tools/01-github/04-issues/03-types/README.md"><strong>Weiter</strong></a></p>

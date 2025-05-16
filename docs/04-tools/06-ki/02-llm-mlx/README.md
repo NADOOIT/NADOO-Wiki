@@ -1,4 +1,4 @@
-# Large Language Model (LLM) und das Apple MLX (MacOs Silicon) Framework — ein Vergleich
+# <p align="center">Large Language Model (LLM) und das Apple MLX (MacOS Silicon) Framework — ein Vergleich</p>
 
 ## 🧠 LLM (Large Language Model)
 
@@ -37,3 +37,5 @@
 | Flexibilität | Weniger flexibel | Sehr flexibel |
 
 ---
+
+<p align="center"><a href="/docs/04-tools/06-ki/01-leitfaden/README.md"><strong>Zurück</strong></a> | <a href="/docs/04-tools/06-ki/03-gemini/README.md"><strong>Weiter</strong></a></p>

@@ -1,4 +1,4 @@
-# Types
+# <p align="center">Types</p>
 
 ## Was sind Issue-Typen bei GitHub?
 
@@ -26,4 +26,4 @@ Mit klaren Typen kann man schneller filtern, sortieren und priorisieren. Besonde
 
 ---
 
-[Zurück](../README.md) | [Weiter](../03-assignees/README.md) zu Assignees
+<p align="center"><a href="/docs/04-tools/01-github/04-issues/02-labels/README.md"><strong>Zurück</strong></a> | <a href="/docs/04-tools/01-github/04-issues/04-assignees/README.md"><strong>Weiter</strong></a></p>

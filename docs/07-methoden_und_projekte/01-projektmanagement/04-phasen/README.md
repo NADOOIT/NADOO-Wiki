@@ -1,4 +1,4 @@
-# Projektphasen
+# <p align="center">Projektphasen</p>
 
 ## Projektinitialisierung
 
@@ -59,4 +59,4 @@ Der Projektabschluss fasst Ergebnisse zusammen und leitet zukünftige Maßnahmen
 
 ---
 
-[Zurück](../03-projektmanagement/README.md) | [Weiter](../05-abschluss/README.md) zu Projektabschluss
+<p align="center"><a href="/docs/07-methoden_und_projekte/01-projektmanagement/03-projektmanagement/README.md"><strong>Zurück</strong></a> | <a href="/docs/07-methoden_und_projekte/01-projektmanagement/05-abschlussprojekt/README.md"><strong>Weiter</strong></a></p>

@@ -1,4 +1,4 @@
-# Installation und Einrichtung
+# <p align="center">Installation und Einrichtung</p>
 
 1. Systemvoraussetzungen prüfen: Stelle sicher, dass dein System alle benötigten Komponenten (z. B. Node.js, Datenbankserver) installiert hat.
 2. Repository klonen oder Installationspaket herunterladen: Klone das Repository oder lade das Installationspaket von der offiziellen Quelle herunter.
@@ -10,4 +10,4 @@
 
 ---
 
-[Weiter](/docs/3/2/2/README.md)
+<p align="center"><a href="/docs/04-tools/02-vscode/README.md"><strong>Zurück</strong></a> | <a href="/docs/04-tools/02-vscode/02-plugins/README.md"><strong>Weiter</strong></a></p>

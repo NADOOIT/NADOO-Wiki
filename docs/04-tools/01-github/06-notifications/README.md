@@ -1,4 +1,5 @@
-# GitHub-Notifications und Visual Studio Code
+# <p align="center">GitHub-Notifications und Visual Studio Code</p>
+<!-- hier evtl./wenn möglich nochmal die Nummerierung der einzelnen Text-Abschnitte ein bisschen vereinfachen -->
 Um E-Mail-Benachrichtigungen für GitHub so weit wie möglich zu reduzieren oder ganz darauf zu verzichten, lohnt es sich, GitHub Notifications gezielt zu nutzen.
 
 Eine effiziente Herangehensweise besteht darin, die Benachrichtigungen innerhalb von Visual Studio Code (VS Code) zu integrieren und so z. B. Pull Requests, Issues und Kommentare **direkt in der Entwicklungsumgebung zu bearbeiten**.
@@ -147,4 +148,4 @@ Kurz gesagt: Stelle GitHubs Benachrichtigungen so ein, dass du nur relevante Ere
 
 ---
 
-[Zurück](../5/README.md) | [Weiter](../7/README.md) 
+<p align="center"><a href="/docs/04-tools/01-github/05-actions/README.md"><strong>Zurück</strong></a> | <a href="/docs/04-tools/01-github/07-suche/README.md"><strong>Weiter</strong></a></p>

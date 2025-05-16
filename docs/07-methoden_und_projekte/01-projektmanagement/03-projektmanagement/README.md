@@ -1,10 +1,10 @@
-# Projektmanagement
+# <p align="center">Projektmanagement</p>
 
 ## Bedeutung des Projektmanagements in der Ausbildung
 
 ### Frühzeitige Auseinandersetzung als Schlüssel zum Erfolg
 
-Ein zentrales Element der Ausbildung zum/zur Fachinformatiker:in ist das betriebliche Projekt – es bildet mit einem Praxisanteil von ca. 50% einen wesentlichen Bestandteil der Abschlussprüfung.
+Ein zentrales Element der Ausbildung zum/zur Fachinformatiker:in ist das betriebliche Projekt – es bildet mit einem Praxisanteil von 50% einen wesentlichen Bestandteil der Abschlussprüfung.
 
 Dabei reicht es nicht aus, sich erst kurz vor der Prüfung mit Projektmanagement auseinanderzusetzen. Vielmehr gilt: Wer früh beginnt, verschafft sich einen entscheidenden Vorteil.
 
@@ -50,4 +50,4 @@ Projektmanagement ist kein isoliertes Thema für die Prüfungsphase — es ist e
 
 ---
 
-[Zurück](../02-planung/01-antrag/README.md) | [Weiter](../04-phasen/README.md) zu Projektphasen
+<p align="center"><a href="/docs/07-methoden_und_projekte/01-projektmanagement/02-planung/01-antrag/README.md"><strong>Zurück</strong></a> | <a href="/docs/07-methoden_und_projekte/01-projektmanagement/04-phasen/README.md"><strong>Weiter</strong></a></p>

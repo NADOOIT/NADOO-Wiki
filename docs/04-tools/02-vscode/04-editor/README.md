@@ -1,4 +1,4 @@
-# Editorfunktionen und IntelliSense
+# <p align="center">Editorfunktionen und IntelliSense</p>
 
 1. Editorfunktionen verstehen: Erläutere, wie Funktionen wie Syntax-Hervorhebung, Code-Vervollständigung und Fehlererkennung genutzt werden können.
 2. IntelliSense konfigurieren: Erkläre, wie IntelliSense so eingestellt wird, dass kontextsensitive Vorschläge und Dokumentationen bereitgestellt werden.
@@ -8,4 +8,4 @@
 
 ---
 
-[Zurück](/docs/3/2/3/README.md) | [Weiter](/docs/3/2/5/README.md)
+<p align="center"><a href="/docs/04-tools/02-vscode/03-workspaces/README.md"><strong>Zurück</strong></a> | <a href="/docs/04-tools/02-vscode/05-debugging/README.md"><strong>Weiter</strong></a></p>

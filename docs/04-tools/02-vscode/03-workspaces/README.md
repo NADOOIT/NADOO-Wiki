@@ -1,4 +1,4 @@
-# Workspaces (Arbeitsbereiche)
+# <p align="center">Workspaces (Arbeitsbereiche)</p>
 
 1. Arbeitsbereiche definieren: Beschreibe den Zweck und die Struktur eines Workspaces.
 2. Neue Workspaces anlegen: Lege separate Bereiche für unterschiedliche Projekte oder Module an.
@@ -8,4 +8,4 @@
 
 ---
 
-[Zurück](/docs/3/2/2/README.md) | [Weiter](/docs/3/2/4/README.md)
+<p align="center"><a href="/docs/04-tools/02-vscode/02-plugins/README.md"><strong>Zurück</strong></a> | <a href="/docs/04-tools/02-vscode/04-editor/README.md"><strong>Weiter</strong></a></p>
