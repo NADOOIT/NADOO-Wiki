@@ -100,7 +100,7 @@ Markdown ist eine einfache Auszeichnungssprache, die es ermöglicht, Text in ein
 
 ### GitHub-Flavored Markdown
 
-GitHub-Flavored Markdown (GFM) ist eine erweiterte Version von Markdown, die zusätzliche Funktionen und Syntaxelemente bietet, die speziell für GitHub entwickelt wurden
+GitHub-Flavored Markdown (GFM) ist eine erweiterte Version von Markdown, die zusätzliche Funktionen und Syntaxelemente bietet, die speziell für GitHub entwickelt wurden.
 
 ---
 
