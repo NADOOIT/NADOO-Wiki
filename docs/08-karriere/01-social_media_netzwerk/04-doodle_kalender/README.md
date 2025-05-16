@@ -1,4 +1,4 @@
-# Online-Kalender mit Doodle einrichten und in LinkedIn-Profil integrieren
+# <p align="center">Online-Kalender mit Doodle einrichten und in LinkedIn-Profil integrieren</p>
 
 Ein Online-Kalender erleichtert es potenziellen Arbeitgebern, Kollegen und neuen Kontakten, Termine mit Ihnen zu vereinbaren. In dieser Anleitung erfahren Sie, wie Sie einen Online-Kalender mit Doodle einrichten und in Ihr LinkedIn-Profil integrieren.
 
@@ -22,11 +22,11 @@ Um sicherzustellen, dass deine E-Mail-Kommunikation den Anforderungen der Datens
 ### Vorteile von Tutanota
 <br>
 
->✅ **DSGVO-Konformität**: Alle Daten werden in der EU gespeichert und sind vollständig DSGVO-konform.
+✅ **DSGVO-Konformität**: Alle Daten werden in der EU gespeichert und sind vollständig DSGVO-konform.
 
->✅ **Sicherheit**: Bietet End-to-End-Verschlüsselung für E-Mails und Kalender.
+✅ **Sicherheit**: Bietet End-to-End-Verschlüsselung für E-Mails und Kalender.
 
->✅ **Benutzerfreundlichkeit**: Einfache Integration in bestehende Systeme und Tools.
+✅ **Benutzerfreundlichkeit**: Einfache Integration in bestehende Systeme und Tools.
 
 #
 
@@ -66,17 +66,17 @@ Aus Sicht eines Unternehmers und erfahrenen Kalendernutzers kann nicht genug bet
 
 ### Hier sind die wichtigsten Aspekte:
 
->➡️ **Ganzheitliche Zeiterfassung**: Trage konsequent alle deine Aktivitäten ein - von Geschäftsterminen über Schlafenszeiten bis hin zu Mahlzeiten und Pausen. Das mag zunächst übertrieben erscheinen, ist aber unerlässlich, um Überbuchungen zu vermeiden und eine gesunde Work-Life-Balance zu gewährleisten.
+➡️ **Ganzheitliche Zeiterfassung**: Trage konsequent alle deine Aktivitäten ein - von Geschäftsterminen über Schlafenszeiten bis hin zu Mahlzeiten und Pausen. Das mag zunächst übertrieben erscheinen, ist aber unerlässlich, um Überbuchungen zu vermeiden und eine gesunde Work-Life-Balance zu gewährleisten.
 
->➡️ **Strukturierter Tagesablauf**: Ein detaillierter Kalender hilft dir dabei, einen regelmäßigen und strukturierten Tagesablauf zu etablieren. Das steigert nicht nur deine Produktivität, sondern reduziert auch Stress, da du genau weißt, was wann ansteht.
+➡️ **Strukturierter Tagesablauf**: Ein detaillierter Kalender hilft dir dabei, einen regelmäßigen und strukturierten Tagesablauf zu etablieren. Das steigert nicht nur deine Produktivität, sondern reduziert auch Stress, da du genau weißt, was wann ansteht.
 
->➡️ **Respekt für Ruhezeiten**: Durch das Eintragen von Ruhezeiten und persönlichen Aktivitäten stellst du sicher, dass andere diese Zeiten respektieren und keine Termine in deinen Erholungsphasen buchen.
+➡️ **Respekt für Ruhezeiten**: Durch das Eintragen von Ruhezeiten und persönlichen Aktivitäten stellst du sicher, dass andere diese Zeiten respektieren und keine Termine in deinen Erholungsphasen buchen.
 
->➡️ **Flexibilität und Kontrolle**: Ein gut geführter Kalender gibt dir die Flexibilität, spontan auf Anfragen zu reagieren, während du gleichzeitig die Kontrolle über deine Zeit behältst. Du kannst leicht erkennen, wo du noch Kapazitäten hast und wo nicht.
+➡️ **Flexibilität und Kontrolle**: Ein gut geführter Kalender gibt dir die Flexibilität, spontan auf Anfragen zu reagieren, während du gleichzeitig die Kontrolle über deine Zeit behältst. Du kannst leicht erkennen, wo du noch Kapazitäten hast und wo nicht.
 
->➡️ **Effizienzsteigerung**: Indem du alle Aktivitäten in deinem Kalender vermerkst, schaffst du mentalen Freiraum. Du musst dir nicht mehr merken, was als Nächstes ansteht, sondern kannst dich voll und ganz auf die aktuelle Aufgabe konzentrieren.
+➡️ **Effizienzsteigerung**: Indem du alle Aktivitäten in deinem Kalender vermerkst, schaffst du mentalen Freiraum. Du musst dir nicht mehr merken, was als Nächstes ansteht, sondern kannst dich voll und ganz auf die aktuelle Aufgabe konzentrieren.
 
->➡️ **Vermeidung von Überarbeitung**: Ein vollständiger Kalender hilft dir dabei, realistische Einschätzungen deiner verfügbaren Zeit zu treffen und verhindert, dass du dich überarbeitest oder wichtige persönliche Zeit vernachlässigst.
+➡️ **Vermeidung von Überarbeitung**: Ein vollständiger Kalender hilft dir dabei, realistische Einschätzungen deiner verfügbaren Zeit zu treffen und verhindert, dass du dich überarbeitest oder wichtige persönliche Zeit vernachlässigst.
 
 <br>
 
@@ -98,17 +98,17 @@ Eine gut gestaltete E-Mail-Signatur ist ein wichtiges Werkzeug, um deine Erreich
 ### 1. Elemente einer ausführlichen Signatur
 <br>
 
->✍️ **Name und Position:** Dein vollständiger Name und Ihre aktuelle Position oder Rolle.
+✍️ **Name und Position:** Dein vollständiger Name und Ihre aktuelle Position oder Rolle.
 
->✍️ **Kontaktinformationen:** E-Mail-Adresse, Telefonnummer und ggf. Postanschrift.
+✍️ **Kontaktinformationen:** E-Mail-Adresse, Telefonnummer und ggf. Postanschrift.
 
->✍️ **Terminvereinbarung:** Ein direkter Link zu deinem Online-Kalender oder Buchungstool.
+✍️ **Terminvereinbarung:** Ein direkter Link zu deinem Online-Kalender oder Buchungstool.
 
->✍️ **Soziale Medien:** Links zu deinen relevanten professionellen Profilen (z.B. LinkedIn).
+✍️ **Soziale Medien:** Links zu deinen relevanten professionellen Profilen (z.B. LinkedIn).
 
->✍️ **Unternehmenswebsite:** Link zur Firmenwebsite oder zu deinem persönlichen Portfolio.
+✍️ **Unternehmenswebsite:** Link zur Firmenwebsite oder zu deinem persönlichen Portfolio.
 
->✍️ **Rechtliche Hinweise:** Impressum oder Datenschutzhinweise, falls erforderlich.
+✍️ **Rechtliche Hinweise:** Impressum oder Datenschutzhinweise, falls erforderlich.
 <br>
 
 ### 2. Beispiel einer ausführlichen Signatur
@@ -135,13 +135,13 @@ Impressum: [Link zum Impressum]
 ### Vorteile einer ausführlichen Signatur
 <br>
 
->✅ **Professionelle Darstellung**: Eine vollständige Signatur vermittelt einen professionellen Eindruck.
+✅ **Professionelle Darstellung**: Eine vollständige Signatur vermittelt einen professionellen Eindruck.
 
->✅ **Einfache Erreichbarkeit**: Kontaktdaten und Terminbuchungslink sind sofort verfügbar.
+✅ **Einfache Erreichbarkeit**: Kontaktdaten und Terminbuchungslink sind sofort verfügbar.
 
->✅ **Netzwerkerweiterung**: Links zu sozialen Medien fördern die Vernetzung.
+✅ **Netzwerkerweiterung**: Links zu sozialen Medien fördern die Vernetzung.
 
->✅ **Zeitersparnis**: Empfänger können schnell und unkompliziert Termine vereinbaren.
+✅ **Zeitersparnis**: Empfänger können schnell und unkompliziert Termine vereinbaren.
 <br>
 
 Durch die Verwendung einer ausführlichen E-Mail-Signatur, unterstreichst du deine Bereitschaft zur Kommunikation und erleichterst es anderen, mit dir in Kontakt zu treten oder Termine zu vereinbaren. 
@@ -155,4 +155,8 @@ Dies ist ein weiterer wichtiger Schritt, um sich verfügbar zu machen und deine 
 Ein gut organisierter Online-Kalender ist ein wichtiger Bestandteil eines professionellen Profils. Er ermöglicht es dir, effizient zu arbeiten und potenziellen Arbeitgebern sowie Kontakten eine einfache Möglichkeit zur Terminvereinbarung zu bieten. Obwohl Doodle im Vergleich zu anderen Tools eingeschränkter ist, bietet es eine kostenlose und DSGVO-konforme Lösung für grundlegende Terminplanungen.
 
 Zusammen mit einer gut gestalteten E-Mail-Signatur bildet dein Online-Kalender die Grundlage für eine effiziente und professionelle Kommunikation, die es anderen erleichtert, mit dir in Kontakt zu treten und Termine zu vereinbaren.
-<!--Text evtl. nochmal verkürzen/entfernen, Großteil wiederholt sich Wort für Wort-->
+<!--Text evtl. nochmal verkürzen/entfernen, großer Teil wiederholt sich Wort für Wort-->
+
+---
+
+<p align="center"><a href="/docs/08-karriere/01-social_media_netzwerk/03-xing/README.md"><strong>Zurück</strong></a> | <a href="/docs/08-karriere/02-anwendungsentwickler_beruf/README.md"><strong>Weiter</strong></a></p>

@@ -1,4 +1,4 @@
-# Netzwerken und Karriere
+# <p align="center">Netzwerken und Karriere</p>
 
 <!--kurzer Einleitungstext + Übersicht der Themen-->
 
@@ -7,3 +7,7 @@
 an passender Stelle im Abschnitt/in den Kapiteln 
 
 Stichwort: berufliche Förderung von / Vorbereitung von NADOO-IT auf zukünftiges Berufsleben-->
+
+---
+
+<p align="center"><a href="/docs/07-methoden_und_projekte/02-methoden/02-kanban/README.md)"><strong>Zurück</strong></a> | <a href="/docs/08-karriere/01-social_media_netzwerk/README.md"><strong>Weiter</strong></a></p>

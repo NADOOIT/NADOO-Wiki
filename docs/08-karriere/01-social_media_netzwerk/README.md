@@ -1,4 +1,4 @@
-# Social Media für dein berufliches Netzwerk
+# <p align="center">Social Media für dein berufliches Netzwerk</p>
 
 ## Netzwerken auf GitHub, LinkedIn und Xing
 <!-- ggf. inhaltliche Anpassungen ; Kapitelübersicht hinzufügen -->
@@ -41,4 +41,6 @@ Denke daran, dass Netzwerken ein natürlicher Teil der beruflichen Entwicklung i
 
 Ein starkes Netzwerk kann Türen öffnen und Dir helfen, Dich in der IT-Branche zu etablieren. Nutze GitHub, LinkedIn und Xing, um wertvolle Kontakte zu knüpfen und Deine beruflichen Ziele zu erreichen.
 
-[Zurück](../README.md) | [Weiter](../03-netzwerken/01-github-profil/README.md) zu GitHub-Profil
+---
+
+<p align="center"><a href="/docs/08-karriere/README.md"><strong>Zurück</strong></a> | <a href="/docs/08-karriere/01-social_media_netzwerk/01-github/README.md"><strong>Weiter</strong></a></p>

@@ -1,4 +1,4 @@
-# Dein LinkedIn-Profil
+# <p align="center">Dein LinkedIn-Profil</p>
 
 Ein professionelles LinkedIn-Profil ist Dein Aushängeschild im beruflichen Netzwerk. Es ermöglicht Dir, Deine Fähigkeiten, Erfahrungen und Interessen zu präsentieren und Dich mit anderen Fachleuten zu vernetzen. In dieser Anleitung erfährst Du, wie Du ein überzeugendes LinkedIn-Profil erstellen und optimieren kannst.
 
@@ -49,4 +49,5 @@ Ein professionelles LinkedIn-Profil ist Dein Aushängeschild im beruflichen Netz
 Ein gut gepflegtes LinkedIn-Profil ist der erste Schritt, um in der IT-Branche sichtbar zu werden. Nutze dieses Profil, um Dich mit Fachleuten zu vernetzen und neue berufliche Möglichkeiten zu entdecken.
 
 ---
-[Zurück](../README.md) | [Weiter](../03-xing-profil/README.md) zu Xing-Profil
+
+<p align="center"><a href="/docs/08-karriere/01-social_media_netzwerk/01-github/README.md"><strong>Zurück</strong></a> | <a href="/docs/08-karriere/01-social_media_netzwerk/03-xing/README.md"><strong>Weiter</strong></a></p>
