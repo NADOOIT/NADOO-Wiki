@@ -1,4 +1,4 @@
-# Deine erste eigene App
+# <p align="center">Phase 2: Von der Idee zur Umsetzung</p>
 
 ## 1. Finde eine App-Idee
 
@@ -107,3 +107,7 @@ Viel Erfolg bei der Erstellung deiner ersten App! Denke daran, dass der Lernproz
 [6] <https://digitalzentrum-berlin.de/ki-tools-fuer-den-arbeitsalltag> <br>
 [7] <https://www.121watt.de/ki/ki-tools-fuer-unternehmen/> <br>
 [8] <https://digitale-lehre.uni-siegen.de/wissensdatenbank/ki-tools/> <br>
+
+---
+
+<p align="center"><a href="/docs/06-entwicklung/07-digitale_produktentwicklung/01-idee_und_vorbereitung/README.md"><strong>Zurück</strong></a> | <a href="docs/06-entwicklung/07-digitale_produktentwicklung/03-feedback_und_testing/README.md"><strong>Weiter</strong></a></p>

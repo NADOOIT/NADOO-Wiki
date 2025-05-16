@@ -1,4 +1,4 @@
-# Dokumentation
+# <p align="center">Dokumentation</p>
 
 Die Dokumentation ist ein zentraler Bestandteil jedes Softwareprojekts. Sie stellt sicher, dass alle wichtigen Informationen über Architektur, Code, Technologien sowie Prozesse festgehalten und leicht auffindbar sind.
 
@@ -60,4 +60,4 @@ Um diese Anforderungen zu erfüllen, empfiehlt es sich, ein zentrales und leicht
 
 ---
 
-[Zurück](../README.md) zur Übersicht | [Weiter](../02-clean-architecture/README.md) zu Clean Architecture
+<p align="center"><a href="/docs/06-entwicklung/README.md"><strong>Zurück</strong></a> | <a href="/docs/06-entwicklung/02-clean_architecture/README.md"><strong>Weiter</strong></a></p>

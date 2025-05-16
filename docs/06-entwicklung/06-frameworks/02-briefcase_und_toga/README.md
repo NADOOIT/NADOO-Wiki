@@ -1,4 +1,4 @@
-# Briefcase und Toga: Python-Frameworks für plattformübergreifende Apps
+# <p align="center">Briefcase und Toga: Python-Frameworks für plattformübergreifende Apps</p>
 
 Herzlich Willkommen zu den Briefcase und Toga Tutorials!
 
@@ -24,4 +24,4 @@ Die offiziellen Tutorials führen ebenfalls die Installation von Python und das 
 
 ---
 
-[Zurück](../../04-python/01-debugging/) | [Weiter](../02-briefcase-toga/01-debugging/README.md) Briefcase & Toga Debugging
+<p align="center"><a href="/docs/06-entwicklung/06-frameworks/01-nadoo_framework/README.md"><strong>Zurück</strong></a> | <a href="/docs/06-entwicklung/06-frameworks/02-briefcase_und_toga/01-briefcase/README.md"><strong>Weiter</strong></a></p>

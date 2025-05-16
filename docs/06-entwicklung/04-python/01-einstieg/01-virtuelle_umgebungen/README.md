@@ -1,4 +1,4 @@
-# Python und virtuelle Umgebungen — ein Überblick
+# # <p align="center">Python und virtuelle Umgebungen — ein Überblick</p>
 
 Bevor wir mit dem Coding beginnen, installieren wir nicht nur Python 3.11 mithilfe von uv, sondern erstellen außerdem eine **virtuelle Umgebung**.
 
@@ -32,5 +32,7 @@ Durch die Verwendung von virtuellen Umgebungen und gemeinsamen Konfigurationsdat
 ## Der nächste Schritt
 
 Nun hast du eine grobe Vorstellung davon, was virtuelle Umgebungen sind und welchen Nutzen sie - vor allem im Zusammenhang mit Python - bringen. Im nächsten Abschnitt beginnen wir mit der praktischen Umsetzung in VS Code.
-
 <!-- weiter zu Installation -->
+---
+
+<p align="center"><a href="/docs/06-entwicklung/04-python/01-einstieg/README.md"><strong>Zurück</strong></a> | <a href="/docs/06-entwicklung/04-python/01-einstieg/02-installation/README.md"><strong>Weiter</strong></a></p>

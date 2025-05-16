@@ -1,5 +1,4 @@
-# Entwicklung und Programmiersprachen
-
+# <p align="center">Entwicklung und Programmiersprachen</p>
 ## Entwicklung
 
 Die Entwicklung ist ein zentraler Bestandteil jedes Softwareprojekts. Sie umfasst alle Schritte von der Planung über die Implementierung bis hin zur Wartung und Weiterentwicklung der Software. Dabei spielen verschiedene Programmiersprachen, Frameworks und Tools eine entscheidende Rolle.  
@@ -28,4 +27,4 @@ Es gibt eine Vielzahl von Programmiersprachen, die jeweils ihre eigenen Stärken
 
 ---
 
-[Zurück](/README.md) | [Weiter](../05-entwicklung/01-dokumentation/README.md) zu Dokumentation
+<p align="center"><a href="/docs/05-kommunikation/02-webcam/02-ios/README.md"><strong>Zurück</strong></a> | <a href="/docs/06-entwicklung/01-dokumentation/README.md"><strong>Weiter</strong></a></p>

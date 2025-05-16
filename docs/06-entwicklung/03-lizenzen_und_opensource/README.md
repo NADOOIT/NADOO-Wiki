@@ -1,4 +1,4 @@
-# Lizenzen, Open Source und die Welt der Softwareabhängigkeiten
+# <p align="center">Lizenzen, Open Source und die Welt der Softwareabhängigkeiten</p>
 
 Bevor du mit der Entwicklung deiner ersten eigenen App beginnst, solltest du dich mit der Thematik rund um Lizenzen und Softwareabhängigkeiten vertraut machen. Immerhin wirst du während dieses Prozesses verschiedene Softwarepakete nutzen müssen, die alle unter bestimmten Lizenzen veröffentlicht wurden. Lass uns einen Moment innehalten, um die Bedeutung dieser Lizenzen und die Welt der Open-Source-Software zu betrachten.
 
@@ -70,8 +70,9 @@ Während Python eine großartige Sprache zum Lernen und für viele Anwendungen i
 
 Die Welt der Softwareentwicklung ist komplex und voller Nuancen. Während wir die enormen Vorteile von Open-Source-Software und Frameworks genießen, müssen wir uns auch der Verantwortung und potenziellen Risiken bewusst sein. Indem wir diese Aspekte verstehen und respektvoll mit den Werkzeugen umgehen, die uns zur Verfügung stehen, können wir nicht nur bessere Software entwickeln, sondern auch zur Weiterentwicklung der Entwicklergemeinschaft beitragen.
 
-<<<<<<<< HEAD:docs/06-entwicklung/08-lizenzen_open_source/README.md
-**Quellen / Zitate:**
+
+### Quellen
+
 [1] <https://pypi.org/project/uv/0.1.16/> <br>
 [2] <https://blog.kusho.ai/uv-pip-killer-or-yet-another-package-manager/> <br>
 [3] <https://astral.sh/blog/uv> <br>
@@ -82,4 +83,6 @@ Die Welt der Softwareentwicklung ist komplex und voller Nuancen. Während wir di
 [8] <https://www.ingenieur.de/technik/fachbereiche/kuenstliche-intelligenz/kuenstliche-intelligenz-diese-15-ki-tools-sollten-sie-kennen/> <br>
 
 ---
+
+<p align="center"><a href="/docs/06-entwicklung/02-clean_architecture/02-best_practices/README.md"><strong>Zurück</strong></a> | <a href="/docs/06-entwicklung/04-python/README.md"><strong>Weiter</strong></a></p>
 
