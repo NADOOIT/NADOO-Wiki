@@ -1,5 +1,5 @@
 # <p align="center">Frameworks</p>
-<!-- Einleiitung und Kapitel-Übersicht -->
+<!-- Einleitung und Kapitel-Übersicht -->
 
 ---
 
