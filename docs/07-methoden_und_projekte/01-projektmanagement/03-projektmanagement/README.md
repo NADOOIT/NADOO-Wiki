@@ -4,7 +4,7 @@
 
 ### Frühzeitige Auseinandersetzung als Schlüssel zum Erfolg
 
-Ein zentrales Element der Ausbildung zum/zur Fachinformatiker:in ist das betriebliche Projekt – es bildet mit einem Praxisanteil von ca. 50% einen wesentlichen Bestandteil der Abschlussprüfung.
+Ein zentrales Element der Ausbildung zum/zur Fachinformatiker:in ist das betriebliche Projekt – es bildet mit einem Praxisanteil von 50% einen wesentlichen Bestandteil der Abschlussprüfung.
 
 Dabei reicht es nicht aus, sich erst kurz vor der Prüfung mit Projektmanagement auseinanderzusetzen. Vielmehr gilt: Wer früh beginnt, verschafft sich einen entscheidenden Vorteil.
 
