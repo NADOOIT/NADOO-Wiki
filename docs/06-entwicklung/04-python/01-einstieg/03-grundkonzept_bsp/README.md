@@ -200,4 +200,4 @@ Durch das Verstehen und Anwenden dieser Konzepte in der Praxis legst du eine sol
 
 ---
 
-<p align="center"><a href="/docs/06-entwicklung/04-python/01-einstieg/02-installation/README.md"><strong>Zurück</strong></a> | <a href="/docs/04-entwicklung/04-python/02-debugging/README.md"><strong>Weiter</strong></a></p>
+<p align="center"><a href="/docs/06-entwicklung/04-python/01-einstieg/02-installation/README.md"><strong>Zurück</strong></a> | <a href="/docs/06-entwicklung/04-python/02-debugging/README.md"><strong>Weiter</strong></a></p>
