@@ -1,4 +1,4 @@
-# Discord: Die zentrale Kommunikationsplattform bei Christoph Backhaus / NADOO-IT
+# <p align="center">**Discord: Die zentrale Kommunikationsplattform bei Christoph Backhaus / NADOO-IT**</p>
 
 Discord ist eine kostenlose Kommunikationsplattform, die für Chats, Sprach- und Videoanrufe sowie den Austausch von Dateien genutzt wird – ursprünglich für Gamer entwickelt, heute aber auch im professionellen Bereich weit verbreitet.
 
@@ -51,4 +51,5 @@ NADOO-IT
 So bleiben alle Teammitglieder – egal wo sie gerade sind – immer auf dem gleichen Stand.
 
 ---
-[Zurück](../README.md) zur Übersicht | [Weiter](../01-discord/01-einrichtung/README.md) zur Einrichtung
+
+<p align="center"><a href="/docs/05-kommunikation/README.md"><strong>Zurück</strong></a> | <a href="/docs/05-kommunikation/01-discord/01-einrichtung/README.md"><strong>Weiter</strong></a></p>

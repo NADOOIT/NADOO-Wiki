@@ -1,4 +1,4 @@
-# Das Android-Smartphone als Webcam nutzen
+# <p align="center">Das Android-Smartphone als Webcam nutzen</p>
 
 ## DroidCam Webcam-App installieren
 
@@ -54,4 +54,5 @@ Um sicherzugehen, dass keine unerwarteten Datenübertragungen stattfinden, kanns
 DroidCam gilt als sichere App, die Daten normalerweise nur lokal verarbeitet. Wenn du jedoch Bedenken hast, kannst du zusätzliche Maßnahmen wie Netzwerküberwachung oder die Nutzung der USB-Verbindung ergreifen, um sicherzustellen, dass keine Daten dein lokales Netzwerk verlassen.
 
 ---
-[Zurück](../README.md) zur Übersicht
+
+<p align="center"><a href="/docs/05-kommunikation/02-webcam/README.md"><strong>Zurück</strong></a> | <a href="/docs/05-kommunikation/02-webcam/02-ios/README.md"><strong>Weiter</strong></a></p>
