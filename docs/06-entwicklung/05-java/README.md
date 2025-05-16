@@ -21,4 +21,4 @@ Dieser Artikel dient als Auftakt zu weiterführenden Themen rund um Java, welche
 
 ---
 
-<p align="center"><a href="/docs/04-entwicklung/04-python/02-debugging/README.md"><strong>Zurück</strong></a> | <a href="/docs/06-entwicklung/06-frameworks/README.md"><strong>Weiter</strong></a></p>
+<p align="center"><a href="/docs/06-entwicklung/04-python/02-debugging/README.md"><strong>Zurück</strong></a> | <a href="/docs/06-entwicklung/06-frameworks/README.md"><strong>Weiter</strong></a></p>
