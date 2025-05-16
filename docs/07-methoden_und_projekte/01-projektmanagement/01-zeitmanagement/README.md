@@ -1,4 +1,4 @@
-# Zeitmanagement
+# <p align="center">Zeitmanagement</p>
 
 ## Bedeutung des Zeitmanagements in der verkürzten Ausbildung
 
@@ -45,4 +45,4 @@ Wer sich früh mit Methoden des Selbstmanagements, Projektplanung und Strukturie
 
 ---
 
-[Zurück](../README.md) | [Weiter](../02-planung/README.md) zu Planung
+<p align="center"><a href="/docs/07-methoden_und_projekte/01-projektmanagement/README.md"><strong>Zurück</strong></a> | <a href="/docs/07-methoden_und_projekte//01-projektmanagement/02-planung/README.md"><strong>Weiter</strong></a></p>

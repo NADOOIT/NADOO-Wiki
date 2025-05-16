@@ -1,4 +1,4 @@
-# Projektplanung
+# <p align="center">Projektplanung</p>
 
 Bei der Projektplanung geht es darum, die einzelnen Schritte eines Projektes zu definieren und den zeitlichen Rahmen festzulegen. Dabei ist es wichtig, die Aufgaben in kleinere, überschaubare Einheiten zu unterteilen und diese dann in einem Zeitplan festzuhalten.
 
@@ -12,4 +12,4 @@ Es ist wichtig, regelmäßig den Fortschritt zu überprüfen und gegebenenfalls 
 
 ---
 
-[Zurück](../01-zeitmanagement/README.md) | [Weiter](../02-planung/01-antrag/README.md) zu Antrag
+<p align="center"><a href="/docs/07-methoden_und_projekte/01-projektmanagement/01-zeitmanagement/README.md"><strong>Zurück</strong></a> | <a href="/docs/07-methoden_und_projekte/01-projektmanagement/02-planung/01-antrag/README.md"><strong>Weiter</strong></a></p>

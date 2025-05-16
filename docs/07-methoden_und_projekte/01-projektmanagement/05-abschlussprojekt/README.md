@@ -1,6 +1,6 @@
-# Das IHK-Abschlussprojekt
+# <p align="center">Das IHK-Abschlussprojekt</p>
 
-Sammlung von nützlichen Links:
+## Sammlung von nützlichen Links:
 
 <https://www.youtube.com/watch?v=ybcbS15xVIw>
 
@@ -27,3 +27,7 @@ Hier sollte eine Beschreibung stehen, wie das Abschlussprojekt abläuft.
 - Diskussion im Team
 
 >Projektanträge dürfen nicht veröffentlicht werden, da sie von den IHKs als Plagiat bewertet werden könnten!
+
+---
+
+<p align="center"><a href="/docs/07-methoden_und_projekte/01-projektmanagement/04-phasen/README.md"><strong>Zurück</strong></a> | <a href="/docs/07-methoden/02-methoden_und_projekte/02-methoden/README.md"><strong>Weiter</strong></a></p>
