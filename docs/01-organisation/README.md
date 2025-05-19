@@ -1,7 +1,14 @@
 # <p align="center">Organisation und Rahmenbedingungen</p>
 
-<p align="center">
-<a href="#dieser-themenbereich-beinhaltet-folgende-themen">🚀 direkt zur Themenübersicht</a></p>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/e9ba209e-c3d1-4cd1-bcbf-f91f38973a1a"
+       alt="Grafik: Willkommen"
+       width="430" />
+</div>
+
+<br>
+
+<p align="center"><a href="#dieser-themenbereich-beinhaltet-folgende-themen">🚀 direkt zur Themenübersicht</a></p>
 
 --- 
 <br>
