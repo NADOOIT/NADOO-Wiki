@@ -37,10 +37,10 @@
 # <p align="center">[wenn bereits vorhanden: Überschrift des Docs]</p>
 
 <div align="center">
-  <table border="0">
+  <table>
     <tr>
       <td>
-        <img src="https://github.com/user-attachments/assets/69b70f12-916c-4167-8920-c6055f5903d5" alt="Platzhalter" height="150">
+        <img src="https://github.com/user-attachments/assets/69b70f12-916c-4167-8920-c6055f5903d5" alt="Platzhalter" width="200">
       </td>
       <td>
         <h2>Sorry, hier gibt es leider (noch) nichts zu sehen! 👀</h2>
