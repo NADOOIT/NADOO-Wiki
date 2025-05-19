@@ -5,6 +5,7 @@
        alt="Grafik: Willkommen"
        width="450" />
 </div>
+<br>
 
 <p align="center"><a href="#dieser-themenbereich-beinhaltet-folgende-themen">🚀 direkt zur Themenübersicht</a></p>
 
