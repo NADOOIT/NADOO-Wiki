@@ -1,4 +1,4 @@
-<p align="center>"# Step-by-Step: so verwendest du die Vorlage</p>
+# <p align="center">Step-by-Step: so verwendest du die Vorlage</p>
 <br>
 
 1. **Kopiere den [Inhalt des Platzhalters](#die-vorlage---diesen-part-bitte-kopieren-und-in-neue-dokumente-übertragen)** und füge ihn im neu erstellten README-Dokument **zwischen** der **Überschrift** (falls vorhanden) **und** der **Navigation-Bar** (_"Zurück | Weiter"_) ein. <br><br> <!-- evtl. Screenshot zur Verdeutlichung-->
@@ -70,3 +70,9 @@ Insofern ein:e **Ersteller:in** vermerkt ist, kannst du dich auch direkt an dies
 ✍️ <strong>Von:</strong> <em>Keine Angabe</em> ODER [dein Name] ODER <a href="[Link zu deinem Profil]">[dein Username]</a> ([Plattform])
 </p>
 ```
+
+---
+
+<p align="center">
+<a href="/docs/00-willkommen/03-styleguide/00-platzhalter/README.md"><strong>Zurück</strong></a> | <a href="/docs/00-willkommen/03-styleguide/00-platzhalter/02-vorschau/README.md"><strong>Weiter</strong></a>
+</p>

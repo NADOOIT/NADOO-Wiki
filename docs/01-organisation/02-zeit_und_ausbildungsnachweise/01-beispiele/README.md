@@ -2,12 +2,18 @@
 
 | |
 | :--- |
-| Von den Bildungsträgern und Handelskammern gibt es unterschiedliche Vorgaben und Vorlagen zu den Nachweisen. Anbei findest du entsprechende exemplarische Beispiele. Es gelten die Vorgaben des jeweiligen Bildungsträgers und der lokalen Handelskammer. |
+| Von den Bildungsträgern und Handelskammern gibt es unterschiedliche Vorgaben und Vorlagen zu den Nachweisen. Anbei findest du entsprechende **exemplarische Beispiele**. Es gelten die Vorgaben des jeweiligen Bildungsträgers und der lokalen Handelskammer.
+
+💡 Konkret bedeutet das, dass du theoretisch auch einfach die **von deinem Bildungsträger ausgestellte Berichtsheft-Vorlage** weiterverwenden kannst. Du musst kein also kein eigenes Template erstellen. 
+
+❗ Solltest du dich dennoch dazu entscheiden, stelle sicher, dass darin **alle Angaben enthalten** sind, **die dein Bildungsträger bzw. deine zuständige Handelskammer verlangen**. 
+
+Die aufgeführten Beispiele dienen zur Veranschaulichung. |
 
 ---
 
 ## Ausbildungsnachweise
-<!-- hier sollte u.U. klar erwähnt werden, dass auch einfach die Vorlage für Berichtshefte weiterverwendet werden kann, die vom jeweiligen Bildungsträger ausgestellt wurde und die Beispiele (aktuell) wirklich nur zur Veranschaulichung dienen und nicht, um darauf basierend eine komplett neue Vorlage zu erstellen -->
+
 ### Ausbildungsnachweis (täglich)
 
 | Name des Auszubildenden: | Nachname, Vorname | | |
@@ -30,7 +36,7 @@ Durch die nachfolgende Unterschrift wird die Richtigkeit und Vollständigkeit de
 | Datum | Unterschrift Auszubildende/r | Datum | Unterschrift Ausbildende/r oder Ausbilder/in |
 
 ---
-
+<!-- 
 ### Ausbildungsnachweis (wöchentlich)
 
 > todo
@@ -38,7 +44,7 @@ Durch die nachfolgende Unterschrift wird die Richtigkeit und Vollständigkeit de
 - [ ] Ergänzung um weitere Beispiele
 
 ---
-
+-->
 ## Issue-Erwähnung (Beispiel)
 
 Issue-Nummern und Beschreibungen können im Berichtsheft verwendet werden.
@@ -90,8 +96,8 @@ E-Mail: <mail@example.com>
 
 **Verantwortlicher Standort** 12345 Musterstadt
 
-Bitte die Anwesenheitsliste immer am dritten Tag des Folgemonats an Musterinstitut  **E-Mail:** <service@example.com> mailen.
-
+Die Anwesenheitsliste bitte spätestens am dritten Tag des Folgemonats an Musterinstitut  **E-Mail:** <service@example.com> mailen.
+<!--
 ---
 
 ### Zeitnachweis (täglich)
@@ -99,7 +105,7 @@ Bitte die Anwesenheitsliste immer am dritten Tag des Folgemonats an Musterinstit
 > todo
 
 - [ ] Ergänzung um weitere Beispiele
-
+-->
 ---
 
 <p align="center">

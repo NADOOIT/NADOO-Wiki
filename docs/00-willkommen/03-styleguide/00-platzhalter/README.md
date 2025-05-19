@@ -1,4 +1,4 @@
-# <p align="center">[Textvorlage / Template] Platzhalter für leere Docs</p>
+# <p align="center">Template / Vorlage | Platzhalter für (vorerst) leere Docs</p>
 
 ## Anwendungsfall
 
@@ -25,8 +25,13 @@ Auf der nächsten Seite findest du eine genaue [**Anleitung**](/docs/00-willkomm
 
 #
 
-### Dieses Kapitel beinhaltet folgende Abschnitte:
+### <p align="center">Dieses Kapitel beinhaltet folgende Abschnitte:</p>
 
-1. [**Step-by-Step: So verwendest du die Vorlage**](/docs/00-willkommen/03-styleguide/00-platzhalter/01-anleitung/README.md)
-2. [**Vorschau des Platzhalters zur Ansicht im Browser**](/docs/00-willkommen/03-styleguide/00-platzhalter/02-vorschau/README.md)
+🔹 [**Step-by-Step: so verwendest du die Vorlage**](/docs/00-willkommen/03-styleguide/00-platzhalter/01-anleitung/README.md)
+🔹 [**Vorschau des Platzhalters zur Ansicht im Browser**](/docs/00-willkommen/03-styleguide/00-platzhalter/02-vorschau/README.md)
 
+---
+
+<p align="center">
+<a href="/docs/00-willkommen/03-styleguide/README.md"><strong>Zurück</strong></a> | <a href="/docs/00-willkommen/03-styleguide/00-platzhalter/01-anleitung/README.md"><strong>Weiter</strong></a>
+</p>

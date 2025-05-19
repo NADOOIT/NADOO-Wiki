@@ -1,4 +1,4 @@
-# Rolle: Teamkoordinator:in
+# <p align="center">Rolle: Teamkoordinator:in</p>
 
 Bereits kurz nach dem Onboarding-Prozess erhältst du die Möglichkeit, Verantwortung in Teamkoordinationsrollen zu übernehmen.
 Das ist **nicht verpflichtend** - aber eine **gute Gelegenheit**, deine **Fähigkeiten** in der Teamkoordination zu **entwickeln!**
@@ -37,4 +37,4 @@ Der/die Teamkoordinator:in ist dafür da, dass alle im Team ihre Aufgaben gut er
 
 ---
 
-<p align="center"><a href="/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/04-tester/README.md"><strong>Zurück</strong></a> | <a href="/docs/02-arbeiten_bei_nadoo/02-training_und_vorbereitung/01-trainingsbeitraege/README.md"><strong>Weiter</strong></a></p>
+<p align="center"><a href="/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/04-tester/README.md"><strong>Zurück</strong></a> | <a href="/docs/02-arbeiten_bei_nadoo/02-training_und_vorbereitung/README.md"><strong>Weiter</strong></a></p>

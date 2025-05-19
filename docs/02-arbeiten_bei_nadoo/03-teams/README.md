@@ -1,4 +1,4 @@
-# Übersicht aller Teams und Projekte
+# <p align="center">Übersicht aller Teams und Projekte</p>
 
 Hier findest du sowohl eine Übersicht aller **aktuell bestehenden 11er-Teams samt ihrer Team-Ziele** sowie einen **Rückblick** auf die erfolgreich abgeschlossenen Projekte vorheriger 11er-Teams.
 

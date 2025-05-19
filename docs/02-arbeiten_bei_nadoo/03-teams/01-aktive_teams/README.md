@@ -1,5 +1,4 @@
-# Derzeit aktive Teams | Stand: Mai 2025
-
+# <p align="center">Derzeit aktive Teams | Stand: Mai 2025</p>
 
 ## Launch / Wiki
 
@@ -73,4 +72,4 @@ Das 3er-Team Regulation & Recht (Compliance/Regulatory Affairs) ist für die Ent
 
 ---
 
-<p align="center"><a href="/docs/02-arbeiten_bei_nadoo/03-teams/README.md"><strong>Zurück</strong></a> | <a href="/docs/02-arbeiten_bei_nadoo/03-teams/02-team_archiv/README.md"><strong>Weiter</strong></a></p>
+<p align="center"><a href="/docs/02-arbeiten_bei_nadoo/03-teams/README.md"><strong>Zurück</strong></a> | <a href="/docs/02-arbeiten_bei_nadoo/03-teams/02-team-archiv/README.md"><strong>Weiter</strong></a></p>

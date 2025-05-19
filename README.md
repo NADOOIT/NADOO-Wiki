@@ -101,7 +101,7 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
 <details>
 <summary>Zeit- und Ausbildungsnachweise</summary>
 
-  &emsp;📄 [Kapitel-Übersicht](docs/01-organisation/02-zeit_und_ausbildungsnachweise/README.md)
+  &emsp;📄 [Kapitelübersicht](docs/01-organisation/02-zeit_und_ausbildungsnachweise/README.md)
 
   &nbsp;&nbsp;🔹 [Beispiele für Ausbildungs- und Zeitnachweise](docs/01-organisation/02-zeit_und_ausbildungsnachweise/01-beispiele/README.md) <br>
   &nbsp;&nbsp;🔹 [Dateibenennungsrichtlinien](docs/01-organisation/02-zeit_und_ausbildungsnachweise/02-dateibenennung/README.md) <br>
@@ -159,7 +159,7 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
 <details>
 <summary>Umgang und Kultur bei Christoph Backhaus IT — unsere Firmenphilosophien</summary>
 
-  &emsp;📄 [Kapitel-Übersicht](/docs/01-organisation/08-firmenphilosophie/README.md)
+  &emsp;📄 [Kapitelübersicht](/docs/01-organisation/08-firmenphilosophie/README.md)
 
   &nbsp;&nbsp;🔹 [Unsere Verhaltensregeln](/docs/01-organisation/08-firmenphilosophie/01-verhaltensregeln/README.md) <br>
   &nbsp;&nbsp;🔹 [Meinungsaustausch bei Christoph Backhaus IT: eine Kultur, die von Feedback lebt](/docs/01-organisation/08-firmenphilosophie/02-feedback-kultur/README.md) <br>
@@ -180,7 +180,7 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
 <details>
 <summary>Rollen und Aufgaben/Aufgabenbereiche</summary>
 
-  &emsp;📄 [Kapitel-Übersicht](/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/README.md)
+  &emsp;📄 [Kapitelübersicht](/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/README.md)
 
   &nbsp;&nbsp;🔹 [Rolle: Dokumentar(ist):in](/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/01-dokumentar/README.md) <br>
   &nbsp;&nbsp;🔹 [Rolle: Researcher:in](/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/02-researcher/README.md) <br>
@@ -195,7 +195,7 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
 <details>
 <summary>Vorbereitung auf die IHK-Prüfungen und deine Zukunft in der IT-Arbeitswelt</summary>
 
-  &emsp;📄 [Kapitel-Übersicht](/docs/02-arbeiten_bei_nadoo/02-training_und_vorbereitung/README.md)
+  &emsp;📄 [Kapitelübersicht](/docs/02-arbeiten_bei_nadoo/02-training_und_vorbereitung/README.md)
 
   &nbsp;&nbsp;🔹 [Trainingsbeiträge](/docs/02-arbeiten_bei_nadoo/02-training_und_vorbereitung/01-trainingsbeitraege/README.md) <br>
   &nbsp;&nbsp;🔹 [Präsentationstraining](/docs/02-arbeiten_bei_nadoo/02-training_und_vorbereitung/02-praesentationstraining/README.md) <br>
@@ -207,10 +207,10 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
 <details>
 <summary>Übersicht aller Teams und Projekte</summary>
 
-  &emsp;📄 [Kapitel-Übersicht](/docs/02-arbeiten_bei_nadoo/03-teams/README.md)
+  &emsp;📄 [Kapitelübersicht](/docs/02-arbeiten_bei_nadoo/03-teams/README.md)
 
   &nbsp;&nbsp;🔹 [Derzeit aktive Teams](docs/02-arbeiten_bei_nadoo/03-teams/01-aktive_teams/README.md) <br>
-  &nbsp;&nbsp;🔹 [Team-Archiv: ehemalige Teams und ihre abgeschlossenen Projekte](docs/02-arbeiten_bei_nadoo/03-teams/02-team_archiv/README.md) <br>
+  &nbsp;&nbsp;🔹 [Team-Archiv: ehemalige Teams und ihre abgeschlossenen Projekte](docs/02-arbeiten_bei_nadoo/03-teams/02-team-archiv/README.md) <br>
 
 </details>
 
@@ -223,7 +223,7 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
 <details>
 <summary>Meetings und Zeitpläne bei Christoph Backhaus IT</summary>
 
-  &emsp;📄 [Kapitel-Übersicht](/docs/03-meetings/README.md)
+  &emsp;📄 [Kapitelübersicht](/docs/03-meetings/README.md)
 
   &nbsp;&nbsp;🔹 [Zeitpläne des allgemeinen Morgenmeetings](/docs/03-meetings/01-allgemein-morgens/README.md) <br>
   &nbsp;&nbsp;🔹 [11er-Meeting](/docs/03-meetings/02-11er/README.md) <br>
@@ -245,7 +245,7 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
 <details>
 <summary>Versionsverwaltung mit GitHub</summary>
 
-  &emsp;📄 [Kapitel-Übersicht](/docs/04-tools/01-github/README.md)
+  &emsp;📄 [Kapitelübersicht](/docs/04-tools/01-github/README.md)
 
   &nbsp;&nbsp;🔹 [**Repository**](/docs/04-tools/01-github/01-repository/README.md) <br>
   &nbsp;&nbsp;🔹 [**Branches**](/docs/04-tools/01-github/02-branches/README.md) <br>
@@ -277,7 +277,7 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
 <details>
 <summary>Integrierte Entwicklungsumgebung (IDE) Visual Studio Code</summary>
 
-  &emsp;📄 [Kapitel-Übersicht](/docs/04-tools/02-vscode/README.md)
+  &emsp;📄 [Kapitelübersicht](/docs/04-tools/02-vscode/README.md)
 
   &nbsp;&nbsp;🔹 [Installation und Einrichtung](/docs/04-tools/02-vscode/01-installation/README.md) <br>
   &nbsp;&nbsp;🔹 [Plugins und Erweiterungen](/docs/04-tools/02-vscode/02-plugins/README.md) <br>
@@ -292,7 +292,7 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
 <details>
 <summary>Integrierte Entwicklungsumgebung (IDE) für Java: IntelliJ IDEA</summary>
 
-  &emsp;📄 [Kapitel-Übersicht](/docs/04-tools/03-intellij/README.md)
+  &emsp;📄 [Kapitelübersicht](/docs/04-tools/03-intellij/README.md)
 
   &nbsp;&nbsp;🔹 [IntelliJ IDEA — Ein Überblick](/docs/04-tools/03-intellij/01-ueberblick/README.md) <br>
   &nbsp;&nbsp;🔹 [Installation und Einrichtung](/docs/04-tools/03-intellij/02-installation/README.md) <br>
@@ -313,7 +313,7 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
 <details>
 <summary>Das NADOO-Launchpad — was es kann und wie es funktioniert</summary>
 
-  &emsp;📄 [Kapitel-Übersicht](/docs/04-tools/05-launchpad/README.md)
+  &emsp;📄 [Kapitelübersicht](/docs/04-tools/05-launchpad/README.md)
 
   &nbsp;&nbsp;🔹 [**Das NADOO-Launchpad - ein grundlegender Überblick**](/docs/04-tools/05-launchpad/01-ueberblick/README.md) <br>
     &emsp;&emsp;◻️ [Installation [Windows]](/docs/04-tools/05-launchpad/01-ueberblick/01-windows/README.md) <br>
@@ -341,7 +341,7 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
 <details>
 <summary>Künstliche Intelligenz (KI)</summary>
 
-  &emsp;📄 [Kapitel-Übersicht](/docs/04-tools/06-ki/README.md)
+  &emsp;📄 [Kapitelübersicht](/docs/04-tools/06-ki/README.md)
 
   &nbsp;&nbsp;🔹 [KI‐Nutzung: Ein umfassender Leitfaden](/docs/04-tools/06-ki/01-leitfaden/README.md) <br>
   &nbsp;&nbsp;🔹 [Large Language Model (LLM) und das Apple MLX (MacOS Silicon) Framework — ein Vergleich](/docs/04-tools/06-ki/02-llm-mlx/README.md) <br>
@@ -358,7 +358,7 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
 <details>
 <summary>Tools und Voraussetzungen</summary>
 
-  &emsp;📄 [Kapitel-Übersicht](/docs/05-kommunikation/README.md)
+  &emsp;📄 [Kapitelübersicht](/docs/05-kommunikation/README.md)
 
   &nbsp;&nbsp;🔹 [**Discord: Die zentrale Kommunikationsplattform bei Christoph Backhaus / NADOO-IT**](/docs/05-kommunikation/01-discord/README.md) <br>
     &emsp;&emsp;◻️ [Anmeldung und Einrichtung](/docs/05-kommunikation/01-discord/01-einrichtung/README.md) <br><br>
@@ -389,7 +389,7 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
 <details>
 <summary>Clean Architecture</summary>
 
-  &emsp;📄 [Kapitel-Übersicht](/docs/06-entwicklung/02-clean_architecture/README.md)
+  &emsp;📄 [Kapitelübersicht](/docs/06-entwicklung/02-clean_architecture/README.md)
 
   &nbsp;&nbsp;🔹 [Clean Architecture in der Praxis](/docs/06-entwicklung/02-clean_architecture/01-praxisbeispiel/README.md) <br>
   &nbsp;&nbsp;🔹 [Best Practices und Tipps für Einsteiger(-Teams)](/docs/06-entwicklung/02-clean_architecture/02-best_practices/README.md) <br>
@@ -410,7 +410,7 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
 <details>
 <summary>Python</summary>
 
-  &emsp;📄 [Kapitel-Übersicht](/docs/06-entwicklung/04-python/README.md) 
+  &emsp;📄 [Kapitelübersicht](/docs/06-entwicklung/04-python/README.md) 
   
   &nbsp;&nbsp;🔹 [**Erste Schritte**](/docs/06-entwicklung/04-python/01-einstieg/README.md) <br>
         &emsp;&emsp;◻️ [Python und virtuelle Umgebungen — ein Überblick](/docs/06-entwicklung/04-python/01-einstieg/01-virtuelle_umgebungen/README.md) <br>
@@ -426,7 +426,7 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
 <details>
 <summary>Java</summary>
   
-  &emsp;📄 [Kapitel-Übersicht](docs/06-entwicklung/05-java/README.md) <!-- vorsorglich angelegt, da hier wohl noch mehr Inhalte eingeplant sind -->
+  &emsp;📄 [Kapitelübersicht](docs/06-entwicklung/05-java/README.md) <!-- vorsorglich angelegt, da hier wohl noch mehr Inhalte eingeplant sind -->
   
   &nbsp;&nbsp;🔹 [Java](/docs/06-entwicklung/05-java/README.md)
   
@@ -437,7 +437,7 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
 <details>
 <summary>Frameworks</summary>
 
-  &emsp;📄 [Kapitel-Übersicht](/docs/06-entwicklung/06-frameworks/README.md)
+  &emsp;📄 [Kapitelübersicht](/docs/06-entwicklung/06-frameworks/README.md)
   
   &nbsp;&nbsp;🔹 [**Das NADOO-IT-Framework**](/docs/06-entwicklung/06-frameworks/01-nadoo_framework/README.md)
 
@@ -454,7 +454,7 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
 <details>
 <summary>Dein Einstieg in die digitale Produktentwicklung</summary>
 
-  &emsp;📄 [Kapitel-Übersicht](/docs/06-entwicklung/07-digitale_produktentwicklung/README.md)
+  &emsp;📄 [Kapitelübersicht](/docs/06-entwicklung/07-digitale_produktentwicklung/README.md)
   
   &nbsp;&nbsp;🔹 [Phase 1: Ideenfindung und Projektvorbereitung](/docs/06-entwicklung/07-digitale_produktentwicklung/01-idee_und_vorbereitung/README.md) <br>
   &nbsp;&nbsp;🔹 [Phase 2: Von der Idee zur Umsetzung](/docs/06-entwicklung/07-digitale_produktentwicklung/02-umsetzung/README.md) <br>
@@ -473,7 +473,7 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
 <details>
 <summary>Durchführung eines Projekts mit besonderem Hinblick auf deine IHK-Abschlussprüfung</summary>
 
-  &emsp;📄 [Kapitel-Übersicht](/docs/07-methoden_und_projekte/01-projektmanagement/README.md)
+  &emsp;📄 [Kapitelübersicht](/docs/07-methoden_und_projekte/01-projektmanagement/README.md)
   
   &nbsp;&nbsp;🔹 [**Zeitmanagement**](/docs/07-methoden_und_projekte/01-projektmanagement/01-zeitmanagement/README.md) <br>
   
@@ -491,7 +491,7 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
 <details>
 <summary>Bewährte Methoden und Frameworks im Projektmanagement</summary>
 
-  &emsp;📄 [Kapitel-Übersicht](/docs/07-methoden_und_projekte/02-methoden/README.md)
+  &emsp;📄 [Kapitelübersicht](/docs/07-methoden_und_projekte/02-methoden/README.md)
   
   &nbsp;&nbsp;🔹 [Scrum](/docs/07-methoden_und_projekte/02-methoden/01-scrum/README.md) <br>
   &nbsp;&nbsp;🔹 [Kanban](/docs/07-methoden_und_projekte/02-methoden/02-kanban/README.md) <br>
@@ -511,7 +511,7 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
 <details>
 <summary>Social Media für dein berufliches Netzwerk</summary>
 
-  &emsp;📄 [Kapitel-Übersicht](/docs/08-karriere/01-social_media_netzwerk/README.md)
+  &emsp;📄 [Kapitelübersicht](/docs/08-karriere/01-social_media_netzwerk/README.md)
 
   &nbsp;&nbsp;🔹 [Dein GitHub-Profil](/docs/08-karriere/01-social_media_netzwerk/01-github/README.md) <br>
   &nbsp;&nbsp;🔹 [Dein LinkedIn-Profil](/docs/08-karriere/01-social_media_netzwerk/02-linkedin/README.md) <br>
@@ -525,7 +525,7 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
 <details>
 <summary>Deine Karriere als Anwendungsentwickler:in</summary>
 
-  &emsp;📄 [Kapitel-Übersicht](/docs/08-karriere/02-anwendungsentwickler_beruf/README.md)
+  &emsp;📄 [Kapitelübersicht](/docs/08-karriere/02-anwendungsentwickler_beruf/README.md)
 
   &nbsp;&nbsp;🔹 [**Die Verantwortung und Unsicherheit des Programmierer‐Daseins**](/docs/08-karriere/02-anwendungsentwickler_beruf/01-programmierer_dasein/README.md) <br>
   &nbsp;&nbsp;🔹 [**Das Bewerbungsverfahren im IT-Sektor**](/docs/08-karriere/02-anwendungsentwickler_beruf/02-bewerbungsverfahren/README.md) <br>
