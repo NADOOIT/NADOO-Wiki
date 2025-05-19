@@ -1,9 +1,9 @@
 # Wie bzw. wo wird der Trainingsbeitrag angelegt und dokumentiert?
-<!-- Anpassung der Anleitung notwendig, da Trainingsbeiträge in das neue Repository NADOO-Academy verschoben wurden. -->
+<!-- Anpassung der Anleitung notwendig, da Trainingsbeiträge in das neue Repository NADOO-Academy verschoben wurden. Werde einige Punkte mit dem Wiki-Team klären; dann den Guide überarbeiten. (Stand: 19.05.2025) -->
 Für jeden Trainingsbeitrag wird unter dem **Parent-Issue** [**Trainingsbeiträge Sammlung
 #1200**](https://github.com/NADOOIT/NADOO-Launchpad/issues/1200) ein **Sub-Issue** erstellt:
 
----
+#
 
 ## 1. Erstellen des Trainingsbeitrag-Issues <br>
 
@@ -242,3 +242,5 @@ Sobald die erste bzw. mindestens eine Lösung für eine Aufgabe vorliegt, kann d
 Füge deine bzw. andere neue/alte Trainingsbeiträge bitte der [Liste](https://github.com/NADOOIT/NADOO-Launchpad/issues/1200) an, wenn du siehst, dass diese aus irgendeinem Grund nicht darin auftauchen. So bleibt die Sammlung aktuell und vollständig. Sollten dir Berechtigungen fehlen, melde dich einfach bei Christoph oder bei einem Teammitglied, das das Parent-Issue bearbeiten kann.
 
 ---
+
+<p align="center"><a href="/docs/02-arbeiten_bei_nadoo/02-training_und_vorbereitung/01-trainingsbeitraege/01-basics/README.md"><strong>Zurück</strong></a> | <a href="/docs/02-arbeiten_bei_nadoo/02-training_und_vorbereitung/02-praesentationstraining/README.md"><strong>Weiter</strong></a></p>
