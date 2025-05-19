@@ -1,6 +1,10 @@
 # <p align="center">Einstieg und Orientierung</p>
 
-![Willkommen](../../images/onboarding.png)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/be76d683-db58-4bdd-950f-e7734678f36e"
+       alt="Grafik: Willkommen"
+       width="450" />
+</div>
 
 <p align="center">
 <a href="#dieser-themenbereich-beinhaltet-folgende-themen">zur Kapitelübersicht</a>
