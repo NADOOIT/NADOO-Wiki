@@ -1,39 +1,40 @@
 # <p align="center">Rolle: Teamkoordinator:in</p>
 
-Bereits kurz nach dem Onboarding-Prozess erhältst du die Möglichkeit, Verantwortung in Teamkoordinationsrollen zu übernehmen.
-Das ist **nicht verpflichtend** - aber eine **gute Gelegenheit**, deine **Fähigkeiten** in der Teamkoordination zu **entwickeln!**
+Du hast bereits kurz nach dem Onboarding-Prozess die Möglichkeit, Verantwortung in Teamkoordinationsrollen zu übernehmen.
+Das ist **nicht verpflichtend** - aber eine **gute Gelegenheit**, deine **Fähigkeiten** in der organisatorischen Anleitung von Arbeitsgruppen zu **entwickeln**! 🚀
 
-Du wirst hierbei in die Planung und Koordination von Projekten eingebunden und erhältst dadurch Einblicke in die Teamdynamik.
+Als Teamkoordinator:in **unterstützt** du **eines der aktiven 11er-Teams**. Dabei wirst du in die Planung und Koordination von Projekten eingebunden und erhältst dadurch spannende Einblicke 🔎 in Teamdynamiken, die über die gewohnten 3er- und 11er-Gruppen hinausreichen.
 
-Nach dem Onboarding kannst du dadurch dein 11er-Team unterstützen und deine Fähigkeiten in der Teamkoordination weiterentwickeln.
-Das ist eine gute Gelegenheit, deine Fähigkeiten in der Teamkoordination zu entwickeln.
-
-Dabei steht nicht die Leitung, sondern **Begleitung, Anleitung und Unterstützung** im Vordergrund.
+🤜🤛 Anstelle der "Leitung" oder gar "Führung" stehen dabei die **<em>An</em>leitung, <em>Beg</em>leitung, und Unterstützung** deines Teams im Vordergrund.
 
 ![Teamkoordination](../../../images/teamkoordination.png)
 
 ---
 
-**Typische Aufgaben sind:**
+## Typische Aufgaben, die in den Verantwortungsbereich der Rolle fallen:
+<br>
 
-- Vorbereitung des [Protokolls](https://github.com/NADOOIT/NADOO-Launchpad/issues) der wöchentlichen 11er-Team-Meetings für Montag, Dienstag und Donnerstag
-- Anwesenheitskontrolle
-- Koordination der Aufgabenverteilung im Team
-- Unterstützung bei der Planung von Sprints
-- Unterstützung bei der Planung von Team-Meetings
-- Überblick über die Sammlung der Issues des eigenen Teams behalten
-- Aufgaben priorisieren und mit dem Team abstimmen
-- den Fortschritt im Blick behalten und Hindernisse frühzeitig erkennen
-- Kommunikation im Team fördern, z. B. durch regelmäßige Abstimmungen oder Impulse
-- Schnittstellen zum Gesamtprojekt im Blick behalten und Infos weitergeben
+📋 Vorbereitung des [Protokolls](https://github.com/NADOOIT/NADOO-Launchpad/issues) der wöchentlichen 11er-Team-Meetings für Montag, Dienstag und Donnerstag <br>
+📋 Anwesenheitskontrolle <br>
+📋 Koordination der Aufgabenverteilung im Team <br> <!-- eigentlich nicht richtig, oder? irgendwo entscheiden wir ja alle selbst... unklar, was hier mit "Koordination" gemeint ist -->
+📋 Unterstützung bei der Planung von Sprints <br> <!-- welche Sprints? insofern feste Integration von Scrum nicht zeitnah umgesetzt werden soll/wird, sollte dieser Part evlt. gestrichen werden -->
+📋 Unterstützung bei der Planung von Team-Meetings <br>
+📋 Überblick über die Sammlung der Issues des eigenen Teams behalten <br>
+📋 Aufgaben priorisieren und mit dem Team abstimmen <br>
+📋 den Fortschritt im Blick behalten und Hindernisse frühzeitig erkennen <br>
+📋 Kommunikation im Team fördern, z.B. durch regelmäßige Abstimmungen oder Impulse <br>
+📋 Schnittstellen zum Gesamtprojekt im Blick behalten und den Austausch von relevanten Informationen zwischen allen Beteiligten regeln<br>
 
 ---
 
-👉 Beispiel: Die Teamkoordinator:in des 11er-Teams „Launch“ sammelt Issues rund um die Unterstützung neuer Teammitglieder – vor allem durch Inhalte im NADOO-Wiki. Sie sorgt dafür, dass hilfreiche Informationen aktuell, auffindbar und verständlich sind, und motiviert das Team, offene Fragen schnell aufzugreifen.
+### <p align="center">👇 **Ein Beispiel-Szenario**:</p>
+Der/die Teamkoordinator:in des 11er-Teams „Launch“ sammelt Issues rund um die Unterstützung neuer Teammitglieder – vor allem durch Inhalte im NADOO-Wiki. Er/sie sorgt dafür, dass hilfreiche Informationen aktuell, auffindbar und verständlich sind, und motiviert das Team, offene Fragen schnell aufzugreifen.
 
-**Fazit:** Die Rolle ist weniger Chef:in als **Team-Enabler** – sie schafft Struktur, damit alle produktiv arbeiten können. Das Team hat die Verantwortung, die Aufgaben zu erledigen und die Qualität der Arbeit zu sichern.
+#
 
-Der/die Teamkoordinator:in ist dafür da, dass alle im Team ihre Aufgaben gut erledigen können.
+🚩 **Merke dir:** Die Rolle ist weniger Chef:in als **Team-Enabler** – sie schafft **Struktur**, damit alle **produktiv arbeiten** können. 
+
+💡 Das _gesamte_ Team – samt Koordinator:in – hat weiterhin die **gemeinsame Verantwortung**, die Aufgaben zu erledigen und die Qualität der Arbeit zu sichern. Der/die Teamkoordinator:in ist vor allem dafür da, dass **alle im Team** ihre Aufgaben gut erledigen können.
 
 ---
 

@@ -61,7 +61,7 @@ Im Anschluss haben alle Beteiligten **3 Minuten** für das Stellen bzw. Beantwor
 <br>
 
 ## 6. Wann und in welchem Discord-Kanal halte ich den Beitrag ab?
-<!-- Klärungsbedarf: eig. eher Freitag als Mittwoch, oder? oder beide Tage? -->
+<!-- Klärungsbedarf: eig. auch Freitag? bisher waren da TBs irgendwie nie so wirklich Thema -->
 Den **Mittwoch** ausgenommen, hält theoretisch jeder Tag in einer regulären NADOO-Woche die Möglichkeit für dich offen, einen **Trainingsslot** für deine Präsentation zu reservieren.
 
 🗓️ Aktuell sind die Slots an allen verfügbaren Tagen ( **Montag | Dienstag | Donnerstag | Freitag** ) wie folgt eingeteilt:
