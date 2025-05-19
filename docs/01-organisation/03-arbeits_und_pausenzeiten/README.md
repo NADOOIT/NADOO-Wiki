@@ -41,7 +41,7 @@ Unsere täglichen [**Meetings**](/docs/03-meetings/README.md) und festgelegten *
 
 ### Arbeitszeiten bei Nadoo-IT
 
-🕒 **Montag bis Samstag:** zwischen 06:00 Uhr und 23:00 Uhr
+🕒 **Montag bis Samstag:** zwischen 06:00 Uhr und 23:00 Uhr 
 
 🕒 **Montag bis Freitag von 10:14 Uhr - 10:30 Uhr:** Anwesenheitsprüfung im Discord Sprachkanal
 
@@ -55,7 +55,7 @@ Unsere täglichen [**Meetings**](/docs/03-meetings/README.md) und festgelegten *
 
 #### Beispiel "Fritz" (28 Stunden / Woche):
 
----
+#
 
 ✔️ Montags arbeitet er von 10:00 bis 12:00 Uhr und von 14:00 bis 16:00 Uhr. ➡️ 2 Stunden + 2 Stunden = **4** Stunden <br>
 ✔️ Dienstags arbeitet er von 10:00 bis 14:00 Uhr und von 16:00 bis 18:00 Uhr. ➡️ 4 Stunden + 2 Stunden = **6** Stunden <br>

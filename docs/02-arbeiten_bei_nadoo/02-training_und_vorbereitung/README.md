@@ -1,4 +1,4 @@
-# Vorbereitung auf die IHK-Prüfungen und deine Zukunft in der IT-Arbeitswelt
+# <p align="center">Vorbereitung auf die IHK-Prüfungen und deine Zukunft in der IT-Arbeitswelt</p>
 
 ## Persönliche Weiterentwicklung durch Jobrotation
 
@@ -31,6 +31,16 @@ In unseren 11er-Meetings präsentierst du regelmäßig technische Themen als sog
 Deine erstellten Unterlagen fließen laufend in unser Wiki ein. Das bedeutet, dass du mit deinen Beiträgen aktiv am Unternehmensziel der Entwicklung einer modernen Lernplattform teilnimmst und diese fester Bestandteil der medialen Präsenz der [NADOO-IT](https://nadooit.de) sind.
 
 Alles, was du zum Thema **Trainingsbeitrag** wissen musst, findest du auf der nächsten Seite im Kapitel [**01-trainingsbeitraege**](/docs/02-arbeiten_bei_nadoo/02-training_und_vorbereitung/01-trainingsbeitraege/README.md) dieses Abschnitts.
+
+---
+
+### Dieses Thema beinhaltet folgende Kapitel:
+
+<!-- es sollte ein kleiner Wiki-Eintrag zum neuen Rep ausgearbeitet werden. wenn soweit, Ordner hier an erste Stelle setzen (da Trainingsbeitrag-Guide darauf aufbaut / textlich aufbauen wird) und Nummerierungen der Folge-Ordner entsprechend anpassen (Refactoring).
+
+🔹 [**Die NADOO-Academy**](/docs/02-arbeiten_bei_nadoo/02-training_und_vorbereitung/01-academy/README.md) <br> -->
+🔹 [**Trainingsbeiträge**](/docs/02-arbeiten_bei_nadoo/02-training_und_vorbereitung/01-trainingsbeitraege/README.md) <br>
+🔹 [**Präsentationstraining**](/docs/02-arbeiten_bei_nadoo/02-training_und_vorbereitung/02-praesentationstraining/README.md) <br>
 
 ---
 

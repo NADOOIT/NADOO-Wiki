@@ -103,5 +103,5 @@ Wir empfehlen dir jedoch, erstmal ganz entspannt anzukommen. Nutze die ersten pa
 ---
 
 <p align="center">
-<a href="/README.md"><strong>Zurück zur Übersicht</strong></a> | <a href="/docs/01-organisation/README.md"><strong>Weiter</strong></a>
+<a href="/docs/00-willkommen/README.md"><strong>Zurück</strong></a> | <a href="/docs/00-willkommen/02-starterpack/README.md"><strong>Weiter</strong></a>
 </p>

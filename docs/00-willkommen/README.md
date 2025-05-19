@@ -6,11 +6,10 @@
        width="450" />
 </div>
 
-<p align="center">
-<a href="#dieser-themenbereich-beinhaltet-folgende-themen">zur Kapitelübersicht</a>
-</p>
+<p align="center"><a href="#dieser-themenbereich-beinhaltet-folgende-themen">🚀 direkt zur Themenübersicht</a></p>
 
 ---
+<br>
 
 <p align="center">Herzlich willkommen im offiziellen Wiki des Passionprojects <strong>NADOO-IT</strong> von <strong>Christoph Backhaus IT</strong>! 🌞<br> 
 Schön, dass du deinen Weg zu uns gefunden hast. 🙌</p>
@@ -52,14 +51,14 @@ Du hast ein bisschen getrödelt, dein erster Tag steht quasi schon mit dem Fuß 
 
 #
 
-### Dieser Themenbereich beinhaltet folgende Themen:
+### <p align="center">Dieser Themenbereich beinhaltet folgende Themen:</p>
 
-#
-
-<!-- hier Kapitelübersicht hinzufügen -->
+🢒 [**Onboarding**](/docs/00-willkommen/01-leitfaden/README.md) <br>
+🢒 [**Das Wiki-Docs Starterpack**](/docs/00-willkommen/02-starterpack/README.md) <br>
+🢒 [**Der Wiki-Doc-Styleguide**](/docs/00-willkommen/03-styleguide/README.md) <br>
 
 ---
 
 <p align="center">
-<a href="/README.md"><strong>Zurück</strong></a> | <a href="/docs/00-willkommen/01-leitfaden/README.md"><strong>Weiter</strong></a>
+<a href="/README.md"><strong>Zurück zum Start</strong></a> | <a href="/docs/00-willkommen/01-leitfaden/README.md"><strong>Weiter</strong></a>
 </p>

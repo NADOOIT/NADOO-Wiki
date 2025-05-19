@@ -1,17 +1,23 @@
-# Rollen und Aufgaben/Aufgabenbereiche
+# <p align="center">Rollen und Aufgaben/Aufgabenbereiche</p>
 
-<!--kurze Einleitung in das Thema, dann Auflistung der Rollen als Unterpunkte/Kapitel des Abschnitts-->
+🎯 Damit die Zusammenarbeit in Projekten reibungslos funktioniert, ist eine **klare Aufteilung von Aufgaben und Verantwortlichkeiten** entscheidend. Ziel ist es, Transparenz zu schaffen, wer wofür zuständig ist, und die Zusammenarbeit **effizient und nachvollziehbar** zu gestalten. 
 
-## Folgende Rollen sind aktuell bei NADOO-IT definiert:
+🚀 Unsere Rollen und die damit verbundene **Jobrotation** bietet dir außerdem die Möglichkeit, gezielt **Verantwortung** zu **übernehmen** und deine **Fähigkeiten weiterzuentwickeln**. Ob Recherche, Programmieren oder Qualitätssicherung – die verschiedenen Verantwortungsbereiche orientieren sich stets an **realen Arbeitsprozessen** und unterstützen dich dabei, deine **fachliche Kompetenz** und **Selbstsicherheit** im jeweiligen Bereich zu stärken. 
 
-1. Dokumentar(ist):in
-2. Researcher:in
-3. Entwickler:in
-4. Tester:in <!--nicht sicher, ob bereits irgendwo definiert, sollte aber mit aufgenommen werden-->
-5. Teamkoordinator:in
+💡 Auf den nächsten Seiten kannst du dir ein genaues Bild über alle grundlegenden Aufgaben und Zuständigkeiten machen, die bei Christoph Backhaus / NADOO-IT aktuell definiert sind. Klicke in der Übersicht auf eine Rolle, um mehr darüber zu erfahren. Alternativ kannst du diesen Abschnitt natürlich auch einfach von oben nach unten durcharbeiten.
 
-Klicke auf eine Rolle, um mehr über deren Aufgaben- und Verantwortungsbereiche zu erfahren.
-Alternativ kannst du diesen Abschnitt natürlich auch einfach von oben nach unten durcharbeiten.
+#
+
+### Dieses Thema beinhaltet folgende Kapitel:
+
+🔹 [**Dokumentar(ist):in**](/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/01-dokumentar/README.md) <br>
+🔹 [**Researcher:in**](/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/02-researcher/README.md) <br>
+🔹 [**Entwickler:in**](/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/03-entwickler/README.md) <br>
+🔹 [**Tester:in**](/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/04-tester/README.md) <br>
+🔹 [**Teamkoordinator:in**](/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/05-teamkoordinator/README.md) <br>
+<!-- 
+-> zur Testerrolle: nicht sicher, ob bereits irgendwo definiert, sollte aber mit aufgenommen werden
+-> für alle übrigen Rollen hatte Christoph irgendwo im Launchpad unter einem Issue bereits Info-Texte hinterlegt; Link müsste ich nochmal raussuchen -->
 
 ---
 

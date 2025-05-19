@@ -1,4 +1,4 @@
-# Team-Archiv: ehemalige Teams und ihre abgeschlossenen Projekte
+# <p align="center">Team-Archiv: ehemalige Teams und ihre abgeschlossenen Projekte</p>
 
 ## Ausbildungsnachweise (abgeschlossen)
 

@@ -14,17 +14,17 @@ In der Automobilindustrie bedeutet KAIZEN, dass jeder Mitarbeiter, unabhängig v
 
 Bei Christoph Backhaus IT haben wir die KAIZEN-Philosophie auf die Softwareentwicklung übertragen. Unsere Grundprinzipien sind:
 
-> **1. Fehlerfreiheit als oberste Priorität**: Wir betrachten Bugs und Fehler als wertvolle Lernmöglichkeiten.
+**1. Fehlerfreiheit als oberste Priorität**: Wir betrachten Bugs und Fehler als wertvolle Lernmöglichkeiten.
 
-> **2. Methodische Prozesssauberkeit**: Dies ist entscheidend für unseren gemeinsamen Erfolg.
+**2. Methodische Prozesssauberkeit**: Dies ist entscheidend für unseren gemeinsamen Erfolg.
 
-> **3. Kontinuierliche Verbesserung**: Wir streben danach, jeden Tag ein bisschen besser zu werden.
+**3. Kontinuierliche Verbesserung**: Wir streben danach, jeden Tag ein bisschen besser zu werden.
 
-> **4. Einbeziehung aller Mitarbeiter**: Jeder ist aktiv an der Verbesserung von Prozessen beteiligt.
+**4. Einbeziehung aller Mitarbeiter**: Jeder ist aktiv an der Verbesserung von Prozessen beteiligt.
 
-> **5. Qualität vor Quantität**: Unser Fokus liegt darauf, durch sorgfältige Fehlerbehebung höchste Qualität zu erreichen.
+**5. Qualität vor Quantität**: Unser Fokus liegt darauf, durch sorgfältige Fehlerbehebung höchste Qualität zu erreichen.
 
-> **6. Offene Kommunikation**: Fehler werden offen besprochen, um gemeinsam Lösungen zu finden.
+**6. Offene Kommunikation**: Fehler werden offen besprochen, um gemeinsam Lösungen zu finden.
 
 ---
 
@@ -34,15 +34,15 @@ Bei Christoph Backhaus IT haben wir die KAIZEN-Philosophie auf die Softwareentwi
 
 Die 5S-Methode, ursprünglich für die **Organisation von Arbeitsplätzen** in Fabriken entwickelt, lässt sich hervorragend auf den digitalen Arbeitsplatz eines Softwareentwicklers übertragen[1]:
 
-> **1. Sortieren (Seiri)**: Entferne ungenutzte Dateien, alte Codeversionen und überflüssige Tools von deinem System.
+🎯 **1. Sortieren (Seiri)**: Entferne ungenutzte Dateien, alte Codeversionen und überflüssige Tools von deinem System.
 
-> **2. Systematisieren (Seiton)**: Organisiere deinen Code, deine Projekte und deine Entwicklungsumgebung logisch und effizient.
+🎯 **2. Systematisieren (Seiton)**: Organisiere deinen Code, deine Projekte und deine Entwicklungsumgebung logisch und effizient.
 
-> **3. Säubern (Seiso)**: Führe regelmäßig Code-Cleanups durch und beseitige technische Schulden.
+🎯 **3. Säubern (Seiso)**: Führe regelmäßig Code-Cleanups durch und beseitige technische Schulden.
 
-> **4. Standardisieren (Seiketsu)**: Etabliere Coding-Standards und Best Practices im Team.
+🎯 **4. Standardisieren (Seiketsu)**: Etabliere Coding-Standards und Best Practices im Team.
 
-> **5. Selbstdisziplin (Shitsuke)**: Halte dich konsequent an die etablierten Standards und verbessere diese kontinuierlich.
+🎯 **5. Selbstdisziplin (Shitsuke)**: Halte dich konsequent an die etablierten Standards und verbessere diese kontinuierlich.
 
 ---
 
@@ -50,13 +50,13 @@ Die 5S-Methode, ursprünglich für die **Organisation von Arbeitsplätzen** in F
 
 Der PDCA-Zyklus ist ideal für die **iterative Entwicklung und Problemlösung**[1]:
 
-> **1. Plan**: Erstelle ein Issue, welches das Problem oder gewünschte Feature klar beschreibt.
+🎯 **1. Plan**: Erstelle ein Issue, welches das Problem oder gewünschte Feature klar beschreibt.
 
-> **2. Do**: Erstelle einen Branch und implementiere ein Minimum Viable Product (MVP) oder einen Bugfix.
+🎯 **2. Do**: Erstelle einen Branch und implementiere ein Minimum Viable Product (MVP) oder einen Bugfix.
 
-> **3. Check**: Führe Tests durch und erstelle einen Pull Request für ein Code Review.
+🎯 **3. Check**: Führe Tests durch und erstelle einen Pull Request für ein Code Review.
 
-> **4. Act**: Führe einen finalen Merge durch, nachdem der Feedback-Loop abgeschlossen ist und Fehlerfreiheit erreicht wurde.
+🎯 **4. Act**: Führe einen finalen Merge durch, nachdem der Feedback-Loop abgeschlossen ist und Fehlerfreiheit erreicht wurde.
 
 ---
 
@@ -122,7 +122,7 @@ Solltest du nach dem Lesen dieses Wikis Unklarheiten oder Fragen zu einem der ge
 
 #
 
-**Quellen / Zitate**
+### Quellen
 
 [1] https://www.studysmarter.de/studium/bwl/unternehmensfuehrung-studium/kaizen/ <br>
 [2] https://de.linkedin.com/in/christoph-backhaus <br>

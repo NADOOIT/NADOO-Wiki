@@ -1,8 +1,9 @@
 # <p align="center">Überprüfung der Dateinamen</p>
 
-Dies ist ein Skript, das du in Visual Studio Code einfügen kannst, um zu überprüfen, ob deine Datei gemäß den Benennungsrichtlinien korrekt benannt wurde. Es dient als Beispiel dafür, wie ein Skript zur automatischen Validierung von Dateinamen funktioniert.
+Im Folgenden siehst du ein **Skript**, das du in Visual Studio Code einfügen kannst, um zu **überprüfen, ob deine Datei** gemäß den Benennungsrichtlinien **korrekt benannt wurde**. Es dient außerdem als Beispiel dafür, wie ein Skript zur **automatischen Validierung** von Dateinamen funktioniert.
 
-**Skript:**
+## Das Skript:
+<br>
 
 ```python
 import os
@@ -46,25 +47,38 @@ for filename in os.listdir(directory):
 ```
 <br>
 
-So sollte es aussehen:
+### So sollte es aussehen:
 
 <br>
 
 ![image](https://github.com/user-attachments/assets/ac00367f-542f-48ca-80ef-7af5ef06cc0d)
 
-1. Code in Visual Studio Code via Copy-Paste einfügen.
-2. In Zeile 31 (Screenshot unten) den Path eingeben, in dem sich deine Dateien befinden.
-3. Save As > check_filenames.py
+#
+
+### Und so wendest du es an:
+<br>
+
+🎯 **1. Code in Visual Studio Code** via Copy-Paste **einfügen**.
+
+🎯 **2.** In **Zeile 31** (Screenshot unten) den **Path eingeben**, in dem sich deine Dateien befinden.
+
+<br>
 
 ![image](https://github.com/user-attachments/assets/5950250a-443e-4cd2-87e2-b8e4c36b45fd)
 
-4. Play drücken (Dreieck)
+<br>
+
+🎯 **3. Save As** > ***check_filenames.py***
+
+🎯 **4. Play** drücken (Dreieck)
+
+<br>
 
 ![image](https://github.com/user-attachments/assets/985e8e4d-6826-44f9-9d5a-23fcb74f3930)
 
-<br> 
+#
 
-Im Terminal sollte das jetzt so aussehen:
+#### Im Terminal sollte das jetzt so aussehen:
 
 <br>
 
@@ -72,12 +86,14 @@ Im Terminal sollte das jetzt so aussehen:
 
 <br>
 
-Es ist deutlich erkennbar, was korrekt ist und was nicht. Die Benennung sollte entsprechend korrigiert werden.
+#
 
-Die neue Version wurde um eine zusätzliche Regel für die ID erweitert, da jeder Teilnehmer eine spezifische ID erhält. ( 01 bis 999 )
+➡️ Es ist deutlich **erkennbar, was korrekt ist und was nicht**. Die Benennung sollte **entsprechend korrigiert** werden.
 
-Eine vorherige Version des Skripts findest du im Issue:
-https://github.com/NADOOIT/NADOO-Launchpad/issues/463.
+Die **neue Version** wurde um eine zusätzliche Regel für die ID **erweitert**, da jeder Teilnehmer eine spezifische ID (01 bis 999) erhält. 
+
+💡 Eine **vorherige Version** des Skripts findest du im [**Issue #463**](
+https://github.com/NADOOIT/NADOO-Launchpad/issues/463).
 
 ---
 

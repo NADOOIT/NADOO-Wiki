@@ -6,40 +6,42 @@ Damit du nach den Informationen, die du vor allem für den Start in einem neuen 
 
 #
 
-## <p align="center">Das Wiki-Doc-Starterpack</p>
+## <p align="center">Das Wiki-Doc-Starterpack 🚀</p>
 
 ### 🗂️ Organisatorische und administrative Rahmenbedingungen
 
-- Arbeits- und Pausenzeiten
-- Zeiterfassung (enthält Anleitung für Launchpad-Installierung)
-- Zeit- und Ausbildungsnachweise
-- Krankmeldung
-- Urlaub
-- Meetings
+ℹ️ [**Arbeits- und Pausenzeiten**](/docs/01-organisation/03-arbeits_und_pausenzeiten/) <br>
+ℹ️ [**Zeiterfassung**](/docs/01-organisation/01-zeiterfassung/) <br>
+ℹ️ [**Zeit- und Ausbildungsnachweise**](/docs/01-organisation/02-zeit_und_ausbildungsnachweise/README.md) <br>
+ℹ️ [**Krankmeldung**](/docs/01-organisation/05-krankmeldungen/README.md) <br>
+ℹ️ [**Urlaub**](/docs/01-organisation/04-urlaub/README.md) <br>
+ℹ️ [**Meetings**](/docs/03-meetings/README.md) <br>
 
 ### 🤝 Dein Weg ins Team
 
-<!-- evtl. passendes aus dem Bereich Discord? Channels sind eig. in Team-Übersicht integriert, aber schaue nochmal die Docs durch -->
-
-- Rollen und Aufgaben [ggf. um Unterordner „Greeter“ erweitern]
-- [Beitritt in ein 11er-Team](/docs/00-willkommen/01-leitfaden/README.md/#22-beitritt-in-ein-11er-team)
-- Übersicht aktueller Teams
+ℹ️ [**Kommunikation und Interaktion**](/docs/05-kommunikation/01-discord/README.md) <br>
+ℹ️ [**Rollen und Aufgaben**](/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/README.md) <br>
+ℹ️ [**Beitritt in ein 11er-Team**](/docs/00-willkommen/01-leitfaden/README.md/#22-beitritt-in-ein-11er-team) <br>
+ℹ️ [**Übersicht aktueller Teams**](/docs/02-arbeiten_bei_nadoo/03-teams/01-aktive_teams/README.md) <br>
 
 ### 🛠️ Tools und Programme im täglichen Arbeitsgebrauch
 
-- Visual Studio Code Installation / Einrichtung
-- IntelliJ Installation / Einrichtung
-<!-- Video: „Einstieg GitHub“ (-> Wiki-Issue #375) hier einfügen, sobald fertiggestellt -->
-- (Bis dahin verfügbare relevante) Docs aus Github-Kapitel für ersten groben Überblick
-- Issue-Erstellungsguide
+ℹ️ [**Visual Studio Code: Installation und Einrichtung**](/docs/04-tools/02-vscode/README.md) <br>
+ℹ️ [**IntelliJ: Installation und Einrichtung**](/docs/04-tools/03-intellij/README.md) <br>
 
-### 📚 [Gezieltes Lernen und] Prüfungsvorbereitung
+<!-- Video: „Einstieg GitHub“ (-> Wiki-Issue #375) hier einfügen, sobald fertiggestellt; dann ggf. Shortcut zu Github Repository entfernen -->
 
-- [Lernpartner und -gruppen]
-<!-- noch unsicher, ob hier nur Fokus auf IHK-Vorbereitung und welche Docs außer Wiki für TBs relevant wäre |
-mögliche Docs:
+ℹ️ [**GitHub Repository**](/docs/04-tools/01-github/01-repository/README.md) <br>
+ℹ️ [**Guide für die Erstellung von GitHub-Issues**](/docs/04-tools/01-github/04-issues/01-wiki-guide/README.md) <br>
+
+### 📚 Gezieltes Lernen und Prüfungsvorbereitung
+
+ℹ️ [**Trainingsbeiträge**](/docs/02-arbeiten_bei_nadoo/02-training_und_vorbereitung/01-trainingsbeitraege/README.md) <br>
+
+<!-- aktuell noch unsicher, ob hier nur Fokus auf IHK-Vorbereitung und welche Docs außer Wiki für TBs relevant wären | mögliche Docs:
+- "Lernpartner und -gruppen"? - bisher noch kein Wiki-Eintrag
+- NADOO-Academy - bisher noch kein Wiki-Eintrag
  -->
-- Trainingsbeiträge
 
 ---
 
@@ -48,3 +50,9 @@ mögliche Docs:
 Generell findest du alles Weitere, was du zum Thema Organisatorisches wissen musst, im nächsten Wiki-Themenbereich [**Organisation und Rahmenbedingungen**](/docs/01-organisation/README.md).
 
 Dort wird neben den hier bereits verlinkten Einträgen **in großem Umfang** auf alles Mögliche rund um Christoph Backhaus / NADOO IT eingegangen.
+
+---
+
+<p align="center">
+<a href="/docs/00-willkommen/01-leitfaden/README.md"><strong>Zurück</strong></a> | <a href="/docs/00-willkommen/03-styleguide/README.md"><strong>Weiter</strong></a>
+</p>

@@ -12,11 +12,11 @@ Jede Rückmeldung, ob groß oder klein, ist wertvoll. Nutze den [**"Issue-first"
 
 ---
 
-### Teamarbeit & Kommunikation
+## Teamarbeit & Kommunikation
 
-Arbeite eng mit deinen erfahrenen **Team-Kollegen**, **Teamkoordinatoren** und **Lernpartnern** zusammen. Nutze Discord und unsere regelmäßigen Meetings, um Fragen zu klären und Wissen auszutauschen.
+Arbeite eng mit deinen erfahrenen **Team-Kollegen**, **Teamkoordinatoren** und **Lernpartnern** (Mitglieder deines 3er-[Teams](/docs/02-arbeiten_bei_nadoo/03-teams/README.md)) zusammen. Nutze Discord und unsere regelmäßigen Meetings, um Fragen zu klären und Wissen auszutauschen.
 
-<!-- Thema Lernpartner: wird so in der Form aktuell auch nicht (mehr?) umgesetzt. am besten bei Christoph nachfragen, ob das noch/wieder in den Prozess aufgenommen werden soll -->
+---
 
 ## Verantwortungsübernahme
 

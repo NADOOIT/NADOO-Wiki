@@ -1,19 +1,19 @@
 # <p align="center">Abgabe von Zeit- und Ausbildungsnachweisen</p>
 
 <p align="center">
-<a href="#dieser-themen-abschnitt-beinhaltet-folgende-kapitel">zur Kapitelübersicht</a>
+<a href="#dieses-thema-beinhaltet-folgende-kapitel">🚀 direkt zur Kapitelübersicht</a>
 </p>
 
 ---
 
-### Hier sind die wichtigsten Regeln zum Thema Zeit- und Ausbildungsnachweise zusammengefasst:
+## Hier sind die wichtigsten Regeln zum Thema Zeit- und Ausbildungsnachweise zusammengefasst:
 
 #
 
 1. Du bist verpflichtet, deinen Zeitnachweis sowie den Ausbildungsnachweis bis zum **6. des Folgemonats um 23:59 Uhr** einzureichen.
 
-2. Wird diese Frist nicht eingehalten, erfolgt eine sofortige Kündigung.
-   Diese Regelung trainiert Pünktlichkeit und termingerechtes Arbeiten – Eigenschaften, die in der Arbeitswelt hoch geschätzt werden.
+2. Wird diese Frist nicht eingehalten, erfolgt eine **sofortige Kündigung**.
+   Diese Regelung trainiert **Pünktlichkeit** und **termingerechtes Arbeiten** – Eigenschaften, die in der Arbeitswelt hoch geschätzt werden.
 
 3. Alle Dateien müssen via **E-Mail** an [**christoph.backhaus@nadooit.de**](mailto:christoph.backhaus@nadooit.de) gesendet werden.
 
