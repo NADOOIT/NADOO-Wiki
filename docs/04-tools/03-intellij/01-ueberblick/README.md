@@ -1,4 +1,4 @@
-# <p align="center">IntelliJ IDEA — Ein Überblick</p>
+# <p align="center">IntelliJ IDEA — ein Überblick</p>
 
 IntelliJ IDEA ist eine integrierte Entwicklungsumgebung (IDE) des Unternehmens JetBrains, die speziell für die Entwicklung von Java-Anwendungen entwickelt wurde.
 
