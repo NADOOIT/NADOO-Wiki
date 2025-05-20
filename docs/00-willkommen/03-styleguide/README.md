@@ -2,6 +2,9 @@
 
 ### <p align="center">All Hands on Deck 🙌 - auch _dein_ Input ist gefragt! <br> Nutze den Styleguide für die Erstellung neuer Einträge:</p>
 
+---
+<br>
+
 Wie bereits angeteasert, bist du bei uns von Tag 1 ein vollwertiges Team-Mitglied. Das bedeutet auch, dass du **von Anfang an** nicht nur dazu **berechtigt** bist, aktiv **an unserem internen NADOO-Wiki mitzuwirken** – du bist sogar **ausdrücklich** dazu eingeladen! 💌
 
 🎯 Eines der **Kernziele des Wikis** besteht schließlich darin, **neue Mitglieder wie dich** erfolgreich durch das Onboarding zu **(beg)leiten** – und genau deshalb ist **dein Feedback** letztendlich unglaublich 🏆 **wertvoll**.
@@ -10,14 +13,17 @@ Ob du nun, wie empfohlen, im Launch-Team startest und mit diesem als dein Hauptz
 
 📣 **In jedem Fall** ist es aber wichtig, dass du dich **zuerst** einmal grundlegend **mit dem Wiki-Doc-Styleguide vertraut** machst, um die **Qualität** und **Konsistenz** unserer Inhalte zu gewährleisten.
 
+---
+
 ## Was genau und wofür ist der Styleguide?
+<br>
 
 📌 Der **Wiki-Doc-Styleguide** bietet dir eine umfassende **Orientierungshilfe** für die **Erstellung und Pflege von Beiträgen** im NADOO-Wiki.
 Damit unsere Inhalte **übersichtlich**, **konsistent** und gut **verständlich** bleiben, unterstützt dich der Styleguide mit klaren **Richtlinien** und **praktischen Empfehlungen** – sowohl 📑 **inhaltlich** als auch 🎨 **gestalterisch**.
 
 🤝 Dabei geht es nicht um starre Regeln, sondern um eine **gemeinsame Basis**, die uns dabei hilft, Informationen nachvollziehbar sowie optisch und inhaltlich ansprechend aufzubereiten.
 
-#
+<br>
 
 🧐 Im Fokus stehen dabei vor allem der **strukturierte Aufbau** (z.B. durch einen einheitlichen Verzeichnisbaum und die thematisch logische Gliederung von Inhalten) sowie ein konsistenter **stilistischer Rahmen**.
 
@@ -27,21 +33,25 @@ Damit unsere Inhalte **übersichtlich**, **konsistent** und gut **verständlich*
 
 💡 Außerdem findest du hilfreiche **Vorlagen, Tipps und Tricks**, die dir den **Einstieg erleichtern** oder dir beim Erweitern bestehender Inhalte **Zeit sparen**. Ob du einen neuen Beitrag erstellen oder ein bestehendes Dokument überarbeiten möchtest – der Styleguide ist **deine zentrale Anlaufstelle**! 🙌
 
+<br>
+
 ---
 
 ## Wo starte ich am besten?
 
+<br>
+
 Aktuell steckt unser Styleguide noch tief in seinen Kinderschuhen. Sehr viel gibt es hier deshalb _noch_ nicht zu sehen. Das wird sich mit der Zeit natürlich ändern.
 
-### <p align="center">❗ Bis dahin gilt aber **in jedem Fall**:</p>
+#### <p align="center">❗ Bis dahin gilt aber **in jedem Fall**:</p>
 
----
+#
 
 <h3 align="center">💪 <em>Keine halben Sachen –</em></h3>
 
 Lies dir – _bevor_ du loslegst – **unbedingt** sorgfältig das erste Kapitel über den [**Platzhalter für leere bzw. unfertige Docs**](/docs/00-willkommen/03-styleguide/00-platzhalter/README.md) durch, denn: Über diesen Bescheid zu wissen und ihn korrekt einzusetzen, ist **essenziell für die Erstellung eines neuen** Wiki-Docs.
 
----
+#
 
 <h3 align="center">🧼 <em>Keep it clean –</em></h3>
 
@@ -54,8 +64,6 @@ Desweiteren folgt demnächst ein zweites Kapitel zum **Verzeichnisbaum des** [**
 ---
 
 ## <p align="center">Okay, cool. Ready für deinen ersten Wiki-Eintrag? 😎 Dann mal los! 👇</p>
-
-#
 
 ### <p align="center">Inhaltsverzeichnis</p>
 
