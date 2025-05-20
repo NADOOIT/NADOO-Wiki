@@ -1,4 +1,4 @@
-# <p align="center">Zeiterfassung</p>
+# <p align="center">Erfassung deiner Arbeits- und Pausenzeiten mit dem NADOO-Launchpad</p>
 <!-- Überarbeitung notwendig: hier nur Anleitung/Kapitel zum Thema Zeiterfassung bzw. Umsetzung mit Launchpad aus dem Launchpad-Guide in 04-tools -->
 
 Die Erfassung deiner **Arbeits- und Pausenzeiten** erfolgt über unsere Software **NADOO-Launchpad**.
