@@ -1,4 +1,4 @@
-# <p align="center">Abgabe von Zeit- und Ausbildungsnachweisen</p>
+# <p align="center">Zeit- und Ausbildungsnachweise</p>
 
 <p align="center">
 <a href="#dieses-thema-beinhaltet-folgende-kapitel">🚀 direkt zur Kapitelübersicht</a>
@@ -10,7 +10,7 @@
 
 #
 
-1. Du bist verpflichtet, deinen Zeitnachweis sowie den Ausbildungsnachweis bis zum **6. des Folgemonats um 23:59 Uhr** einzureichen.
+1. Du bist verpflichtet, deine Zeit- und Ausbildungsnachweise bis zum **6. des Folgemonats um 23:59 Uhr** einzureichen.
 
 2. Wird diese Frist nicht eingehalten, erfolgt eine **sofortige Kündigung**.
    Diese Regelung trainiert **Pünktlichkeit** und **termingerechtes Arbeiten** – Eigenschaften, die in der Arbeitswelt hoch geschätzt werden.
