@@ -1,6 +1,6 @@
-name: 🛠️ Tools
-description: Fragen, Probleme oder Beiträge zu Tools und Ressourcen
-title: "[Tools und Ressourcen] "
+name: 🛠️ Tools und Technologien
+description: Fragen, Probleme oder Beiträge zu Tools und Technologien, die in der Dokumentation verwendet werden.
+title: "[Tools und Technologien] "
 labels: ["tools", "documentation", "help-wanted"]
 assignees: []
 body:
