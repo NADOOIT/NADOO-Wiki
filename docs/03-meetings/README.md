@@ -1,4 +1,8 @@
-# <p align="center">Meetings und Zeitpläne bei Christoph Backhaus IT</p>
+# <p align="center">📅 Termine und zeitlicher Ablauf</p>
+
+### <p align="center">Meetings und Zeitpläne bei Christoph Backhaus IT</p>
+
+---
 
 Unsere Meetings fördern effiziente **Zusammenarbeit**, kontinuierliches **Lernen** und transparente **Kommunikation**.
 
