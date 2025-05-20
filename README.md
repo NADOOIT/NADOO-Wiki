@@ -197,8 +197,11 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
 
   &emsp;📄 [Kapitelübersicht](/docs/02-arbeiten_bei_nadoo/02-training_und_vorbereitung/README.md)
 
-  &nbsp;&nbsp;🔹 [Trainingsbeiträge](/docs/02-arbeiten_bei_nadoo/02-training_und_vorbereitung/01-trainingsbeitraege/README.md) <br>
-  &nbsp;&nbsp;🔹 [Präsentationstraining](/docs/02-arbeiten_bei_nadoo/02-training_und_vorbereitung/02-praesentationstraining/README.md) <br>
+  &nbsp;&nbsp;🔹 [**Trainingsbeiträge**](/docs/02-arbeiten_bei_nadoo/02-training_und_vorbereitung/01-trainingsbeitraege/README.md) <br>
+      &emsp;&emsp;◻️ [Trainingsbeitrag 101 – die Basics im Überblick](/docs/02-arbeiten_bei_nadoo/02-training_und_vorbereitung/01-trainingsbeitraege/01-basics/README.md) <br>
+      &emsp;&emsp;◻️ [Wie bzw. wo wird der Trainingsbeitrag angelegt und dokumentiert?](/docs/02-arbeiten_bei_nadoo/02-training_und_vorbereitung/01-trainingsbeitraege/02-dokumentation/README.md) <br>
+      
+  &nbsp;&nbsp;🔹 [**Präsentationstraining**](/docs/02-arbeiten_bei_nadoo/02-training_und_vorbereitung/02-praesentationstraining/README.md) <br>
 
 </details>
 
@@ -253,7 +256,7 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
 
   &nbsp;&nbsp;🔹 [**Pull Requests**](/docs/04-tools/01-github/03-pull-requests/README.md) <br>
     &emsp;&emsp;◻️ [Merge Konflikte](/docs/04-tools/01-github/03-pull-requests/01-merge-konflikte/README.md) <br>
-    &emsp;&emsp;◻️ [Code Review](/docs/04-tools/01-github/03-pull-requests/02-code-review/README.md) <br><br>
+    &emsp;&emsp;◻️ [Code Reviews](/docs/04-tools/01-github/03-pull-requests/02-code-review/README.md) <br><br>
 
   &nbsp;&nbsp;🔹 [**Issues**](/docs/04-tools/01-github/04-issues/README.md) <br>
     &emsp;&emsp;◻️ [Selbstständig Veränderungen innerhalb des Wikis vornehmen: ein kleiner Guide](/docs/04-tools/01-github/04-issues/01-wiki-guide/README.md) <br>
@@ -294,7 +297,7 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
 
   &emsp;📄 [Kapitelübersicht](/docs/04-tools/03-intellij/README.md)
 
-  &nbsp;&nbsp;🔹 [IntelliJ IDEA — Ein Überblick](/docs/04-tools/03-intellij/01-ueberblick/README.md) <br>
+  &nbsp;&nbsp;🔹 [IntelliJ IDEA — ein Überblick](/docs/04-tools/03-intellij/01-ueberblick/README.md) <br>
   &nbsp;&nbsp;🔹 [Installation und Einrichtung](/docs/04-tools/03-intellij/02-installation/README.md) <br>
 
 </details>
@@ -528,6 +531,7 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
   &emsp;📄 [Kapitelübersicht](/docs/08-karriere/02-anwendungsentwickler_beruf/README.md)
 
   &nbsp;&nbsp;🔹 [**Die Verantwortung und Unsicherheit des Programmierer‐Daseins**](/docs/08-karriere/02-anwendungsentwickler_beruf/01-programmierer_dasein/README.md) <br>
+  
   &nbsp;&nbsp;🔹 [**Das Bewerbungsverfahren im IT-Sektor**](/docs/08-karriere/02-anwendungsentwickler_beruf/02-bewerbungsverfahren/README.md) <br>
     &emsp;&emsp;◻️ [IT-Lebenslauf-101](/docs/08-karriere/02-anwendungsentwickler_beruf/02-bewerbungsverfahren//01-lebenslauf/README.md) <br>
     &emsp;&emsp;◻️ [Technische Interviews und Coding-Aufgaben im Bewerbungsverfahren](/docs/08-karriere/02-anwendungsentwickler_beruf/02-bewerbungsverfahren//02-technisches_interview/README.md) <br>
