@@ -33,7 +33,7 @@ Das Team Projektarbeit arbeitet an der **Entwicklung und Umsetzung von Projekten
 👥 **Aktuelle Mitglieder / Ansprechpartner:innen:** _tbd_  
 📋 **Koordination:** k.A.  
 
-### [ 3.1 Projektarbeit ] 🟢 3er-Team: (_tbd_)
+## [ 3.1 Projektarbeit ] 🟢 3er-Team: (_tbd_)
 
 Das 3er-Team **_tbd_** ...
 
