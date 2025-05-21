@@ -1,7 +1,7 @@
-name: 📚 Methoden und Prozesse
-description: Fragen, Probleme oder Beiträge zu Methoden und Prozessen
-title: "[Methoden & Prozesse] "
-labels: ["methoden", "documentation", "help-wanted"]
+name: 📚 Projektarbeit
+description: Fragen, Probleme oder Beiträge zur Projektarbeit
+title: "[Projektarbeit]"
+labels: ["projektarbeit", "documentation", "help-wanted"]
 assignees: []
 body:
   - type: dropdown
