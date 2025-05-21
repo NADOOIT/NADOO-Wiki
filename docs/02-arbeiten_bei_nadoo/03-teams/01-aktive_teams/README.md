@@ -1,14 +1,16 @@
-# <p align="center">Derzeit aktive Teams | Stand: Mai 2025</p>
-<br>
+# NADOO-IT ein Überblick über die aktiven Teams
 
-## <p align="center">🟡 11er-Team: Launch / Wiki</p>
+<p align="center">Derzeit aktive Teams | Stand: 21. Mai 2025</p>
+
+<p align="center">🟡 11er-Team: Launch / Wiki</p>
 
 <p align="center">📍 <strong>Discord-Kanal: </strong><a href="https://discord.com/channels/1299292608744390707/13362955833502597620"><strong>Launch</strong></a></p>
 
-Launch ist das erste Team, das in der 33er-Organisation gegründet wurde.
+Launch ist das erste Team, das in der [33er-Organisation](https://github.com/orgs/NADOOIT/people) gegründet wurde.
+
 Es hat die Aufgabe, die **Grundlagen für die Organisation** zu schaffen und die ersten Schritte in Richtung einer erfolgreichen Zusammenarbeit zu gehen.
 
-<br>
+---
 
 🎯 **Teamziel:** Onboarding neuer Mitglieder und Unterstützung bei der Erstellung von Wiki-Inhalten. <br>
 
@@ -18,55 +20,49 @@ Es hat die Aufgabe, die **Grundlagen für die Organisation** zu schaffen und die
 
 ---
 
-## <p align="center">🟡 11er-Team: Projektarbeit</p>
+<p align="center">🟡 11er-Team: Projektarbeit</p>
 
 <p align="center">📍 <strong>Discord-Kanal: </strong><a href="https://discord.com/channels/1299292608744390707/1330880049708269600"><strong>Projektarbeit</strong></a></p>
 
 Das Team Projektarbeit arbeitet an der **Entwicklung und Umsetzung von Projekten** und der **Kundenkommunikation** - die für die Organisation von hoher Bedeutung sind.
 
-<br>
+---
 
-🎯 **Teamziel:** Aufbau von Projekten und Kundenkommunikation. <br>
+🎯 **Teamziel:** Aufbau von Projekten und Kundenkommunikation.  
 
-👥 **Aktuelle Mitglieder / Ansprechpartner:innen:** _tbd_ <br>
-📋 **Koordination:** k.A. <br>
+👥 **Aktuelle Mitglieder / Ansprechpartner:innen:** _tbd_  
+📋 **Koordination:** k.A.  
 
-
-#
-
-### [ Projektarbeit ] 🟢 3er-Team: (_tbd_) 
+### [ 3.1 Projektarbeit ] 🟢 3er-Team: (_tbd_)
 
 Das 3er-Team **_tbd_** ...
 
-<br>
+---
 
 📍 **Discord:** [**_tbd_**](https://discordapp.com/channels/1299292608744390707/1330881556667043950) <br>
-👥 **Mitarbeitende:** _tbd_ <br> 
-
+👥 **Mitarbeitende:** _tbd_  
 
 ---
 
-### [ Projektarbeit ] 🟢 3er-Team: (_tbd_) 
+### [ 3.2 Projektarbeit ] 🟢 3er-Team: (_tbd_)
 
 Das 3er-Team **_tbd_** ...
 
 <br>
 
 📍 **Discord:** [**_tbd_**](https://discordapp.com/channels/1299292608744390707/1330881578171240448) <br>
-👥 **Mitarbeitende:** _tbd_ <br> 
-
+👥 **Mitarbeitende:** _tbd_ <br>
 
 ---
 
-### [ Projektarbeit ] 🟢 3er-Team: (_tbd_) 
+### [ Projektarbeit ] 🟢 3er-Team: (_tbd_)
 
 Das 3er-Team **_tbd_** ...
 
-<br>
+---
 
 📍 **Discord:** [**_tbd_**](https://discordapp.com/channels/1299292608744390707/1330881152461832293) <br>
-👥 **Mitarbeitende:** _tbd_ <br> 
-
+👥 **Mitarbeitende:** _tbd_ <br>
 
 ---
 
@@ -84,40 +80,31 @@ Es sorgt dafür, dass diese den Anforderungen der Kunden entsprechen und die ent
 📋 **Koordination:** [Victor](https://github.com/Masaru485) <br>
 👥 **Aktuelle Mitglieder / Ansprechpartner:innen:** <br> [Alexander](https://github.com/Alexander-AzTech2064), [Andy](https://github.com/xIFenris), [Carsten](https://github.com/CaptainCarsten), [Irina](https://github.com/IrinaZittlau), [Katrin](https://github.com/xTrina), [Nadine](), [Stefan](https://github.com/ITSteinbach), [Timo S.]()
 
-#
+---
 
-### [ Java ] 🟢 3er-Team: Code Cowboys 
+### [ Java ] 🟢 3er-Team: Objects
 
-Das 3er-Team **Code Cowboys** ... (_tbd_)
+Das 3er-Team **Objects** ... (_tbd_)
 
-<br>
-
-📍 **Discord:** [**Code Cowboys**](https://discordapp.com/channels/1299292608744390707/1330882816333844592) <br>
-👥 **Mitarbeitende:** _tbd_ <br> 
-
+📍 **Discord:** [**Objects**](https://discord.com/channels/1299292608744390707/1374725049277354042) <br>
+👥 **Mitarbeitende:** _tbd_
 
 ---
 
-### [ Java ] 🟢 3er-Team: Handlers
+### [ Java ] 🟢 3er-Team: Methodes
 
-Das 3er-Team **Handlers** ... (_tbd_)
-
-<br>
-
-📍 **Discord:** [**Handlers**](https://discordapp.com/channels/1299292608744390707/1330882905748144231) <br>
-👥 **Mitarbeitende:** _tbd_ <br> 
-
+Das 3er-Team **Methodes** ... _tbd_
 
 ---
 
-### [ Java ] 🟢 3er-Team: Syntax Samurai
+📍 **Discord:** [**Methodes**](https://discord.com/channels/1299292608744390707/1374725110069596220) <br>
+👥 **Mitarbeitende:** _tbd_
 
-Das 3er-Team **Syntax Samurai** ... (_tbd_)
+---
 
-<br>
+### [ Java ] 🟢 3er-Team: _tbd_
 
-📍 **Discord:** [**Syntax Samurai**](https://discordapp.com/channels/1299292608744390707/1330882920671613009) <br>
-👥 **Mitarbeitende:** _tbd_ <br> 
+Das 3er-Team ... _tbd_
 
 ---
 
@@ -135,8 +122,6 @@ Es sorgt dafür, dass die Projekte den Anforderungen der Kunden entsprechen und 
 
 📋 **Koordination:** [Heiko](https://github.com/hfanieng) <br>
 👥 **Aktuelle Mitglieder / Ansprechpartner:innen:** <br>
-
-#
 
 ### [ Code Qualität & Research ] 🟢 3er-Team: Dokumentation
 
@@ -165,57 +150,39 @@ Das 3er-Team Regulation & Recht (Compliance/Regulatory Affairs) ist für die Ent
 
 ---
 
-## <p align="center">🟡 11er-Team: Kalender</p>
-
-<p align="center">📍 <strong>Discord-Kanal: </strong><strong>tbd</strong></a></p>
+<p align="center">📍 <strong>Discord-Kanal: </strong><a href="https://discord.com/channels/1299292608744390707/1374724884428624023"><strong>Kalender</strong></a></p>
 
 Das Team Kalender arbeitet an der **Entwicklung und Umsetzung einer Ergänzung der Launchpad-App**, welche für die Optimierung der organisatorischen Prozesse innerhalb der Organisation wichtig ist.
-
-<br>
 
 🎯 **Teamziel:** Erweiterung von NADOO-Launchpad um eine Kalenderfunktion <br>
 
 👥 **Aktuelle Mitglieder / Ansprechpartner:innen:** Hiba, Irina, Carsten und Michael<br>
-📋 **Koordination:** Carsten und Michael<br>
-
-
-#
-
-### [ Kalender ] 🟢 3er-Team: (_tbd_) 
-
-Das 3er-Team **_tbd_** ...
-
-<br>
-
-📍 **Discord:** [**_tbd_**](https://discordapp.com/channels/1299292608744390707/1330881556667043950) <br>
-👥 **Mitarbeitende:** _tbd_ <br> 
-
+📋 **Koordination:** Carsten und Michael
 
 ---
 
-### [ Kalender ] 🟢 3er-Team: (_tbd_) 
+### [ Kalender ] 🟢 3er-Team: Code Cowboys
 
+📍 **Discord:** [**Code Cowboys**](https://discord.com/channels/1299292608744390707/1330882816333844592)  
+👥 **Mitarbeitende:** _tbd_  
 Das 3er-Team **_tbd_** ...
-
-<br>
-
-📍 **Discord:** [**_tbd_**](https://discordapp.com/channels/1299292608744390707/1330881578171240448) <br>
-👥 **Mitarbeitende:** _tbd_ <br> 
-
 
 ---
 
-### [ Kalender ] 🟢 3er-Team: (_tbd_) 
+### [ Kalender ] 🟢 3er-Team: Handlers
 
+📍 **Discord:** [**Code Cowboys**](https://discord.com/channels/1299292608744390707/1330882905748144231)  
+👥 **Mitarbeitende:** _tbd_  
 Das 3er-Team **_tbd_** ...
-
-<br>
-
-📍 **Discord:** [**_tbd_**](https://discordapp.com/channels/1299292608744390707/1330881152461832293) <br>
-👥 **Mitarbeitende:** _tbd_ <br> 
-
 
 ---
 
+### [ Kalender ] 🟢 3er-Team: Syntax Samurai
+
+📍 **Discord:** [**Syntax Samurai**](https://discord.com/channels/1299292608744390707/1330882816333844592)
+👥 **Mitarbeitende:** _tbd_  
+Das 3er-Team **_tbd_** ...
+
+---
 
 <p align="center"><a href="/docs/02-arbeiten_bei_nadoo/03-teams/README.md"><strong>Zurück</strong></a> | <a href="/docs/02-arbeiten_bei_nadoo/03-teams/02-team-archiv/README.md"><strong>Weiter</strong></a></p>
