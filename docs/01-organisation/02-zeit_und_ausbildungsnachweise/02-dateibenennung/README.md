@@ -11,7 +11,9 @@ Die folgenden **Regeln** wurden entwickelt, um die **Bearbeitung** der Dateien z
 👉 **Regel 1:** Die einzelnen Infomationen zu den Nachweisen werden jeweils **mit** einem **Unterstrich / Underscore ( _ )** voneinander **getrennt**. <br>
 <p align="center">❗ <strong>KEINE</strong> Bindestriche / Minuszeichen, Leerzeichen oder ähnliches!</p>
 <br>
+👉 **Regel 2:** Bei mehreren Vor-/Nachnamen werden auch diese voneinander mit Unterstrichen getrennt - **NICHT** ❗ name1-name2 <br>
 
+✔️ **Beispiel:** ID_musterovski_nachname2_nachname3_boris_vorname2_vorname3_berichtsheft_2024_kw5 <br>
 ✔️ **Richtig:** ID_musterovski_boris_berichtsheft_2024_kw13 <br>
 ❌ **Falsch:** ID - musterovski, boris - berichtsheft 2024-kw13
 
