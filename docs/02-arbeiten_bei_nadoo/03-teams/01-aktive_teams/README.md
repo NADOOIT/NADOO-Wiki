@@ -165,4 +165,57 @@ Das 3er-Team Regulation & Recht (Compliance/Regulatory Affairs) ist für die Ent
 
 ---
 
+## <p align="center">🟡 11er-Team: Kalender</p>
+
+<p align="center">📍 <strong>Discord-Kanal: </strong><strong>tbd</strong></a></p>
+
+Das Team Kalender arbeitet an der **Entwicklung und Umsetzung einer Ergänzung der Launchpad-App**, welche für die Optimierung der organisatorischen Prozesse innerhalb der Organisation wichtig ist.
+
+<br>
+
+🎯 **Teamziel:** Erweiterung von NADOO-Launchpad um eine Kalenderfunktion <br>
+
+👥 **Aktuelle Mitglieder / Ansprechpartner:innen:** Hiba, Irina, Carsten und Michael<br>
+📋 **Koordination:** Carsten und Michael<br>
+
+
+#
+
+### [ Kalender ] 🟢 3er-Team: (_tbd_) 
+
+Das 3er-Team **_tbd_** ...
+
+<br>
+
+📍 **Discord:** [**_tbd_**](https://discordapp.com/channels/1299292608744390707/1330881556667043950) <br>
+👥 **Mitarbeitende:** _tbd_ <br> 
+
+
+---
+
+### [ Kalender ] 🟢 3er-Team: (_tbd_) 
+
+Das 3er-Team **_tbd_** ...
+
+<br>
+
+📍 **Discord:** [**_tbd_**](https://discordapp.com/channels/1299292608744390707/1330881578171240448) <br>
+👥 **Mitarbeitende:** _tbd_ <br> 
+
+
+---
+
+### [ Kalender ] 🟢 3er-Team: (_tbd_) 
+
+Das 3er-Team **_tbd_** ...
+
+<br>
+
+📍 **Discord:** [**_tbd_**](https://discordapp.com/channels/1299292608744390707/1330881152461832293) <br>
+👥 **Mitarbeitende:** _tbd_ <br> 
+
+
+---
+
+
 <p align="center"><a href="/docs/02-arbeiten_bei_nadoo/03-teams/README.md"><strong>Zurück</strong></a> | <a href="/docs/02-arbeiten_bei_nadoo/03-teams/02-team-archiv/README.md"><strong>Weiter</strong></a></p>
