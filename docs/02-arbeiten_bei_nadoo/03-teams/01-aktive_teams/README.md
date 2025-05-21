@@ -169,7 +169,7 @@ Das 3er-Team Regulation & Recht (Compliance/Regulatory Affairs) ist für die Ent
 
 <p align="center">📍 <strong>Discord-Kanal: </strong><strong>tbd</strong></a></p>
 
-Das Team Kalender arbeitet an der **Entwicklung und Umsetzung einer Ergänzung der Launchpad-App** - welche für die Optimierung der organisatorischen Prozesse innerhalb der Organisation wichtig ist.
+Das Team Kalender arbeitet an der **Entwicklung und Umsetzung einer Ergänzung der Launchpad-App**, welche für die Optimierung der organisatorischen Prozesse innerhalb der Organisation wichtig ist.
 
 <br>
 
