@@ -1,4 +1,4 @@
-# <p align="center">Allgemeine Übersicht Zeitpläne aller Morgenmeetings</p>
+# <p align="center">Allgemeine Übersicht aller Morgenmeetings</p>
 <p align="center">📅 <strong>täglich</strong></p>
 
 ---
