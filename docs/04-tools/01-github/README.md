@@ -104,4 +104,10 @@ GitHub-Flavored Markdown (GFM) ist eine erweiterte Version von Markdown, die zus
 
 ---
 
+### Organisationen und Teams
+
+GitHub-Organisationen sind Gruppen von Benutzern, die zusammenarbeiten, um Projekte zu verwalten und zu entwickeln. Sie ermöglichen es Teams, Repositories zu organisieren, Berechtigungen zu verwalten und den Zugriff auf Ressourcen zu steuern.
+
+---
+
 <p align="center"><a href="/docs/04-tools/README.md"><strong>Zurück</strong></a> | <a href="/docs/04-tools/01-github/01-repository/README.md"><strong>Weiter</strong></a></p>
