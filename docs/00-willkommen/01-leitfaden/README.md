@@ -98,7 +98,11 @@ Unsere Teams sind **dynamisch**. 🤸‍♀️ Dir ist **selbst überlassen**, w
 
 ---
 
-⚠️ **Hinweis**: Solltest du noch keinen Zugriff auf das Launchpad-Repository haben, melde dich bitte umgehend bei Christoph mit deinem **GitHub-Account-Namen**, damit dieser dich einladen und dir die nötigen Zugriffsrechte erteilen kann.
+| |
+|:---|
+|⚠️ **Hinweis**: Solltest du noch keinen Zugriff auf die Repositories haben, melde dich bitte umgehend bei Christoph mit deinem **GitHub-Account-Namen**, damit dieser dich zur [NADOO-IT](https://github.com/orgs/NADOOIT/people) und zu den [NADOOlern](https://github.com/orgs/NADOOIT/teams/nadooler) einladen kann. Sobald du Mitglied bist, hast du automatisch Zugriff auf alle Repositories des Unternehmens, die für dich relevant sind.|
+
+<!--hier Link zum GitHub-Artkel (tbd) zu Organisations ergänzen-->
 
 ---
 
