@@ -10,7 +10,7 @@ Eine Organisation ist ein übergeordnetes Konto, das mehrere Benutzer (sogenannt
 
 ---
 
-**Beispiel:** Die Organisation [NADOOIT](https://github.com/NADOOIT) verwaltet verschiedene Pprojekte wie das NADOO-Launchpad in separaten Repositories:
+**Beispiel:** Die Organisation [NADOOIT](https://github.com/NADOOIT) verwaltet verschiedene Projekte wie das NADOO-Launchpad in separaten Repositories:
 
 - [NADOO-Launchpad](https://github.com/NADOOIT/NADOO-Launchpad): Das Repository für die Applikation NADOO-Launchpad
 - [NADOO-Academy](https://github.com/NADOOIT/NADOO-Academy): Das Repository für die NADOO-Academy mit Lerninhalten und Schulungen
