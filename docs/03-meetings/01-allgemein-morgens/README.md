@@ -1,36 +1,43 @@
-# <p align="center">Zeitpläne des allgemeinen Morgenmeetings</p>
+# <p align="center">Allgemeine Übersicht Zeitpläne aller Morgenmeetings</p>
+<p align="center">📅 <strong>täglich</strong></p>
 
+---
+
+## Morgenmeetings – Allgemeine Zeitpläne
+
+✅ Die **Anwesenheitsüberprüfung** findet **täglich ab 10:14 Uhr** statt. <br>
+👨‍🏫 Die Umsetzung bzw. Leitung der Meetings übernehmen die Teamkoordinator:innen oder Christoph
+
+---
 
 ## Montag, Dienstag, Donnerstag
 
-- 10:14 – 10:30 Uhr: Überprüfen der Anwesenheit
-  - Umsetzung: Teamkoordinator:innen oder Christoph
-- 10:30 – 11:20 Uhr: 11er-Meeting
-  - Umsetzung: Teamkoordinator:innen oder Christoph
-- 11:10 Uhr – offen: Arbeiten an Issues
+📝 **10:14 – 10:30 Uhr:** Überprüfen der Anwesenheit im [33er-Kanal](https://discordapp.com/channels/1299292608744390707/1330880189475065910) <br>
+📢 **10:30 – 11:20 Uhr:** 11er-Meeting <br>
+👷 **11:10 Uhr – offen:** Arbeiten an Issues <br>
 
 ---
 
 ## Mittwoch
 
-- 10:14 – 10:30 Uhr: Überprüfen der Anwesenheit
-  - Umsetzung: Teamkoordinator:innen oder Christoph
-- 10:30 – 11:20 Uhr: Teamkoordinator-Meeting (freiwillig für 3er-Teams)
+📝 **10:14 – 10:30 Uhr:** Überprüfen der Anwesenheit im [**33er-Kanal**](https://discordapp.com/channels/1299292608744390707/1330880189475065910) <br>
+📢 **10:30 – 11:20 Uhr:** Teamkoordinator-Meeting (**_freiwillig_** für 3er-Teams) im []() <br> <!-- wer weiß, in welchem Kanal das TeamKo-Meeting offiziell stattfindet, hier bitte nachtragen und verlinken -->
+👷 **ab 10:30 Uhr – offen:** Arbeiten an Issues <br>
 
 ---
 
 ## Freitag
 
-- 10:14 – 10:30 Uhr: Überprüfen der Anwesenheit
-  - Umsetzung: Teamkoordinator:innen oder Christoph
-- 10:30 – 11:10 Uhr: Meeting (33er-Meeting)
-- 11:20 Uhr – offen: Arbeiten an Issues
+📝 **10:14 – 10:30 Uhr:** Überprüfen der Anwesenheit im [**33er-Kanal**](https://discordapp.com/channels/1299292608744390707/1330880189475065910) <br>
+📢 **10:30 – 11:20 Uhr:** Meeting (33er-Meeting) <br>
+👷 **11:10 Uhr – offen:** Arbeiten an Issues <br>
 
 ---
 
 ## Samstag (freiwillig)
 
-- Twitch-Stream
+👾 Twitch-Stream
+<!-- wer die Info kennt, bitte hier Uhrzeit und Kanal nachtragen --> 
 
 ---
 
