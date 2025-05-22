@@ -24,7 +24,7 @@ Es hat die Aufgabe, die **Grundlagen für die Organisation** zu schaffen und die
 
 <p align="center">📍 <strong>Discord-Kanal: </strong><a href="https://discord.com/channels/1299292608744390707/1330880049708269600"><strong>Projektarbeit</strong></a></p>
 
-Das Team Projektarbeit arbeitet an der **Entwicklung und Umsetzung von Projekten** und der **Kundenkommunikation** - die für die Organisation von hoher Bedeutung sind.
+Das Team Projektarbeit arbeitet an der **Entwicklung und Umsetzung von Projekten** und der **Kundenkommunikation**, die für die Organisation von hoher Bedeutung sind.
 
 ---
 
