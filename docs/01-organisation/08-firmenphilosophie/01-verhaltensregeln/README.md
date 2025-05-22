@@ -6,13 +6,13 @@ Halte die **festgelegten Zeiten** (z. B. Anwesenheitscheck, Abgabe von Nachweise
 
 ---
 
-## Transparenz & Feedback-Kultur
+## Transparenz und Feedback-Kultur
 
-Jede Rückmeldung, ob groß oder klein, ist wertvoll. Nutze den [**"Issue-first"-Ansatz**](/docs/01-organisation/08-firmenphilosophie/02-feedback-kultur/README.md/#issue-first-prinzip--probleme-sichtbar-machen-um-lösungen-zu-finden) mittels [**GitHub**](/docs/04-tools/01-github/README.md), um **Verbesserungsvorschläge**, **Fehler** oder **Ideen** zu dokumentieren.
+Jede Rückmeldung, ob groß oder klein, ist wertvoll. Nutze den [**"Issue-first"-Ansatz**](/docs/01-organisation/08-firmenphilosophie/02-feedback-kultur/README.md/#das-issue-first-prinzip-probleme-sichtbar-machen-um-lösungen-zu-finden) mittels [**GitHub**](/docs/04-tools/01-github/README.md), um **Verbesserungsvorschläge**, **Fehler** oder **Ideen** zu dokumentieren.
 
 ---
 
-## Teamarbeit & Kommunikation
+## Teamarbeit und Kommunikation
 
 Arbeite eng mit deinen erfahrenen **Team-Kollegen**, **Teamkoordinatoren** und **Lernpartnern** (Mitglieder deines 3er-[Teams](/docs/02-arbeiten_bei_nadoo/03-teams/README.md)) zusammen. Nutze Discord und unsere regelmäßigen Meetings, um Fragen zu klären und Wissen auszutauschen.
 
