@@ -8,13 +8,14 @@
 
 ## 1. Einstempeln
 
-⩇⩇:⩇⩇ Sobald du für deinen ersten Tag online kommst, darfst und solltest du dich einstempeln. Für die Zeiterfassung nutzen wir ein internes Tool, unser [**NADOO-Launchpad**](https://github.com/NADOOIT/NADOO-Launchpad).
+⩇⩇:⩇⩇ Sobald du für deinen ersten Tag online kommst, darfst und solltest du dich einstempeln. Für die Zeiterfassung nutzen wir ein internes Tool, unser [**NADOO-Launchpad**](https://github.com/NADOOIT/NADOO-Launchpad). 
+
+🗂️ Im Kapitel [**Zeiterfassung**](/docs/01-organisation/01-zeiterfassung/README.md) ist der Teil des Launchpad-Guides, der sich auf die Erfassung deiner Zeiten bezieht, nochmal gesondert aufgeführt.
 
 ⚙️ Wie du das Tool installierst und startest, ist Schritt für Schritt im [**README des Launchpad-Repositories**](https://github.com/NADOOIT/NADOO-Launchpad/blob/main/README.md) beschrieben.
 
 🗂️ Verweise auf dieselben Anleitungen für Windows bzw. MacOS findest du außerdem in unserem großen [**Launchpad-Guide**](/docs/04-tools/05-launchpad/README.md). Dort wird dir die **Benutzeroberfläche** der Anwendung im Detail erklärt, damit du ganz genau weißt, _wie_ du mit der App deine Zeiten richtig verbuchst und welche Funktionen das Programm sonst noch so bietet. 
 
-🗂️ Im Kapitel [**Zeiterfassung**](/docs/01-organisation/01-zeiterfassung/README.md) ist der Teil des Launchpad-Guides, der sich auf die Erfassung deiner Zeiten bezieht, nochmal gesondert aufgeführt.
 
 ❗ **Achtung:** Der Guide **wird aktuell noch verfasst**, was ein großes Unterfangen ist. Sollte er zum Zeitpunkt deiner Ankunft noch nicht vollständig sein, bitten wir dich um ein kleines bisschen Geduld. Wir sind auf jeden Fall an der Sache dran! 🛠️
 
