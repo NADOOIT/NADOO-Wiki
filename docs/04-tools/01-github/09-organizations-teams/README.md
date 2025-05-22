@@ -28,7 +28,7 @@ Innerhalb einer Organisation kann man Teams anlegen – das sind Gruppen von Mit
 **Beispielhafte Teams:**
 
 - [Zeitnachweis](https://github.com/orgs/NADOOIT/teams/zeitnachweis): kümmern sich um das Teilprojekt Zeitnachweis
-- [GitHub](https://github.com/orgs/NADOOIT/teams/github): kümmern sich um die GitHub-Administration]
+- [GitHub](https://github.com/orgs/NADOOIT/teams/github): kümmern sich um die GitHub-Administration
 
 ---
 
