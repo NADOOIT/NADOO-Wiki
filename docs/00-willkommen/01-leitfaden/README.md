@@ -8,20 +8,23 @@
 
 ## 1. Einstempeln
 
-⩇⩇:⩇⩇ Sobald du für deinen ersten Tag online kommst, darfst und solltest du dich einstempeln. Für die Zeiterfassung nutzen wir ein internes Tool, unser [**NADOO-Launchpad**](https://github.com/NADOOIT/NADOO-Launchpad). 
+⩇⩇:⩇⩇ Sobald du für deinen ersten Tag online kommst, darfst und solltest du dich einstempeln. Für die [**Zeiterfassung**](/docs/01-organisation/01-zeiterfassung/README.md) nutzen wir ein internes Tool, unser [**NADOO-Launchpad**](https://github.com/NADOOIT/NADOO-Launchpad). 
+
+---
+
+⚠️ **Wichtig:** Damit das Einstempeln an Tag 1 reibungslos klappt, solltest du dich am besten **im Voraus** schon mal mit dem Tool und den zugehörigen Wiki-Abschnitten vertraut machen.
+
+---
+
+⚙️ Wie du das Tool **installierst** und startest, ist Schritt für Schritt im [**README des Launchpad-Repositories**](https://github.com/NADOOIT/NADOO-Launchpad/blob/main/README.md) beschrieben.
+
+📑 Dieselben Installations-Anleitungen für Windows bzw. MacOS findest du außerdem im [**Einstiegskapitel**](/docs/04-tools/05-launchpad/01-ueberblick/README.md) unseres großen [**Launchpad-Guides**](/docs/04-tools/05-launchpad/README.md). In diesem Guide wird dir die **Benutzeroberfläche** der Anwendung im Detail erklärt, damit du ganz genau weißt, welche Funktionen das Programm neben der Zeiterfassung sonst noch so bietet und wie du diese richtig anwendest. 
 
 🗂️ Im Kapitel [**Zeiterfassung**](/docs/01-organisation/01-zeiterfassung/README.md) ist der Teil des Launchpad-Guides, der sich auf die Erfassung deiner Zeiten bezieht, nochmal gesondert aufgeführt.
 
-⚙️ Wie du das Tool installierst und startest, ist Schritt für Schritt im [**README des Launchpad-Repositories**](https://github.com/NADOOIT/NADOO-Launchpad/blob/main/README.md) beschrieben.
+---
 
-🗂️ Verweise auf dieselben Anleitungen für Windows bzw. MacOS findest du außerdem in unserem großen [**Launchpad-Guide**](/docs/04-tools/05-launchpad/README.md). Dort wird dir die **Benutzeroberfläche** der Anwendung im Detail erklärt, damit du ganz genau weißt, _wie_ du mit der App deine Zeiten richtig verbuchst und welche Funktionen das Programm sonst noch so bietet. 
-
-
-❗ **Achtung:** Der Guide **wird aktuell noch verfasst**, was ein großes Unterfangen ist. Sollte er zum Zeitpunkt deiner Ankunft noch nicht vollständig sein, bitten wir dich um ein kleines bisschen Geduld. Wir sind auf jeden Fall an der Sache dran! 🛠️
-
-#
-
-⚠️ **Wichtig:** Damit das Einstempeln an Tag 1 reibungslos klappt, solltest du dich am besten **im Voraus** schon mal mit dem Tool und den zugehörigen Wiki-Abschnitten vertraut machen.
+❗ **Achtung:** Der Launchpad-Guide **wird aktuell noch verfasst**, was ein großes Unterfangen ist. Sollte er zum Zeitpunkt deiner Ankunft noch nicht vollständig sein, bitten wir dich um ein kleines bisschen Geduld. Wir sind auf jeden Fall an der Sache dran! 🛠️
 
 ---
 
