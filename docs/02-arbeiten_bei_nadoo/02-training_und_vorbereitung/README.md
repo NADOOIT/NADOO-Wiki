@@ -1,4 +1,7 @@
 # <p align="center">Vorbereitung auf die IHK-Prüfungen und deine Zukunft in der IT-Arbeitswelt</p>
+<p align="center"><a href="#dieses-thema-beinhaltet-folgende-kapitel">🚀 direkt zur Kapitelübersicht</a></p>
+
+#
 
 ## Persönliche Weiterentwicklung durch Jobrotation
 
@@ -34,8 +37,8 @@ Alles, was du zum Thema **Trainingsbeitrag** wissen musst, findest du auf der n�
 
 ---
 
-### Dieses Thema beinhaltet folgende Kapitel:
-
+### <p align="center">Dieses Thema beinhaltet folgende Kapitel:</p>
+---
 <!-- es sollte ein kleiner Wiki-Eintrag zum neuen Rep ausgearbeitet werden. wenn soweit, Ordner hier an erste Stelle setzen (da Trainingsbeitrag-Guide darauf aufbaut / textlich aufbauen wird) und Nummerierungen der Folge-Ordner entsprechend anpassen (Refactoring).
 
 🔹 [**Die NADOO-Academy**](/docs/02-arbeiten_bei_nadoo/02-training_und_vorbereitung/01-academy/README.md) <br> -->

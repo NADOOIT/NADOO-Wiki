@@ -1,40 +1,38 @@
 # <p align="center">Rolle: Entwickler:in</P>
 
-<!--hier Rolle des Entwicklers erläutern // Text von Christoph raussuchen -->
+❌ Der Entwickler bzw. Programmierer ist nicht einfach nur die Person, die den „Code“ schreibt. <br>
+❌ Er ist nicht derjenige, der als einziger tippt. <br>
+❌ Er ist nicht der, der den Ton angibt. <br>
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github.com/user-attachments/assets/69b70f12-916c-4167-8920-c6055f5903d5" alt="Platzhalter" width="200">
-      </td>
-      <td>
-        <h2>Sorry, hier gibt es leider (noch) nichts zu sehen! 👀</h2>
-      </td>
-    </tr>
-  </table>
-</div>
+🤝 Nein, als Entwickler:in bildest du die **Schnittstelle zwischen Aufgabe (Issue) und dem Programm**. Du nimmst die Aufgabe an und stürzt dich ins Ungewisse. Als Entwickler:in kultivierst du **Optimismus**: „_Das kann doch gar nicht so schwer sein._“
 
-Unser Wiki wird **laufend** erweitert, angepasst und verbessert. **Das erfordert Zeit** - deshalb kann der ein oder andere geplante Inhalt manchmal nicht sofort umgesetzt werden.
+🔎 In dieser Rolle sollst du versuchen zu verstehen, was der Kunde (real oder fiktiv) _wirklich_ will, und dann den **Plan** erstellen, der **für die Umsetzung** dieser Wünsche und Bedürfnisse notwendig ist. 
 
-Der Eintrag, den du gerade siehst, steht bei uns aber bereits **auf der To Do-Liste** oder **wird im Moment überarbeitet**. 📋
+👨🏻‍💻 Im **Pair-Programming** mit deinen Teamkolleg:innen teilst du deinen Bildschirm, während ihr **gemeinsam** an einer Aufgabe arbeitet. 
 
-Komm am besten **zu einem späteren Zeitpunkt** nochmal wieder - mit etwas Glück sieht es hier dann schon wieder ganz anders aus. 🚀
+⛓️ Als Entwickler:in bist du der **Zusammenschluss aller Aufgaben in sich**. Du **_übersetzt_** und **_setzt um_**. Du bist die Person, die lernt, wie die einzelnen Teile des Codes **zusammenhängen** – wie das Wirrwarr aus Zahlen und Buchstaben, Algorithmen und Gleichungen schlussendlich auf dem Bildschirm etwas erscheinen lässt, das täuschend einfach aussieht.
 
-#
+<br>
 
-💡 **Tipp**: Anhand des nachfolgenden **Erstellungsdatums** kannst du sehen, **wie lange** der Eintrag bereits in Bearbeitung ist. Wende dich im Zweifelsfall an das zum aktuellen Zeitpunkt aktive **Launch- bzw. Wiki-Team**, um den Status zu erfragen.
+## Keypoints
+<br>
 
-Insofern ein:e **Ersteller:in** vermerkt ist, kannst du dich auch direkt an diese Person richten.
+🎯 **Kernaufgabe:** Übersetzt Ideen in Code – aber nicht allein.
 
 ---
 
-<br>
-<p align="center">
-📅 <strong>Dieses Dokument wurde erstellt am:</strong> 29.04.2025
-<br>
-✍️ <strong>Von:</strong> <a href="https://github.com/cherylugbogu">Cheryl</a> (GitHub)
-</p>
+❓ **Leitfragen:**
+
+&emsp;„_Verstehe ich, was der Kunde wirklich will?_“ <br>
+&emsp;„_Wie hängen diese Code-Schnipsel mit dem Gesamtsystem zusammen?_“
+
+---
+
+💭 **Philosophie:** Programmieren ist kein Tipp-Wettbewerb. Es ist die Kunst, Chaos in scheinbare Einfachheit zu verwandeln.
+
+---
+
+❝ ❞ **Merksatz**: _Der Entwickler ist der **Träumer**, der fragt: „Aber was, wenn wir es trotzdem anders machen?“_
 
 ---
 
