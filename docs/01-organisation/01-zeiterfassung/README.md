@@ -1,50 +1,11 @@
 # <p align="center">Erfassung deiner Arbeits- und Pausenzeiten mit dem NADOO-Launchpad</p>
-<!-- Überarbeitung notwendig: hier nur Anleitung/Kapitel zum Thema Zeiterfassung bzw. Umsetzung mit Launchpad aus dem Launchpad-Guide in 04-tools -->
 
-Die Erfassung deiner **Arbeits- und Pausenzeiten** erfolgt über unsere Software **NADOO-Launchpad**. Wie das Tool aufgebaut ist und wie du es richtig anwendest, erklärt dir unser [**Launchpad-Guide**](/docs/04-tools/05-launchpad/README.md).
+Die Erfassung deiner **Arbeits- und Pausenzeiten** erfolgt über unsere Software [**NADOO-Launchpad**](https://github.com/NADOOIT/NADOO-Launchpad).
 
-⚠️ **Wichtig:** Der Launchpad-Guide **wird aktuell noch geplant bzw. verfasst**. Sobald die ausführliche Anleitung zur Zeiterfassung fertig ist, wird diese hier übertragen. 
+Sie ist für dich als Neueinsteiger einer der wichtigsten Punkte, der keine Sorgen auslösen oder missverständlich sein sollte. Hier erklären wir dir, wie du unser Tool - das [**NADOO-Launchpad**](https://github.com/NADOOIT/NADOO-Launchpad) - richtig für das Erfassen deiner Arbeits- und Pausenzeit verwendest und wie du Einblick in die erfassten Zeiten erhältst. <p>**Vorab - alle erfassten Zeiten werden in einer CSV-Datei lokal gespeichert und sind manipulierbar, was insbesondere an deinem ersten Tag relevant sein könnte.** <p> <small>Wie du das Launchpad zum ersten Mal startest bzw. installierst, wird dir in der [**README des Launchpad-Repositories**](https://github.com/NADOOIT/NADOO-Launchpad/blob/main/README.md) erklärt. Hier zeigen wir dir, wie du deine Zeiten richtig erfassen kannst. </small> <p>Nachdem du das Launchpad gestartet hast, sollte sich folgendes GUI öffnen: ![alt text](image.png) <br><small>
+Auf diesem Bild siehst du, wie es aussieht, wenn bereits Zeiten vorhanden sind.</small> <p>Im oberen Bereich sind 4 Buttons, die mehr oder weniger die gesamte Zeiterfassung ausmachen und abgesehen vom "Statistik"-Button selbsterklärend sind. Der Button "Pause starten" wird zu "Pause beenden", sobald dieser ausgewählt wurde.![alt text](image-1.png)   <p>Der ‘Statistik’-Button öffnet ein weiteres Fenster, in dem eine detaillierte Darstellung der Arbeitszeit in frei wählbaren Zeitabschnitten angezeigt wird. <br> ![alt text](image-2.png) <br> An dieser Stelle wurde der Zeitraum 1. April bis 30. April gewählt. Nachdem du das zu bestimmende Zeitfenster für dich gewählt hast, klickst du auf "Aktualisieren", damit eine Statistik zu diesem erstellt wird. Auch Auswertungen zu einzelnen Tagen sind möglich.  <p> Wenn du die CSV-Datei mit den Zeiten zur Anschau oder gegebenenfalls für deren Bearbeitung öffnen möchtest, ohne lange nach dem Ablageort zu suchen, ist folgender Schritt interessant für dich: <br>![alt text](image-3.png) <br>Wähle dazu, wie im Screenshot abgebildet, <br>Optionen --> Basis Ordner öffnen <br> aus, um das Verzeichnis mit den gespeicherten Zeiten zu öffnen. ![alt text](image-4.png) <small>Der Ordner "Data" enthält alle deine Stempelzeiten als CSV-Datei </small>![alt text](image-5.png) <br> Wie du diese öffnest, bleibt dir überlassen. In folgendem Beispiel nutzen wir VSC. ![alt text](image-6.png) Hier kannst du aktiv die Zeiten bearbeiten und durch "speichern" werden diese auch im Launchpad aktualisiert. <p>Das war's auch schon. Aktuell sind dies alle Funktionen, die das Launchpad zur Zeiterfassung bietet. Für deinen ersten Tag vielleicht auch noch ganz interessant: <br><strong>Da die Zeiten lokal auf deinem PC gespeichert werden, hat kein Zweiter Zugriff darauf.</strong><p>Dadurch, dass das Launchpad in der Entwicklung ist, kommen immer wieder neue Funktionen hinzu und alte Funktionen werden überarbeitet oder verschwinden. Aus diesem Grund könnten sich das hier gezeigte Interface oder bestimmte Schritte gegebenfalls von deinem aktuellen Ist-Zustand unterscheiden.
 
----
-
-### <p align="center">🚀 Bis dahin gibt's hier den Schnelldurchlauf im "Rohformat":</p>
-<br>
-
-**1. Personendaten:** Gib oben deinen **Vor- und Nachnamen** in die Eingabefelder ein.
-
-<!-- Screenshot "Zeiterfassung 1, Fokus Namenfeld" -->
-
-#
-
-**2. Zeiten erfassen:** Unter den Eingabefeldern für deinen Namen siehst du **drei Buttons**:
-<!-- Screenshot "Zeiterfassung 1, Fokus Buttons" -->
-
-➡️ ***Kommen***: Drücke diesen Button, um dich morgens einzustempeln. <br>
-➡️ ***Pause starten / Pause beenden***: Drücke diesen Button, um den Beginn und das Ende deiner Pause zu erfassen. <br>
-➡️ ***Gehen***: Drücke diesen Button, um dich zum Feierabend auszustempeln. <br>
-
-#
-
-**3. Speichern und exportieren:** Scroll in der App ein Stück weit nach unten bis du bei **Aktivitäten** angekommen bist. Darunter befinden sich **drei Buttons**: 
-<!-- Screenshot "Zeiterfassung 2" -->
-
-➡️ ***Speichern***: Theoretisch sollten deine Zeitdaten automatisch gesichert werden – drücke den Button zwischendurch/am Tagesende zur Sicherheit trotzdem. <br>
-➡️ ***Export***: Drücke diesen Button, um die erfassten Daten in deinen lokalen Basis-Ordner zu übertragen. Deine Zeiten erscheinen dann in einer Excel-Datei im Ordner "**Data**", die du im übrigen auch bearbeiten kannst. <br>
-<!-- Screenshot "Zeiterfassung 4" -->
-
-💡 Der Button ***Löschen*** ist im aktuellen Kontext der Zeiterfassung nicht relevant. <br>
-
-#
-
-**4. Daten aufrufen und bearbeiten:** Klick auf den Reiter ***Optionen*** in der Menüleiste und wähle ***Basis Ordner öffnen***, um die Anwendung und ihre Inhalte in deinem Explorer anzuzeigen.
-<!-- Screenshot "Zeiterfassung 5" -->
-
-Im Ordner "**Data**" findest du schließlich **_für jeden_** bisher erfassten **Monat _eine_ Excel-Datei**, die jeweils alle in diesem Zeitraum gebuchten Zeiten enthält.
-<!-- Screenshot "Zeiterfassung 3" -->
-
----
-
-### ✅ Mit diesem kleinen Step-by-Step solltest du zumindest die Zeiterfassung meistern bis eine detaillierte Anleitung für den Guide ausgearbeitet wurde. Sollten doch noch Fragen aufkommen, kannst du dich jederzeit an deine erfahrenen Team-Kollegen wenden. 
+Alle weiteren Funktionen des Tools, wie es aufgebaut ist und wie du es richtig anwendest, erklärt dir unser [**Launchpad-Guide**](/docs/04-tools/05-launchpad/README.md).
 
 ---
 
