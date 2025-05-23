@@ -1,39 +1,41 @@
 # <p align="center">Rolle: Dokumentar(ist):in</p>
 <!--hier Rolle des Dokumentars erläutern // Text von Christoph raussuchen -->
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github.com/user-attachments/assets/69b70f12-916c-4167-8920-c6055f5903d5" alt="Platzhalter" width="200">
-      </td>
-      <td>
-        <h2>Sorry, hier gibt es leider (noch) nichts zu sehen! 👀</h2>
-      </td>
-    </tr>
-  </table>
-</div>
+## Die Basics
 
-Unser Wiki wird **laufend** erweitert, angepasst und verbessert. **Das erfordert Zeit** - deshalb kann der ein oder andere geplante Inhalt manchmal nicht sofort umgesetzt werden.
+🧐 Der Dokumentator soll sicherstellen, dass nicht einfach "**blind**" Arbeit gemacht wird. 
 
-Der Eintrag, den du gerade siehst, steht bei uns aber bereits **auf der To Do-Liste** oder **wird im Moment überarbeitet**. 📋
+❌ Anwendungsentwickler:innen sind keine Autopilot-gesteuerten Software-Schrauber:innen, die den ganzen Tag gedankenlos irgendeine Tastatur zerhacken. <br>
+❌ Dieser Beruf besteht auch nicht darin, **Probleme** so kurz und schmerzlos wie möglich loszuwerden, um **für den Moment** halt einfach _irgendwie_ "weiter" zu kommen. 
 
-Komm am besten **zu einem späteren Zeitpunkt** nochmal wieder - mit etwas Glück sieht es hier dann schon wieder ganz anders aus. 🚀
+✅ Deine Aufgabe als Dokumentar:in besteht darin, das Aufkommen von **Herausforderungen** und **neuen Themen** aufmerksam mitzuverfolgen und regelmäßig nachzufragen: „Haben wir das hier schon **dokumentiert**?“ Du sorgst dafür, dass Fragen und Probleme **direkt** in einem [**Issue**](/docs/04-tools/01-github/04-issues/README.md) **festgehalten** werden, damit diese nicht in Vergessenheit geraten.
 
-#
+✍️ In [Meetings](/docs/03-meetings/README.md) unterstützt du dein Team – und vor allem deine:n [**Teamkoordinator:in**](/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/05-teamkoordinator/README.md) –, indem du das entsprechende GitHub-Issue-Template eröffnest, die **Punkte auf der Agenda abhakst** und darin alle **relevanten Informationen**, die besprochen wurden, **notierst**.
 
-💡 **Tipp**: Anhand des nachfolgenden **Erstellungsdatums** kannst du sehen, **wie lange** der Eintrag bereits in Bearbeitung ist. Wende dich im Zweifelsfall an das zum aktuellen Zeitpunkt aktive **Launch- bzw. Wiki-Team**, um den Status zu erfragen.
+📑 Du setzt dich aktiv mit **bestehenden Dokumenten** auseinander und überprüfst, ob diese **korrekt** bzw. up-to-date, **verständlich** und **sauber aufbereitet** sind – inhaltliche und „Schönheits"-Fehler eliminierst du als hättest du eine persönliche Rechnung mit ihnen offen. 
 
-Insofern ein:e **Ersteller:in** vermerkt ist, kannst du dich auch direkt an diese Person richten.
+<br>
+
+## Keypoints
+<br>
+
+🎯 **Kernaufgabe:** Verhindert blindes „Drauflos-Arbeiten“.
 
 ---
 
-<br>
-<p align="center">
-📅 <strong>Dieses Dokument wurde erstellt am:</strong> 29.04.2025
-<br>
-✍️ <strong>Von:</strong> <a href="https://github.com/cherylugbogu">Cheryl</a> (GitHub)
-</p>
+❓ **Leitfragen:**
+
+&emsp;„_Haben wir das dokumentiert?_“ <br>
+&emsp;„_Wurde schon ein Issue für dieses Problem erstellt?_“
+&emsp;„_Kann jemand außerhalb unseres Teams unsere Lösung nachvollziehen?_“ <br>
+
+---
+
+💭 **Philosophie:** Wir lösen Probleme nicht nur für uns – Dokumentation ist ein Geschenk an die Zukunft und an andere.
+
+---
+
+❝ ❞ **Merksatz**: _Der Dokumentator ist das Gewissen, das sagt: „Schreib es auf, sonst vergisst du es.“_
 
 ---
 
