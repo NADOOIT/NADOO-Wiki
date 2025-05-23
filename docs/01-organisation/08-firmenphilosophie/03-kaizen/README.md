@@ -1,32 +1,30 @@
 # <p align="center">KAIZEN bei Christoph Backhaus IT: eine Kultur der kontinuierlichen Verbesserung</p>
 
-## Einführung
-
-Dieser Wiki-Artikel ist ein wesentlicher Bestandteil deines Onboarding-Prozesses und soll dir einen umfassenden Einblick in unsere Unternehmenskultur geben. Unsere Philosophie basiert auf dem KAIZEN-Prinzip, einem japanischen Konzept, das "**Veränderung zum Besseren**" bedeutet. Im Laufe der Jahre wurde dieses Konzept, das sich in der Automobilindustrie bewährt hat, erfolgreich auf die Softwareentwicklung übertragen.
+Dieser Wiki-Artikel ist ein wesentlicher Bestandteil deines Onboarding-Prozesses und soll dir einen umfassenden Einblick in unsere **Unternehmenskultur** geben. Unsere Philosophie basiert auf dem **KAIZEN**-Prinzip, einem japanischen Konzept, das "**Veränderung zum Besseren**" bedeutet. Im Laufe der Jahre wurde dieses Konzept, das sich in der Automobilindustrie bewährt hat, erfolgreich auf die Softwareentwicklung übertragen.
+<br>
 
 ## Geschichte und Ursprung von KAIZEN
 
 KAIZEN entstand in Japan nach dem Zweiten Weltkrieg, als das Land vor der Herausforderung stand, seine Wirtschaft wiederaufzubauen. Maßgeblich beeinflusst wurde es von amerikanischen Qualitätsexperten wie W. Edwards Deming und Joseph M. Juran[1]. Toyota war eines der ersten Unternehmen, das KAIZEN in großem Umfang implementierte und damit das Toyota-Produktionssystem (TPS) entwickelte.
 
-In der Automobilindustrie bedeutet KAIZEN, dass jeder Mitarbeiter, unabhängig von seiner Position, aktiv an der Verbesserung von Prozessen beteiligt ist. Diese Herangehensweise führte zu einer beispiellosen Qualität und Zuverlässigkeit von Toyotas Fahrzeugen[1].
+In der Automobilindustrie bedeutet KAIZEN, dass **jeder Mitarbeiter, unabhängig von seiner Position**, aktiv an der Verbesserung von Prozessen beteiligt ist. Diese Herangehensweise führte zu einer beispiellosen Qualität und Zuverlässigkeit von Toyotas Fahrzeugen[1].
+
+---
+<br>
 
 ## Unsere Grundprinzipien
 
 Bei Christoph Backhaus IT haben wir die KAIZEN-Philosophie auf die Softwareentwicklung übertragen. Unsere Grundprinzipien sind:
 
-**1. Fehlerfreiheit als oberste Priorität**: Wir betrachten Bugs und Fehler als wertvolle Lernmöglichkeiten.
-
-**2. Methodische Prozesssauberkeit**: Dies ist entscheidend für unseren gemeinsamen Erfolg.
-
-**3. Kontinuierliche Verbesserung**: Wir streben danach, jeden Tag ein bisschen besser zu werden.
-
-**4. Einbeziehung aller Mitarbeiter**: Jeder ist aktiv an der Verbesserung von Prozessen beteiligt.
-
-**5. Qualität vor Quantität**: Unser Fokus liegt darauf, durch sorgfältige Fehlerbehebung höchste Qualität zu erreichen.
-
-**6. Offene Kommunikation**: Fehler werden offen besprochen, um gemeinsam Lösungen zu finden.
+🧱 **1. Fehlerfreiheit als oberste Priorität**: Wir betrachten Bugs und Fehler als wertvolle Lernmöglichkeiten. <br>
+🧱 **2. Methodische Prozesssauberkeit**: Dies ist entscheidend für unseren gemeinsamen Erfolg. <br>
+🧱 **3. Kontinuierliche Verbesserung**: Wir streben danach, jeden Tag ein bisschen besser zu werden. <br>
+🧱 **4. Einbeziehung aller Mitarbeiter**: Jeder ist aktiv an der Verbesserung von Prozessen beteiligt. <br>
+🧱 **5. Qualität vor Quantität**: Unser Fokus liegt darauf, durch sorgfältige Fehlerbehebung höchste Qualität zu erreichen. <br>
+🧱 **6. Offene Kommunikation**: Fehler werden offen besprochen, um gemeinsam Lösungen zu finden. <br>
 
 ---
+<br>
 
 ## Praktische Umsetzung von KAIZEN in der Softwareentwicklung
 
@@ -34,31 +32,24 @@ Bei Christoph Backhaus IT haben wir die KAIZEN-Philosophie auf die Softwareentwi
 
 Die 5S-Methode, ursprünglich für die **Organisation von Arbeitsplätzen** in Fabriken entwickelt, lässt sich hervorragend auf den digitalen Arbeitsplatz eines Softwareentwicklers übertragen[1]:
 
-🎯 **1. Sortieren (Seiri)**: Entferne ungenutzte Dateien, alte Codeversionen und überflüssige Tools von deinem System.
+🎯 **1. Sortieren (Seiri)**: Entferne ungenutzte Dateien, alte Codeversionen und überflüssige Tools von deinem System. <br>
+🎯 **2. Systematisieren (Seiton)**: Organisiere deinen Code, deine Projekte und deine Entwicklungsumgebung logisch und effizient. <br>
+🎯 **3. Säubern (Seiso)**: Führe regelmäßig Code-Cleanups durch und beseitige technische Schulden. <br>
+🎯 **4. Standardisieren (Seiketsu)**: Etabliere Coding-Standards und Best Practices im Team. <br>
+🎯 **5. Selbstdisziplin (Shitsuke)**: Halte dich konsequent an die etablierten Standards und verbessere diese kontinuierlich. <br>
 
-🎯 **2. Systematisieren (Seiton)**: Organisiere deinen Code, deine Projekte und deine Entwicklungsumgebung logisch und effizient.
-
-🎯 **3. Säubern (Seiso)**: Führe regelmäßig Code-Cleanups durch und beseitige technische Schulden.
-
-🎯 **4. Standardisieren (Seiketsu)**: Etabliere Coding-Standards und Best Practices im Team.
-
-🎯 **5. Selbstdisziplin (Shitsuke)**: Halte dich konsequent an die etablierten Standards und verbessere diese kontinuierlich.
-
----
+#
 
 ### Der PDCA-Zyklus in der Softwareentwicklung
 
 Der PDCA-Zyklus ist ideal für die **iterative Entwicklung und Problemlösung**[1]:
 
-🎯 **1. Plan**: Erstelle ein Issue, welches das Problem oder gewünschte Feature klar beschreibt.
+🎯 **1. Plan**: Erstelle ein Issue, welches das Problem oder gewünschte Feature klar beschreibt. <br>
+🎯 **2. Do**: Erstelle einen Branch und implementiere ein Minimum Viable Product (MVP) oder einen Bugfix. <br>
+🎯 **3. Check**: Führe Tests durch und erstelle einen Pull Request für ein Code Review. <br>
+🎯 **4. Act**: Führe einen finalen Merge durch, nachdem der Feedback-Loop abgeschlossen ist und Fehlerfreiheit erreicht wurde. <br>
 
-🎯 **2. Do**: Erstelle einen Branch und implementiere ein Minimum Viable Product (MVP) oder einen Bugfix.
-
-🎯 **3. Check**: Führe Tests durch und erstelle einen Pull Request für ein Code Review.
-
-🎯 **4. Act**: Führe einen finalen Merge durch, nachdem der Feedback-Loop abgeschlossen ist und Fehlerfreiheit erreicht wurde.
-
----
+#
 
 ### Gemba Walks in der Softwareentwicklung
 
@@ -68,7 +59,7 @@ Gemba Walks können in der Softwareentwicklung als **Code-Reviews** oder **Pair-
 ➡️ Nutze Pair-Programming, um voneinander zu lernen und Probleme gemeinsam zu lösen. <br>
 ➡️ Projektleiter sollten regelmäßig mit Entwicklern zusammenarbeiten, um Herausforderungen direkt zu erleben. <br>
 
----
+#
 
 ### Kanban in der Softwareentwicklung
 
@@ -80,6 +71,7 @@ In der Softwareentwicklung setzen wir Kanban durch GitHub Issues um:
 ➡️ Nutze **[Labels](/docs/04-tools/01-github/04-issues/02-labels/README.md) und [Meilensteine](/docs/04-tools/01-github/04-issues/05-milestones/README.md)**, um Prioritäten und Zeitpläne zu verdeutlichen. <br>
 
 ---
+<br>
 
 ## Das NADOOIT System
 
@@ -91,6 +83,7 @@ Unser NADOOIT System basiert auf bewährten **Produktionsoptimierungsverfahren**
 ✅ Höchste IT-Sicherheitsstandards. <br>
 
 ---
+<br>
 
 ## Unsere Unternehmensphilosophie
 
@@ -101,6 +94,7 @@ Bei Christoph Backhaus IT streben wir danach, ein "enkelfähiges" Software-Unter
 ➡️ **Vertrauensbasis** als Kernstück des Unternehmertums. <br>
 
 ---
+<br>
 
 ## Kommunikation und Transparenz
 
@@ -122,7 +116,7 @@ Solltest du nach dem Lesen dieses Wikis Unklarheiten oder Fragen zu einem der ge
 
 #
 
-### Quellen
+#### Quellen
 
 [1] https://www.studysmarter.de/studium/bwl/unternehmensfuehrung-studium/kaizen/ <br>
 [2] https://de.linkedin.com/in/christoph-backhaus <br>

@@ -4,7 +4,7 @@
 
 Die Anzahl der Urlaubstage richtet sich nach den Bestimmungen des individuellen Arbeitsvertrags. 
 
-Wenn du bei **Christoph Backhaus IT** im Zuge einer **Umschulung** als **Praktikant** tätig bist, bedeutet das, dass die Anzahl der Tage, an denen du dir Urlaub nehmen darfst, in **deinem** Vertrag festgelegt werden. Falls du dir weiterhin unsicher bist, frag am besten einfach mal bei deinem Bildungsträger nach.
+Wenn du bei **Christoph Backhaus IT** im Zuge einer **Umschulung** als **Praktikant:in** tätig bist, bedeutet das, dass die Anzahl der Tage, an denen du dir Urlaub nehmen darfst, in **deinem** Vertrag festgelegt werden. Falls du dir weiterhin unsicher bist, frag am besten einfach mal bei deinem Bildungsträger nach.
 
 ---
 

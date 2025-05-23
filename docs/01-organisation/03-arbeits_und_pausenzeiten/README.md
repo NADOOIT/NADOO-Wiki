@@ -36,10 +36,10 @@ Unsere täglichen [**Meetings**](/docs/03-meetings/README.md) und festgelegten *
   ❗ Hier darf niemand zwischen 00:00 und 24:00 Uhr arbeiten
 
 ---
+<br>
 
-</br>
+## Arbeitszeiten bei Nadoo-IT
 
-### Arbeitszeiten bei Nadoo-IT
 
 🕒 **Montag bis Samstag:** zwischen 06:00 Uhr und 23:00 Uhr 
 
@@ -53,7 +53,7 @@ Unsere täglichen [**Meetings**](/docs/03-meetings/README.md) und festgelegten *
 
 ---
 
-#### Beispiel "Fritz" (28 Stunden / Woche):
+### Beispiel "Fritz" (28 Stunden / Woche):
 
 #
 
