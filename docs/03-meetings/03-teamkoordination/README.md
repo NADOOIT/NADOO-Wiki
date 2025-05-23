@@ -16,7 +16,7 @@ Frage: TeamKo-Meeting werden nicht dokumentiert? Wenn doch, welches Template? --
 
 ## Teilnehmer:innen
 
-➡️ An den Teamkordinator:innen-Meetings nehmen alle Teamkoordinator:innen teil. <br>
+➡️ An den Teamkoordinator:innen-Meetings nehmen alle Teamkoordinator:innen teil. <br>
 💡 3er-Teams **dürfen** ebenfalls daran teilnehmen, _müssen_ aber nicht.
 
 ---
