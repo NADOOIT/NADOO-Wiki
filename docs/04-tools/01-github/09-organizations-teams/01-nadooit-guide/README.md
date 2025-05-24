@@ -48,7 +48,7 @@ Sollte es zu Problemen mit GitHub kommen und du dringend Hilfe benötigen, kanns
 
 ---
 
-<!-- Links nach Abspreache der Struktur ergänzen -->
+<!-- Links nach Absprache der Struktur ergänzen -->
 
 ---
 
