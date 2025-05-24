@@ -23,7 +23,7 @@ Das Team **NADOOler** besteht aus allen aktiven Mitwirkenden innerhalb der NADOO
 
 Dieses Team dient der Kommunikation und dem Zugriff auf gemeinsame Repositories und Projekte.
 
-Falls du nach 24 Stunden keine Einladung erhalten hast oder Probleme auftreten, melde dich bitte bei per Mail bei [Christoph](christoph.backhaus@nadooit.de).
+Falls du nach 24 Stunden keine Einladung erhalten hast oder Probleme auftreten, melde dich bitte per Mail bei [Christoph](mailto:christoph.backhaus@nadooit.de).
 
 ---
 
