@@ -29,7 +29,7 @@ Falls du nach 24 Stunden keine Einladung erhalten hast oder Probleme auftreten, 
 
 ### 🛠️ Zugriff auf Repositories
 
-Nach dem du die Einladung zur Organisation und dem Team angenommen hast, erhältst du Zugriff auf verschiedene Repositories.
+Nachdem du die Einladung zur Organisation und dem Team angenommen hast, erhältst du Zugriff auf verschiedene Repositories.
 
 Diese enthalten die Projekte, an denen du mitarbeiten kannst.
 
