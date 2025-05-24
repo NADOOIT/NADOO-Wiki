@@ -1,4 +1,4 @@
-# Schritt für Schritt Anleitung zur NADOO-IT Organisation und den Teams auf GitHub
+# Schritt-für-Schritt-Anleitung zur NADOO-IT-Organisation und den Teams auf GitHub
 
 ![NADOO-IT](../../../../../images/nadoo_organization.png)
 
