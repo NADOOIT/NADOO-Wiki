@@ -18,7 +18,7 @@ Zu Beginn deines Praktikums erhältst du eine persönliche Einladung per E-Mail 
 
 Nach deiner Bestätigung wirst du automatisch dem internen Team **NADOOler** zugewiesen.
 
-**About:**  
+**Über:**  
 Das Team **NADOOler** besteht aus allen aktiven Mitwirkenden innerhalb der NADOO-IT Organisation. Hier findet der direkte Austausch, die Zuweisung zu Projekten sowie die teamübergreifende Koordination statt.
 
 Dieses Team dient der Kommunikation und dem Zugriff auf gemeinsame Repositories und Projekte.
