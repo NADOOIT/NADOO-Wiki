@@ -1,4 +1,4 @@
-# Schritt für Schritt Anleitung zur NADOO-IT Organisation und den Teams auf GitHub
+# Schritt-für-Schritt-Anleitung zur NADOO-IT-Organisation und den Teams auf GitHub
 
 ![NADOO-IT](../../../../../images/nadoo_organization.png)
 
@@ -18,18 +18,18 @@ Zu Beginn deines Praktikums erhältst du eine persönliche Einladung per E-Mail 
 
 Nach deiner Bestätigung wirst du automatisch dem internen Team **NADOOler** zugewiesen.
 
-**About:**  
+**Über:**  
 Das Team **NADOOler** besteht aus allen aktiven Mitwirkenden innerhalb der NADOO-IT Organisation. Hier findet der direkte Austausch, die Zuweisung zu Projekten sowie die teamübergreifende Koordination statt.
 
 Dieses Team dient der Kommunikation und dem Zugriff auf gemeinsame Repositories und Projekte.
 
-Falls du nach 24 Stunden keine Einladung erhalten hast oder Probleme auftreten, melde dich bitte bei per Mail bei [Christoph](christoph.backhaus@nadooit.de).
+Falls du nach 24 Stunden keine Einladung erhalten hast oder Probleme auftreten, melde dich bitte per Mail bei [Christoph](mailto:christoph.backhaus@nadooit.de).
 
 ---
 
 ### 🛠️ Zugriff auf Repositories
 
-Nach dem du die Einladung zur Organisation und dem Team angenommen hast, erhältst du Zugriff auf verschiedene Repositories.
+Nachdem du die Einladung zur Organisation und dem Team angenommen hast, erhältst du Zugriff auf verschiedene Repositories.
 
 Diese enthalten die Projekte, an denen du mitarbeiten kannst.
 
@@ -48,7 +48,7 @@ Sollte es zu Problemen mit GitHub kommen und du dringend Hilfe benötigen, kanns
 
 ---
 
-<!-- Links nach Abspreache der Struktur ergänzen -->
+<!-- Links nach Absprache der Struktur ergänzen -->
 
 ---
 
