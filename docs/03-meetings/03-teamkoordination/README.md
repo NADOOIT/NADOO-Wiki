@@ -24,13 +24,13 @@ Frage: TeamKo-Meeting werden nicht dokumentiert? Wenn doch, welches Template? --
 ## Mögliche Inhalte / Agenda:
 <br>
 
-🎯 allgemeiner Austausch zwischen Teamkoordinator:innen so wie das Teilen von relevanten Informationen, welche unter anderem maßgeblich für die Unterstützung der respektiven 11er-Teams sind
+🎯 Allgemeiner Austausch zwischen Teamkoordinator:innen sowie das Teilen von relevanten Informationen, die unter anderem maßgeblich zur Unterstützung der jeweiligen 11er-Teams beitragen.
 
-🎯 Besprechung aktueller Themen und Herausforderungen
+🎯 Besprechung aktueller Themen und Herausforderungen.
 
-🎯 Probleme identifizieren und Lösungen finden
+🎯 Probleme identifizieren und Lösungen finden.
 
-🎯 Feedback zu den 11er-Meetings geben und gegebenenfalls Verbesserungsvorschläge einbringen
+🎯 Feedback zu den 11er-Meetings geben und gegebenenfalls Verbesserungsvorschläge einbringen.
 
 ---
 
