@@ -44,7 +44,7 @@ Prüfe bitte direkt nach dem Beitritt, ob du Zugriff auf die folgenden Repositor
 
 ### 🆘 Hilfe und Support
 
-Sollte es zu Problemen mit GitHub kommen und du dringend Hilfe benötigen, kannst du dich auch direkt über Discord an die Teammitglieder wenden.
+Sollte es zu Problemen mit GitHub kommen und du dringend Hilfe benötigst, kannst du dich auch direkt über Discord an die Teammitglieder wenden.
 
 ---
 
