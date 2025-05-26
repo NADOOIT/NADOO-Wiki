@@ -5,14 +5,14 @@
 
 🧐 Der Dokumentator soll sicherstellen, dass nicht einfach "**blind**" Arbeit gemacht wird. 
 
-❌ Anwendungsentwickler:innen sind keine Autopilot-gesteuerten Software-Schrauber:innen, die den ganzen Tag gedankenlos irgendeine Tastatur zerhacken. <br>
-❌ Dieser Beruf besteht auch nicht darin, **Probleme** so kurz und schmerzlos wie möglich loszuwerden, um **für den Moment** halt einfach _irgendwie_ "weiter" zu kommen. 
+❌ Anwendungsentwickler:innen sind keine autopilotgesteuerten Software-Schrauber:innen, die den ganzen Tag gedankenlos irgendeine Tastatur zerhacken. <br>
+❌ Dieser Beruf besteht auch nicht darin, **Probleme** so kurz und schmerzlos wie möglich loszuwerden, um **für den Moment** einfach _irgendwie_ "weiterzukommen". 
 
 ✅ Deine Aufgabe als Dokumentar:in besteht darin, das Aufkommen von **Herausforderungen** und **neuen Themen** aufmerksam mitzuverfolgen und regelmäßig nachzufragen: „Haben wir das hier schon **dokumentiert**?“ Du sorgst dafür, dass Fragen und Probleme **direkt** in einem [**Issue**](/docs/04-tools/01-github/04-issues/README.md) **festgehalten** werden, damit diese nicht in Vergessenheit geraten.
 
-✍️ In [Meetings](/docs/03-meetings/README.md) unterstützt du dein Team – und vor allem deine:n [**Teamkoordinator:in**](/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/05-teamkoordinator/README.md) –, indem du das entsprechende GitHub-Issue-Template eröffnest, die **Punkte auf der Agenda abhakst** und darin alle **relevanten Informationen**, die besprochen wurden, **notierst**.
+✍️ In [Meetings](/docs/03-meetings/README.md) unterstützt du dein Team – und vor allem deine:n [**Teamkoordinator:in**](/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/05-teamkoordinator/README.md) –, indem du das entsprechende GitHub-Issue-Template öffnest, die **Punkte auf der Agenda abhakst** und darin alle **relevanten Informationen**, die besprochen wurden, **notierst**.
 
-📑 Du setzt dich aktiv mit **bestehenden Dokumenten** auseinander und überprüfst, ob diese **korrekt** bzw. up-to-date, **verständlich** und **sauber aufbereitet** sind – inhaltliche und „Schönheits"-Fehler eliminierst du als hättest du eine persönliche Rechnung mit ihnen offen. 
+📑 Du setzt dich aktiv mit **bestehenden Dokumenten** auseinander und überprüfst, ob diese **korrekt** bzw. up-to-date, **verständlich** und **sauber aufbereitet** sind – inhaltliche und "Schönheits"-Fehler eliminierst du, als hättest du eine persönliche Rechnung mit ihnen offen. 
 
 <br>
 
@@ -26,7 +26,7 @@
 ❓ **Leitfragen:**
 
 &emsp;„_Haben wir das dokumentiert?_“ <br>
-&emsp;„_Wurde schon ein Issue für dieses Problem erstellt?_“
+&emsp;„_Wurde schon ein Issue für dieses Problem erstellt?_“ <br>
 &emsp;„_Kann jemand außerhalb unseres Teams unsere Lösung nachvollziehen?_“ <br>
 
 ---
