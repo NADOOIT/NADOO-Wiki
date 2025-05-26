@@ -5,7 +5,7 @@
 ❌ Nicht _jede_ Idee muss **selbst umgesetzt** werden! <br>
 ❌ Auch wenn Coden und das selbstständige Lösen von Problemen ein schönes Gefühl erzeugen, müssen wir **nicht ständig das Rad neu erfinden**. 
 
-🔎 Ein großer, wenn nicht sogar der größte Teil unseres Berufes besteht darin, nach bereits **bestehenden Lösungen** zu suchen und aus den **Lektionen von anderen** zu lernen.
+🔎 Ein großer, wenn nicht sogar der größte, Teil unseres Berufes besteht darin, nach bereits **bestehenden Lösungen** zu suchen und aus den **Lektionen von anderen** zu lernen.
 
 ✍️ 99,999… % des Codes, den wir nutzen und nutzen werden, stammt aus "fremder Feder". Wir haben [Briefcase](/docs/06-entwicklung/06-frameworks/02-briefcase_und_toga/01-briefcase/README.md) und [Toga](/docs/06-entwicklung/06-frameworks/02-briefcase_und_toga/02-toga/README.md) **nicht selbst entwickelt** – genauso wenig wie [Python](/docs/06-entwicklung/04-python/README.md) oder [Java](/docs/06-entwicklung/05-java/README.md) oder irgendwelche anderen Programmiersprachen und [Frameworks](/docs/06-entwicklung/06-frameworks/README.md). 
 
@@ -13,9 +13,9 @@
 
 ✅️ Somit sollst du in der Researcher-Rolle, bevor die eigene coole Lösung entwickelt wird, **die Gruppe einen Moment zurückhalten** und die Frage stellen: „Hat vielleicht jemand anderes **dieses Problem schon gelöst** und mit uns geteilt?“
 
-🕵 Wenn ein neues Issue erstellt wurde, machst du dich **auf die Suche**, um zu überprüfen, ob nicht bereits unter all den anderen Issues, die wir haben, eines ist, das auch dieses Problem aufzeigt. Du solltest schauen, ob es in unserem Wissensschatz die Antwort auf unsere Frage gibt, und wenn nicht, nach einer suchen gehen. In den meisten Fällen **existiert bereits** eine Lösung für das Problem. 
+🕵 Wenn ein neues Issue erstellt wurde, machst du dich **auf die Suche**, um zu überprüfen, ob nicht bereits unter all den anderen Issues, die wir haben, eines ist, das auch dieses Problem aufzeigt. Du solltest schauen, ob es in unserem Wissensschatz die Antwort auf unsere Frage gibt, und wenn nicht, nach einer suchen. In den meisten Fällen **existiert bereits** eine Lösung für das Problem. 
 
-📄 Das wirkliche Problem, was dabei häufig auftritt, ist, dass besagte Läsungen **nicht besonders gut dokumentiert** sind. Davon solltest du dich als Researcher:in aber nicht beirren oder entmutigen lassen!
+📄 Das wirkliche Problem, was dabei häufig auftritt, ist, dass besagte Lösungen **nicht besonders gut dokumentiert** sind. Davon solltest du dich als Researcher:in aber nicht beirren oder entmutigen lassen!
 
 <br>
 
