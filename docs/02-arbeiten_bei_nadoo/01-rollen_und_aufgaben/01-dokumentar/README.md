@@ -12,7 +12,7 @@
 
 ✍️ In [Meetings](/docs/03-meetings/README.md) unterstützt du dein Team – und vor allem deine:n [**Teamkoordinator:in**](/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/05-teamkoordinator/README.md) –, indem du das entsprechende GitHub-Issue-Template öffnest, die **Punkte auf der Agenda abhakst** und darin alle **relevanten Informationen**, die besprochen wurden, **notierst**.
 
-📑 Du setzt dich aktiv mit **bestehenden Dokumenten** auseinander und überprüfst, ob diese **korrekt** bzw. up-to-date, **verständlich** und **sauber aufbereitet** sind – inhaltliche und "Schönheits"-Fehler eliminierst du, als hättest du eine persönliche Rechnung mit ihnen offen. 
+📑 Du setzt dich aktiv mit **bestehenden Dokumenten** auseinander und überprüfst, ob diese **korrekt** bzw. up-to-date, **verständlich** und **sauber aufbereitet** sind – inhaltliche und ‚Schönheits‘-Fehler eliminierst du, als hättest du eine persönliche Rechnung mit ihnen offen. 
 
 <br>
 
