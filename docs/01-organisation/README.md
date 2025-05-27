@@ -19,9 +19,10 @@ Okay, kommen wir zum ersten großen Themenbereich: **Organisation und Rahmenbedi
 
 💡 **Kurz:** alles, was du benötigst, um den **Einstieg in dein neues Arbeitsverhältnis und Team** gut organisiert und informiert zu bewältigen.
 
-#
+---
 
 ### <p align="center">Dieser Themenbereich beinhaltet folgende Themen:</p>
+---
 
 🢒 [**Zeiterfassung / Einstempeln**](/docs/01-organisation/01-zeiterfassung/README.md) </br>
 🢒 [**Zeit- und Ausbildungsnachweise**](/docs/01-organisation/02-zeit_und_ausbildungsnachweise/README.md) </br>

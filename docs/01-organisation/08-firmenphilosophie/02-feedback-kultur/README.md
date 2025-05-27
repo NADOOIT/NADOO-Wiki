@@ -12,17 +12,17 @@ Unsere Arbeitsweise basiert auf **Transparenz**, **gegenseitigem Respekt** und d
 
 ## Es gibt keine dummen Fragen! – Nur unbeantwortete. 😎
 
-**Fragen sind der Motor unseres Fortschritts!**
+📈 Fragen sind der Motor unseres Fortschritts!
 
 Nur wer fragt, zeigt Interesse, Verantwortung und den Wunsch, Dinge zu verstehen und zu verbessern. Deshalb fördern wir ausdrücklich eine Kultur, in der Fragen gestellt werden dürfen – jederzeit und von jedem.
 
 Besonders in einem lernintensiven Umfeld wie der Ausbildung oder beim Onboarding neuer Mitarbeitenden ist dies essenziell.
 
-Unsere Unternehmensziele spiegeln diesen Anspruch wider: Wir wollen wachsen – **gemeinsam** und durch **gegenseitige Unterstützung**.
+Unsere Unternehmensziele spiegeln diesen Anspruch wider: Wir wollen wachsen 🌱 – **gemeinsam** und durch **gegenseitige Unterstützung**.
 
 ---
 
-## Issue-First-Prinzip – Probleme sichtbar machen, um Lösungen zu finden
+## Das Issue-First-Prinzip: Probleme sichtbar machen, um Lösungen zu finden
 
 Ein zentrales Element unserer Feedback-Kultur ist das **Issue-First-Prinzip**. Statt Probleme unter den Teppich zu kehren oder still zu ertragen, benennen wir sie aktiv und strukturiert – in erster Linie mithilfe von [**GitHub-Issues**](/docs/04-tools/01-github/04-issues/README.md) - aber auch in **Feedback-Sessions** oder **offenen** [**Team-Meetings**](/docs/03-meetings/README.md).
 Nur das, was **für alle sichtbar** ist, kann durch uns auch **gemeinsam** gelöst werden.
@@ -33,16 +33,16 @@ Diese Offenheit schafft **Vertrauen** und sorgt dafür, dass sich niemand mit He
 
 ## Wie wir Feedback leben
 
-✅ **Konstruktiv & konkret**: Feedback ist bei uns keine Kritik an der Person, sondern ein Beitrag zur Verbesserung. <br>
+✅ **Konstruktiv und konkret**: Feedback ist bei uns keine Kritik an der Person, sondern ein Beitrag zur Verbesserung. <br>
 ✅ **Auf Augenhöhe**: Jede Meinung zählt – vom Azubi bis zur Geschäftsführung. <br>
-✅ **Verbindlich & nachvollziehbar**: Feedback wird dokumentiert, priorisiert und in Verbesserungsmaßnahmen übersetzt. <br>
-✅ **Regelmäßig & strukturiert**: In Weeklies (wöchentlichen Meetings), Retros (Rückblick und Refklektion gemeisterter Arbeit) und 1:1-Gesprächen ist Feedback ein fester Bestandteil. <br>
+✅ **Verbindlich und nachvollziehbar**: Feedback wird dokumentiert, priorisiert und in Verbesserungsmaßnahmen übersetzt. <br>
+✅ **Regelmäßig und strukturiert**: In Weeklies (wöchentlichen Meetings), Retros (Rückblick auf / Refklektion gemeisterter Arbeit) und 1:1-Gesprächen ist Feedback ein fester Bestandteil. <br>
 
 ---
 
 ## Fazit
 
-Unsere Feedback-Kultur ist kein Zusatz, sondern integraler Bestandteil der NADOO-DNA. Sie sorgt dafür, dass wir **als Team wachsen**, **Innovation** ermöglichen und **Herausforderungen** mutig begegnen können. Fragen, die offen gestellt und Themen, die sichtbar gemacht werden, sind der erste Schritt in Richtung Lösung – und genau diesen Schritt fördern wir jeden Tag.
+Unsere Feedback-Kultur ist kein Zusatz, sondern integraler Bestandteil der NADOO-DNA. Sie sorgt dafür, dass wir **als Team wachsen**, **Innovation** ermöglichen und **Herausforderungen** mutig begegnen können. Fragen, die offen gestellt und Themen, die sichtbar gemacht werden, sind der erste Schritt in **Richtung Lösung** – und genau diesen Schritt fördern wir jeden Tag.
 
 ---
 

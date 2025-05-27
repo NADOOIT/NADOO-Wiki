@@ -8,8 +8,6 @@
 
 ## Hier sind die wichtigsten Regeln zum Thema Zeit- und Ausbildungsnachweise zusammengefasst:
 
-#
-
 1. Du bist verpflichtet, deine Zeit- und Ausbildungsnachweise bis zum **6. des Folgemonats um 23:59 Uhr** einzureichen.
 
 2. Wird diese Frist nicht eingehalten, erfolgt eine **sofortige Kündigung**.
@@ -27,11 +25,10 @@
 
 Abgesehen vom Anhang bleibt die E-Mail leer.
 
-#
+---
 
-### Dieses Thema beinhaltet folgende Kapitel:
-
-#
+### <p align="center">Dieses Thema beinhaltet folgende Kapitel:<p align="center">
+---
 
 🔹 [**Beispiele für Ausbildungs- und Zeitnachweise**](/docs/01-organisation/02-zeit_und_ausbildungsnachweise/01-beispiele/README.md) </br>
 🔹 [**Dateibenennungsrichtlinien**](/docs/01-organisation/02-zeit_und_ausbildungsnachweise/02-dateibenennung/README.md) </br>

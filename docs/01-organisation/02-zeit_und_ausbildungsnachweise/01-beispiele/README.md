@@ -1,41 +1,79 @@
 # <p align="center">Beispiele für Ausbildungs- und Zeitnachweise</p>
 
-| |
-| :--- |
-| Von den Bildungsträgern und Handelskammern gibt es unterschiedliche Vorgaben und Vorlagen zu den Nachweisen. Anbei findest du entsprechende **exemplarische Beispiele**. Es gelten die Vorgaben des jeweiligen Bildungsträgers und der lokalen Handelskammer.
+Von den Bildungsträgern und Handelskammern gibt es unterschiedliche Vorgaben und Vorlagen zu den Nachweisen. Anbei findest du entsprechende **exemplarische Beispiele**. Es gelten die Vorgaben des jeweiligen Bildungsträgers und der lokalen Handelskammer.
 
 💡 Konkret bedeutet das, dass du theoretisch auch einfach die **von deinem Bildungsträger ausgestellte Berichtsheft-Vorlage** weiterverwenden kannst. Du musst kein also kein eigenes Template erstellen. 
 
 ❗ Solltest du dich dennoch dazu entscheiden, stelle sicher, dass darin **alle Angaben enthalten** sind, **die dein Bildungsträger bzw. deine zuständige Handelskammer verlangen**. 
 
-Die aufgeführten Beispiele dienen zur Veranschaulichung. |
+Die aufgeführten Beispiele dienen zur Veranschaulichung.
 
 ---
 
 ## Ausbildungsnachweise
 
 ### Ausbildungsnachweis (täglich)
+<br>
 
-| Name des Auszubildenden: | Nachname, Vorname | | |
-| --- | --- | --- | --- |
-| Ausbildungsjahr: |  |  | |
-| Ausbildungswoche vom: | 14.04.2025 | bis | 18.04.2025 (KW 16) |
+<table>
+  <tr>
+    <td><strong>Name des Auszubildenden</strong></td>
+    <td><strong>Ausbildungsjahr/e</strong></td>
+     <td align="center" colspan="3"><strong>Ausbildungswoche:</strong></td>
+     <td align="center">KW16</td>
+  </tr>
+  <tr>
+    <td align="center">Mustermann, Max</td> 
+    <td align="center">2025</td>
+    <td align="center"><strong>vom</strong></td>
+    <td align="center">14.04.2025</td>
+    <td align="center"><strong>bis</strong></td>
+    <td align="center">18.04.2025</td>
+  </tr>
+</table>
 
-|  | Betriebliche Tätigkeiten, Unterweisungen, betrieblicher Unterricht, sonstige Schulungen, Themen des Berufsschulunterrichts | *Stunden* |
-| :--- | :--- | :--- |
-| Montag | Prüfungstraining Projekt- und Qualitätsmanagement (PM/QM) | 8 |
-| Dienstag | Grundlagen OOP, Klassendiagramm, Nutzwertanalyse, OSI-Modell | 8 |
-| Mittwoch | Vergleich AO2020 und AO 2025 – neuer Prüfungskatalog, Übungsaufgaben zur Finanzierungsberechnung, Ökonomie und Ökologie | 8 |
-| Donnerstag | Leasing und Kaufvertrag, Übungsaufgaben | 8 |
-| Freitag | Feiertag | 0 |
+<table>
+  <tr>
+    <td align="center"><strong>Tag</strong></td>
+    <td align="center"><strong>Betriebliche Tätigkeiten, Unterweisungen, betrieblicher Unterricht, <br> sonstige Schulungen, Themen des Berufsschulunterrichts</strong></td>
+    <td align="center"><strong>Stunden</strong></td>
+  </tr>
+  <tr>
+    <td>Montag</td> 
+    <td>Prüfungstraining Projekt- und Qualitätsmanagement (PM/QM)</td>
+    <td align="center">8</td>
+  </tr>
+   <tr>
+    <td>Dienstag</td> 
+    <td>Grundlagen OOP, Klassendiagramm, Nutzwertanalyse, OSI-Modell</td>
+    <td align="center">8</td>
+  </tr>
+   <tr>
+    <td>Mittwoch</td> 
+    <td>Vergleich AO2020 und AO 2025 – neuer Prüfungskatalog, Übungsaufgaben <br> zur Finanzierungsberechnung, Ökonomie und Ökologie</td>
+    <td align="center">8</td>
+  </tr>
+   <tr>
+    <td>Donnerstag</td> 
+    <td>Leasing und Kaufvertrag, Übungsaufgaben</td>
+    <td align="center">8</td>
+  </tr>
+   <tr>
+    <td>Freitag</td> 
+    <td>Feiertag</td>
+    <td align="center">0</td>
+  </tr>
+</table>
+<br>
 
 Durch die nachfolgende Unterschrift wird die Richtigkeit und Vollständigkeit der Angaben bestätigt.
 
-| 18.04.2025 | | 19.04.2025 | |
-| :--- | :--- | :--- | :--- |
 | Datum | Unterschrift Auszubildende/r | Datum | Unterschrift Ausbildende/r oder Ausbilder/in |
+| :---: | :---: | :---: | :---: |
+| 18.04.2025 | _M. Mustermann_ | 19.04.2025 | _A. Ausbilder_ |
 
 ---
+
 <!-- 
 ### Ausbildungsnachweis (wöchentlich)
 
@@ -45,58 +83,120 @@ Durch die nachfolgende Unterschrift wird die Richtigkeit und Vollständigkeit de
 
 ---
 -->
-## Issue-Erwähnung (Beispiel)
+
+### Issue-Erwähnung (Beispiel)
+<br>
 
 Issue-Nummern und Beschreibungen können im Berichtsheft verwendet werden.
 
-|  | Betriebliche Tätigkeiten, Unterweisungen, betrieblicher Unterricht, sonstige Schulungen, Themen des Berufsschulunterrichts | *Stunden* |
-| :--- | :--- | :--- |
-| Montag | Wiki-Eintrag ergänzt. (#186) | 8 |
+<table>
+  <tr>
+    <td align="center"><strong>Tag</strong></td>
+    <td align="center"><strong>Betriebliche Tätigkeiten, Unterweisungen, betrieblicher Unterricht, <br> sonstige Schulungen, Themen des Berufsschulunterrichts</strong></td>
+    <td align="center"><strong>Stunden</strong></td>
+  </tr>
+  <tr>
+    <td>Montag</td> 
+    <td>Wiki-Eintrag ergänzt. (#186)</td>
+    <td align="center">8</td>
+  </tr>
+</table>
 
 ---
 
-## Umgang mit Unternehmensdaten (Beispiel)
+### Umgang mit Unternehmensdaten (Beispiel)
+<br>
 
-Kundenunternehmensdaten dürfen nicht genannt werden und müssen pseudonymisiert werden.
+**Kundenunternehmensdaten** dürfen **nicht** genannt werden. **Anonymisierte** und/oder **pseudonymisierte** Erwähnungen sind zugelassen.
 
-|  | Betriebliche Tätigkeiten, Unterweisungen, betrieblicher Unterricht, sonstige Schulungen, Themen des Berufsschulunterrichts | *Stunden* |
-| :--- | :--- | :--- |
-| Montag | Besprechung mit potenziellem Kunden. | 8 |
+<table>
+  <tr>
+    <td align="center"><strong>Tag</strong></td>
+    <td align="center"><strong>Betriebliche Tätigkeiten, Unterweisungen, betrieblicher Unterricht, <br> sonstige Schulungen, Themen des Berufsschulunterrichts</strong></td>
+    <td align="center"><strong>Stunden</strong></td>
+  </tr>
+  <tr>
+    <td>Montag</td> 
+    <td>Besprechung mit potenziellem Kunden für "Projekt GZ".</td>
+    <td align="center">8</td>
+  </tr>
+</table>
 
 ---
+<br>
 
 ## Zeitnachweise
 
 ### Zeitnachweis (monatlich)
+<br>
 
-| Anwesenheit | **Monat:** | April 2025 |
-| --- | --- | --- |
+<table>
+  <tr align="center">
+    <td colspan="4"><strong>Anwesenheit des Auszubildenden</strong></td>
+  </tr>
+  <tr  align="center">
+    <td><strong>Name</strong></td>
+    <td><strong>Vorname</strong></td>
+    <td><strong>Monat</strong></td>
+    <td><strong>Jahr</strong></td>
+  </tr>
+   <tr align="center">
+    <td>Musterfrau</td>
+    <td>Maxime</td>
+    <td>April</td>
+    <td>2025</td>
+  </tr>
+</table>
 
-| Name | Vorname | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30 | 31 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Musterfrau | Maxime | \* | \* | A | A | A | A | A | \* | \* | A | A | A | A | A | \* | \* | A | A | A | A | A | \* | \* | A | A | A | A | A | \* | \* | BS |
+| Tag | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30 | 31 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **Anwesenheit** | \* | \* | A | A | A | A | A | \* | \* | A | A | A | A | A | \* | \* | A | A | A | A | A | \* | \* | A | A | A | A | A | \* | \* | BS |
 
-| **Legende:** |  |  |  |  |
-| --- | --- | --- | --- | --- |
-| A/P | = anwesend |  | K | = Krank |
-| E | = entschuldigt |  | KK | = Kind krank |
-| UE | = unentschuldigt |  | BS | = Berufsschule |
-| U | = Urlaub |  | \* | = Samstag/Sonntag |
-| F | = Feiertag (abhängig vom Bundesland) |  |  |  |
-|  |  |  |  |  |
-|  | Unterschrift/Stempel | | |  |
+<table>
+  <tr>
+    <td align="center" colspan="4"><strong>Legende</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>A/P</strong></td>
+    <td>= anwesend</td>
+    <td align="center"><strong>KK</strong></td>
+    <td>= Kind krank</td>
+  </tr>
+  <tr>
+   <td align="center"><strong>E</strong></td>
+   <td>= entschuldigt</td>
+   <td align="center"><strong>BS</strong></td>
+  <td>= Berufsschule</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>UE</strong></td>
+    <td>= unentschuldigt</td>
+    <td align="center"><strong>\*</strong></td>
+    <td>= Samstag/Sonntag</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>U</strong></td>  
+    <td>= Urlaub</td>
+    <td align="center" rowspan="2"><strong>F</strong></td>
+    <td rowspan="2">= Feiertag <br> (abhängig vom Bundesland)</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>K</strong></td>
+    <td>= krank</td>
+  </tr>
+</table>
+<br>
 
-**Maßnahmenträger:in** _______________________________________________________
+**Maßnahmenträger:in:** _______________________________________________________
 
-**Ansprechpartner:in** _______________________________________________________
+**Ansprechpartner:in:** &emsp;_______________________________________________________
 
-Telefon: +49 1234 567890
+**Telefon:** +49 1234 567890 <br>
+**E-Mail:** <mail@example.com> <br>
+**Verantwortlicher Standort:** 12345 Musterstadt <br>
 
-E-Mail: <mail@example.com>
+Die Anwesenheitsliste bitte spätestens am dritten Tag des Folgemonats an Musterinstitut via **E-Mail** an <service@example.com> senden.
 
-**Verantwortlicher Standort** 12345 Musterstadt
-
-Die Anwesenheitsliste bitte spätestens am dritten Tag des Folgemonats an Musterinstitut  **E-Mail:** <service@example.com> mailen.
 <!--
 ---
 

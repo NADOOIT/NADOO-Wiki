@@ -15,11 +15,10 @@ Bei Christoph Backhaus IT verstehen wir **Unternehmenskultur** nicht als leeres 
 
 💡 Die nächten Seiten geben dir einen **Einblick in unsere kulturellen Leitlinien** und wie wir sie im Alltag umsetzen.
 
-#
+---
 
-### Dieses Thema beinhaltet folgende Kapitel:
-
-#
+### <p align="center">Dieses Thema beinhaltet folgende Kapitel:</p>
+---
 
 🔹 [**Verhaltensregeln bei Christoph Backhaus / NADOO-IT**](/docs/01-organisation/08-firmenphilosophie/01-verhaltensregeln/README.md) </br>
 🔹 [**Feedback-Kultur bei Christoph Backhaus IT**](/docs/01-organisation/08-firmenphilosophie/02-feedback-kultur/README.md) </br>
