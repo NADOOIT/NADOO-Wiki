@@ -1,6 +1,6 @@
 # NADOO-IT ein Überblick über die aktiven Teams
-
 <p align="center">Derzeit aktive Teams | Stand: 21. Mai 2025</p>
+<br>
 
 <p align="center">🟡 11er-Team: Launch / Wiki</p>
 
