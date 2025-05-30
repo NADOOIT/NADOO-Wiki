@@ -141,3 +141,5 @@ Verwende NADOO-Templates mit allen Feldern vorausgefüllt – das spart Zeit und
 🚀 Ready for Launch: Mit dieser Struktur läuft dein Projekt wie geplant!
 
 ---
+
+<p align="center"><a href="/docs/04-tools/01-github/04-issues/06-projects/README.md"><strong>Zurück</strong></a> | <a href="/docs/04-tools/01-github/04-issues/07-discussions/README.md"><strong>Weiter</strong></a></p>
