@@ -18,8 +18,7 @@ tags:
 
 ## 🕒 Fokus: Zeitplanung und Meilensteine mit GitHub Projects
 
-Nachdem du in den vorherigen Beiträgen gelernt hast, wie du Issues und Pull Requests effizient verwaltest, dich mit den Grundlagen zu Milestones und Projects vertraut gemacht hast, 
-gehen wir nun einen Schritt weiter: **Zeitplanung und Meilensteine** in GitHub Projects.
+Nachdem du in den vorherigen Beiträgen gelernt hast, wie du Issues und Pull Requests effizient verwaltest, dich mit den Grundlagen zu Milestones und Projects vertraut gemacht hast, gehen wir nun einen Schritt weiter: **Zeitplanung und Meilensteine** in GitHub Projects.
 
 ---
 
