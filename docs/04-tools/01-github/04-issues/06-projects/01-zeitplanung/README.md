@@ -1,5 +1,5 @@
 ---
-title: 🧠 Projektmanagement & Arbeitsorganisation
+title: 🧠 Projektmanagement und Arbeitsorganisation
 
 description: Zeitplanung und Meilensteine mit GitHub Projects (Status, Priority, Size, Estimate, Iteration, Start- und Enddate)
 
@@ -87,7 +87,7 @@ GitHub unterstützt Iterationen wie z. B. Wochen oder zweiwöchentliche Sprints:
 
 ---
 
-## 🗓️ 6. Start & End Date – Zeitlicher Rahmen
+## 🗓️ 6. Start und End Date – Zeitlicher Rahmen
 
 - **Start Date:** Wann beginnt die Aufgabe?
 - **Due Date:** Bis wann muss sie erledigt sein?
@@ -125,7 +125,7 @@ Milestone: Launch 1.0
 
 ---
 
-## 📚 Fazit & Empfehlungen
+## 📚 Fazit und Empfehlungen
 
 ✅ Verwende **alle Felder konsistent** zur Projektstrukturierung  
 ✅ Visualisiere Deadlines und Fortschritt mit GitHub Projects  
