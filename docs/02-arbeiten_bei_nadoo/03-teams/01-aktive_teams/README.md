@@ -185,4 +185,38 @@ Das 3er-Team **_tbd_** ...
 
 ---
 
+<p align="center">📍 <strong>Discord-Kanal: </strong><a href="https://discord.com/channels/1299292608744390707/1379375965607694346"><strong>Wordpress</strong></a></p>
+
+Das Team WordPress arbeitet an ... _tbd_
+
+🎯 **Teamziel:** _tbd_<br>
+
+👥 **Aktuelle Mitglieder / Ansprechpartner:innen:** _tbd_<br>
+📋 **Koordination:** _tbd_
+
+---
+
+### [ WordPress ] 🟢 3er-Team: Koko Analytics
+
+📍 **Discord:** [**Koko Analytics**](https://discord.com/channels/1299292608744390707/1379376067130953809)  
+👥 **Mitarbeitende:** _tbd_  
+Das 3er-Team **_tbd_** ...
+
+---
+
+### [ WordPress ] 🟢 3er-Team: Automatisierung
+
+📍 **Discord:** [**Automatisierung**](https://discord.com/channels/1299292608744390707/1379376344152150016)  
+👥 **Mitarbeitende:** _tbd_  
+Das 3er-Team **_tbd_** ...
+
+---
+
+### [ WordPress ] 🟢 3er-Team: ???
+
+📍 **Discord:** [**???**](https://discord.com/channels/1299292608744390707/1379376535395635251)
+👥 **Mitarbeitende:** _tbd_  
+Das 3er-Team **_tbd_** ...
+
+---
 <p align="center"><a href="/docs/02-arbeiten_bei_nadoo/03-teams/README.md"><strong>Zurück</strong></a> | <a href="/docs/02-arbeiten_bei_nadoo/03-teams/02-team-archiv/README.md"><strong>Weiter</strong></a></p>
