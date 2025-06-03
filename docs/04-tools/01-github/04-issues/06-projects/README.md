@@ -34,11 +34,4 @@ Nutze Projects zusammen mit Labels, Milestones und Assignees für eine strukturi
 
 ---
 
-<p align="center"><a href="/docs/04-tools/01-github/04-issues/05-milestones/README.md"><strong>Zurück</strong></a> | <a href="/docs/04-tools/01-github/04-issues/07-discussions/README.md"><strong>Weiter</strong></a></p>
-
-<!--
----
-
-**Tags:** #projects #organisation #kanban #github
-
--> Tags vorerst auskommentiert, da noch nicht funktionsfähig / Idee noch nicht ganz ausgereift und bisher auch nirgends außer hier (04-issues) an willkürlichen? Stellen implementiert (Stand: 15.05.2025) -->
+<p align="center"><a href="/docs/04-tools/01-github/04-issues/05-milestones/README.md"><strong>Zurück</strong></a> | <a href="/docs/04-tools/01-github/04-issues/06-projects/01-zeitplanung/README.md"><strong>Weiter</strong></a></p>
