@@ -187,7 +187,7 @@ Das 3er-Team **_tbd_** ...
 
 <p align="center">📍 <strong>Discord-Kanal: </strong><a href="https://discord.com/channels/1299292608744390707/1379375965607694346"><strong>Wordpress</strong></a></p>
 
-Das Team Wordpress arbeitet an ... _tbd_
+Das Team WordPress arbeitet an ... _tbd_
 
 🎯 **Teamziel:** _tbd_<br>
 
@@ -204,7 +204,7 @@ Das 3er-Team **_tbd_** ...
 
 ---
 
-### [ Wordpress ] 🟢 3er-Team: Automatisierung
+### [ WordPress ] 🟢 3er-Team: Automatisierung
 
 📍 **Discord:** [**Automatisierung**](https://discord.com/channels/1299292608744390707/1379376344152150016)  
 👥 **Mitarbeitende:** _tbd_  
@@ -212,7 +212,7 @@ Das 3er-Team **_tbd_** ...
 
 ---
 
-### [ Wordpress ] 🟢 3er-Team: ???
+### [ WordPress ] 🟢 3er-Team: ???
 
 📍 **Discord:** [**???**](https://discord.com/channels/1299292608744390707/1379376535395635251)
 👥 **Mitarbeitende:** _tbd_  
