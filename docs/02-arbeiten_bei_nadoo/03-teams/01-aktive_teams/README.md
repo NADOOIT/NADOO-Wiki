@@ -196,7 +196,7 @@ Das Team Wordpress arbeitet an ... _tbd_
 
 ---
 
-### [ Worpress ] 🟢 3er-Team: Koko Analytics
+### [ WordPress ] 🟢 3er-Team: Koko Analytics
 
 📍 **Discord:** [**Koko Analytics**](https://discord.com/channels/1299292608744390707/1379376067130953809)  
 👥 **Mitarbeitende:** _tbd_  
