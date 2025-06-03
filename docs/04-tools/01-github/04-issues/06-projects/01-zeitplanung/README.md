@@ -18,7 +18,7 @@ tags:
 
 ## 🕒 Fokus: Zeitplanung und Meilensteine mit GitHub Projects
 
-Nachdem du in den vorherigen Beiträgen gelernt hast, wie du Issues und Pull Requests effizient verwaltest, dich mit den Grundlagen zu Milestones und Projects vertraut gemacht hast, gehen wir nun einen Schritt weiter: **Zeitplanung und Meilensteine** in GitHub Projects.
+In den vorherigen Beiträgen hast du gelernt, wie du Issues und Pull Requests effizient verwaltest und dich mit den Grundlagen von Milestones und Projects vertraut gemacht. Nun gehen wir einen Schritt weiter: **Zeitplanung und Meilensteine** in GitHub Projects.
 
 ---
 
@@ -30,7 +30,7 @@ Nachdem du in den vorherigen Beiträgen gelernt hast, wie du Issues und Pull Req
 | `In Progress` | Wird gerade bearbeitet |
 | `Done` | Abgeschlossen |
 
-💡 Status hilft hier einen Überblick für die 11er Meetings zu schaffen, um die Bearbeitung anstehender Aufgaben abzustimmen.
+💡 Der Status hilft dabei, einen Überblick über die 11er-Meetings zu schaffen, um die Bearbeitung anstehender Aufgaben abzustimmen.
 
 ---
 
@@ -42,7 +42,7 @@ Nachdem du in den vorherigen Beiträgen gelernt hast, wie du Issues und Pull Req
 | `P1` | Sollte erledigt werden, hat aber Puffer |
 | `P2` | Optional oder langfristig |
 
-🎓 Priorisierung hilft, fokussiert zu bleiben – besonders in größeren Teams.
+🎓 Die Priorisierung hilft dabei, fokussiert zu bleiben – besonders in größeren Teams.
 
 ---
 
@@ -56,7 +56,7 @@ Nachdem du in den vorherigen Beiträgen gelernt hast, wie du Issues und Pull Req
 | `L` | 1–2 Tage |
 | `XL` | > 2 Tage |
 
-➡️ Nutze „Size“ für grobe Kapazitätsplanung in Sprints.
+➡️ Nutze „Size“ für eine grobe Kapazitätsplanung in Sprints.
 
 ---
 
@@ -83,7 +83,7 @@ GitHub unterstützt Iterationen wie z. B. Wochen oder zweiwöchentliche Sprints:
 | Sprint 14 | 26.05 – 08.06 |
 | Sprint 15 | 08.06 – 21.06 |
 
-🚀Regelmäßige Iterationen fördern kontinuierliche Lieferung und Planbarkeit.
+🚀 Regelmäßige Iterationen fördern eine kontinuierliche Lieferung und Planbarkeit.
 
 ---
 
@@ -136,7 +136,7 @@ Milestone: Launch 1.0
 
 ## 🛠️ Bonus-Tipp
 
-Verwende NADOO-Templates mit allen Feldern vorausgefüllt – das spart Zeit und sorgt für Qualität im Workflow.
+Verwende NADOO-Templates mit vollständig vorausgefüllten Feldern – das spart Zeit und sorgt für Qualität im Workflow.
 
 🚀 Ready for Launch: Mit dieser Struktur läuft dein Projekt wie geplant!
 
