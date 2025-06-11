@@ -31,4 +31,4 @@ Bei der der NADOO-IT kannst Du an spannenden WordPress-Projekten mitarbeiten.
 
 ---
 
-<p align="center"><a href="/docs/06-entwicklung/08-cms/06-design_themes/README.md"><strong>Zurück</strong></a> | <a href="/docs/06-entwicklung/08-cms/06-design_themes/README.md"><strong>Weiter</strong></a></p>
+<p align="center"><a href="/docs/06-entwicklung/08-cms/06-design_themes/README.md"><strong>Zurück</strong></a> | <a href="/docs/06-entwicklung/08-cms/08-tools_ressourcen/README.md"><strong>Weiter</strong></a></p>
