@@ -36,4 +36,4 @@ Für ein DSGVO-konformes Tracking ohne Cookies kannst Koko Analytics so konfigur
 
 ---
 
-<p align="center"><a href="/docs/06-entwicklung/08-cms/03-einrichtung/README.md"><strong>Zurück</strong></a> | <a href="/docs/06-entwicklung/08-cms/README.md"><strong>Weiter</strong></a></p>
+<p align="center"><a href="/docs/06-entwicklung/08-cms/04-inhalt_struktur/README.md"><strong>Zurück</strong></a> | <a href="/docs/06-entwicklung/08-cms/README.md"><strong>Weiter</strong></a></p>
