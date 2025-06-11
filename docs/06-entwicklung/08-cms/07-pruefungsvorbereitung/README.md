@@ -27,7 +27,7 @@ WordPress ist ein beliebtes CMS für die Erstellung von Websites und Webanwendun
 
 ## Praxisbeispiel für Projektarbeit mit WordPress
 
-Bei der der NADOO-IT kannst Du an spannenden WordPress-Projekten mitarbeiten.
+Bei der NADOO-IT kannst Du an spannenden WordPress-Projekten mitarbeiten.
 
 ---
 
