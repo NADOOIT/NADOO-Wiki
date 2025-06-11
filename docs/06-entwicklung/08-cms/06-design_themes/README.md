@@ -71,4 +71,4 @@ Wichtige Aspekte sind:
 
 ---
 
-<p align="center"><a href="/docs/06-entwicklung/08-cms/05-erweiterung_plugins/README.md"><strong>Zurück</strong></a> | <a href="/docs/06-entwicklung/08-cms/README.md"><strong>Weiter</strong></a></p>
+<p align="center"><a href="/docs/06-entwicklung/08-cms/05-erweiterung_plugins/README.md"><strong>Zurück</strong></a> | <a href="/docs/06-entwicklung/08-cms/07-pruefungsvorbereitung/README.md"><strong>Weiter</strong></a></p>
