@@ -3,7 +3,7 @@
 ---
 <!-- Kapitel WordPress – Grundlagen -->
 
-## Aufbau und Komponenten (Themes, Plugins, Widgets)Aufbau und Komponenten (Themes, Plugins, Widgets)
+## Aufbau und Komponenten (Themes, Plugins, Widgets)
 
 WordPress ist ein flexibles Content Management System (CMS), das aus verschiedenen Komponenten besteht:
 
