@@ -36,4 +36,4 @@ Der **Gutenberg-Editor** ist der Standard-Editor von WordPress, der eine blockba
 
 ---
 
-<p align="center"><a href="/docs/06-entwicklung/08-cms/03-einrichtung/README.md"><strong>Zurück</strong></a> | <a href="/docs/06-entwicklung/08-cms/README.md"><strong>Weiter</strong></a></p>
+<p align="center"><a href="/docs/06-entwicklung/08-cms/03-einrichtung/README.md"><strong>Zurück</strong></a> | <a href="/docs/06-entwicklung/08-cms/05-erweiterung_plugins/README.md"><strong>Weiter</strong></a></p>
