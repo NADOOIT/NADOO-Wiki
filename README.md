@@ -465,6 +465,24 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
 
 </details>
 
+<!-- Softwareentwicklung -->
+
+<details>
+<summary>Content Management Systeme (CMS) – Fokus WordPress</summary>
+
+  &emsp;📄 [Kapitelübersicht](/docs/06-entwicklung/08-cms/README.md)
+
+  &nbsp;&nbsp;🔹 [Einführung in CMS](/docs/06-entwicklung/08-cms/01-einfuehrung/README.md) <br>
+  &nbsp;&nbsp;🔹 [WordPress – Grundlagen](/docs/06-entwicklung/08-cms/02-wp_grundlagen/README.md) <br>
+  &nbsp;&nbsp;🔹 [Einrichtung und Konfiguration](/docs/06-entwicklung/08-cms/03-einrichtung/README.md) <br>
+  &nbsp;&nbsp;🔹 [Inhaltspflege und Struktur](/docs/06-entwicklung/08-cms/04-inhalt_struktur/README.md) <br>
+  &nbsp;&nbsp;🔹 [Erweiterung durch Plugins](/docs/06-entwicklung/08-cms/05-erweiterung_plugins/README.md) <br>
+  &nbsp;&nbsp;🔹 [Themes und Designanpassungen](/docs/06-entwicklung/08-cms/06-design_themes/README.md) <br>
+  &nbsp;&nbsp;🔹 [WordPress in der Prüfungsvorbereitung](/docs/06-entwicklung/08-cms/07-pruefungsvorbereitung/README.md) <br>
+  &nbsp;&nbsp;🔹 [Nützliche Tools und Ressourcen](/docs/06-entwicklung/08-cms/08-tools_ressourcen/README.md) <br>
+
+</details>
+
 ---
 
 <!-- 7. Methoden -->
