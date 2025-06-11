@@ -45,4 +45,4 @@ WordPress benötigt einen Webserver, der PHP und MySQL unterstützt. Die empfohl
 
 ---
 
-<p align="center"><a href="/docs/06-entwicklung/08-cms/01-einfuehrung/README.md"><strong>Zurück</strong></a> | <a href="/docs/06-entwicklung/08-cms/README.md"><strong>Weiter</strong></a></p>
+<p align="center"><a href="/docs/06-entwicklung/08-cms/01-einfuehrung/README.md"><strong>Zurück</strong></a> | <a href="/docs/06-entwicklung/08-cms/03-einrichtung/README.md"><strong>Weiter</strong></a></p>

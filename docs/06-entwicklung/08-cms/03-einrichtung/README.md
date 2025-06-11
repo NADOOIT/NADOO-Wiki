@@ -46,4 +46,4 @@ Weitere Sicherheitsmaßnahmen wie Firewalls, Login-Schutz oder IP-Sperren könne
 
 ---
 
-<p align="center"><a href="/docs/06-entwicklung/08-cms/02-wp_grundlagen/"><strong>Zurück</strong></a> | <a href="/docs/06-entwicklung/08-cms/README.md"><strong>Weiter</strong></a></p>
+<p align="center"><a href="/docs/06-entwicklung/08-cms/02-wp_grundlagen/README.md"><strong>Zurück</strong></a> | <a href="/docs/06-entwicklung/08-cms/README.md"><strong>Weiter</strong></a></p>
