@@ -39,4 +39,4 @@ Es bietet eine benutzerfreundliche Oberfläche zur Bearbeitung von Inhalten und 
 
 ---
 
-<p align="center"><a href="/docs/06-entwicklung/08-cms/README.md"><strong>Zurück</strong></a> | <a href="/docs/06-entwicklung/08-cms/README.md"><strong>Weiter</strong></a></p>
+<p align="center"><a href="/docs/06-entwicklung/08-cms/README.md"><strong>Zurück</strong></a> | <a href="/docs/06-entwicklung/08-cms/02-wp_grundlagen/README.md"><strong>Weiter</strong></a></p>
