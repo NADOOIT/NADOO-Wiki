@@ -24,15 +24,15 @@ Das Plugin **Koko Analytics** ist eine datenschutzfreundliche Alternative zu Goo
 1. **Installation**: Im WordPress-Dashboard unter "Plugins" > "Installieren" nach "Koko Analytics" suchen und installieren.
 2. **Aktivierung**: Nach der Installation das Plugin aktivieren.
 3. **Einstellungen**: Unter "Einstellungen" > "Koko Analytics" die Konfiguration vornehmen:
-   - **Datenschutz**: Aktivieren Sie die Option, keine personenbezogenen Daten zu speichern.
-   - **Tracking**: Wählen Sie die gewünschten Tracking-Optionen aus (z. B. Seitenaufrufe, Verweildauer).
+   - **Datenschutz**: Aktiviere die Option, keine personenbezogenen Daten zu speichern.
+   - **Tracking**: Wähle die gewünschten Tracking-Optionen aus (z. B. Seitenaufrufe, Verweildauer).
 4. **Anzeigen**: Koko Analytics bietet eine Übersicht der Besucherstatistiken im Dashboard und ermöglicht die Anzeige von Berichten.
 
 ---
 
 ## DSGVO-konformes Tracking ohne Cookies
 
-Für ein DSGVO-konformes Tracking ohne Cookies kannst Koko Analytics so konfigurieren, dass es keine personenbezogenen Daten speichert und keine Cookies verwendet. Dies ist besonders wichtig, um die Privatsphäre der Nutzer zu schützen und rechtlichen Anforderungen zu entsprechen.
+Für ein DSGVO-konformes Tracking ohne Cookies kannst du Koko Analytics so konfigurieren, dass es keine personenbezogenen Daten speichert und keine Cookies verwendet. Dies ist besonders wichtig, um die Privatsphäre der Nutzer zu schützen und rechtlichen Anforderungen zu entsprechen.
 
 ---
 
