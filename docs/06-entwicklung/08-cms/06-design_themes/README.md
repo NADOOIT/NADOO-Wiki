@@ -26,7 +26,8 @@ Child-Themes sind eine empfohlene Methode, um Änderungen an einem bestehenden T
    */
    ```
 
-Ersetze `parent-theme-folder-name` durch den Ordnernamen des Parent-Themes.
+   Ersetze `parent-theme-folder-name` durch den Ordnernamen des Parent-Themes.
+
 3. **functions.php**: Eine `functions.php`-Datei im Child-Theme-Ordner erstellen, um zusätzliche Funktionen hinzuzufügen oder Parent-Theme-Funktionen zu erweitern.
 4. **Aktivierung**: Im WordPress-Dashboard unter "Design" > "Themes" das Child-Theme aktivieren.
 
