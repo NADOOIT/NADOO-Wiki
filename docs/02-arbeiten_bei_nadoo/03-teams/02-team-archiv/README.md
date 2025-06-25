@@ -17,7 +17,7 @@ Es sorgte dafür, dass die Projekte den Anforderungen der Kunden entsprechen und
 
 ### [ Code Qualität & Research ] 🟢 3er-Team: Dokumentation
 
-Das 3er-Team Dokumentation ist für das Schreiben und die Pflege von existierenden Dokumenten verantwortlich.
+Das 3er-Team Dokumentation war für das Schreiben und die Pflege von existierenden Dokumenten verantwortlich.
 
 📍 **Discord:** [**Dokumentation**](https://discord.com/channels/1299292608744390707/1364905809972035605) <br>
 👥 **Mitarbeitende:** n.n., [Heiko](https://github.com/hfanieng) <br>
@@ -26,7 +26,7 @@ Das 3er-Team Dokumentation ist für das Schreiben und die Pflege von existierend
 
 ### [ Code Qualität & Research ] 🟢 3er-Team: Testing
 
-Das 3er-Team Testing ist für das Testen von Software verantwortlich.
+Das 3er-Team Testing war für das Testen von Software verantwortlich.
 
 📍 **Discord:** [**Testing**](https://discord.com/channels/1299292608744390707/1364905978411356170) <br>
 👥 **Mitarbeitende:** n.n., [Monika](https://github.com/Monika32025) <br>
@@ -35,7 +35,7 @@ Das 3er-Team Testing ist für das Testen von Software verantwortlich.
 
 ### [ Code Qualität & Research ] 🟢 3er-Team: Regulation & Recht (Compliance/Regulatory Affairs)
 
-Das 3er-Team Regulation & Recht (Compliance/Regulatory Affairs) ist für die Entwicklung und Pflege von Projekten verantwortlich, die sich mit der Einhaltung von Vorschriften und Gesetzen beschäftigen.
+Das 3er-Team Regulation & Recht (Compliance/Regulatory Affairs) war für die Entwicklung und Pflege von Projekten verantwortlich, die sich mit der Einhaltung von Vorschriften und Gesetzen beschäftigen.
 
 📍 **Discord:** [**Regulation & Recht**](https://discordapp.com/channels/1299292608744390707/1364906172557168703) <br>
 👥 **Mitarbeitende:** n.n., [Heiko](https://github.com/hfanieng) <br>
