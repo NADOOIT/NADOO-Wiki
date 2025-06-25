@@ -16,7 +16,8 @@ Es hat die Aufgabe, die **Grundlagen für die Organisation** zu schaffen und die
 
 📋 **Koordination:** k.A. <br>
 👥 **Aktuelle Mitglieder / Ansprechpartner:innen:** <br>
-[Monika](https://github.com/Monika32025), [Alexander P.](https://github.com/cosinus-a), [Heiko](https://github.com/hfanieng), [Tim H.](https://github.com/TimHellmig), [Cheryl](https://github.com/cherylugbogu) (grundsätzlich weiterhin ansprechbar, befindet sich jedoch bereits im Übergang zum Java-Team)
+
+_tbd_
 
 ---
 
