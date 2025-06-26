@@ -98,7 +98,7 @@ Das 3er-Team ...
 👥 **Mitarbeitende:** k. A.
 
 ---
-
+<p align="center">🟡 11er-Team: Kalender</p>
 <p align="center">📍 <strong>Discord-Kanal: </strong><a href="https://discord.com/channels/1299292608744390707/1374724884428624023"><strong>Kalender</strong></a></p>
 
 Das Team Kalender arbeitet an der **Entwicklung und Umsetzung einer Ergänzung der Launchpad-App**, welche für die Optimierung der organisatorischen Prozesse innerhalb der Organisation wichtig ist.
