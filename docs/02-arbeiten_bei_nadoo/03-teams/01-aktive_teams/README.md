@@ -1,8 +1,8 @@
 # NADOO-IT ein Überblick über die aktiven Teams
-<p align="center">Derzeit aktive Teams | Stand: 21. Mai 2025</p>
+<p align="center">Derzeit aktive Teams | Stand: 26. Juni 2025</p>
 <br>
 
-<p align="center">🟡 11er-Team: Launch / Wiki</p>
+<p align="center">🟡 11er-Team: Launch</p>
 
 <p align="center">📍 <strong>Discord-Kanal: </strong><a href="https://discord.com/channels/1299292608744390707/13362955833502597620"><strong>Launch</strong></a></p>
 
@@ -10,13 +10,10 @@ Launch ist das erste Team, das in der [33er-Organisation](https://github.com/org
 
 Es hat die Aufgabe, die **Grundlagen für die Organisation** zu schaffen und die ersten Schritte in Richtung einer erfolgreichen Zusammenarbeit zu gehen.
 
----
-
 🎯 **Teamziel:** Onboarding neuer Mitglieder und Unterstützung bei der Erstellung von Wiki-Inhalten. <br>
 
-📋 **Koordination:** k.A. <br>
-👥 **Aktuelle Mitglieder / Ansprechpartner:innen:** <br>
-[Monika](https://github.com/Monika32025), [Alexander P.](https://github.com/cosinus-a), [Heiko](https://github.com/hfanieng), [Tim H.](https://github.com/TimHellmig), [Cheryl](https://github.com/cherylugbogu) (grundsätzlich weiterhin ansprechbar, befindet sich jedoch bereits im Übergang zum Java-Team)
+📋 **Koordination:** k.A.
+👥 **Aktuelle Mitglieder / Ansprechpartner:innen:** k.A.
 
 ---
 
@@ -26,43 +23,36 @@ Es hat die Aufgabe, die **Grundlagen für die Organisation** zu schaffen und die
 
 Das Team Projektarbeit arbeitet an der **Entwicklung und Umsetzung von Projekten** und der **Kundenkommunikation**, die für die Organisation von hoher Bedeutung sind.
 
----
-
 🎯 **Teamziel:** Aufbau von Projekten und Kundenkommunikation.  
-
-👥 **Aktuelle Mitglieder / Ansprechpartner:innen:** _tbd_  
+👥 **Aktuelle Mitglieder / Ansprechpartner:innen:** k. A.  
 📋 **Koordination:** k.A.  
 
-## [ 3.1 Projektarbeit ] 🟢 3er-Team: (_tbd_)
-
-Das 3er-Team **_tbd_** ...
-
 ---
+
+## [ 3.1 Projektarbeit ] 🟢 3er-Team: (...)
+
+Das 3er-Team  ...
+👥 **Mitarbeitende:** k. A.
 
 📍 **Discord:** [**_tbd_**](https://discordapp.com/channels/1299292608744390707/1330881556667043950) <br>
-👥 **Mitarbeitende:** _tbd_  
 
 ---
 
-### [ 3.2 Projektarbeit ] 🟢 3er-Team: (_tbd_)
+### [ 3.2 Projektarbeit ] 🟢 3er-Team: (...)
 
-Das 3er-Team **_tbd_** ...
-
-<br>
+Das 3er-Team ...
+👥 **Mitarbeitende:** k. A.
 
 📍 **Discord:** [**_tbd_**](https://discordapp.com/channels/1299292608744390707/1330881578171240448) <br>
-👥 **Mitarbeitende:** _tbd_ <br>
 
 ---
 
-### [ Projektarbeit ] 🟢 3er-Team: (_tbd_)
+### [ Projektarbeit ] 🟢 3er-Team: (...)
 
-Das 3er-Team **_tbd_** ...
-
----
+Das 3er-Team ...
+👥 **Mitarbeitende:** k. A.
 
 📍 **Discord:** [**_tbd_**](https://discordapp.com/channels/1299292608744390707/1330881152461832293) <br>
-👥 **Mitarbeitende:** _tbd_ <br>
 
 ---
 
@@ -73,80 +63,84 @@ Das 3er-Team **_tbd_** ...
 Das Team Java ist für die Entwicklung und Pflege von Java-Projekten verantwortlich.  
 Es sorgt dafür, dass diese den Anforderungen der Kunden entsprechen und die entwickelte Software stets hohe Qualität aufweist. Aktuell fokussiert sich das Team unter anderem intensiv auf den Aufbau einer Sammlung von anfängerfreundlichem Lehrmaterial für den erfolgreichen Einsteig in die Programmiersprache.
 
-<br>
-
 🎯 **Teamziel:** Entwicklung und Pflege von Java-Projekten.
 
 📋 **Koordination:** [Victor](https://github.com/Masaru485) <br>
-👥 **Aktuelle Mitglieder / Ansprechpartner:innen:** <br> [Alexander](https://github.com/Alexander-AzTech2064), [Andy](https://github.com/xIFenris), [Carsten](https://github.com/CaptainCarsten), [Irina](https://github.com/IrinaZittlau), [Katrin](https://github.com/xTrina), [Nadine](), [Stefan](https://github.com/ITSteinbach), [Timo S.]()
+👥 **Aktuelle Mitglieder / Ansprechpartner:innen:** k. A.
 
 ---
 
-### [ Java ] 🟢 3er-Team: Objects
+### [ Java ] 🟢 3er-Team: Objects (...)
 
-Das 3er-Team **Objects** ... (_tbd_)
+Das 3er-Team **Objects** ...
+👥 **Mitarbeitende:** k. A.
 
 📍 **Discord:** [**Objects**](https://discord.com/channels/1299292608744390707/1374725049277354042) <br>
-👥 **Mitarbeitende:** _tbd_
 
 ---
 
-### [ Java ] 🟢 3er-Team: Methodes
+### [ Java ] 🟢 3er-Team: Methodes (...)
 
-Das 3er-Team **Methodes** ... _tbd_
+Das 3er-Team **Methodes**
+👥 **Mitarbeitende:** k. A.
 
----
-
-📍 **Discord:** [**Methodes**](https://discord.com/channels/1299292608744390707/1374725110069596220) <br>
-👥 **Mitarbeitende:** _tbd_
-
----
-
-### [ Java ] 🟢 3er-Team: _tbd_
-
-Das 3er-Team ... _tbd_
+📍 **Discord:** [**Methodes**](https://discord.com/channels/1299292608744390707/1374725110069596220)
+👥 **Mitarbeitende:** k. A.
 
 ---
 
-## <p align="center">🟡 11er-Team: Code Qualität & Research</p>
+### [ Java ] 🟢 3er-Team: (...)
 
-<p align="center">📍 <strong>Discord-Kanal: </strong><a href="https://discord.com/channels/1299292608744390707/1330882785539260447"><strong>Code Qualität & Research</strong></a></p>
-
-Das Team Code Qualität & Research ist für die Entwicklung und Pflege von Projekten verantwortlich, die sich mit der Qualität von Code und der Forschung zu neuen Technologien beschäftigen.
-
-Es sorgt dafür, dass die Projekte den Anforderungen der Kunden entsprechen und die Qualität der Software hoch bleibt.
-
-<br>
-
-🎯 **Teamziel:** Entwicklung und Pflege von Projekten, die sich mit der Qualität von Code und der Forschung zu neuen Technologien beschäftigen.
-
-📋 **Koordination:** [Heiko](https://github.com/hfanieng) <br>
-👥 **Aktuelle Mitglieder / Ansprechpartner:innen:** <br>
-
-### [ Code Qualität & Research ] 🟢 3er-Team: Dokumentation
-
-Das 3er-Team Dokumentation ist für das Schreiben und die Pflege von existierenden Dokumenten verantwortlich.
-
-📍 **Discord:** [**Dokumentation**](https://discord.com/channels/1299292608744390707/1364905809972035605) <br>
-👥 **Mitarbeitende:** n.n., [Heiko](https://github.com/hfanieng) <br>
+Das 3er-Team ...
+👥 **Mitarbeitende:** k. A.
 
 ---
 
-### [ Code Qualität & Research ] 🟢 3er-Team: Testing
+## <p align="center">🟡 11er-Team: Laravel/PHP</p>
 
-Das 3er-Team Testing ist für das Testen von Software verantwortlich.
+p align="center">📍 <strong>Discord-Kanal
+</strong><a href="https://discord.com/channels/1299292608744390707/1387422180563881994"><strong>Laravel/PHP</strong></a></p>
 
-📍 **Discord:** [**Testing**](https://discord.com/channels/1299292608744390707/1364905978411356170) <br>
-👥 **Mitarbeitende:** n.n., [Monika](https://github.com/Monika32025) <br>
+🎯 **Teamziel:** Weiterentwicklung des NADOO-Launchpads durch ein zentrales Laravel-Dashboard zur Abbildung und Steuerung von Unternehmensprozessen. Ziel ist die Erweiterung um Webtechnologien, damit die Automatisierung und Transparenz in der Organisation vorangetrieben werden kann
+
+📋 **Koordination:** [Jakub](https://github.com/swierzakpl)
+👥 **Aktuelle Mitglieder / Ansprechpartner:innen:**<br>
+
+- [Monika](https://github.com/Monika32025)
+- [Alex P.](https://github.com/cosinus-a)
+- [Jakub](https://github.com/swierzakpl)
+- [Tim](https://github.com/TimHellmig)
+- [Timo](https://github.com/Timo699)
+
+**externe Mitarbeitende:** [Heiko](https://github.com/hfanieng)
+
+### [ Laravel/PHP ] 🟢 3er-Team: Backend
+
+Das 3er-Team **Backend** ist für die Entwicklung und Pflege von Backend-Projekten verantwortlich, die auf der Laravel/PHP-Technologie basieren.
+
+👥 **Mitarbeitende:** k. A.
+
+📍 **Discord:** [**Backend**](https://discord.com/channels/1299292608744390707/1387422394213204160) <br>
 
 ---
 
-### [ Code Qualität & Research ] 🟢 3er-Team: Regulation & Recht (Compliance/Regulatory Affairs)
+### [ Laravel/PHP ] 🟢 3er-Team: Frontend
 
-Das 3er-Team Regulation & Recht (Compliance/Regulatory Affairs) ist für die Entwicklung und Pflege von Projekten verantwortlich, die sich mit der Einhaltung von Vorschriften und Gesetzen beschäftigen.
+Das 3er-Team **Frontend** ist für die Entwicklung und Pflege von Frontend-Projekten verantwortlich, die auf der Laravel/PHP-Technologie basieren.
 
-📍 **Discord:** [**Regulation & Recht**](https://discordapp.com/channels/1299292608744390707/1364906172557168703) <br>
-👥 **Mitarbeitende:** n.n., [Heiko](https://github.com/hfanieng) <br>
+👥 **Mitarbeitende:** k. A.
+
+📍 **Discord:** [**Frontend**](https://discord.com/channels/1299292608744390707/1387422608252993607) <br>
+
+---
+
+### [ Laravel/PHP ] 🟢 3er-Team: Dokumentation
+
+Das 3er-Team **Dokumentation** ist für die Dokumentation der Laravel/PHP-Projekte verantwortlich, um eine klare und verständliche Kommunikation innerhalb des Teams und mit den Kunden zu gewährleisten.
+
+👥 **Mitarbeitende:** k. A.
+
+📍 **Discord:** [**Dokumentation**](https://discord.com/channels/1299292608744390707/1387422665135886416) <br>
 
 ---
 
