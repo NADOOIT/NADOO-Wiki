@@ -12,7 +12,7 @@ Es hat die Aufgabe, die **Grundlagen für die Organisation** zu schaffen und die
 
 🎯 **Teamziel:** Onboarding neuer Mitglieder und Unterstützung bei der Erstellung von Wiki-Inhalten. <br>
 
-📋 **Koordination:** k.A.
+📋 **Koordination:** k.A.  
 👥 **Aktuelle Mitglieder / Ansprechpartner:innen:** k.A.
 
 ---
@@ -31,18 +31,19 @@ Das Team Projektarbeit arbeitet an der **Entwicklung und Umsetzung von Projekten
 
 ## [ 3.1 Projektarbeit ] 🟢 3er-Team: (...)
 
-Das 3er-Team  ...
-👥 **Mitarbeitende:** k. A.
+Das 3er-Team  ...  
 
+🎯 **Teamziel:** ...  
+👥 **Mitarbeitende:** k. A.
 📍 **Discord:** [**_tbd_**](https://discordapp.com/channels/1299292608744390707/1330881556667043950) <br>
 
 ---
 
 ### [ 3.2 Projektarbeit ] 🟢 3er-Team: (...)
 
-Das 3er-Team ...
+Das 3er-Team ...  
+🎯 **Teamziel:** ...  
 👥 **Mitarbeitende:** k. A.
-
 📍 **Discord:** [**_tbd_**](https://discordapp.com/channels/1299292608744390707/1330881578171240448) <br>
 
 ---
@@ -50,8 +51,9 @@ Das 3er-Team ...
 ### [ Projektarbeit ] 🟢 3er-Team: (...)
 
 Das 3er-Team ...
-👥 **Mitarbeitende:** k. A.
 
+🎯 **Teamziel:** ...  
+👥 **Mitarbeitende:** k. A.
 📍 **Discord:** [**_tbd_**](https://discordapp.com/channels/1299292608744390707/1330881152461832293) <br>
 
 ---
@@ -63,18 +65,18 @@ Das 3er-Team ...
 Das Team Java ist für die Entwicklung und Pflege von Java-Projekten verantwortlich.  
 Es sorgt dafür, dass diese den Anforderungen der Kunden entsprechen und die entwickelte Software stets hohe Qualität aufweist. Aktuell fokussiert sich das Team unter anderem intensiv auf den Aufbau einer Sammlung von anfängerfreundlichem Lehrmaterial für den erfolgreichen Einsteig in die Programmiersprache.
 
-🎯 **Teamziel:** Entwicklung und Pflege von Java-Projekten.
-
-📋 **Koordination:** [Victor](https://github.com/Masaru485) <br>
+🎯 **Teamziel:** Entwicklung und Pflege von Java-Projekten.  
+📋 **Koordination:** [Victor](https://github.com/Masaru485)  
 👥 **Aktuelle Mitglieder / Ansprechpartner:innen:** k. A.
 
 ---
 
 ### [ Java ] 🟢 3er-Team: Objects (...)
 
-Das 3er-Team **Objects** ...
-👥 **Mitarbeitende:** k. A.
+Das 3er-Team **Objects** ...  
 
+🎯 **Teamziel:** ..  
+👥 **Mitarbeitende:** k. A.  
 📍 **Discord:** [**Objects**](https://discord.com/channels/1299292608744390707/1374725049277354042) <br>
 
 ---
