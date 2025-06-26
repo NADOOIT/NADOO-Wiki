@@ -33,7 +33,7 @@ Das Team Projektarbeit arbeitet an der **Entwicklung und Umsetzung von Projekten
 Das 3er-Team  ...  
 
 🎯 **Teamziel:** ...  
-👥 **Mitarbeitende:** k. A.
+👥 **Mitarbeitende:** k. A.  
 📍 **Discord:** [**_tbd_**](https://discordapp.com/channels/1299292608744390707/1330881556667043950) <br>
 
 ---
@@ -85,7 +85,7 @@ Das 3er-Team **Objects** ...
 Das 3er-Team **Methodes** ..
 
 🎯 **Teamziel:** ..  
-👥 **Mitarbeitende:** k. A.
+👥 **Mitarbeitende:** k. A.  
 📍 **Discord:** [**Methodes**](https://discord.com/channels/1299292608744390707/1374725110069596220)
 
 ---
@@ -103,8 +103,8 @@ Das 3er-Team ...
 
 Das Team Kalender arbeitet an der **Entwicklung und Umsetzung einer Ergänzung der Launchpad-App**, welche für die Optimierung der organisatorischen Prozesse innerhalb der Organisation wichtig ist.
 
-📋 **Koordination:** Carsten und Michael
-🎯 **Teamziel:** Erweiterung von NADOO-Launchpad um eine Kalenderfunktion <br>
+📋 **Koordination:** Carsten und Michael.  
+🎯 **Teamziel:** Erweiterung von NADOO-Launchpad um eine Kalenderfunktion
 👥 **Aktuelle Mitglieder / Ansprechpartner:innen:**
 
 - Hiba
