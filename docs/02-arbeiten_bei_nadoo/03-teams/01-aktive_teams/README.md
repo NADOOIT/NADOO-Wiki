@@ -11,7 +11,6 @@ Launch ist das erste Team, das in der [33er-Organisation](https://github.com/org
 Es hat die Aufgabe, die **Grundlagen für die Organisation** zu schaffen und die ersten Schritte in Richtung einer erfolgreichen Zusammenarbeit zu gehen.
 
 🎯 **Teamziel:** Onboarding neuer Mitglieder und Unterstützung bei der Erstellung von Wiki-Inhalten. <br>
-
 📋 **Koordination:** k.A.  
 👥 **Aktuelle Mitglieder / Ansprechpartner:innen:** k.A.
 
@@ -83,66 +82,20 @@ Das 3er-Team **Objects** ...
 
 ### [ Java ] 🟢 3er-Team: Methodes (...)
 
-Das 3er-Team **Methodes**
-👥 **Mitarbeitende:** k. A.
+Das 3er-Team **Methodes** ..
 
-📍 **Discord:** [**Methodes**](https://discord.com/channels/1299292608744390707/1374725110069596220)
+🎯 **Teamziel:** ..  
 👥 **Mitarbeitende:** k. A.
+📍 **Discord:** [**Methodes**](https://discord.com/channels/1299292608744390707/1374725110069596220)
 
 ---
 
 ### [ Java ] 🟢 3er-Team: (...)
 
 Das 3er-Team ...
+
+🎯 **Teamziel:** ..  
 👥 **Mitarbeitende:** k. A.
-
----
-
-## <p align="center">🟡 11er-Team: Laravel/PHP</p>
-
-p align="center">📍 <strong>Discord-Kanal
-</strong><a href="https://discord.com/channels/1299292608744390707/1387422180563881994"><strong>Laravel/PHP</strong></a></p>
-
-🎯 **Teamziel:** Weiterentwicklung des NADOO-Launchpads durch ein zentrales Laravel-Dashboard zur Abbildung und Steuerung von Unternehmensprozessen. Ziel ist die Erweiterung um Webtechnologien, damit die Automatisierung und Transparenz in der Organisation vorangetrieben werden kann
-
-📋 **Koordination:** [Jakub](https://github.com/swierzakpl)
-👥 **Aktuelle Mitglieder / Ansprechpartner:innen:**<br>
-
-- [Monika](https://github.com/Monika32025)
-- [Alex P.](https://github.com/cosinus-a)
-- [Jakub](https://github.com/swierzakpl)
-- [Tim](https://github.com/TimHellmig)
-- [Timo](https://github.com/Timo699)
-
-**externe Mitarbeitende:** [Heiko](https://github.com/hfanieng)
-
-### [ Laravel/PHP ] 🟢 3er-Team: Backend
-
-Das 3er-Team **Backend** ist für die Entwicklung und Pflege von Backend-Projekten verantwortlich, die auf der Laravel/PHP-Technologie basieren.
-
-👥 **Mitarbeitende:** k. A.
-
-📍 **Discord:** [**Backend**](https://discord.com/channels/1299292608744390707/1387422394213204160) <br>
-
----
-
-### [ Laravel/PHP ] 🟢 3er-Team: Frontend
-
-Das 3er-Team **Frontend** ist für die Entwicklung und Pflege von Frontend-Projekten verantwortlich, die auf der Laravel/PHP-Technologie basieren.
-
-👥 **Mitarbeitende:** k. A.
-
-📍 **Discord:** [**Frontend**](https://discord.com/channels/1299292608744390707/1387422608252993607) <br>
-
----
-
-### [ Laravel/PHP ] 🟢 3er-Team: Dokumentation
-
-Das 3er-Team **Dokumentation** ist für die Dokumentation der Laravel/PHP-Projekte verantwortlich, um eine klare und verständliche Kommunikation innerhalb des Teams und mit den Kunden zu gewährleisten.
-
-👥 **Mitarbeitende:** k. A.
-
-📍 **Discord:** [**Dokumentation**](https://discord.com/channels/1299292608744390707/1387422665135886416) <br>
 
 ---
 
@@ -150,14 +103,18 @@ Das 3er-Team **Dokumentation** ist für die Dokumentation der Laravel/PHP-Projek
 
 Das Team Kalender arbeitet an der **Entwicklung und Umsetzung einer Ergänzung der Launchpad-App**, welche für die Optimierung der organisatorischen Prozesse innerhalb der Organisation wichtig ist.
 
-🎯 **Teamziel:** Erweiterung von NADOO-Launchpad um eine Kalenderfunktion <br>
-
-👥 **Aktuelle Mitglieder / Ansprechpartner:innen:** Hiba, Irina, Carsten und Michael<br>
 📋 **Koordination:** Carsten und Michael
+🎯 **Teamziel:** Erweiterung von NADOO-Launchpad um eine Kalenderfunktion <br>
+👥 **Aktuelle Mitglieder / Ansprechpartner:innen:**
+
+- Hiba
+- Irina
+- Carsten
+- Michael
 
 ---
 
-### [ Kalender ] 🟢 3er-Team: Code Cowboys
+### [ 3.1 Kalender ] 🟢 3er-Team: Code Cowboys
 
 📍 **Discord:** [**Code Cowboys**](https://discord.com/channels/1299292608744390707/1330882816333844592)  
 👥 **Mitarbeitende:** _tbd_  
@@ -165,7 +122,7 @@ Das 3er-Team **_tbd_** ...
 
 ---
 
-### [ Kalender ] 🟢 3er-Team: Handlers
+### [ 3.2 Kalender ] 🟢 3er-Team: Handlers
 
 📍 **Discord:** [**Code Cowboys**](https://discord.com/channels/1299292608744390707/1330882905748144231)  
 👥 **Mitarbeitende:** _tbd_  
@@ -173,7 +130,7 @@ Das 3er-Team **_tbd_** ...
 
 ---
 
-### [ Kalender ] 🟢 3er-Team: Syntax Samurai
+### [ 3.3 Kalender ] 🟢 3er-Team: Syntax Samurai
 
 📍 **Discord:** [**Syntax Samurai**](https://discord.com/channels/1299292608744390707/1330882816333844592)
 👥 **Mitarbeitende:** _tbd_  
@@ -215,4 +172,55 @@ Das 3er-Team **_tbd_** ...
 Das 3er-Team **_tbd_** ...
 
 ---
+
+## <p align="center">🟡 11er-Team: Laravel/PHP</p>
+
+p align="center">📍 <strong>Discord-Kanal
+</strong><a href="https://discord.com/channels/1299292608744390707/1387422180563881994"><strong>Laravel/PHP</strong></a></p>
+
+🎯 **Teamziel:** Weiterentwicklung des NADOO-Launchpads durch ein zentrales Laravel-Dashboard zur Abbildung und Steuerung von Unternehmensprozessen. Ziel ist die Erweiterung um Webtechnologien, damit die Automatisierung und Transparenz in der Organisation vorangetrieben werden kann
+
+📋 **Koordination:** [Jakub](https://github.com/swierzakpl)
+👥 **Aktuelle Mitglieder / Ansprechpartner:innen:**<br>
+
+- [Monika](https://github.com/Monika32025)
+- [Alex P.](https://github.com/cosinus-a)
+- [Jakub](https://github.com/swierzakpl)
+- [Tim](https://github.com/TimHellmig)
+- [Timo](https://github.com/Timo699)
+
+👥 **externe Mitarbeitende:**
+
+- [Heiko](https://github.com/hfanieng)
+
+### [ 5.1 Laravel/PHP ] 🟢 3er-Team: Backend
+
+Das 3er-Team **Backend** ist für die Entwicklung und Pflege von Backend-Projekten verantwortlich, die auf der Laravel/PHP-Technologie basieren.
+
+🎯 **Teamziel:** ..  
+👥 **Mitarbeitende:** k. A.  
+📍 **Discord:** [**Backend**](https://discord.com/channels/1299292608744390707/1387422394213204160) <br>
+
+---
+
+### [ 5.2 Laravel/PHP ] 🟢 3er-Team: Frontend
+
+Das 3er-Team **Frontend** ist für die Entwicklung und Pflege von Frontend-Projekten verantwortlich, die auf der Laravel/PHP-Technologie basieren.
+
+🎯 **Teamziel:** ..  
+👥 **Mitarbeitende:** k. A.  
+📍 **Discord:** [**Frontend**](https://discord.com/channels/1299292608744390707/1387422608252993607) <br>
+
+---
+
+### [ 5.3 Laravel/PHP ] 🟢 3er-Team: Dokumentation
+
+Das 3er-Team **Dokumentation** ist für die Dokumentation der Laravel/PHP-Projekte verantwortlich, um eine klare und verständliche Kommunikation innerhalb des Teams und mit den Kunden zu gewährleisten.
+
+🎯 **Teamziel:** ..  
+👥 **Mitarbeitende:** k. A.  
+📍 **Discord:** [**Dokumentation**](https://discord.com/channels/1299292608744390707/1387422665135886416) <br>
+
+---
+
 <p align="center"><a href="/docs/02-arbeiten_bei_nadoo/03-teams/README.md"><strong>Zurück</strong></a> | <a href="/docs/02-arbeiten_bei_nadoo/03-teams/02-team-archiv/README.md"><strong>Weiter</strong></a></p>
