@@ -175,7 +175,7 @@ Das 3er-Team **_tbd_** ...
 
 ## <p align="center">🟡 11er-Team: Laravel/PHP</p>
 
-p align="center">📍 <strong>Discord-Kanal
+<p align="center">📍 <strong>Discord-Kanal
 </strong><a href="https://discord.com/channels/1299292608744390707/1387422180563881994"><strong>Laravel/PHP</strong></a></p>
 
 🎯 **Teamziel:** Weiterentwicklung des NADOO-Launchpads durch ein zentrales Laravel-Dashboard zur Abbildung und Steuerung von Unternehmensprozessen. Ziel ist die Erweiterung um Webtechnologien, damit die Automatisierung und Transparenz in der Organisation vorangetrieben werden kann
