@@ -11,6 +11,7 @@ Launch ist das erste Team, das in der [33er-Organisation](https://github.com/org
 Es hat die Aufgabe, die **Grundlagen für die Organisation** zu schaffen und die ersten Schritte in Richtung einer erfolgreichen Zusammenarbeit zu gehen.
 
 🎯 **Teamziel:** Onboarding neuer Mitglieder und Unterstützung bei der Erstellung von Wiki-Inhalten. <br>
+
 📋 **Koordination:** k.A.  
 👥 **Aktuelle Mitglieder / Ansprechpartner:innen:** k.A.
 
