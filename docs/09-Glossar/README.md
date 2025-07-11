@@ -1,0 +1,79 @@
+# <p align="center">🔠 Alphabetisch sortierte Abkürzungen/Akronyme mit Kurzerklärungen IT</p>
+
+
+- **AFR (Annualized Failure Rate)**: Eine Schätzung der Ausfallrate eines Produkts oder Systems innerhalb eines Jahres.
+- **AGB (Allgemeine Geschäftsbedingungen)**: Standardisierte Vertragsbedingungen, die für eine Vielzahl von Verträgen gelten.
+- **API (Application Programming Interface)**: Eine Schnittstelle, die es Softwareanwendungen ermöglicht, miteinander zu kommunizieren.
+- **ARP (Address Resolution Protocol)**: Ein Netzwerkprotokoll zur Zuordnung von IP-Adressen zu MAC-Adressen.
+- **BBiG (Berufsbildungsgesetz)**: Ein Gesetz, das die berufliche Bildung in Deutschland regelt.
+- **BGB (Bürgerliches Gesetzbuch)**: Das zentrale Gesetzbuch des deutschen Zivilrechts.
+- **BLOB (Binary Large Object)**: Eine Sammlung binärer Daten, die als ein einzelnes Objekt in einer Datenbank gespeichert werden.
+- **CBT (Computer Based Training)**: Eine Form der Ausbildung, die computerbasierte Lernmethoden nutzt.
+- **CE (Conformité Européenne)**: Ein Zeichen, das die Konformität eines Produkts mit den europäischen Sicherheitsrichtlinien anzeigt.
+- **CI (Corporate Identity)**: Das Erscheinungsbild eines Unternehmens, einschließlich Logos, Farben und Designrichtlinien.
+- **CIFS (Common Internet File System)**: Ein Protokoll zur gemeinsamen Nutzung von Dateien im Netzwerk.
+- **CPS (Cyber-Physical Systems)**: Systeme, die physische und softwarebasierte Komponenten integrieren.
+- **CRM (Customer Relationship Management)**: Systeme zur Verwaltung der Beziehungen und Interaktionen eines Unternehmens mit aktuellen und potenziellen Kunden.
+- **CSV (Comma-Separated Values)**: Ein Dateiformat zur Speicherung von tabellarischen Daten, bei dem die Werte durch Kommata getrennt sind.
+- **DDoS (Distributed Denial of Service)**: Ein Angriff, der darauf abzielt, einen Dienst durch Überlastung mit Anfragen unzugänglich zu machen.
+- **DHCP (Dynamic Host Configuration Protocol)**: Ein Netzwerkprotokoll zur automatischen Zuweisung von IP-Adressen an Geräte.
+- **DNS (Domain Name System)**: Ein System zur Umwandlung von Domainnamen in IP-Adressen.
+- **DSGVO (Datenschutz-Grundverordnung)**: Eine EU-Verordnung zum Schutz personenbezogener Daten.
+- **ER (Entity-Relationship)**: Ein Modell zur Darstellung von Datenbanken durch Entitäten und deren Beziehungen.
+- **FIAE (Fachinformatiker Anwendungsentwicklung)**: Ein Ausbildungsberuf in der Softwareentwicklung.
+- **FIDV (Fachinformatiker Digitale Vernetzung)**: Ein Ausbildungsberuf mit Fokus auf Netzwerke und IT-Systeme.
+- **FISI (Fachinformatiker Systemintegration)**: Ein Ausbildungsberuf zur Integration und Verwaltung von IT-Systemen.
+- **GAN (Global Area Network)**: Ein Netzwerk, das weltweit verteilte Netzwerkressourcen verbindet.
+- **HGB (Handelsgesetzbuch)**: Das zentrale Gesetzbuch des deutschen Handelsrechts.
+- **HTTP (HyperText Transfer Protocol)**: Ein Protokoll zur Übertragung von Webseiten im Internet.
+- **HTTPS (HTTP Secure)**: Eine Erweiterung von HTTP mit Verschlüsselung für sichere Datenübertragung.
+- **IaaS (Infrastructure as a Service)**: Ein Cloud-Computing-Modell, das virtuelle Rechenressourcen bereitstellt.
+- **IDE (Integrierte Entwicklungsumgebung)**: Eine Softwareanwendung zur Unterstützung der Softwareentwicklung.
+- **IP (Internet Protocol)**: Ein Protokoll zur Adressierung und Weiterleitung von Datenpaketen im Internet.
+- **IPsec (Internet Protocol Security)**: Ein Protokoll zur Sicherung von IP-Kommunikation durch Verschlüsselung und Authentifizierung.
+- **IPv4 (Internet Protocol Version 4)**: Die vierte Version des Internetprotokolls mit 32-Bit-Adressen.
+- **IPv6 (Internet Protocol Version 6)**: Die sechste Version des Internetprotokolls mit 128-Bit-Adressen, um den Adressraum zu erweitern.
+- **IT (Informationstechnologie)**: Der Einsatz von Computern und Telekommunikation zur Speicherung, Abruf und Manipulation von Daten.
+- **JSON (JavaScript Object Notation)**: Ein leichtgewichtiges Datenformat zum Austausch von Daten zwischen Systemen.
+- **KVP (Kontinuierlicher Verbesserungsprozess)**: Ein Managementansatz zur ständigen Verbesserung von Prozessen und Produkten.
+- **LAN (Local Area Network)**: Ein Netzwerk, das Computer in einem begrenzten geografischen Bereich verbindet.
+- **MAC (Media Access Control)**: Eine einzigartige Hardware-Adresse, die jedem Netzwerkgerät zugewiesen ist.
+- **MAN (Metropolitan Area Network)**: Ein Netzwerk, das eine größere geografische Fläche als ein LAN abdeckt, z.B. eine Stadt.
+- **MTBF (Mean Time Between Failures)**: Die durchschnittliche Zeit zwischen zwei aufeinanderfolgenden Ausfällen eines Systems.
+- **NoSQL (Not only SQL)**: Datenbanksysteme, die nicht-relational und oft schemalos sind, geeignet für große Datenmengen.
+- **ODBC (Open Database Connectivity)**: Eine standardisierte API für den Zugriff auf Datenbanken.
+- **OSI (Open Systems Interconnection)**: Ein Referenzmodell zur Beschreibung der Kommunikation in Netzwerken in sieben Schichten.
+- **PaaS (Platform as a Service)**: Ein Cloud-Computing-Modell, das eine Plattform für die Entwicklung, Verwaltung und Bereitstellung von Anwendungen bietet.
+- **PAN (Personal Area Network)**: Ein Netzwerk, das Geräte in der Nähe einer einzelnen Person verbindet.
+- **PDCA (Plan-Do-Check-Act)**: Ein iterativer Vier-Phasen-Managementprozess zur kontinuierlichen Verbesserung von Geschäftsprozessen.
+- **QoS (Quality of Service)**: Mechanismen zur Steuerung und Priorisierung von Netzwerkverkehr, um eine bestimmte Servicequalität zu gewährleisten.
+- **RAID (Redundant Array of Independent Disks)**: Eine Technik zur Speicherung von Daten auf mehreren Festplatten zur Erhöhung der Ausfallsicherheit und Leistung.
+- **RADIUS (Remote Authentication Dial-In User Service)**: Ein Netzwerkprotokoll zur Authentifizierung und Autorisierung von Benutzern.
+- **SaaS (Software as a Service)**: Ein Modell zur Bereitstellung von Software über das Internet als Dienstleistung.
+- **SI (Systemintegration)**: Der Prozess der Integration verschiedener IT-Systeme und -Komponenten zu einem funktionierenden Ganzen.
+- **SLA (Service Level Agreement)**: Eine vertragliche Vereinbarung über die erwartete Leistung und Qualität eines Dienstes.
+- **SMB (Server Message Block)**: Ein Netzwerkprotokoll zur gemeinsamen Nutzung von Dateien, Druckern und seriellen Anschlüssen.
+- **S.M.A.R.T (Self-Monitoring, Analysis and Reporting Technology)**: Eine Überwachungstechnologie für Festplatten zur Vorhersage von Ausfällen.
+- **SMTP (Simple Mail Transfer Protocol)**: Ein Protokoll zur Übertragung von E-Mails zwischen Servern.
+- **SNMP (Simple Network Management Protocol)**: Ein Protokoll zur Verwaltung und Überwachung von Netzwerkgeräten.
+- **SOP (Standard Operating Procedures)**: Dokumentierte Verfahren, die konsistente und wiederholbare Prozesse sicherstellen.
+- **SQL (Structured Query Language)**: Eine Programmiersprache zur Verwaltung und Abfrage von Daten in relationalen Datenbanken.
+- **TCP (Transmission Control Protocol)**: Ein Protokoll zur zuverlässigen, geordneten und fehlerfreien Übertragung von Daten im Internet.
+- **TDD (Test-Driven Development)**: Eine Softwareentwicklungsmethode, bei der Tests vor der Implementierung geschrieben werden.
+- **TOM (Technisch Organisatorische Maßnahmen)**: Maßnahmen zur Sicherstellung der Datensicherheit und des Datenschutzes.
+- **UDP (User Datagram Protocol)**: Ein Protokoll zur schnellen, aber unzuverlässigen Übertragung von Datenpaketen im Internet.
+- **UML (Unified Modeling Language)**: Eine standardisierte Modellierungssprache zur Visualisierung und Dokumentation von Softwaresystemen.
+- **USV (Unterbrechungsfreie Stromversorgung)**: Ein System zur Bereitstellung von Notstrom bei Stromausfällen.
+- **UVV (Unfallverhütungsvorschriften)**: Vorschriften zur Verhütung von Arbeitsunfällen.
+- **VLAN (Virtual Local Area Network)**: Eine logische Gruppierung von Netzwerkgeräten, die wie ein physisches LAN funktioniert.
+- **VPN (Virtual Private Network)**: Ein Netzwerk, das eine sichere Verbindung über das Internet bereitstellt.
+- **WAN (Wide Area Network)**: Ein Netzwerk, das große geografische Entfernungen überbrückt, z.B. das Internet.
+- **WBT (Web Based Training)**: Eine Form der Ausbildung, die über das Internet bereitgestellt wird.
+- **WLAN (Wireless Local Area Network)**: Ein drahtloses Netzwerk zur Verbindung von Geräten in einem begrenzten geografischen Bereich.
+- **XML (Extensible Markup Language)**: Eine Auszeichnungssprache zur Darstellung von Daten in einem strukturierten Format.
+- **§ (Paragraph)**: Ein Abschnitt in einem Gesetzestext oder Dokument.
+
+---
+
+<p align="center"><a href="/docs/08-karriere/02-anwendungsentwickler_beruf/04-karriere_bei_nadoo/README.md"><strong>Zurück</strong></a> | <a href="/README.md"><strong>Weiter</strong></a></p>
+
