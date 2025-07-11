@@ -1,4 +1,4 @@
-# <p align="center">🔠 Alphabetisch sortierte Abkürzungen/Akronyme mit Kurzerklärungen" IT</p>
+# <p align="center">🔠 Alphabetisch sortierte Abkürzungen/Akronyme mit Kurzerklärungen IT</p>
 
 
 - **AFR (Annualized Failure Rate)**: Eine Schätzung der Ausfallrate eines Produkts oder Systems innerhalb eines Jahres.
