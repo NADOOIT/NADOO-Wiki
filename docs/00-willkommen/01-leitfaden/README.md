@@ -6,6 +6,10 @@
 
 #
 
+## Dokumentation und Fragen
+
+Es ist wichtig, dass du alle Fragen, die während der Bearbeitung des WIKI`s aufkommen, dokumentierst. Notiere deine Fragen, bevor du sie anderen stellst. Diese Praxis der Dokumentation ist entscheidend für Entwickler, da sie uns hilft, Unklarheiten zu identifizieren und den Lehrgang kontinuierlich zu verbessern und zugänglicher zu gestalten.
+
 ## 1. Einstempeln
 
 ⩇⩇:⩇⩇ Sobald du für deinen ersten Tag online kommst, darfst und solltest du dich einstempeln. Für die [**Zeiterfassung**](/docs/01-organisation/01-zeiterfassung/README.md) nutzen wir ein internes Tool, unser [**NADOO-Launchpad**](https://github.com/NADOOIT/NADOO-Launchpad). 

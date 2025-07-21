@@ -80,10 +80,6 @@ Um die Anleitungen zu vervollständigen, erstelle Screenshots der beschriebenen 
 
 Füge die Bilder in das Repository ein, indem du sie im `images/`-Ordner speicherst. Erstelle anschließend einen Pull Request, um deine Änderungen vorzuschlagen.
 
-## Dokumentation und Fragen
-
-Es ist wichtig, dass du alle Fragen, die während der Bearbeitung dieses Abschnitts aufkommen, dokumentierst. Notiere deine Fragen, bevor du sie anderen stellst. Diese Praxis der Dokumentation ist entscheidend für Entwickler, da sie uns hilft, Unklarheiten zu identifizieren und den Lehrgang kontinuierlich zu verbessern und zugänglicher zu gestalten.
-
 ---
 
 ### Quellen
