@@ -52,4 +52,4 @@ So bleiben alle Teammitglieder – egal wo sie gerade sind – immer auf dem gle
 
 ---
 
-<p align="center"><a href="/docs/05-kommunikation/README.md"><strong>Zurück</strong></a> | <a href="/docs/05-kommunikation/01-discord/01-einrichtung/README.md"><strong>Weiter</strong></a></p>
+<p align="center"><a href="/docs/05-kommunikation/README.md"><strong>Zurück</strong></a> | <a href="\docs\05-kommunikation\01-discord\01-einrichtung\README.md"><strong>Weiter</strong></a></p>

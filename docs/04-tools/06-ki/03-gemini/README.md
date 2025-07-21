@@ -55,4 +55,4 @@ Diese Anleitung basiert auf Informationen aus der [offiziellen Gemini API-Dokume
 
 ---
 
-<p align="center"><a href="/docs/04-tools/06-ki/02-llm-mlx/README.md"><strong>Zurück</strong></a> | <a href="/docs/05-kommunikation/README.md"><strong>Weiter</strong></a></p>
+<p align="center"><a href="\docs\04-tools\06-ki\02-llm-mlx\README.md"><strong>Zurück</strong></a> | <a href="/docs/05-kommunikation/README.md"><strong>Weiter</strong></a></p>
