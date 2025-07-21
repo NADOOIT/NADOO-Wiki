@@ -64,8 +64,8 @@ Hier sind einige grundlegende Befehle zur Navigation im Terminal:
 ## Hilfreiche Ressourcen
 
 ### Deutsch:
-- [Einführung in die Kommandozeile (Ubuntu)](https://wiki.ubuntuusers.de/Einsteiger/Kommandozeile/)
-- [Terminal-Grundlagen (CHIP)](https://praxistipps.chip.de/terminal-grundlagen-die-wichtigsten-befehle_41343)
+- [Einführung in die Kommandozeile (Ubuntu)](https://ubuntu-user.de/tipps-tricks/ubuntu-shell-fuer-anfaenger-meistere-die-kommandozeile/)
+- [Terminal-Grundlagen (CHIP)](https://praxistipps.chip.de/die-wichtigsten-cmd-befehle-ein-ueberblick_115040)
 
 ### Englisch:
 - [Command Line Crash Course (freecodecamp)](https://www.freecodecamp.org/news/command-line-for-beginners/)
