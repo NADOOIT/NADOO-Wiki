@@ -29,7 +29,7 @@ Das Terminal, auch als Kommandozeile, Shell oder Konsole bekannt, ist ein leistu
 Da du bereits Visual Studio Code installiert hast, kannst du das integrierte Terminal wie folgt öffnen:
 1. Öffne Visual Studio Code.
 2. Wähle `View > Terminal` aus dem Menü oder verwende die Tastenkombination:
-   - Windows/Linux: ``Ctrl+` ``
+   - Windows/Linux: ``Ctrl+` / Ctrl+ö``
    - macOS: ``Cmd+` ``
 
 ---
