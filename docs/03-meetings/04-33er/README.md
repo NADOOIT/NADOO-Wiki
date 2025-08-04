@@ -4,7 +4,7 @@
 
 ---
 
-**Dauer:** 30 Minuten
+**Dauer:** 60 Minuten
 
 **Ziel:** Übergreifender Austausch, Wissensvermittlung und Networking zwischen mehreren 11er-Teams.
 
