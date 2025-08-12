@@ -8,7 +8,7 @@
 
 ## Dokumentation und Fragen
 
-Es ist wichtig, dass du alle Fragen, die während der Bearbeitung des WIKI`s aufkommen, dokumentierst. Notiere deine Fragen, bevor du sie anderen stellst. Diese Praxis der Dokumentation ist entscheidend für Entwickler, da sie uns hilft, Unklarheiten zu identifizieren und den Lehrgang kontinuierlich zu verbessern und zugänglicher zu gestalten.
+Es ist wichtig, dass du alle Fragen, die während der Bearbeitung des Wikis aufkommen, dokumentierst. Notiere deine Fragen, bevor du sie anderen stellst. Diese Praxis der Dokumentation ist entscheidend für Entwickler, da sie uns hilft, Unklarheiten zu identifizieren und den Lehrgang kontinuierlich zu verbessern und zugänglicher zu gestalten.
 
 ## 1. Einstempeln
 
