@@ -98,22 +98,22 @@ Unsere Teams sind **dynamisch**. 🤸‍♀️ Dir ist **selbst überlassen**, w
 
 Ein **issue** ist wie eine kleine Notiz oder Aufgabe in unserem System. Wenn du ein Prolem findest, eine Frage hast oder etwas verbessern möchtest, kannst du ein **issue** erstellen.
 
-### Warum benutzen wir **issue** !?!?
+### Warum benutzen wir **Issue** !?!?
 
 1. Damit alle im Team sehen können, dass es ein Prolem oder eine Idee gibt.
 2. Damit niemand vergisst, was noch zu tun ist.
 3. Damit wir gemeinsam eine Lösung finden können.
 
-### Wann soll ich ein **issue** erstellen !?!?
+### Wann soll ich ein **Issue** erstellen !?!?
 
 1. Wenn du etwas in der Dokumentation nicht verstehst.
 2. Wenn du einen Fehler findest.
 3. Wenn du eine Idee für eine Verbesserung hast.
 
-### Wie erstelle ich ein **isuue** !?!?
+### Wie erstelle ich ein **Isuue** !?!?
 
 - Gehe zu unserem GitHub-Prijekt (Repositories)
-- Klicke auf issues (oben)
+- Klicke auf Issues (oben)
 - Klicke auf New Issue (rechts grüne Taste)
 - Schreibe einen klaren Titel
 - Beschreibe dein Problem oder deine Frage (Beschreibung des Anliegens)
