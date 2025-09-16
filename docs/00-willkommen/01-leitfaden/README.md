@@ -142,14 +142,14 @@ Docs - 04-tools - 01-github - 04-issues
 
 ## <p align="center">Übersicht: dein Fahrplan für den ersten Tag 🏎️💨</p>
 
-| Uhrzeit              | Beschreibung                                             | Wo?                                                                                               |
-|:--------------------:|:--------------------------------------------------------:|:-------------------------------------------------------------------------------------------------:|
-| 06:00–10:14 Uhr      | **Einstempeln** / Arbeitstag beginnen                    | **Launchpad**-App                                                                                 |
-| 10:14–10:30 Uhr      | **Anwesenheitskontrolle**                                | Discord-Channel [**33er [weekly] 🔴**](https://discordapp.com/channels/1299292608744390707/1330880189475065910)                                                   |
-| 10:30–11:20 Uhr      | **11er-Meeting**                                         | Discord-Channel [**Code Qualität & Research 🟡**](https://discordapp.com/channels/1299292608744390707/1364897110050213918) ODER einer der **Team-Launch 🟡🟢**-Kanäle |
-| _ab_ 11:20–11:45&nbsp;Uhr | freies Arbeiten / Netzwerken mit Team-Mitgliedern   | Discord-Channel deiner Wahl                                                                       |
-| _freie Einteilung_   | **Pause**                                                | Discord-Channels [**🔇 afk**](https://discordapp.com/channels/1299292608744390707/1331528615132925972) ODER [**🌿 Ruhebereich**](https://discordapp.com/channels/1299292608744390707/1331765513826861136)                                                     |
-| _freie Einteilung_   | **Stillarbeit**                                          | Discord-Channel [**🌿 Ruhebereich**](https://discordapp.com/channels/1299292608744390707/1331765513826861136)                                                                  |
+| Uhrzeit              | Beschreibung                                             |                                                                                                    Wo?                                                                                                    |
+|:--------------------:|:--------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| 06:00–10:14 Uhr      | **Einstempeln** / Arbeitstag beginnen                    |                                                                                             **Launchpad**-App                                                                                             |
+| 10:14–10:30 Uhr      | **Anwesenheitskontrolle**                                |                                              Discord-Channel [**33er [weekly] 🔴**](https://discordapp.com/channels/1299292608744390707/1330880189475065910)                                              |
+| 10:30–11:20 Uhr      | **11er-Meeting**                                         |                            Discord-Channel [**DevOps 🟡**](https://discordapp.com/channels/1299292608744390707/1364897110050213918) ODER einer der **Team-Launch 🟡🟢**-Kanäle                            |
+| _ab_ 11:20–11:45&nbsp;Uhr | freies Arbeiten / Netzwerken mit Team-Mitgliedern   |                                                                                        Discord-Channel deiner Wahl                                                                                        |
+| _freie Einteilung_   | **Pause**                                                | Discord-Channels [**🔇 afk**](https://discordapp.com/channels/1299292608744390707/1331528615132925972) ODER [**🌿 Ruhebereich**](https://discordapp.com/channels/1299292608744390707/1331765513826861136) |
+| _freie Einteilung_   | **Stillarbeit**                                          |                                               Discord-Channel [**🌿 Ruhebereich**](https://discordapp.com/channels/1299292608744390707/1331765513826861136)                                               |
 
 ---
 
