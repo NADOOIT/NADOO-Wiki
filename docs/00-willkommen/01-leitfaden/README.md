@@ -94,6 +94,36 @@ Unsere Teams sind **dynamisch**. 🤸‍♀️ Dir ist **selbst überlassen**, w
 
 📝 Sowas wie eine "feste Aufgabe" gibt es für dich (noch) nicht direkt. Ein großer Teil deiner ersten Tage wird darin bestehen, dich in das [**NADOO-Wiki**](https://github.com/NADOOIT/NADOO-Wiki/) einzulesen und die **Issues** sowohl [**im Wiki-**](https://github.com/NADOOIT/NADOO-Wiki/issues) als auch [**im Launchpad-Repository**](https://github.com/NADOOIT/NADOO-Launchpad/issues) zu durchforsten.
 
+> Das ist eine kurze Erklärung, was ein "issue" ist :
+
+Ein **issue** ist wie eine kleine Notiz oder Aufgabe in unserem System. Wenn du ein Prolem findest, eine Frage hast oder etwas verbessern möchtest, kannst du ein **issue** erstellen.
+
+### Warum benutzen wir **Issue** !?!?
+
+1. Damit alle im Team sehen können, dass es ein Prolem oder eine Idee gibt.
+2. Damit niemand vergisst, was noch zu tun ist.
+3. Damit wir gemeinsam eine Lösung finden können.
+
+### Wann soll ich ein **Issue** erstellen !?!?
+
+1. Wenn du etwas in der Dokumentation nicht verstehst.
+2. Wenn du einen Fehler findest.
+3. Wenn du eine Idee für eine Verbesserung hast.
+
+### Wie erstelle ich ein **Isuue** !?!?
+
+- Gehe zu unserem GitHub-Prijekt (Repositories)
+- Klicke auf Issues (oben)
+- Klicke auf New Issue (rechts grüne Taste)
+- Schreibe einen klaren Titel
+- Beschreibe dein Problem oder deine Frage (Beschreibung des Anliegens)
+- Klicke auf Create
+
+💡 Tipp:
+Schreibe einfach und klar. So können andere dein **issue** schnell verstehen und dir helfen.
+Eine ausführliche Beschreibung findest du in unserer **NADOO-Wiki** : 
+Docs - 04-tools - 01-github - 04-issues
+
 ❌ Keiner erwartet von dir, dass du dir an Tag 1 bereits große, technische Issues heraussuchst und diese löst - außer natürlich, du hast Bock drauf und weißt, wie. Auch davon wird dich hier niemand abhalten, denn **Eigeninitiative** wird bei NADOO **großgeschrieben**. 🚀
 
 💡 Wir empfehlen dir jedoch, erstmal **ganz entspannt anzukommen**. Nutze die ersten paar Tage und Wochen, um dich mit der Dokumentation, den Tools und vor allem den Menschen, mit denen du in der nächsten Zeit eng zusammenarbeiten wirst, vertraut zu machen.
