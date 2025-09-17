@@ -37,7 +37,17 @@ Damit unsere Inhalte **übersichtlich**, **konsistent** und gut **verständlich*
 
 ---
 
-## Wo starte ich am besten?
+### <p align="center"> Erklärung der Allgemeine Regeln
+
+## 1.Klar & kurz schreiben. Erste Zeile - die Kernaussage.
+Alle Nachrichten sollen **kurz und verständlich** sein.
+Die reste Zeile der Nachricht muss **die wichtigste Information enthalten**, damit sofort klar ist, worum es geht.
+## 2. Channels & Direct Messages.
+Fragen, die für das ganze Team interessant sind oder die Arbeit des Teams betreffen, schreibt man in den allgemeinen Kanal (Channel).
+Fragen persoönlicher Art schreibt man in private Nachrichten (Direct Message).
+## 3. Ton: professionell, freundlich, vermeide Emojis in automatisierbaren Subjects.
+Nachrichten sollen **professionell und freundlich** sein.
+Keine Emojis oder Sondernzeichen im Subject (Betreff), das automatisiert verarbeitet wird. Wenn Emojis im Betreff stehen - automatische Verarbeitung kann fehlschlagen.
 
 <br>
 

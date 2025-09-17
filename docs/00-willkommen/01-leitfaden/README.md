@@ -4,11 +4,17 @@
 <a href="#übersicht-dein-fahrplan-für-den-ersten-tag-">➡️ direkt zum First-Day-Fahrplan</a>
 </p>
 
-#
+# Willkommen - Erster Tag (Kurz-Anleitung)
+
 
 ## 1. Einstempeln
 
-⩇⩇:⩇⩇ Sobald du für deinen ersten Tag online kommst, darfst und solltest du dich einstempeln. Für die [**Zeiterfassung**](/docs/01-organisation/01-zeiterfassung/README.md) nutzen wir ein internes Tool, unser [**NADOO-Launchpad**](https://github.com/NADOOIT/NADOO-Launchpad). 
+Zu Beginn und am Ende jedes Arbeitstages wird zuerst eine E-Mail an **christoph.backhaus@nadooit.de** gesendet, die als digitale Anwesenheitsbestätigung dient.
+So sollte es im Betreff aussehen :
+MitarbeiterID_START_YYYY_MM_TT_HH_MM / MitarbeiterID_ENDE_YYY_MM_TT_HH_MM
+Beispiel: 1_START_2025_09_17_08_00 / 1_ENDE_2025_09_17_16_30
+
+💡 Sobald du für deinen ersten Tag online kommst, darfst und solltest du dich einstempeln. Für die [**Zeiterfassung**](/docs/01-organisation/01-zeiterfassung/README.md) nutzen wir ein internes Tool, unser [**NADOO-Launchpad**](https://github.com/NADOOIT/NADOO-Launchpad). 
 
 ---
 
