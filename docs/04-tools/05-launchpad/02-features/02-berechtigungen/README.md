@@ -11,4 +11,4 @@ Infotext "Benötigte GitHub Berechtigungen"
 -->
 ---
 
-<p align="center"><a href="/docs/04-tools/05-launchpad/02-features/01-menu/README.md"><strong>Zurück</strong></a> | <a href="/docs/04-tools/05-launchpad/01-guide/03-tokens/README.md"><strong>Weiter</strong></a></p>
+<p align="center"><a href="/docs/04-tools/05-launchpad/02-features/01-menu/README.md"><strong>Zurück</strong></a> | <a href="/docs/04-tools/05-launchpad/02-features/03-tokens/README.md"><strong>Weiter</strong></a></p>
