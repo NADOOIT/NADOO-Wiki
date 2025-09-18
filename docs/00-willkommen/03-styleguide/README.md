@@ -81,12 +81,18 @@ Desweiteren folgt demnächst ein zweites Kapitel zum **Verzeichnisbaum des** [**
 
 <!-- noch unsicher, ob Aufteilung in Oberthemen oder lieber chronologisch -->
 
-🔹 [**Platzhalter für (vorerst) leere Docs**](/docs/00-willkommen/03-styleguide/00-platzhalter/README.md) <br>
+🔹 [**Platzhalter für (vorerst) leere Docs**](/docs/00-willkommen/03-styleguide/00-platzhalter/02-vorschau/README.md) <br>
 
 <!-- 🔹 [**Verzeichnisbaum des Wiki-READMEs – Hierarchie, Bezeichnungen und Syntax**](tbd) -->
 
 ---
+<p align="center">
+📅 <strong>Dieses Dokument wurde bearbeitet am:</strong> 18.09.2025
+<br>
+✍️ <strong>Von:</strong> <a href="https://github.com/johkori">Johkori(Tim H.)</a> (GitHub)
+</p>
 
+---
 <p align="center">
 <a href="/docs/00-willkommen/02-starterpack/README.md"><strong>Zurück</strong></a> | <a href="/docs/00-willkommen/03-styleguide/00-platzhalter/README.md"><strong>Weiter</strong></a>
 </p>

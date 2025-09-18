@@ -1,8 +1,4 @@
-# <p align="center">Leitfaden für deinen ersten Tag</p>
-
-<p align="center">
-<a href="#übersicht-dein-fahrplan-für-den-ersten-tag-">➡️ direkt zum First-Day-Fahrplan</a>
-</p>
+# <p align="center">Leitfaden für deinen ersten Tag <br> "First-Day-Fahrplan"</p>
 
 # Willkommen - Erster Tag (Kurz-Anleitung)
 
@@ -140,15 +136,13 @@ Docs - 04-tools - 01-github - 04-issues
 
 <!--hier vllt. KI-Image zum Thema "entspannen" einfügen-->
 
----
+
 
 | |
 |:---|
 |⚠️ **Hinweis**: Solltest du noch keinen Zugriff auf die Repositories haben, melde dich bitte umgehend bei Christoph mit deinem **GitHub-Account-Namen**, damit dieser dich zur [NADOO-IT](https://github.com/orgs/NADOOIT/people) und zu den [NADOOlern](https://github.com/orgs/NADOOIT/teams/nadooler) einladen kann. Sobald du Mitglied bist, hast du automatisch Zugriff auf alle Repositories des Unternehmens, die für dich relevant sind.|
+| |
 
-<!--hier Link zum GitHub-Artkel (tbd) zu Organisations ergänzen-->
-
----
 
 ## <p align="center">Übersicht: dein Fahrplan für den ersten Tag 🏎️💨</p>
 
@@ -162,7 +156,13 @@ Docs - 04-tools - 01-github - 04-issues
 | _freie Einteilung_   | **Stillarbeit**                                          |                                               Discord-Channel [**🌿 Ruhebereich**](https://discordapp.com/channels/1299292608744390707/1331765513826861136)                                               |
 
 ---
+<p align="center">
+📅 <strong>Dieses Dokument wurde bearbeitet am:</strong> 18.09.2025
+<br>
+✍️ <strong>Von:</strong> <a href="https://github.com/johkori">Johkori(Tim H.)</a> (GitHub)
+</p>
 
+---
 <p align="center">
 <a href="/docs/00-willkommen/README.md"><strong>Zurück</strong></a> | <a href="/docs/00-willkommen/02-starterpack/README.md"><strong>Weiter</strong></a>
 </p>
