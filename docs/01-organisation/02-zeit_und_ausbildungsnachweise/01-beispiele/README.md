@@ -10,7 +10,7 @@ Die aufgeführten Beispiele dienen zur Veranschaulichung.
 
 ---
 
-## Ausbildungsnachweise
+## Ausbildungsnachweise oder Berichtshefte
 
 ### Ausbildungsnachweis (täglich)
 <br>
@@ -124,6 +124,8 @@ Issue-Nummern und Beschreibungen können im Berichtsheft verwendet werden.
 
 ---
 <br>
+Das Ausbildungsnachweise (Berichtsheft) wird wie gewohnt weitergeführt.
+Abgabe: am **1. Tag des Folgemonats** oder alternativ am **letzten Tag des laufenden Monats** an <christoph.backhaus@nadooit.de> senden.
 
 ## Zeitnachweise
 
@@ -187,15 +189,10 @@ Issue-Nummern und Beschreibungen können im Berichtsheft verwendet werden.
 </table>
 <br>
 
-**Maßnahmenträger:in:** _______________________________________________________
+## Messe- und Veranstaltungsbesuche
+Wer an einer Messe oder einer anderen arbeits- bzw. studienbezogenen Veranstaltung teilnimmt, muss dies melden an <christoph.backhaus@nadooit.de>.
 
-**Ansprechpartner:in:** &emsp;_______________________________________________________
-
-**Telefon:** +49 1234 567890 <br>
-**E-Mail:** <mail@example.com> <br>
-**Verantwortlicher Standort:** 12345 Musterstadt <br>
-
-Die Anwesenheitsliste bitte spätestens am dritten Tag des Folgemonats an Musterinstitut via **E-Mail** an <service@example.com> senden.
+MitarbeiterID_MESSEBESUCH_YYYY_MM_TT / 13_MESSEBESUCH_2025_09_18
 
 <!--
 ---
