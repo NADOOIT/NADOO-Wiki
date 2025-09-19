@@ -1,5 +1,7 @@
 # <p align="center">Python-Grundkonzepte: Veranschaulichung anhand eines Beispielskripts</p>
 
+---
+
 ## Das Skript
 
 Hier ist ein **umfassendes Beispielskript**, das **grundlegende Python-Konzepte** erklärt:
@@ -99,6 +101,7 @@ beispiel_funktion()
 
 print("\nProgramm beendet")
 ```
+---
 
 ## Ausführung des Skripts
 
@@ -188,6 +191,8 @@ Programm beendet
 
 Diese praktische Ausführung hilft, die theoretischen Konzepte in Aktion zu sehen und zu verstehen, wie Python-Code tatsächlich abläuft. Es ist oft hilfreich, Codebeispiele selbst auszuführen und mit ihnen zu experimentieren, um ein tieferes Verständnis zu entwickeln.
 
+---
+
 ### Tipps für die erfolgreiche Ausführung des Skripts:
 
 1. **Korrekte Python-Version**: Stelle sicher, dass du die richtige Python-Version verwenden (in diesem Fall Python 3.11).
@@ -200,4 +205,23 @@ Durch das Verstehen und Anwenden dieser Konzepte in der Praxis legst du eine sol
 
 ---
 
-<p align="center"><a href="/docs/06-entwicklung/04-python/01-einstieg/02-installation/README.md"><strong>Zurück</strong></a> | <a href="/docs/06-entwicklung/04-python/02-debugging/README.md"><strong>Weiter</strong></a></p>
+**Dieses Thema beinhaltet folgende Kapitel:**
+---
+
+🔹 [**Virtuelle Umgebungen**](/docs/04-tools/06-ki/01-leitfaden/README.md) </br>
+🔹 [**Installation**](/docs/04-tools/06-ki/01-leitfaden/README.md) </br>
+🔹 [**Grundkonzept (Beispiel)**](/docs/04-tools/06-ki/01-leitfaden/README.md) </br>
+
+---
+<p align="center">
+📅 <strong>Dieses Dokument wurde bearbeitet am:</strong> 19.09.2025
+<br>
+✍️ <strong>Von:</strong> <a href="https://github.com/johkori">Johkori(Tim H.)</a> (GitHub)
+</p>
+
+---
+
+<p align="center">
+<a href="/docs/06-entwicklung/04-python/01-einstieg/02-installation/README.md"><strong>Zurück</strong></a> | 
+<a href="/docs/06-entwicklung/04-python/02-debugging/README.md"><strong>Weiter</strong></a>
+</p>

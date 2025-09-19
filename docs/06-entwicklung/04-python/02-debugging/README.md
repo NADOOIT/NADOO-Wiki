@@ -1,6 +1,10 @@
 # <p align="center">**Debugging in Python**</p>
 
+---
+
 Debugging ist ein wesentlicher Teil des Programmierprozesses. In diesem Abschnitt werden wir verschiedene Debugging-Techniken anhand eines fehlerhaften Skripts erlernen.
+
+---
 
 ## 1. Fehlerhaftes Beispielskript
 
@@ -212,6 +216,8 @@ Debugging ist eine Fähigkeit, die mit der Zeit und Übung verbessert wird. Je m
 
 Diese Ressourcen bieten zusätzliche Einblicke und praktische Übungen, um deine Debugging-Fähigkeiten zu verbessern. Denke daran, dass effektives Debugging eine Kombination aus Wissen, Erfahrung und Geduld erfordert. Mit der Zeit wirst du immer besser darin, Fehler zu finden und zu beheben.
 
+---
+
 ### Quellen
 
 [1] <https://python.plainenglish.io/popular-and-easy-debugging-techniques-for-python-applications-79d6b8dd2999?gi=08e89f39b1d5> <br>
@@ -225,4 +231,22 @@ Diese Ressourcen bieten zusätzliche Einblicke und praktische Übungen, um deine
 
 ---
 
-<p align="center"><a href="/docs/06-entwicklung/04-python/01-einstieg/03-grundkonzept_bsp/README.md"><strong>Zurück</strong></a> | <a href="/docs/06-entwicklung/05-java/README.md"><strong>Weiter</strong></a></p>
+**Dieses Thema beinhaltet folgende Kapitel:**
+---
+
+🔹 [**Einstieg**](/docs/06-entwicklung/04-python/01-einstieg/README.md) </br>
+🔹 [**Debugging**](/docs/06-entwicklung/04-python/02-debugging/README.md) </br>
+
+---
+<p align="center">
+📅 <strong>Dieses Dokument wurde bearbeitet am:</strong> 19.09.2025
+<br>
+✍️ <strong>Von:</strong> <a href="https://github.com/johkori">Johkori(Tim H.)</a> (GitHub)
+</p>
+
+---
+
+<p align="center">
+<a href="/docs/06-entwicklung/04-python/01-einstieg/03-grundkonzept_bsp/README.md"><strong>Zurück</strong></a> | 
+<a href="/docs/06-entwicklung/05-java/README.md"><strong>Weiter</strong></a>
+</p>

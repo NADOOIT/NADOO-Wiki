@@ -34,4 +34,22 @@ Nutze Projects zusammen mit Labels, Milestones und Assignees für eine strukturi
 
 ---
 
-<p align="center"><a href="/docs/04-tools/01-github/04-issues/05-milestones/README.md"><strong>Zurück</strong></a> | <a href="/docs/04-tools/01-github/04-issues/06-projects/01-zeitplanung/README.md"><strong>Weiter</strong></a></p>
+
+**Dieses Thema beinhaltet folgende Kapitel:**
+---
+
+🔹 [**Zeitplanung**](/docs/04-tools/01-github/04-issues/06-projects/01-zeitplanung/README.md) </br>
+
+---
+<p align="center">
+📅 <strong>Dieses Dokument wurde bearbeitet am:</strong> 19.09.2025
+<br>
+✍️ <strong>Von:</strong> <a href="https://github.com/johkori">Johkori(Tim H.)</a> (GitHub)
+</p>
+
+---
+
+<p align="center">
+<a href="/docs/04-tools/01-github/04-issues/05-milestones/README.md"><strong>Zurück</strong></a> | 
+<a href="/docs/04-tools/01-github/04-issues/06-projects/01-zeitplanung/README.md"><strong>Weiter</strong></a>
+</p>

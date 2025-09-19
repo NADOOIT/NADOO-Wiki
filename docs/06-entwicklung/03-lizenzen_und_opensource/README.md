@@ -1,5 +1,7 @@
 # <p align="center">Lizenzen, Open Source und die Welt der Softwareabhängigkeiten</p>
 
+---
+
 Bevor du mit der Entwicklung deiner ersten eigenen App beginnst, solltest du dich mit der Thematik rund um Lizenzen und Softwareabhängigkeiten vertraut machen. Immerhin wirst du während dieses Prozesses verschiedene Softwarepakete nutzen müssen, die alle unter bestimmten Lizenzen veröffentlicht wurden. Lass uns einen Moment innehalten, um die Bedeutung dieser Lizenzen und die Welt der Open-Source-Software zu betrachten.
 
 ---
@@ -84,5 +86,30 @@ Die Welt der Softwareentwicklung ist komplex und voller Nuancen. Während wir di
 
 ---
 
-<p align="center"><a href="/docs/06-entwicklung/02-clean_architecture/02-best_practices/README.md"><strong>Zurück</strong></a> | <a href="/docs/06-entwicklung/04-python/README.md"><strong>Weiter</strong></a></p>
+**Dieser Themenbereich beinhaltet folgende Themen:**
+---
+
+🔹 [**Dokumentation**](/docs/06-entwicklung/01-dokumentation/README.md)<br>
+🔹 [**Clean Architecture**](/docs/06-entwicklung/02-clean_architecture/README.md) <br>
+🔹 [**Lizenzen und Open Source**](/docs/06-entwicklung/03-lizenzen_und_opensource/README.md) <br>
+🔹 [**Python**](/docs/06-entwicklung/04-python/README.md) <br>
+🔹 [**Java**](/docs/06-entwicklung/05-java/README.md) <br>
+🔹 [**Frameworks**](/docs/06-entwicklung/06-frameworks/README.md) <br>
+🔹 [**Digitale Produktentwicklung**](/docs/06-entwicklung/07-digitale_produktentwicklung/README.md) <br>
+🔹 [**CMS**](/docs/06-entwicklung/08-cms/README.md) <br>
+
+---
+
+<p align="center">
+📅 <strong>Dieses Dokument wurde bearbeitet am:</strong> 19.09.2025
+<br>
+✍️ <strong>Von:</strong> <a href="https://github.com/johkori">Johkori(Tim H.)</a> (GitHub)
+</p>
+
+---
+
+<p align="center">
+<a href="/docs/06-entwicklung/02-clean_architecture/02-best_practices/README.md"><strong>Zurück</strong></a> | 
+<a href="/docs/06-entwicklung/04-python/README.md"><strong>Weiter</strong></a>
+</p>
 
