@@ -209,5 +209,12 @@ Die Anwesenheitsliste bitte spätestens am dritten Tag des Folgemonats an Muster
 ---
 
 <p align="center">
-<a href="/docs/01-organisation/02-zeit_und_ausbildungsnachweise/README.md"><strong>Zurück</strong></a> | <a href="/docs/01-organisation/02-zeit_und_ausbildungsnachweise/02-dateibenennung/README.md"><strong>Weiter</strong></a>
+📅 <strong>Dieses Dokument wurde bearbeitet am:</strong> 19.09.2025
+<br>
+✍️ <strong>Von:</strong> <a href="https://github.com/johkori">Johkori(Tim H.)</a> (GitHub)
+</p>
+
+---
+<p align="center">
+<a href="/docs/01-organisation/02-zeit_und_ausbildungsnachweise/README.md"><strong>Zurück</strong></a> | <a href="/docs/01-organisation/02-zeit_und_ausbildungsnachweise/02-dateibenennung-zeit_und_ausbildungsnachweise/README.md"><strong>Weiter</strong></a>
 </p>

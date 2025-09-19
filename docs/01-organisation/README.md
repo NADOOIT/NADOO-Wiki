@@ -36,5 +36,12 @@ Okay, kommen wir zum ersten großen Themenbereich: **Organisation und Rahmenbedi
 ---
 
 <p align="center">
-<a href="/docs/00-willkommen/03-styleguide/00-platzhalter/02-vorschau/README.md"><strong>Zurück</strong></a> | <a href="/docs/01-organisation/01-zeiterfassung/README.md"><strong>Weiter</strong></a>
+📅 <strong>Dieses Dokument wurde bearbeitet am:</strong> 19.09.2025
+<br>
+✍️ <strong>Von:</strong> <a href="https://github.com/johkori">Johkori(Tim H.)</a> (GitHub)
+</p>
+
+---
+<p align="center">
+<a href="/docs/00-willkommen/README.md"><strong>Zurück</strong></a> | <a href="/docs/00-willkommen/02-starterpack/README.md"><strong>Weiter</strong></a>
 </p>

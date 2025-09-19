@@ -93,9 +93,16 @@ Die folgenden **Regeln** wurden entwickelt, um die **Bearbeitung** der Dateien z
 ![image](https://github.com/user-attachments/assets/8c520580-be00-42d1-b497-8e167a6fde34)
 
 ---
-<br>
 
 <h3 align="center">💡 Für weitere Informationen und Einblicke in den Entscheidungsprozess verweisen wir auf <a href="https://github.com/NADOOIT/NADOO-Launchpad/issues/312">Issue #312</a> im NADOO-Launchpad auf GitHub.</h3>
+
+---
+
+<p align="center">
+📅 <strong>Dieses Dokument wurde bearbeitet am:</strong> 19.09.2025
+<br>
+✍️ <strong>Von:</strong> <a href="https://github.com/johkori">Johkori(Tim H.)</a> (GitHub)
+</p>
 
 ---
 

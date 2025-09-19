@@ -62,6 +62,13 @@ Das Mutterschutzgesetz gilt für:
 <!-- evtl. um Regelungen / kurze Überisicht für Väter ergänzen -->
 
 ---
+<p align="center">
+📅 <strong>Dieses Dokument wurde bearbeitet am:</strong> 19.09.2025
+<br>
+✍️ <strong>Von:</strong> <a href="https://github.com/johkori">Johkori(Tim H.)</a> (GitHub)
+</p>
+
+---
 
 <p align="center">
 <a href="/docs/01-organisation/05-krankmeldungen/README.md"><strong>Zurück</strong></a> | <a href="/docs/01-organisation/07-datenschutz/README.md"><strong>Weiter</strong></a>

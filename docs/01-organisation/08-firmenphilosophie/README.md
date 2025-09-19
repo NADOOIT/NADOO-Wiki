@@ -17,7 +17,7 @@ Bei Christoph Backhaus IT verstehen wir **Unternehmenskultur** nicht als leeres 
 
 ---
 
-### <p align="center">Dieses Thema beinhaltet folgende Kapitel:</p>
+ <p align="center">Dieses Thema beinhaltet folgende Kapitel:</p>
 ---
 
 🔹 [**Verhaltensregeln bei Christoph Backhaus / NADOO-IT**](/docs/01-organisation/08-firmenphilosophie/01-verhaltensregeln/README.md) </br>
@@ -26,6 +26,13 @@ Bei Christoph Backhaus IT verstehen wir **Unternehmenskultur** nicht als leeres 
 
 ---
 
+<p align="center">
+📅 <strong>Dieses Dokument wurde bearbeitet am:</strong> 19.09.2025
+<br>
+✍️ <strong>Von:</strong> <a href="https://github.com/johkori">Johkori(Tim H.)</a> (GitHub)
+</p>
+
+---
 <p align="center">
 <a href="/docs/01-organisation/07-datenschutz/README.md"><strong>Zurück</strong></a> | <a href="/docs/01-organisation/08-firmenphilosophie/01-verhaltensregeln/README.md"><strong>Weiter</strong></a>
 </p>

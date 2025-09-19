@@ -61,5 +61,12 @@ Du hast ein bisschen getrödelt, dein erster Tag steht quasi schon mit dem Fuß 
 ---
 
 <p align="center">
-<a href="/README.md"><strong>Zurück zum Start</strong></a> | <a href="/docs/00-willkommen/01-leitfaden/README.md"><strong>Weiter</strong></a>
+📅 <strong>Dieses Dokument wurde bearbeitet am:</strong> 19.09.2025
+<br>
+✍️ <strong>Von:</strong> <a href="https://github.com/johkori">Johkori(Tim H.)</a> (GitHub)
+</p>
+
+---
+<p align="center">
+<a href="/docs/00-willkommen/README.md"><strong>Zurück</strong></a> | <a href="/docs/00-willkommen/01-leitfaden/README.md"><strong>Weiter</strong></a>
 </p>
