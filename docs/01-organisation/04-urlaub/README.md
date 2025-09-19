@@ -15,30 +15,18 @@ Wenn du bei **Christoph Backhaus IT** im Zuge einer **Umschulung** als **Praktik
 **2.** Schicke dafür eine kurze E-Mail an [**christoph.backhaus@nadooit.de**](mailto:christoph.backhaus@nadooit.de). Formuliere den **Betreff** dabei basierend auf dem folgenden Muster:
 <br> 
 
-<p align=center><strong>Urlaubsantrag - [Zeitraum] - [dein Nachname, dein Vorname]</strong></p>
+MitarbeiterID_URLAUBSANTRAG_START_YYYY_MM_TT_ENDE_YYYY_MM_TT
+13_URLAUBSANTRAG_START_2025_09_19_ENDE_2025_10_10
 
----
+## Alle, die die Schule (Umschulung) besuchen müssen
 
-![show: Muster / Beispiel Empfänger und Betreff](https://github.com/user-attachments/assets/a514ec78-36ba-4510-8587-8ed2c99e3ac8)
+Bitte informiert Christoph im Voraus, wenn ihr bereits wisst, wann die Schule stattfindet und wie lange dauert.
+Wenn ihr es noch nicht wisst und später erfahrt, gebt bitte ein paar Tage vor Beginn der Schule Bescheid.
+🚩 Dies ist eine Pflichtregel, das heißt, ihr müsst dies unbedingt einhalten.
 
-<br>
-
-**3.** Füge im Body die folgende Standard-Floskel ein, in welcher du deine **Wunschtermine** nochmal wiederholst und **bestätigst**:
-
-<br>
-
-```
-Hallo Christoph,
-
-hiermit beantrage ich Urlaub für den Zeitraum vom [dein Startdatum] bis einschließlich [dein Enddatum].
-
-Viele / Freundliche / Herzliche Grüße / [deine Präferenz]
-[dein Name]
-```
-
-#
-
-![show: Muster / Beispiel komplette E-Mail](https://github.com/user-attachments/assets/6f25fa96-8f73-452b-9765-98838a9c9f37)
+Schicke eine E-Mail an [**christoph.backhaus@nadooit.de**](mailto:christoph.backhaus@nadooit.de).
+**Betreff:**  MitarbeiterID_SCHULE_START_YYYY_MM_TT_ENDE_YYYY_MM_TT 
+**Beispiel:**  13_SCHULE_START_2025_09_19_ENDE_2025_11_03 
 
 ---
 
