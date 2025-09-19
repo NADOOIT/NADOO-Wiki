@@ -1,5 +1,31 @@
 # <p align="center">Erfassung deiner Arbeits- und Pausenzeiten mit dem NADOO-Launchpad</p>
 
+# <p align="center">🕣Zeiterfassung - Wichtige Infos für ALLE !
+
+Bevor wir dir alles Schritt für Schritt erklären, musst du das Wichtigste wissen : 
+Unsere Zeiterfassung ist auch eine digitale Anwesenheitsbestätigung.
+
+Jeder Mitarbeiter/in sendet **zwei E-Mails pro Tag** (Start/Ende) an <christoph.backhaus@nadooit.de> als Anwesenheitsnachweis.
+## E-Mail-Betreff für Zeiterfassung
+Format: MitarbeiterID_TYP_YYYY_MM_TT_HH_MM
+### Beispiele
+- **Einstempeln** (Tagesbeginn):
+13_START_2025_09_17_08_00
+- **Ausstempeln** (Tagesende):
+13_ENDE_2025_09_17_16_30
+
+*(Mitarbeiter-ID = individuelle ID. Wird im Onboardings Prozess von Christoph zur verfügung gestellt)*
+
+**Vollzeit:**
+⌛Arbeitszeit ist von 08:00 bis 16:30 Uhr. Es gibt 30 Minuten ☕Pause, die du selbs wählen kannst.
+**-** Zum Beispiel entscheidest du selbst, wann du Pause macht(z.B um 11:30 oder 12:00).
+**-** **Wichtig** ist nur: die Pause muss 30 Minuten dauern.
+
+**Teilteit:**
+⏳Arbeitszeit ist von 08:00 bis 14:00 Uhr. Hier gibt es 🚫keine Pause.
+
+☝ Bitte achte darauf, deine Zeiten korrekt einzutragen !!!
+
 Die Erfassung deiner **Arbeits- und Pausenzeiten** erfolgt über unsere Software [**NADOO-Launchpad**](https://github.com/NADOOIT/NADOO-Launchpad).
 
 Sie ist für dich als Neueinsteiger einer der wichtigsten Punkte, der keine Sorgen auslösen oder missverständlich sein sollte. Hier erklären wir dir, wie du unser Tool - das [**NADOO-Launchpad**](https://github.com/NADOOIT/NADOO-Launchpad) - richtig für das Erfassen deiner Arbeits- und Pausenzeit verwendest und wie du Einblick in die erfassten Zeiten erhältst. <p>**Vorab - alle erfassten Zeiten werden in einer CSV-Datei lokal gespeichert und sind manipulierbar, was insbesondere an deinem ersten Tag relevant sein könnte.** <p> <small>Wie du das Launchpad zum ersten Mal startest bzw. installierst, wird dir in der [**README des Launchpad-Repositories**](https://github.com/NADOOIT/NADOO-Launchpad/blob/main/README.md) erklärt. Hier zeigen wir dir, wie du deine Zeiten richtig erfassen kannst. </small> <p>Nachdem du das Launchpad gestartet hast, sollte sich folgendes GUI öffnen: ![alt text](image.png) <br><small>
