@@ -1,5 +1,7 @@
 # <p align="center">**Video- und Bildschirmübertragung**</p>
 
+---
+
 ## Video- bzw. Avatar-Pflicht
 
 In einem professionellen Umfeld innerhalb unserer digitalen Welt ist es wichtig, durch die Nutzung von Videoübertragung Präsenz zu zeigen.
@@ -17,4 +19,22 @@ Es wird jedoch empfohlen, in kleineren Gruppen oder bei persönlichen Gespräche
 
 ---
 
-<p align="center"><a href="/docs/05-kommunikation/01-discord/01-einrichtung/README.md"><strong>Zurück</strong></a> | <a href="/docs/05-kommunikation/02-webcam/01-droidcam/README.md"><strong>Weiter</strong></a></p>
+**Dieses Thema beinhaltet folgende Kapitel:**
+---
+
+🔹 [**Droidcam**](/docs/04-tools/06-ki/01-leitfaden/README.md) </br>
+🔹 [**IOS**](/docs/04-tools/06-ki/01-leitfaden/README.md) </br>
+
+---
+<p align="center">
+📅 <strong>Dieses Dokument wurde bearbeitet am:</strong> 19.09.2025
+<br>
+✍️ <strong>Von:</strong> <a href="https://github.com/johkori">Johkori(Tim H.)</a> (GitHub)
+</p>
+
+---
+
+<p align="center">
+<a href="/docs/05-kommunikation/01-discord/01-einrichtung/README.md"><strong>Zurück</strong></a> | 
+<a href="/docs/05-kommunikation/02-webcam/01-droidcam/README.md"><strong>Weiter</strong></a>
+</p>

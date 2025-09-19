@@ -42,4 +42,28 @@ Um manuelle Arbeitsschritte zu reduzieren, die Codequalität zu sichern und schn
 
 ---
 
-<p align="center"><a href="/docs/04-tools/01-github/04-issues/08-templates/README.md"><strong>Zurück</strong></a> | <a href="/docs/04-tools/01-github/06-notifications/README.md"><strong>Weiter</strong></a></p>
+**Dieses Thema beinhaltet folgende Kapitel:**
+---
+
+🔹 [**Repository**](/docs/01-organisation/02-zeit_und_ausbildungsnachweise/01-beispiele/README.md) </br>
+🔹 [**Branches**](/docs/01-organisation/02-zeit_und_ausbildungsnachweise/02-dateibenennung/README.md) </br>
+🔹 [**Pull-Requests**](/docs/01-organisation/02-zeit_und_ausbildungsnachweise/03-ueberpruefung/README.md) </br>
+🔹 [**Issues**](/docs/01-organisation/02-zeit_und_ausbildungsnachweise/03-ueberpruefung/README.md) </br>
+🔹 [**Actions**](/docs/01-organisation/02-zeit_und_ausbildungsnachweise/03-ueberpruefung/README.md) </br>
+🔹 [**Notifications**](/docs/01-organisation/02-zeit_und_ausbildungsnachweise/03-ueberpruefung/README.md) </br>
+🔹 [**Suche**](/docs/01-organisation/02-zeit_und_ausbildungsnachweise/03-ueberpruefung/README.md) </br>
+🔹 [**Markdown**](/docs/01-organisation/02-zeit_und_ausbildungsnachweise/03-ueberpruefung/README.md) </br>
+🔹 [**Organizations-teams**](/docs/04-tools/01-github/09-organizations-teams/README.md) </br>
+🔹 [**GitHub Einführung**](/docs/04-tools/01-github/10-github-einfuehrung/README.md) </br>
+
+---
+<p align="center">
+📅 <strong>Dieses Dokument wurde bearbeitet am:</strong> 19.09.2025
+<br>
+✍️ <strong>Von:</strong> <a href="https://github.com/johkori">Johkori(Tim H.)</a> (GitHub)
+</p>
+
+<p align="center">
+<a href="/docs/04-tools/01-github/04-issues/08-templates/README.md"><strong>Zurück</strong></a> | 
+<a href="/docs/04-tools/01-github/06-notifications/README.md"><strong>Weiter</strong></a>
+</p>

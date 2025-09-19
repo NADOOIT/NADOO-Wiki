@@ -1,4 +1,7 @@
 # <p align="center">Java</p>
+
+---
+
 <!-- hier Kapitel-Übersicht nicht vergessen, sollten neue Inhalte hinzugefügt werden
 -> für diese dann neue Kapitel-Ordner anlegen! -->
 Java ist eine weitverbreitete, objektorientierte Programmiersprache, die erstmals 1995 von Sun Microsystems veröffentlicht wurde. Dieser Artikel bietet einen kurzen Überblick über die Entstehung und die Grundprinzipien von Java.
@@ -21,4 +24,29 @@ Dieser Artikel dient als Auftakt zu weiterführenden Themen rund um Java, welche
 
 ---
 
-<p align="center"><a href="/docs/06-entwicklung/04-python/02-debugging/README.md"><strong>Zurück</strong></a> | <a href="/docs/06-entwicklung/06-frameworks/README.md"><strong>Weiter</strong></a></p>
+**Dieses Thema beinhaltet folgendes Tutorial:**
+---
+
+🔹 [**Theorie 01**](/docs/06-entwicklung/05-java/01-tutorial/01-theorie/README.md) </br>
+🔹 [**Theorie 02**](/docs/06-entwicklung/05-java/01-tutorial/02-theorie/README.md) </br>
+🔹 [**Theorie 03**](/docs/06-entwicklung/05-java/01-tutorial/03-theorie/README.md) </br>
+🔹 [**Theorie 04**](/docs/06-entwicklung/05-java/01-tutorial/04-theorie/README.md) </br>
+🔹 [**Theorie 05**](/docs/06-entwicklung/05-java/01-tutorial/05-theorie/README.md) </br>
+🔹 [**Theorie 06**](/docs/06-entwicklung/05-java/01-tutorial/06-theorie/README.md) </br>
+🔹 [**Theorie 07**](/docs/06-entwicklung/05-java/01-tutorial/07-theorie/README.md) </br>
+🔹 [**Praxis 01**](/docs/06-entwicklung/05-java/01-tutorial/08-praxis-1/README.md) </br>
+🔹 [**Praxis 02**](/docs/06-entwicklung/05-java/01-tutorial/09-praxis-2/README.md) </br>
+
+---
+<p align="center">
+📅 <strong>Dieses Dokument wurde bearbeitet am:</strong> 19.09.2025
+<br>
+✍️ <strong>Von:</strong> <a href="https://github.com/johkori">Johkori(Tim H.)</a> (GitHub)
+</p>
+
+---
+
+<p align="center">
+<a href="/docs/06-entwicklung/04-python/02-debugging/README.md"><strong>Zurück</strong></a> | 
+<a href="/docs/06-entwicklung/05-java/01-tutorial/01-theorie/README.md"><strong>Weiter</strong></a>
+</p>

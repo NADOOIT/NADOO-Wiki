@@ -250,6 +250,8 @@ Beachte die Anforderungen an das Eingabebild und die Audiodatei:
 
 Hallo eröffnet faszinierende Möglichkeiten für die Erstellung von animierten Präsentationen, virtuellen Sprechern oder kreativen Multimedia-Projekten. Mit der Möglichkeit des eigenen Trainings kannst du das Modell an deine spezifischen Bedürfnisse anpassen.
 
+---
+
 ## Aufgabe: Experimentieren mit KI-Tools
 
 1. Implementiere das ChatGPT API-Beispiel und stelle eine eigene Frage.
@@ -257,9 +259,13 @@ Hallo eröffnet faszinierende Möglichkeiten für die Erstellung von animierten 
 3. Lade ein Modell von Hugging Face herunter und experimentiere damit.
 4. Versuche, mit einem der speziellen KI-Anwendungsbeispiele zu arbeiten (z.B. Text-zu-Sprache).
 
+---
+
 ## Dokumentation und Fragen
 
 Während du mit diesen KI-Tools experimentierst, notiere deine Erfahrungen und Fragen. Erstelle für jede wichtige Erkenntnis oder Herausforderung ein separates Issue in unserem Repository. Dies hilft nicht nur dir, sondern verbessert auch die Dokumentation für zukünftige Nutzer.
+
+---
 
 ## Ziel
 
@@ -285,6 +291,26 @@ https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-
 [7] https://openaccess.thecvf.com/content/CVPR2024/papers/Wan_OmniParser_A_Unified_Framework_for_Text_Spotting_Key_Information_Extraction_CVPR_2024_paper.pdf
 [8] https://www.psychology.hu-berlin.de/de/prof/ingpsy/inpsy_old/forschung/tools/literatur/fuhrmann-2010-entwicklung-eines-gui-fur-die-konfiguration-der-software-komponente-zur-systemprozessuberwachung-und-kontrolle-in-einer-psychologischen-versuchsumgebung.pdf
 
+
 ---
 
-<p align="center"><a href="/docs/04-tools/06-ki/README.md"><strong>Zurück</strong></a> | <a href="/docs/04-tools/06-ki/02-llm-mlx/README.md"><strong>Weiter</strong></a></p>
+**Dieses Thema beinhaltet folgende Kapitel:**
+---
+
+🔹 [**Leitfaden KI**](/docs/04-tools/06-ki/01-leitfaden/README.md) </br>
+🔹 [**LLM-Mix**](/docs/04-tools/06-ki/02-llm-mlx/README.md) </br>
+🔹 [**Gemini**](/docs/04-tools/06-ki/03-gemini/README.md) </br>
+
+---
+<p align="center">
+📅 <strong>Dieses Dokument wurde bearbeitet am:</strong> 19.09.2025
+<br>
+✍️ <strong>Von:</strong> <a href="https://github.com/johkori">Johkori(Tim H.)</a> (GitHub)
+</p>
+
+---
+
+<p align="center">
+<a href="/docs/04-tools/06-ki/README.md"><strong>Zurück</strong></a> | 
+<a href="/docs/04-tools/06-ki/02-llm-mlx/README.md"><strong>Weiter</strong></a>
+</p>

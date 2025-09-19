@@ -58,4 +58,22 @@ Pull Requests stellen sicher, dass neue Features oder Bugfixes vor ihrer Integra
 
 ---
 
-<p align="center"><a href="/docs/04-tools/01-github/02-branches/01-protection/README.md"><strong>Zurück</strong></a> | <a href="/docs/04-tools/01-github/03-pull-requests/01-merge-konflikte/README.md"><strong>Weiter</strong></a></p>
+**Dieses Thema beinhaltet folgende Kapitel:**
+---
+
+🔹 [**Merge-Konflikte**](/docs/04-tools/01-github/03-pull-requests/01-merge-konflikte/README.md) </br>
+🔹 [**Code-Review**](/docs/04-tools/01-github/03-pull-requests/02-code-review/README.md) </br>
+
+---
+<p align="center">
+📅 <strong>Dieses Dokument wurde bearbeitet am:</strong> 19.09.2025
+<br>
+✍️ <strong>Von:</strong> <a href="https://github.com/johkori">Johkori(Tim H.)</a> (GitHub)
+</p>
+
+---
+
+<p align="center">
+<a href="/docs/04-tools/01-github/02-branches/01-protection/README.md"><strong>Zurück</strong></a> | 
+<a href="/docs/04-tools/01-github/03-pull-requests/01-merge-konflikte/README.md"><strong>Weiter</strong></a>
+</p>

@@ -1,5 +1,7 @@
 # <p align="center">Clean Architecture</p>
 
+---
+
 Einführung in Clean Architecture am Beispiel einer Zeiterfassungsanwendung
 
 ## Schichten und ihre Aufgaben
@@ -323,9 +325,13 @@ Damit haben wir eine vollständige vertikale Scheibe unserer Zeiterfassungsanwen
 
 Mit diesen Tipps und dem obigen Leitfaden sollte ein Entwicklungsteam ohne Vorerfahrung in der Lage sein, eine einfache Zeiterfassungsanwendung nach Clean Architecture umzusetzen. Wichtig ist, die Trennung der Schichten konsequent umzusetzen – so werden die Vorteile Wartbarkeit, Testbarkeit und Flexibilität Schritt für Schritt erfahrbar. Viel Erfolg beim Ausprobieren!
 
+---
+
 ## Fazit
 
 Die Clean Architecture ist ein bewährtes Muster, um Softwareprojekte strukturiert und wartbar zu gestalten. Durch die Trennung von Domäne, Anwendungslogik und Infrastruktur wird die Flexibilität erhöht und die Testbarkeit verbessert. In diesem Beispiel haben wir eine einfache Zeiterfassungsanwendung Schritt für Schritt aufgebaut und dabei die Prinzipien der Clean Architecture angewendet. Mit den vorgestellten Best Practices und Tipps können auch Einsteiger in der Softwareentwicklung erfolgreich mit Clean Architecture arbeiten.
+
+---
 
 ## Weiterführende Links
 
@@ -334,4 +340,22 @@ Die Clean Architecture ist ein bewährtes Muster, um Softwareprojekte strukturie
 
 ---
 
-<p align="center"><a href="/docs/06-entwicklung/01-dokumentation/README.md"><strong>Zurück</strong></a> | <a href="/docs/06-entwicklung/02-clean_architecture/01-praxisbeispiel/README.md"><strong>Weiter</strong></a></p>
+**Dieses Thema beinhaltet folgende Kapitel:**
+---
+
+🔹 [**Praxisbeispiel**](/docs/04-tools/06-ki/01-leitfaden/README.md) </br>
+🔹 [**Best Practices**](/docs/04-tools/06-ki/01-leitfaden/README.md) </br>
+
+---
+<p align="center">
+📅 <strong>Dieses Dokument wurde bearbeitet am:</strong> 19.09.2025
+<br>
+✍️ <strong>Von:</strong> <a href="https://github.com/johkori">Johkori(Tim H.)</a> (GitHub)
+</p>
+
+---
+
+<p align="center">
+<a href="/docs/06-entwicklung/01-dokumentation/README.md"><strong>Zurück</strong></a> | 
+<a href="/docs/06-entwicklung/02-clean_architecture/01-praxisbeispiel/README.md"><strong>Weiter</strong></a>
+</p>

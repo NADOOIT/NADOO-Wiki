@@ -1,5 +1,7 @@
 # <p align="center">Briefcase und Toga: Python-Frameworks für plattformübergreifende Apps</p>
 
+---
+
 Herzlich Willkommen zu den Briefcase und Toga Tutorials!
 
 In diesem Wiki-Artikel bereiten wir dich auf die Tutorials vor, in denen du lernst, wie du mit **Briefcase** und **Toga** plattformübergreifende Anwendungen in Python entwickelst.  
@@ -21,7 +23,27 @@ Die offiziellen Tutorials führen ebenfalls die Installation von Python und das 
 ```bash
 # macOS und Linux
 ```
+---
+
+**Dieses Thema beinhaltet folgende Kapitel:**
+---
+
+🔹 [**Briefcase**](/docs/06-entwicklung/01-dokumentation/README.md)<br>
+🔹 [**Toga**](/docs/06-entwicklung/02-clean_architecture/README.md) <br>
+🔹 [**Zusammenspiel**](/docs/06-entwicklung/02-clean_architecture/README.md) <br>
+🔹 [**Debugging**](/docs/06-entwicklung/02-clean_architecture/README.md) <br>
 
 ---
 
-<p align="center"><a href="/docs/06-entwicklung/06-frameworks/01-nadoo_framework/README.md"><strong>Zurück</strong></a> | <a href="/docs/06-entwicklung/06-frameworks/02-briefcase_und_toga/01-briefcase/README.md"><strong>Weiter</strong></a></p>
+<p align="center">
+📅 <strong>Dieses Dokument wurde bearbeitet am:</strong> 19.09.2025
+<br>
+✍️ <strong>Von:</strong> <a href="https://github.com/johkori">Johkori(Tim H.)</a> (GitHub)
+</p>
+
+---
+
+<p align="center">
+<a href="/docs/06-entwicklung/06-frameworks/01-nadoo_framework/README.md"><strong>Zurück</strong></a> | 
+<a href="/docs/06-entwicklung/06-frameworks/02-briefcase_und_toga/01-briefcase/README.md"><strong>Weiter</strong></a>
+</p>

@@ -95,5 +95,28 @@ Füge die Bilder in das Repository ein, indem du sie im `images/`-Ordner speiche
 
 ---
 
-<p align="center"><a href="/docs/04-tools/03-intellij/02-installation/README.md"><strong>Zurück</strong></a> | <a href="/docs/04-tools/05-launchpad/README.md"><strong>Weiter</strong></a></p>
+**Dieser Themenbereich beinhaltet folgende Themen:**
+---
+
+🔹 [**Github**](/docs/00-willkommen/03-styleguide/00-platzhalter/01-anleitung/README.md)<br>
+🔹 [**VS Code**](/docs/00-willkommen/03-styleguide/00-platzhalter/02-vorschau/README.md) <br>
+🔹 [**IntelliJ**](/docs/00-willkommen/03-styleguide/00-platzhalter/02-vorschau/README.md) <br>
+🔹 [**Terminal**](/docs/00-willkommen/03-styleguide/00-platzhalter/02-vorschau/README.md) <br>
+🔹 [**Launchpad**](/docs/00-willkommen/03-styleguide/00-platzhalter/02-vorschau/README.md) <br>
+🔹 [**KI, Künstliche Intelligenz**](/docs/00-willkommen/03-styleguide/00-platzhalter/02-vorschau/README.md) <br>
+
+---
+
+<p align="center">
+📅 <strong>Dieses Dokument wurde bearbeitet am:</strong> 19.09.2025
+<br>
+✍️ <strong>Von:</strong> <a href="https://github.com/johkori">Johkori(Tim H.)</a> (GitHub)
+</p>
+
+---
+
+<p align="center">
+<a href="/docs/04-tools/03-intellij/02-installation/README.md"><strong>Zurück</strong></a> | 
+<a href="/docs/04-tools/05-launchpad/README.md"><strong>Weiter</strong></a>
+</p>
 

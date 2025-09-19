@@ -29,7 +29,7 @@ Insofern ein:e **Ersteller:in** vermerkt ist, kannst du dich auch direkt an dies
 
 ---
 
-**Dieses Thema beinhaltet folgende Kapitel:**
+**Dieser Themenbereich beinhaltet folgende Themen:**
 ---
 
 🔹 [**Github**](/docs/00-willkommen/03-styleguide/00-platzhalter/01-anleitung/README.md)<br>
@@ -38,7 +38,6 @@ Insofern ein:e **Ersteller:in** vermerkt ist, kannst du dich auch direkt an dies
 🔹 [**Terminal**](/docs/00-willkommen/03-styleguide/00-platzhalter/02-vorschau/README.md) <br>
 🔹 [**Launchpad**](/docs/00-willkommen/03-styleguide/00-platzhalter/02-vorschau/README.md) <br>
 🔹 [**KI, Künstliche Intelligenz**](/docs/00-willkommen/03-styleguide/00-platzhalter/02-vorschau/README.md) <br>
-
 
 ---
 
@@ -51,7 +50,7 @@ Insofern ein:e **Ersteller:in** vermerkt ist, kannst du dich auch direkt an dies
 ---
 
 <p align="center">
-<a href="/docs/03-meetings/04-33er/README.md"><strong>Zurück</strong></a> | 
+<a href="/docs/04-meetings/04-33er/README.md"><strong>Zurück</strong></a> | 
 <a href="/docs/04-tools/01-github/README.md"><strong>Weiter</strong></a>
 </p>
 
