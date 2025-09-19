@@ -34,5 +34,6 @@ Bei Christoph Backhaus IT verstehen wir **Unternehmenskultur** nicht als leeres 
 
 ---
 <p align="center">
-<a href="/docs/01-organisation/07-datenschutz/README.md"><strong>Zurück</strong></a> | <a href="/docs/01-organisation/08-firmenphilosophie/01-verhaltensregeln/README.md"><strong>Weiter</strong></a>
+<a href="/docs/01-organisation/07-datenschutz/README.md"><strong>Zurück</strong></a> | 
+<a href="/docs/01-organisation/08-firmenphilosophie/01-verhaltensregeln/README.md"><strong>Weiter</strong></a>
 </p>

@@ -21,7 +21,7 @@ Okay, kommen wir zum ersten großen Themenbereich: **Organisation und Rahmenbedi
 
 ---
 
-### <p align="center">Dieser Themenbereich beinhaltet folgende Themen:</p>
+**Dieser Themenbereich beinhaltet folgende Themen:**
 ---
 
 🢒 [**Zeiterfassung / Einstempeln**](/docs/01-organisation/01-zeiterfassung/README.md) </br>
@@ -43,5 +43,6 @@ Okay, kommen wir zum ersten großen Themenbereich: **Organisation und Rahmenbedi
 
 ---
 <p align="center">
-<a href="/docs/00-willkommen/README.md"><strong>Zurück</strong></a> | <a href="/docs/00-willkommen/02-starterpack/README.md"><strong>Weiter</strong></a>
+<a href="/docs/00-willkommen/README.md"><strong>Zurück</strong></a> | 
+<a href="/docs/00-willkommen/02-starterpack/README.md"><strong>Weiter</strong></a>
 </p>

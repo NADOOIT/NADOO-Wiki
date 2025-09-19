@@ -71,13 +71,22 @@ Insofern ein:e **Ersteller:in** vermerkt ist, kannst du dich auch direkt an dies
 </p>
 ```
 ---
+
+**Dieses Thema beinhaltet folgende Kapitel:**
+---
+
+🔹 [**Anleitung: So verwendest du die Vorlage**](/docs/00-willkommen/03-styleguide/00-platzhalter/01-anleitung/README.md)<br>
+🔹 [**Vorschau des Platzhalters zur Ansicht im Browser**](/docs/00-willkommen/03-styleguide/00-platzhalter/02-vorschau/README.md)
+
+---
+
 <p align="center">
-📅 <strong>Dieses Dokument wurde bearbeitet am:</strong> 18.09.2025
+📅 <strong>Dieses Dokument wurde bearbeitet am:</strong> 19.09.2025
 <br>
 ✍️ <strong>Von:</strong> <a href="https://github.com/johkori">Johkori(Tim H.)</a> (GitHub)
 </p>
-
 ---
 <p align="center">
-<a href="/docs/00-willkommen/01-leitfaden/README.md"><strong>Zurück</strong></a> | <a href="/docs/00-willkommen/03-styleguide/README.md"><strong>Weiter</strong></a>
+<a href="/docs/00-willkommen/01-leitfaden/README.md"><strong>Zurück</strong></a> | 
+<a href="/docs/00-willkommen/03-styleguide/README.md"><strong>Weiter</strong></a>
 </p>

@@ -197,7 +197,6 @@ Issue-Nummern und Beschreibungen können im Berichtsheft verwendet werden.
 
 Die Anwesenheitsliste bitte spätestens am dritten Tag des Folgemonats an Musterinstitut via **E-Mail** an <service@example.com> senden.
 
-<!--
 ---
 
 ### Zeitnachweis (täglich)
@@ -208,6 +207,15 @@ Die Anwesenheitsliste bitte spätestens am dritten Tag des Folgemonats an Muster
 -->
 ---
 
+**Dieses Thema beinhaltet folgende Kapitel:**
+---
+
+🔹 [**Beispiele für Ausbildungs- und Zeitnachweise**](/docs/01-organisation/02-zeit_und_ausbildungsnachweise/01-beispiele/README.md) </br>
+🔹 [**Dateibenennungsrichtlinien**](/docs/01-organisation/02-zeit_und_ausbildungsnachweise/02-dateibenennung/README.md) </br>
+🔹 [**Überprüfung der Dateinamen**](/docs/01-organisation/02-zeit_und_ausbildungsnachweise/03-ueberpruefung/README.md) </br>
+
+---
+
 <p align="center">
 📅 <strong>Dieses Dokument wurde bearbeitet am:</strong> 19.09.2025
 <br>
@@ -215,6 +223,8 @@ Die Anwesenheitsliste bitte spätestens am dritten Tag des Folgemonats an Muster
 </p>
 
 ---
+---
 <p align="center">
-<a href="/docs/01-organisation/02-zeit_und_ausbildungsnachweise/README.md"><strong>Zurück</strong></a> | <a href="/docs/01-organisation/02-zeit_und_ausbildungsnachweise/02-dateibenennung-zeit_und_ausbildungsnachweise/README.md"><strong>Weiter</strong></a>
+<a href="/docs/01-organisation/02-zeit_und_ausbildungsnachweise/README.md"><strong>Zurück</strong></a> | 
+<a href="/docs/01-organisation/02-zeit_und_ausbildungsnachweise/02-dateibenennung-zeit_und_ausbildungsnachweise/README.md"><strong>Weiter</strong></a>
 </p>

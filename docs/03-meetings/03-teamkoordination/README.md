@@ -52,4 +52,25 @@ _n.n._ = noch nicht besetzt
 
 ---
 
-<p align="center"><a href="/docs/03-meetings/02-11er/README.md"><strong>Zurück</strong></a> | <a href="/docs/03-meetings/04-33er/README.md"><strong>Weiter</strong></a></p>
+**Dieser Themenbereich beinhaltet folgende Themen:**
+---
+
+🢒 [**Allgemein**](/docs/03-meetings/01-allgemein/README.md) </br>
+🢒 [**11er**](/docs/03-meetings/02-11er/README.md) </br>
+🢒 [**Teamkoordination**](/docs/03-meetings/03-teamkoordination/README.md)</br>
+🢒 [**33er**](/docs/03-meetings/04-33er/README.md)</br>
+
+---
+
+<p align="center">
+📅 <strong>Dieses Dokument wurde bearbeitet am:</strong> 19.09.2025
+<br>
+✍️ <strong>Von:</strong> <a href="https://github.com/johkori">Johkori(Tim H.)</a> (GitHub)
+</p>
+
+---
+
+<p align="center">
+<a href="/docs/03-meetings/02-11er/README.md"><strong>Zurück</strong></a> | 
+<a href="/docs/03-meetings/04-33er/README.md"><strong>Weiter</strong></a>
+</p>

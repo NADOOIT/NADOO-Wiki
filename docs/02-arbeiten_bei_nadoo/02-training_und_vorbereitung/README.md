@@ -37,14 +37,24 @@ Alles, was du zum Thema **Trainingsbeitrag** wissen musst, findest du auf der n�
 
 ---
 
-### <p align="center">Dieses Thema beinhaltet folgende Kapitel:</p>
+**Dieses Thema beinhaltet folgende Kapitel:**  
 ---
-<!-- es sollte ein kleiner Wiki-Eintrag zum neuen Rep ausgearbeitet werden. wenn soweit, Ordner hier an erste Stelle setzen (da Trainingsbeitrag-Guide darauf aufbaut / textlich aufbauen wird) und Nummerierungen der Folge-Ordner entsprechend anpassen (Refactoring).
 
-🔹 [**Die NADOO-Academy**](/docs/02-arbeiten_bei_nadoo/02-training_und_vorbereitung/01-academy/README.md) <br> -->
 🔹 [**Trainingsbeiträge**](/docs/02-arbeiten_bei_nadoo/02-training_und_vorbereitung/01-trainingsbeitraege/README.md) <br>
 🔹 [**Präsentationstraining**](/docs/02-arbeiten_bei_nadoo/02-training_und_vorbereitung/02-praesentationstraining/README.md) <br>
 
 ---
 
-<p align="center"><a href="/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/05-teamkoordinator/README.md"><strong>Zurück</strong></a> | <a href="/docs/02-arbeiten_bei_nadoo/02-training_und_vorbereitung/01-trainingsbeitraege/README.md"><strong>Weiter</strong></a></p>
+<p align="center">
+📅 <strong>Dieses Dokument wurde bearbeitet am:</strong> 19.09.2025  
+<br>
+✍️ <strong>Von:</strong> <a href="https://github.com/johkori">Johkori (Tim H.)</a> (GitHub)
+</p>
+
+---
+
+
+<p align="center">
+<a href="/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/05-teamkoordinator/README.md"><strong>Zurück</strong></a> |
+<a href="/docs/02-arbeiten_bei_nadoo/02-training_und_vorbereitung/01-trainingsbeitraege/README.md"><strong>Weiter</strong></a>
+</p>

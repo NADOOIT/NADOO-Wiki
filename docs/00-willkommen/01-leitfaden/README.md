@@ -156,13 +156,25 @@ Docs - 04-tools - 01-github - 04-issues
 | _freie Einteilung_   | **Stillarbeit**                                          |                                               Discord-Channel [**🌿 Ruhebereich**](https://discordapp.com/channels/1299292608744390707/1331765513826861136)                                               |
 
 ---
+
+**Dieser Themenbereich beinhaltet folgende Themen:**
+---
+
+🢒 [**Leitfaden/Onboarding**](/docs/00-willkommen/01-leitfaden/README.md) </br>
+🢒 [**Starterpack**](/docs/00-willkommen/02-starterpack/README.md) </br>
+🢒 [**Styleguide**](/docs/00-willkommen/03-styleguide/README.md)</br>
+
+
+---
+
 <p align="center">
-📅 <strong>Dieses Dokument wurde bearbeitet am:</strong> 18.09.2025
+📅 <strong>Dieses Dokument wurde bearbeitet am:</strong> 19.09.2025
 <br>
 ✍️ <strong>Von:</strong> <a href="https://github.com/johkori">Johkori(Tim H.)</a> (GitHub)
 </p>
 
 ---
 <p align="center">
-<a href="/docs/00-willkommen/README.md"><strong>Zurück</strong></a> | <a href="/docs/00-willkommen/02-starterpack/README.md"><strong>Weiter</strong></a>
+<a href="/docs/00-willkommen/README.md"><strong>Zurück</strong></a> | 
+<a href="/docs/00-willkommen/02-starterpack/README.md"><strong>Weiter</strong></a>
 </p>
