@@ -1,6 +1,6 @@
 # <p align="center">Arbeitszeit und Pausen</p>
 
-Unsere täglichen [**Meetings**](/docs/03-meetings/README.md) und festgelegten **Ruhezeiten** (mindestens 11 Stunden zwischen den Arbeitstagen) sind **verbindlich einzuhalten.** Es muss um **spätestens 23:00 Uhr Feierabend** gemacht werden.
+Unsere täglichen [**Meetings**](/docs/03-meetings/README.md) und festgelegten **Ruhezeiten** (mindestens 11 Stunden zwischen den Arbeitstagen) sind **verbindlich einzuhalten.** 
 
 </br>
 
@@ -9,9 +9,8 @@ Unsere täglichen [**Meetings**](/docs/03-meetings/README.md) und festgelegten *
 - **§3 Stunden:**
 
   ➡️ 8 Stunden pro Tag (**durchschnittlich**, auf 24 Wochen berechnet) </br>
-  ➡️ Maximal 10 Stunden pro Tag </br>
+  ➡️ Maximal 8 Stunden pro Tag </br>
 
-  Wenn jemand also Montag, Dienstag, Mittwoch und Donnerstag jeweils 9 Stunden arbeitet, darf er am Freitag maximal 4 Stunden arbeiten.
 
 ---
 
@@ -41,31 +40,40 @@ Unsere täglichen [**Meetings**](/docs/03-meetings/README.md) und festgelegten *
 ## Arbeitszeiten bei Nadoo-IT
 
 
-🕒 **Montag bis Samstag:** zwischen 06:00 Uhr und 23:00 Uhr 
+🕒 **Montag bis Freitag:** zwischen 08:00 Uhr und 14:00 Uhr oder 16:30 Uhr 
 
 🕒 **Montag bis Freitag von 10:14 Uhr - 10:30 Uhr:** Anwesenheitsprüfung im Discord Sprachkanal
 
 🕒 **Arbeitsstunden pro Woche:** nach persönlichem Praktikumsvertrag (z.B. 40 Stunden oder 28 Stunden)
 
-🕒 **Arbeitszeiten pro Tag**: frei wählbar, solange das Arbeitszeitgesetz, Wochenstunden und Pflichtmeetings eingehalten werden
+🕒 **Arbeitszeiterfassung**: über die Stempeluhr im [**NADOO-Launchpad**](docs/01-organisation/01-zeiterfassung/README.md) (nur erfasste Arbeitszeit ist echte Arbeitszeit!) 
+<br>**Bitte aktuelle Zeiterfassungsregelungen beachten!**
 
-🕒 **Arbeitszeiterfassung**: über die Stempeluhr im [**NADOO-Launchpad**](docs/01-organisation/01-zeiterfassung/01-launchpad-guide/README.md) (nur erfasste Arbeitszeit ist echte Arbeitszeit!)
+<br>
 
 ---
 
-### Beispiel "Fritz" (28 Stunden / Woche):
+**Dieser Themenbereich beinhaltet folgende Themen:**
+---
 
-#
-
-✔️ Montags arbeitet er von 10:00 bis 12:00 Uhr und von 14:00 bis 16:00 Uhr. ➡️ 2 Stunden + 2 Stunden = **4** Stunden <br>
-✔️ Dienstags arbeitet er von 10:00 bis 14:00 Uhr und von 16:00 bis 18:00 Uhr. ➡️ 4 Stunden + 2 Stunden = **6** Stunden <br>
-✔️ Mittwochs arbeitet er von 10:00 bis 14:00 Uhr und von 16:00 bis 20:00 Uhr. ➡️ 4 Stunden + 4 Stunden = **8** Stunden <br>
-✔️ Donnerstags arbeitet er von 10:00 bis 14:00 Uhr und von 16:00 bis 18:00 Uhr. ➡️ 4 Stunden + 2 Stunden = **6** Stunden <br>
-✔️ Freitags arbeitet er von 10:00 bis 14:00 Uhr. ➡️ **4** Stunden <br>
-❌ Samstags und Sonntags arbeitet er nicht. <br>
+🢒 [**Zeiterfassung / Einstempeln**](/docs/01-organisation/01-zeiterfassung/README.md) </br>
+🢒 [**Zeit- und Ausbildungsnachweise**](/docs/01-organisation/02-zeit_und_ausbildungsnachweise/README.md) </br>
+🢒 [**Arbeits- und Pausenzeiten**](/docs/01-organisation/03-arbeits_und_pausenzeiten/README.md)</br>
+🢒 [**Urlaub**](/docs/01-organisation/04-urlaub/README.md) </br>
+🢒 [**Krankmeldungen**](/docs/01-organisation/05-krankmeldungen/README.md) </br>
+🢒 [**Mutterschutz und Elternzeit**](/docs/01-organisation/06-mutterschutz_und_elternzeit/README.md) </br>
+🢒 [**Umgang mit Unternehmensdaten**](/docs/01-organisation/07-datenschutz/README.md) </br>
+🢒 [**Verhalten und Kultur bei Christoph Backhaus IT — unsere Firmenphilosophien**](/docs/01-organisation/08-firmenphilosophie/README.md) </br>
 
 ---
 
 <p align="center">
-<a href="/docs/01-organisation/02-zeit_und_ausbildungsnachweise/03-ueberpruefung/README.md"><strong>Zurück</strong></a> | <a href="/docs/01-organisation/04-urlaub/README.md"><strong>Weiter</strong></a>
+📅 <strong>Dieses Dokument wurde bearbeitet am:</strong> 19.09.2025
+<br>
+✍️ <strong>Von:</strong> <a href="https://github.com/johkori">Johkori(Tim H.)</a> (GitHub)
 </p>
+
+---
+
+<p align="center"><a href="/docs/01-organisation/02-zeit_und_ausbildungsnachweise/03-ueberpruefung/README.md"><strong>Zurück</strong></a> | 
+<a href="/docs/01-organisation/04-urlaub/README.md"><strong>Weiter</strong></a></p>

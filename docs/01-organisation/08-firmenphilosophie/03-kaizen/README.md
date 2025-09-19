@@ -108,7 +108,7 @@ Offene Kommunikation ist uns wichtig. Wir ermutigen dich dazu:
 
 ## Fazit
 
-Unsere KAIZEN-basierte Kultur fördert **kontinuierliche Verbesserung**, **Qualität** und **Innovation**. Wenn etwas unklar ist oder nicht optimal funktioniert, ist dies ein Hinweis auf **mangelnde Standardisierung**. Es liegt an jedem von uns, dies zu kommunizieren und zu verbessern[5].
+Unsere KAIZEN-basierte Kultur fördert **kontinuierliche Verbesserung**, **Qualität** und **Innovation**. Wenn etwas unklar ist oder nicht optimal funktioniert, ist dies ein Hinweis auf **mangelnde Standardisierung**. Es liegt an jedem von uns, dies zu kommunizieren und zu verbessern[3].
 
 Die konsequente Anwendung von KAIZEN-Prinzipien in der Softwareentwicklung führt zu einer Kultur der kontinuierlichen Verbesserung, bei der **Fehlerfreiheit die oberste Priorität** ist. **Methodische Prozesssauberkeit** ist entscheidend für den Erfolg aller Beteiligten.
 
@@ -120,10 +120,15 @@ Solltest du nach dem Lesen dieses Wikis Unklarheiten oder Fragen zu einem der ge
 
 [1] https://www.studysmarter.de/studium/bwl/unternehmensfuehrung-studium/kaizen/ <br>
 [2] https://de.linkedin.com/in/christoph-backhaus <br>
-[3] https://it-nerd24.de/tech-blog/kaizen-prozessoptimierung-und-qualitaetsmanagement-2024 <br>
-[4] https://nodapo.de <br>
-[5] https://www.lucidchart.com/blog/de/kaizen-methode <br>
-[6] https://ite-si.de/kompetenzen/individuelle-softwareentwicklung/ <br>
+[3] https://www.lucidchart.com/blog/de/kaizen-methode <br>
+
+
+---
+<p align="center">
+📅 <strong>Dieses Dokument wurde bearbeitet am:</strong> 19.09.2025
+<br>
+✍️ <strong>Von:</strong> <a href="https://github.com/johkori">Johkori(Tim H.)</a> (GitHub)
+</p>
 
 ---
 

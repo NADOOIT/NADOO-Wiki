@@ -40,5 +40,26 @@
 ❝ ❞ **Merksatz**: _Der Researcher ist der **Sparringspartner**, der flüstert: „Du musst das Rad nicht neu erfinden.“_
 
 ---
+ **Dieses Thema beinhaltet folgende Kapitel:**
+---
 
-<p align="center"><a href="/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/01-dokumentar/README.md"><strong>Zurück</strong></a> | <a href="/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/03-entwickler/README.md"><strong>Weiter</strong></a></p>
+🔹 [**Dokumentar(ist):in**](/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/01-dokumentar/README.md) <br>
+🔹 [**Researcher:in**](/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/02-researcher/README.md) <br>
+🔹 [**Entwickler:in**](/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/03-entwickler/README.md) <br>
+🔹 [**Tester:in**](/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/04-tester/README.md) <br>
+🔹 [**Teamkoordinator:in**](/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/05-teamkoordinator/README.md) <br>
+
+---
+
+<p align="center">
+📅 <strong>Dieses Dokument wurde bearbeitet am:</strong> 19.09.2025
+<br>
+✍️ <strong>Von:</strong> <a href="https://github.com/johkori">Johkori(Tim H.)</a> (GitHub)
+</p>
+
+---
+
+<p align="center">
+<a href="/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/01-dokumentar/README.md"><strong>Zurück</strong></a> | 
+<a href="/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/03-entwickler/README.md"><strong>Weiter</strong></a>
+</p>

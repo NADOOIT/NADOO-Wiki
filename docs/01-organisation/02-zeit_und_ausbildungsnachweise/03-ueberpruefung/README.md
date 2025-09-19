@@ -97,6 +97,24 @@ https://github.com/NADOOIT/NADOO-Launchpad/issues/463).
 
 ---
 
+**Dieses Thema beinhaltet folgende Kapitel:**
+---
+
+🔹 [**Beispiele für Ausbildungs- und Zeitnachweise**](/docs/01-organisation/02-zeit_und_ausbildungsnachweise/01-beispiele/README.md) </br>
+🔹 [**Dateibenennungsrichtlinien**](/docs/01-organisation/02-zeit_und_ausbildungsnachweise/02-dateibenennung/README.md) </br>
+🔹 [**Überprüfung der Dateinamen**](/docs/01-organisation/02-zeit_und_ausbildungsnachweise/03-ueberpruefung/README.md) </br>
+
+---
+
 <p align="center">
-<a href="/docs/01-organisation/02-zeit_und_ausbildungsnachweise/02-dateibenennung/README.md"><strong>Zurück</strong></a> | <a href="/docs/01-organisation/03-arbeits_und_pausenzeiten/README.md"><strong>Weiter</strong></a>
+📅 <strong>Dieses Dokument wurde bearbeitet am:</strong> 19.09.2025
+<br>
+✍️ <strong>Von:</strong> <a href="https://github.com/johkori">Johkori(Tim H.)</a> (GitHub)
+</p>
+
+---
+
+<p align="center">
+<a href="/docs/01-organisation/02-zeit_und_ausbildungsnachweise/02-dateibenennung/README.md"><strong>Zurück</strong></a> | 
+<a href="/docs/01-organisation/03-arbeits_und_pausenzeiten/README.md"><strong>Weiter</strong></a>
 </p>

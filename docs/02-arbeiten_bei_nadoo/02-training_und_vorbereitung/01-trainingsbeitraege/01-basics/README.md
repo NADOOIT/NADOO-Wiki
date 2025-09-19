@@ -76,9 +76,24 @@ Den **Mittwoch** ausgenommen, hält theoretisch jeder Tag in einer regulären NA
 
 ---
 
-### <p align="center">Okay, damit hätte wir schon mal die Basics geklärt. 💪 Im nächsten Abschnitt erfährst du alles, was du zur Dokumentation 📝 deines Trainingsbeitrags wissen musst.</p>
+**Dieses Thema beinhaltet folgende Kapitel:**  
+---
+
+🔹 [**Basics**](/docs/02-arbeiten_bei_nadoo/02-training_und_vorbereitung/01-trainingsbeitraege/01-basics/README.md) <br>
+🔹 [**Dokumentation**](/docs/02-arbeiten_bei_nadoo/02-training_und_vorbereitung/01-trainingsbeitraege/02-dokumentation/README.md) <br>
 
 ---
 
-<p align="center"><a href="/docs/02-arbeiten_bei_nadoo/02-training_und_vorbereitung/01-trainingsbeitraege/README.md"><strong>Zurück</strong></a> | <a href="/docs/02-arbeiten_bei_nadoo/02-training_und_vorbereitung/01-trainingsbeitraege/02-dokumentation/README.md"><strong>Weiter</strong></a></p>
+<p align="center">
+📅 <strong>Dieses Dokument wurde bearbeitet am:</strong> 19.09.2025  
+<br>
+✍️ <strong>Von:</strong> <a href="https://github.com/johkori">Johkori (Tim H.)</a> (GitHub)
+</p>
+
+---
+
+<p align="center">
+<a href="/docs/02-arbeiten_bei_nadoo/02-training_und_vorbereitung/01-trainingsbeitraege/README.md"><strong>Zurück</strong></a> | 
+<a href="/docs/02-arbeiten_bei_nadoo/02-training_und_vorbereitung/01-trainingsbeitraege/02-dokumentation/README.md"><strong>Weiter</strong></a>
+</p>
 
