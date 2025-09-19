@@ -14,7 +14,7 @@ Format: MitarbeiterID_TYP_YYYY_MM_TT_HH_MM
 - **Ausstempeln** (Tagesende):
 13_ENDE_2025_09_17_16_30
 
-*(Mitarbeiter-ID = individuelle ID, die jede/r Beschäftigte erhalten von Christoph hat)*
+*(Mitarbeiter-ID = individuelle ID. Wird im Onboardings Prozess von Christoph zur verfügung gestellt)*
 
 **Vollzeit:**
 ⌛Arbeitszeit ist von 08:00 bis 16:30 Uhr. Es gibt 30 Minuten ☕Pause, die du selbs wählen kannst.
