@@ -335,7 +335,7 @@ Die Clean Architecture ist ein bewährtes Muster, um Softwareprojekte strukturie
 
 ## Weiterführende Links
 
-- [Clean Architecture Buch von Robert C. Martin](https://www.oreilly.com/library/view/clean-architecture-a/9780134494166/)
+- [Clean Architecture Buch von Robert C. Martin](https://www.oreilly.com/library/view/clean-architecture-a/9780134494272/)
 - [Clean Architecture auf Wikipedia](https://de.wikipedia.org/wiki/Clean_Architecture)
 
 ---
@@ -348,9 +348,9 @@ Die Clean Architecture ist ein bewährtes Muster, um Softwareprojekte strukturie
 
 ---
 <p align="center">
-📅 <strong>Dieses Dokument wurde bearbeitet am:</strong> 19.09.2025
+📅 <strong>Dieses Dokument wurde bearbeitet am:</strong> 22.09.2025
 <br>
-✍️ <strong>Von:</strong> <a href="https://github.com/johkori">Johkori(Tim H.)</a> (GitHub)
+✍️ <strong>Von:</strong> <a href="https://github.com/johkori">copiumxanime(Dennis S.)</a> (GitHub)
 </p>
 
 ---
