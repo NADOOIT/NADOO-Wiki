@@ -1,7 +1,11 @@
-# <p align="center">Toga</p>
-<!-- neue Aufteilung / neue Inhalte in Planung -->
+# GitHub-Einführung (Video)
 
 ---
+
+Einführungsvideo zu Git, GitHub und dem Arbeitsablauf bei NADOO – speziell für neue Teammitglieder, Praktikanten und Umschüler.  
+Erstellt im Mai 2025 im Rahmen des Praktikums.
+
+
 
 <div align="center">
   <table>
@@ -30,13 +34,19 @@ Insofern ein:e **Ersteller:in** vermerkt ist, kannst du dich auch direkt an dies
 
 ---
 
-**Dieses Thema beinhaltet folgende Kapitel:**
+**Dieser Themenbereich beinhaltet folgende Themen:**
 ---
 
-🔹 [**Briefcase**](/docs/06-entwicklung/01-dokumentation/README.md)<br>
-🔹 [**Toga**](/docs/06-entwicklung/02-clean_architecture/README.md) <br>
-🔹 [**Zusammenspiel**](/docs/06-entwicklung/02-clean_architecture/README.md) <br>
-🔹 [**Debugging**](/docs/06-entwicklung/02-clean_architecture/README.md) <br>
+🔹 [**Repository**](/docs/01-organisation/02-zeit_und_ausbildungsnachweise/01-beispiele/README.md) </br>
+🔹 [**Branches**](/docs/01-organisation/02-zeit_und_ausbildungsnachweise/02-dateibenennung/README.md) </br>
+🔹 [**Pull-Requests**](/docs/01-organisation/02-zeit_und_ausbildungsnachweise/03-ueberpruefung/README.md) </br>
+🔹 [**Issues**](/docs/01-organisation/02-zeit_und_ausbildungsnachweise/03-ueberpruefung/README.md) </br>
+🔹 [**Actions**](/docs/01-organisation/02-zeit_und_ausbildungsnachweise/03-ueberpruefung/README.md) </br>
+🔹 [**Notifications**](/docs/01-organisation/02-zeit_und_ausbildungsnachweise/03-ueberpruefung/README.md) </br>
+🔹 [**Suche**](/docs/01-organisation/02-zeit_und_ausbildungsnachweise/03-ueberpruefung/README.md) </br>
+🔹 [**Markdown**](/docs/01-organisation/02-zeit_und_ausbildungsnachweise/03-ueberpruefung/README.md) </br>
+🔹 [**Organizations-teams**](/docs/04-tools/01-github/09-organizations-teams/README.md) </br>
+🔹 [**GitHub Einführung**](/docs/04-tools/01-github/10-github-einfuehrung/README.md) </br>
 
 ---
 
@@ -47,8 +57,3 @@ Insofern ein:e **Ersteller:in** vermerkt ist, kannst du dich auch direkt an dies
 </p>
 
 ---
-
-<p align="center">
-<a href="/docs/06-entwicklung/06-frameworks/02-briefcase_und_toga/01-briefcase/README.md"><strong>Zurück</strong></a> | 
-<a href="/docs/06-entwicklung/06-frameworks/02-briefcase_und_toga/03-zusammenspiel/README.md"><strong>Weiter</strong></a>
-</p>

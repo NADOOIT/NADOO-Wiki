@@ -223,4 +223,21 @@ Das 3er-Team **Dokumentation** ist für die Dokumentation der Laravel/PHP-Projek
 
 ---
 
-<p align="center"><a href="/docs/02-arbeiten_bei_nadoo/03-teams/README.md"><strong>Zurück</strong></a> | <a href="/docs/02-arbeiten_bei_nadoo/03-teams/02-team-archiv/README.md"><strong>Weiter</strong></a></p>
+**Dieses Thema beinhaltet folgende Kapitel:**  
+---
+
+🔹 [**Trainingsbeiträge**](/docs/02-arbeiten_bei_nadoo/02-training_und_vorbereitung/01-trainingsbeitraege/README.md) <br>
+🔹 [**Präsentationstraining**](/docs/02-arbeiten_bei_nadoo/02-training_und_vorbereitung/02-praesentationstraining/README.md) <br>
+
+---
+
+<p align="center">
+📅 <strong>Dieses Dokument wurde bearbeitet am:</strong> 19.09.2025  
+<br>
+✍️ <strong>Von:</strong> <a href="https://github.com/johkori">Johkori (Tim H.)</a> (GitHub)
+</p>
+
+---
+
+<p align="center"><a href="/docs/02-arbeiten_bei_nadoo/03-teams/README.md"><strong>Zurück</strong></a> | 
+<a href="/docs/02-arbeiten_bei_nadoo/03-teams/02-team-archiv/README.md"><strong>Weiter</strong></a></p>

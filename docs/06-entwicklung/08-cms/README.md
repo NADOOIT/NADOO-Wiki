@@ -70,4 +70,29 @@
 
 ---
 
-<p align="center"><a href="/docs/06-entwicklung/07-digitale_produktentwicklung/03-feedback_und_testing/README.md"><strong>Zurück</strong></a> | <a href="/docs/06-entwicklung/08-cms/01-einfuehrung/README.md"><strong>Weiter</strong></a></p>
+**Dieses Thema beinhaltet folgende Kapitel:**
+---
+
+🔹 [**Einführung**](/docs/06-entwicklung/08-cms/01-einfuehrung/README.md)<br>
+🔹 [**WP-Grundlagen**](/docs/06-entwicklung/08-cms/02-wp_grundlagen/README.md) <br>
+🔹 [**Einrichtung**](/docs/06-entwicklung/08-cms/03-einrichtung/README.md) <br>
+🔹 [**Inhalt Struktur**](/docs/06-entwicklung/08-cms/04-inhalt_struktur/README.md) <br>
+🔹 [**Erweiterungen und Plugins**](/docs/06-entwicklung/08-cms/05-erweiterung_plugins/README.md) <br>
+🔹 [**Design Themes**](/docs/06-entwicklung/08-cms/06-design_themes/README.md) <br>
+🔹 [**Prüfungsvorbereitung**](/docs/06-entwicklung/08-cms/07-pruefungsvorbereitung/README.md) <br>
+🔹 [**Tools und Ressourcen**](/docs/06-entwicklung/08-cms/08-tools_ressourcen/README.md) <br>
+
+---
+
+<p align="center">
+📅 <strong>Dieses Dokument wurde bearbeitet am:</strong> 19.09.2025
+<br>
+✍️ <strong>Von:</strong> <a href="https://github.com/johkori">Johkori(Tim H.)</a> (GitHub)
+</p>
+
+---
+
+<p align="center">
+<a href="/docs/06-entwicklung/07-digitale_produktentwicklung/03-feedback_und_testing/README.md"><strong>Zurück</strong></a> | 
+<a href="/docs/06-entwicklung/08-cms/01-einfuehrung/README.md"><strong>Weiter</strong></a>
+</p>

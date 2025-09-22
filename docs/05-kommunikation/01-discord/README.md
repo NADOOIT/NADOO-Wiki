@@ -52,4 +52,21 @@ So bleiben alle Teammitglieder – egal wo sie gerade sind – immer auf dem gle
 
 ---
 
-<p align="center"><a href="/docs/05-kommunikation/README.md"><strong>Zurück</strong></a> | <a href="/docs/05-kommunikation/01-discord/01-einrichtung/README.md"><strong>Weiter</strong></a></p>
+**Dieses Thema beinhaltet folgende Kapitel:**
+---
+
+🔹 [**Einrichtung**](/docs/04-tools/06-ki/01-leitfaden/README.md) </br>
+
+---
+<p align="center">
+📅 <strong>Dieses Dokument wurde bearbeitet am:</strong> 19.09.2025
+<br>
+✍️ <strong>Von:</strong> <a href="https://github.com/johkori">Johkori(Tim H.)</a> (GitHub)
+</p>
+
+---
+
+<p align="center">
+<a href="/docs/05-kommunikation/README.md"><strong>Zurück</strong></a> | 
+<a href="/docs/05-kommunikation/01-discord/01-einrichtung/README.md"><strong>Weiter</strong></a>
+</p>

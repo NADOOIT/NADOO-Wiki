@@ -29,8 +29,16 @@ Insofern ein:e **Ersteller:in** vermerkt ist, kannst du dich auch direkt an dies
 
 ---
 
+**Dieses Thema beinhaltet folgende Kapitel:**
+---
+
+🔹 [**Anleitung: So verwendest du die Vorlage**](/docs/00-willkommen/03-styleguide/00-platzhalter/01-anleitung/README.md)<br>
+🔹 [**Vorschau des Platzhalters zur Ansicht im Browser**](/docs/00-willkommen/03-styleguide/00-platzhalter/02-vorschau/README.md)
+
+---
+
 <p align="center">
-📅 <strong>Dieses Dokument wurde erstellt am:</strong> 12.05.2025
+📅 <strong>Dieses Dokument wurde bearbeitet am:</strong> 12.05.2025
 <br>
 ✍️ <strong>Von:</strong> <a href="https://github.com/dein_github_username">maxmuster</a> (GitHub)
 </p>

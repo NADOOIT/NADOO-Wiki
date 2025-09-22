@@ -3,7 +3,7 @@
 
 1. **Kopiere den [Inhalt des Platzhalters](#die-vorlage---diesen-part-bitte-kopieren-und-in-neue-dokumente-übertragen)** und füge ihn im neu erstellten README-Dokument **zwischen** der **Überschrift** (falls vorhanden) **und** der **Navigation-Bar** (_"Zurück | Weiter"_) ein. <br><br> <!-- evtl. Screenshot zur Verdeutlichung-->
 ⚠️ **Gemeint ist damit der _Code_** und nicht das, was am Ende im Browser angezeigt wird - ansonsten gehen Bilder und Text-Formatierungen **verloren**. <br><br> <!-- hier ggf. Screenshot zur Verdeutlichung einfügen--> 
-💡 **Tipp**: Alternativ kannst du auch einfach die **README-Datei aus** [**01-vorschau**](/docs/00-willkommen/03-styleguide/00-platzhalter/02-vorschau/README.md) kopieren und in die betroffenen Ordner einfügen. **Denke** bei diesem Weg aber **daran**, die **erste Zeile** "_Vorschau des Platzhalters zur Ansicht im Browser_" zu **entfernen** und ggf. das "_maxmuster (GitHub)_" <strong>durch `<em>Keine Angabe</em>`</strong> zu **ersetzen**. Fahre ansonsten ganz normal mit den folgenden Schritten fort.
+💡 **Tipp**: Alternativ kannst du auch einfach die **README-Datei aus** [**02-vorschau**](/docs/00-willkommen/03-styleguide/00-platzhalter/02-vorschau/README.md) kopieren und in die betroffenen Ordner einfügen. **Denke** bei diesem Weg aber **daran**, die **erste Zeile** "_Vorschau des Platzhalters zur Ansicht im Browser_" zu **entfernen** und ggf. das "_maxmuster (GitHub)_" <strong>durch `<em>Keine Angabe</em>`</strong> zu **ersetzen**. Fahre ansonsten ganz normal mit den folgenden Schritten fort.
 
 ---
 
@@ -70,9 +70,23 @@ Insofern ein:e **Ersteller:in** vermerkt ist, kannst du dich auch direkt an dies
 ✍️ <strong>Von:</strong> <em>Keine Angabe</em> ODER [dein Name] ODER <a href="[Link zu deinem Profil]">[dein Username]</a> ([Plattform])
 </p>
 ```
+---
+
+**Dieses Thema beinhaltet folgende Kapitel:**
+---
+
+🔹 [**Anleitung: So verwendest du die Vorlage**](/docs/00-willkommen/03-styleguide/00-platzhalter/01-anleitung/README.md)<br>
+🔹 [**Vorschau des Platzhalters zur Ansicht im Browser**](/docs/00-willkommen/03-styleguide/00-platzhalter/02-vorschau/README.md)
 
 ---
 
 <p align="center">
-<a href="/docs/00-willkommen/03-styleguide/00-platzhalter/README.md"><strong>Zurück</strong></a> | <a href="/docs/00-willkommen/03-styleguide/00-platzhalter/02-vorschau/README.md"><strong>Weiter</strong></a>
+📅 <strong>Dieses Dokument wurde bearbeitet am:</strong> 19.09.2025
+<br>
+✍️ <strong>Von:</strong> <a href="https://github.com/johkori">Johkori(Tim H.)</a> (GitHub)
+</p>
+---
+<p align="center">
+<a href="/docs/00-willkommen/01-leitfaden/README.md"><strong>Zurück</strong></a> | 
+<a href="/docs/00-willkommen/03-styleguide/README.md"><strong>Weiter</strong></a>
 </p>

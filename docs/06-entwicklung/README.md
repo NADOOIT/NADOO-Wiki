@@ -1,4 +1,7 @@
 # <p align="center">Entwicklung und Programmiersprachen</p>
+
+---
+
 ## Entwicklung
 
 Die Entwicklung ist ein zentraler Bestandteil jedes Softwareprojekts. Sie umfasst alle Schritte von der Planung über die Implementierung bis hin zur Wartung und Weiterentwicklung der Software. Dabei spielen verschiedene Programmiersprachen, Frameworks und Tools eine entscheidende Rolle.  
@@ -27,4 +30,29 @@ Es gibt eine Vielzahl von Programmiersprachen, die jeweils ihre eigenen Stärken
 
 ---
 
-<p align="center"><a href="/docs/05-kommunikation/02-webcam/02-ios/README.md"><strong>Zurück</strong></a> | <a href="/docs/06-entwicklung/01-dokumentation/README.md"><strong>Weiter</strong></a></p>
+**Dieser Themenbereich beinhaltet folgende Themen:**
+---
+
+🔹 [**Dokumentation**](/docs/06-entwicklung/01-dokumentation/README.md)<br>
+🔹 [**Clean Architecture**](/docs/06-entwicklung/02-clean_architecture/README.md) <br>
+🔹 [**Lizenzen und Open Source**](/docs/06-entwicklung/03-lizenzen_und_opensource/README.md) <br>
+🔹 [**Python**](/docs/06-entwicklung/04-python/README.md) <br>
+🔹 [**Java**](/docs/06-entwicklung/05-java/README.md) <br>
+🔹 [**Frameworks**](/docs/06-entwicklung/06-frameworks/README.md) <br>
+🔹 [**Digitale Produktentwicklung**](/docs/06-entwicklung/07-digitale_produktentwicklung/README.md) <br>
+🔹 [**CMS**](/docs/06-entwicklung/08-cms/README.md) <br>
+
+---
+
+<p align="center">
+📅 <strong>Dieses Dokument wurde bearbeitet am:</strong> 19.09.2025
+<br>
+✍️ <strong>Von:</strong> <a href="https://github.com/johkori">Johkori(Tim H.)</a> (GitHub)
+</p>
+
+---
+
+<p align="center">
+<a href="/docs/05-kommunikation/02-webcam/02-ios/README.md"><strong>Zurück</strong></a> | 
+<a href="/docs/06-entwicklung/01-dokumentation/README.md"><strong>Weiter</strong></a>
+</p>

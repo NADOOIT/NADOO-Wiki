@@ -53,6 +53,24 @@ Dort wird neben den hier bereits verlinkten Einträgen **in großem Umfang** auf
 
 ---
 
+**Dieser Themenbereich beinhaltet folgende Themen:**
+---
+
+🢒 [**Leitfaden/Onboarding**](/docs/00-willkommen/01-leitfaden/README.md) </br>
+🢒 [**Starterpack**](/docs/00-willkommen/02-starterpack/README.md) </br>
+🢒 [**Styleguide**](/docs/00-willkommen/03-styleguide/README.md)</br>
+
+
+---
+
 <p align="center">
-<a href="/docs/00-willkommen/01-leitfaden/README.md"><strong>Zurück</strong></a> | <a href="/docs/00-willkommen/03-styleguide/README.md"><strong>Weiter</strong></a>
+📅 <strong>Dieses Dokument wurde bearbeitet am:</strong> 19.09.2025
+<br>
+✍️ <strong>Von:</strong> <a href="https://github.com/johkori">Johkori(Tim H.)</a> (GitHub)
+</p>
+
+---
+<p align="center">
+<a href="/docs/00-willkommen/01-leitfaden/README.md"><strong>Zurück</strong></a> | 
+<a href="/docs/00-willkommen/03-styleguide/README.md"><strong>Weiter</strong></a>
 </p>

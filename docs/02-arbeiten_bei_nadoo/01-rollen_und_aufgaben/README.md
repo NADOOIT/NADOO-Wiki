@@ -10,8 +10,7 @@
 💡 Auf den nächsten Seiten kannst du dir ein genaues Bild über alle grundlegenden Aufgaben und Zuständigkeiten machen, die bei Christoph Backhaus / NADOO-IT aktuell definiert sind. Klicke in der Übersicht auf eine Rolle, um mehr darüber zu erfahren. Alternativ kannst du diesen Abschnitt natürlich auch einfach von oben nach unten durcharbeiten.
 
 ---
-
-### <p align="center">Dieses Thema beinhaltet folgende Kapitel:</p>
+ **Dieses Thema beinhaltet folgende Kapitel:**
 ---
 
 🔹 [**Dokumentar(ist):in**](/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/01-dokumentar/README.md) <br>
@@ -22,4 +21,14 @@
 
 ---
 
-<p align="center"><a href="/docs/02-arbeiten_bei_nadoo/README.md"><strong>Zurück</strong></a> | <a href="/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/01-dokumentar/README.md"><strong>Weiter</strong></a></p>
+<p align="center">
+📅 <strong>Dieses Dokument wurde bearbeitet am:</strong> 19.09.2025
+<br>
+✍️ <strong>Von:</strong> <a href="https://github.com/johkori">Johkori(Tim H.)</a> (GitHub)
+</p>
+
+---
+<p align="center">
+<a href="/docs/02-arbeiten_bei_nadoo/README.md"><strong>Zurück</strong></a> | 
+<a href="/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/01-dokumentar/README.md"><strong>Weiter</strong></a>
+</p>
