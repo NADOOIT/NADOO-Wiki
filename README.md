@@ -37,7 +37,7 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
 | 4. Sollte dabei etwas unverständlich sein, dann erstelle umgehend ein [Issue](https://github.com/NADOOIT/NADOO-Wiki/issues/new/choose) ❗ |
 | 5. Unsere erfahrenen Kolleginnen und Kollegen werden sich dann zeitnah um dein Anliegen kümmern und dich unterstützen.                    |
 
-**Viel Spaß und Erfolg bei uns - [Feedback](/docs/01-organisation/07-feedback-kultur/README.md) ist immer willkommen und ausdrücklich erwünscht** ❗
+**Viel Spaß und Erfolg bei uns - [Feedback](/docs/01-organisation/08-firmenphilosophie/02-feedback-kultur/README.md) ist immer willkommen und ausdrücklich erwünscht** ❗
 
 ---
 
