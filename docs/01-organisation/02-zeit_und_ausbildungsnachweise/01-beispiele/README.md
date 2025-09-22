@@ -223,5 +223,5 @@ MitarbeiterID_MESSEBESUCH_YYYY_MM_TT / 13_MESSEBESUCH_2025_09_18
 ---
 <p align="center">
 <a href="/docs/01-organisation/02-zeit_und_ausbildungsnachweise/README.md"><strong>Zurück</strong></a> | 
-<a  href="\docs\01-organisation\02-zeit_und_ausbildungsnachweise\02-dateibenennung\README.md"><strong>Weiter</strong></a>
+<a  href=" /docs/01-organisation/02-zeit_und_ausbildungsnachweise/02-dateibenennung/README.md"><strong>Weiter</strong></a>
 </p>
