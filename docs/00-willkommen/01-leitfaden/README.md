@@ -106,7 +106,7 @@ Ein **issue** ist wie eine kleine Notiz oder Aufgabe in unserem System. Wenn du 
 
 ### Warum benutzen wir **Issue** !?!?
 
-1. Damit alle im Team sehen können, dass es ein Prolem oder eine Idee gibt.
+1. Damit alle im Team sehen können, dass es ein Problem oder eine Idee gibt.
 2. Damit niemand vergisst, was noch zu tun ist.
 3. Damit wir gemeinsam eine Lösung finden können.
 
@@ -116,9 +116,9 @@ Ein **issue** ist wie eine kleine Notiz oder Aufgabe in unserem System. Wenn du 
 2. Wenn du einen Fehler findest.
 3. Wenn du eine Idee für eine Verbesserung hast.
 
-### Wie erstelle ich ein **Isuue** !?!?
+### Wie erstelle ich ein **Issue** !?!?
 
-- Gehe zu unserem GitHub-Prijekt (Repositories)
+- Gehe zu unserem GitHub-Projekt (Repositories)
 - Klicke auf Issues (oben)
 - Klicke auf New Issue (rechts grüne Taste)
 - Schreibe einen klaren Titel
