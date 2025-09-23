@@ -30,5 +30,5 @@
 ---
 <p align="center">
 <a href="/docs/02-arbeiten_bei_nadoo/README.md"><strong>Zurück</strong></a> | 
-<a href="/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/01-dokumentar/README.md"><strong>Weiter</strong></a>
+<a href="/docs/02-arbeiten_bei_nadoo/02-training_und_vorbereitung/01-trainingsbeitraege"><strong>Weiter</strong></a>
 </p>
