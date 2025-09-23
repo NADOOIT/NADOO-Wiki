@@ -38,13 +38,6 @@ Dieser Artikel dient als Auftakt zu weiterführenden Themen rund um Java, welche
 🔹 [**Praxis 02**](/docs/06-entwicklung/05-java/01-tutorial/09-praxis-2/README.md) </br>
 
 ---
-<p align="center">
-📅 <strong>Dieses Dokument wurde bearbeitet am:</strong> 19.09.2025
-<br>
-✍️ <strong>Von:</strong> <a href="https://github.com/johkori">Johkori(Tim H.)</a> (GitHub)
-</p>
-
----
 
 <p align="center">
 <a href="/docs/06-entwicklung/04-python/02-debugging/README.md"><strong>Zurück</strong></a> | 

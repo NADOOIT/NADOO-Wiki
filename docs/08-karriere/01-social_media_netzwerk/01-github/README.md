@@ -85,13 +85,6 @@ Also, leg los und mach dein GitHub-Profil zu deinem persönlichen Schaufenster i
 
 ---
 
-<p align="center">
-📅 <strong>Dieses Dokument wurde bearbeitet am:</strong> 19.09.2025
-<br>
-✍️ <strong>Von:</strong> <a href="https://github.com/johkori">Johkori(Tim H.)</a> (GitHub)
-</p>
-
----
 
 <p align="center">
 <a href="/docs/08-karriere/01-social_media_netzwerk/README.md"><strong>Zurück</strong></a> | 

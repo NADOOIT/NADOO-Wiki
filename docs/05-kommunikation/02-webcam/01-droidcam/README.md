@@ -76,13 +76,6 @@ DroidCam gilt als sichere App, die Daten normalerweise nur lokal verarbeitet. We
 🔹 [**IOS**](/docs/04-tools/06-ki/01-leitfaden/README.md) </br>
 
 ---
-<p align="center">
-📅 <strong>Dieses Dokument wurde bearbeitet am:</strong> 19.09.2025
-<br>
-✍️ <strong>Von:</strong> <a href="https://github.com/johkori">Johkori(Tim H.)</a> (GitHub)
-</p>
-
----
 
 <p align="center">
 <a href="/docs/05-kommunikation/02-webcam/README.md"><strong>Zurück</strong></a> | 

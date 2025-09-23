@@ -39,16 +39,6 @@ Komm am besten **zu einem späteren Zeitpunkt** nochmal wieder - mit etwas Glüc
 🢒 [**Training und Vorbereitung**](/docs/00-willkommen/02-starterpack/README.md) </br>
 🢒 [**Teams**](/docs/00-willkommen/03-styleguide/README.md)</br>
 
----
-
-<p align="center">
-📅 <strong>Dieses Dokument wurde bearbeitet am:</strong> 22.09.2025
-<br>
-✍️ <strong>Von:
-</strong> <a href="https://github.com/Kateryna83">Kateryna83(Kati)</a> (GitHub) und
-</strong> <a href="https://github.com/johkori">Johkori(Tim H.)</a> (GitHub)
-
-</p>
 
 ---
 

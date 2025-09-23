@@ -52,8 +52,3 @@ Sollte es zu Problemen mit GitHub kommen und du dringend Hilfe benötigst, kanns
 
 ---
 
-<p align="center">
-📅 <strong>Dieses Dokument wurde erstellt am:</strong> 24.05.2025
-<br>
-✍️ <strong>Von:</strong> <a href="https://github.com/hfanieng">Heiko</a> (GitHub)
-</p>

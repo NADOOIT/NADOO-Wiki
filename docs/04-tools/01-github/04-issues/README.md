@@ -57,13 +57,6 @@ Issues helfen bei der systematischen Nachverfolgung von Aufgaben, der Kommunikat
 🔹 [**Templates**](/docs/04-tools/01-github/04-issues/08-templates/README.md) </br>
 
 ---
-<p align="center">
-📅 <strong>Dieses Dokument wurde bearbeitet am:</strong> 19.09.2025
-<br>
-✍️ <strong>Von:</strong> <a href="https://github.com/johkori">Johkori(Tim H.)</a> (GitHub)
-</p>
-
----
 
 <p align="center">
 <a href="/docs/04-tools/01-github/03-pull-requests/02-code-review/README.md"><strong>Zurück</strong></a> | 

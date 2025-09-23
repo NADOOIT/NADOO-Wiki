@@ -44,13 +44,6 @@
 🔹 [**Tester:in**](/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/04-tester/README.md) <br>
 🔹 [**Teamkoordinator:in**](/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/05-teamkoordinator/README.md) <br>
 
----
-
-<p align="center">
-📅 <strong>Dieses Dokument wurde bearbeitet am:</strong> 19.09.2025
-<br>
-✍️ <strong>Von:</strong> <a href="https://github.com/johkori">Johkori(Tim H.)</a> (GitHub)
-</p>
 
 ---
 

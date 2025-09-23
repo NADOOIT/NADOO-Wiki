@@ -45,14 +45,8 @@ Diese Offenheit schafft **Vertrauen** und sorgt dafür, dass sich niemand mit He
 Unsere Feedback-Kultur ist kein Zusatz, sondern integraler Bestandteil der NADOO-DNA. Sie sorgt dafür, dass wir **als Team wachsen**, **Innovation** ermöglichen und **Herausforderungen** mutig begegnen können. Fragen, die offen gestellt und Themen, die sichtbar gemacht werden, sind der erste Schritt in **Richtung Lösung** – und genau diesen Schritt fördern wir jeden Tag.
 
 ---
-<p align="center">
-📅 <strong>Dieses Dokument wurde bearbeitet am:</strong> 19.09.2025
-<br>
-✍️ <strong>Von:</strong> <a href="https://github.com/johkori">Johkori(Tim H.)</a> (GitHub)
-</p>
-
----
 
 <p align="center">
-<a href="/docs/01-organisation/08-firmenphilosophie/01-verhaltensregeln/README.md"><strong>Zurück</strong></a> | <a href="/docs/01-organisation/08-firmenphilosophie/03-kaizen/README.md"><strong>Weiter</strong></a>
+<a href="/docs/01-organisation/08-firmenphilosophie/01-verhaltensregeln/README.md"><strong>Zurück</strong></a> |
+<a href="/docs/01-organisation/08-firmenphilosophie/03-kaizen/README.md"><strong>Weiter</strong></a>
 </p>

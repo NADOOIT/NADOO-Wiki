@@ -61,14 +61,6 @@ Ein gut gepflegtes LinkedIn-Profil ist der erste Schritt, um in der IT-Branche s
 ---
 
 <p align="center">
-📅 <strong>Dieses Dokument wurde bearbeitet am:</strong> 19.09.2025
-<br>
-✍️ <strong>Von:</strong> <a href="https://github.com/johkori">Johkori(Tim H.)</a> (GitHub)
-</p>
-
----
-
-<p align="center">
 <a href="/docs/08-karriere/01-social_media_netzwerk/01-github/README.md"><strong>Zurück</strong></a> | 
 <a href="/docs/08-karriere/01-social_media_netzwerk/03-xing/README.md"><strong>Weiter</strong></a>
 </p>

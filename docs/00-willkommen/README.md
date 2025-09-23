@@ -61,13 +61,6 @@ Du hast ein bisschen getrödelt, dein erster Tag steht quasi schon mit dem Fuß 
 🢒 [**Starterpack**](/docs/00-willkommen/02-starterpack/README.md) </br>
 🢒 [**Styleguide**](/docs/00-willkommen/03-styleguide/README.md)</br>
 
----
-
-<p align="center">
-📅 <strong>Dieses Dokument wurde bearbeitet am:</strong> 19.09.2025
-<br>
-✍️ <strong>Von:</strong> <a href="https://github.com/johkori">Johkori(Tim H.)</a> (GitHub)
-</p>
 
 ---
 <p align="center">

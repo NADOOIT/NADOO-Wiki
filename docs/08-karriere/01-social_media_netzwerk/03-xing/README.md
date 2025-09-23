@@ -60,13 +60,6 @@ Ein Xing-Profil ist ein wichtiges Tool, um deine berufliche Sichtbarkeit zu erh�
 
 ---
 
-<p align="center">
-📅 <strong>Dieses Dokument wurde bearbeitet am:</strong> 19.09.2025
-<br>
-✍️ <strong>Von:</strong> <a href="https://github.com/johkori">Johkori(Tim H.)</a> (GitHub)
-</p>
-
----
 
 <p align="center">
 <a href="/docs/08-karriere/01-social_media_netzwerk/02-linkedin/README.md"><strong>Zurück</strong></a> | 

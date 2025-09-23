@@ -347,13 +347,6 @@ Die Clean Architecture ist ein bewährtes Muster, um Softwareprojekte strukturie
 🔹 [**Best Practices**](/docs/04-tools/06-ki/01-leitfaden/README.md) </br>
 
 ---
-<p align="center">
-📅 <strong>Dieses Dokument wurde bearbeitet am:</strong> 22.09.2025
-<br>
-✍️ <strong>Von:</strong> <a href="https://github.com/johkori">copiumxanime(Dennis S.)</a> (GitHub)
-</p>
-
----
 
 <p align="center">
 <a href="/docs/06-entwicklung/01-dokumentation/README.md"><strong>Zurück</strong></a> | 

@@ -483,13 +483,6 @@ Nutze in einer `switch`-Struktur das Enum `MonsterArt`, um je nach Monster eine 
 🔹 [**Praxis 02**](/docs/06-entwicklung/05-java/01-tutorial/09-praxis-2/README.md) </br>
 
 ---
-<p align="center">
-📅 <strong>Dieses Dokument wurde bearbeitet am:</strong> 19.09.2025
-<br>
-✍️ <strong>Von:</strong> <a href="https://github.com/johkori">Johkori(Tim H.)</a> (GitHub)
-</p>
-
----
 
 <p align="center">
 <a href="/docs/06-entwicklung/05-java/01-tutorial/04-theorie/README.md"><strong>Zurück</strong></a> | 

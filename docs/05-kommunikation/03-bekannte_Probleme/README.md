@@ -30,14 +30,6 @@ In den Discord-Einstellungen prüfen, ob das richtige Aufnahmegerät statt „De
 ---
 
 <p align="center">
-📅 <strong>Dieses Dokument wurde bearbeitet am:</strong> 19.09.2025
-<br>
-✍️ <strong>Von:</strong> <a href="https://github.com/johkori">Johkori(Tim H.)</a> (GitHub)
-</p>
-
----
-
-<p align="center">
 <a href="/docs/05-kommunikation/02-webcam/02-ios/README.md"><strong>Zurück</strong></a> | 
 <a href="/docs/06-entwicklung/01-dokumentation/README.md"><strong>Weiter</strong></a>
 </p>
