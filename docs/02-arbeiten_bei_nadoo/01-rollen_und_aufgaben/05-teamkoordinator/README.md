@@ -88,5 +88,5 @@ Der/Die Teamkoordinator:in des 11er-Teams „Launch“ sammelt Issues rund um di
 
 <p align="center">
 <a href="/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/04-tester/README.md"><strong>Zurück</strong></a> | 
-<a href="/docs/02-arbeiten_bei_nadoo/02-training_und_vorbereitung/README.md"><strong>Weiter</strong></a>
+<a href="/docs/02-arbeiten_bei_nadoo/02-training_und_vorbereitung"><strong>Weiter</strong></a>
 </p>
