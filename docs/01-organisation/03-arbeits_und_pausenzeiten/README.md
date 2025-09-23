@@ -1,36 +1,8 @@
-# <p align="center">Arbeitszeit und Pausen</p>
-
-Unsere täglichen [**Meetings**](/docs/03-meetings/README.md) und festgelegten **Ruhezeiten** (mindestens 11 Stunden zwischen den Arbeitstagen) sind **verbindlich einzuhalten.** 
-
-</br>
-
-## Arbeitszeiten nach [Arbeitszeitgesetz](https://www.gesetze-im-internet.de/arbzg/BJNR117100994.html)
-
-- **§3 Stunden:**
-
-  ➡️ 8 Stunden pro Tag (**durchschnittlich**, auf 24 Wochen berechnet) </br>
-  ➡️ Maximal 8 Stunden pro Tag </br>
-
+# <p align="center">Arbeitszeit und Pausenregelung</p>
 
 ---
 
-- **§4 Pausen:**
-
-  ➡️ Nach 6 Stunden Arbeit: mindestens 30 Minuten Pause (**spätestens!**) </br>
-  ➡️ Nach 9 Stunden Arbeit insgesamt: noch einmal mindestens 15 Minuten Pause </br>
-  ➡️ Mindestdauer einer Pause: 15 Minuten
-
----
-
-- **§5 Ruhezeiten:**
-
-  ➡️ Mindestdauer einer Ruhezeit: 11 Stunden </br>
-
-  Wenn jemand zum Beispiel von 12:00 Uhr bis 20:30 Uhr arbeitet (8 Stunden + 30 Minuten Pause), darf er am nächsten Tag frühestens um 07:30 mit der Arbeit beginnen.
-
----
-
-- **§9 Sonntage & Feiertage:**
+- ** Sonntage & Feiertage:**
 
   ❗ Hier darf niemand zwischen 00:00 und 24:00 Uhr arbeiten
 
@@ -53,6 +25,8 @@ Unsere täglichen [**Meetings**](/docs/03-meetings/README.md) und festgelegten *
 
 ---
 
+
+
 **Dieser Themenbereich beinhaltet folgende Themen:**
 ---
 
@@ -67,10 +41,16 @@ Unsere täglichen [**Meetings**](/docs/03-meetings/README.md) und festgelegten *
 
 ---
 
+
 <p align="center">
 📅 <strong>Dieses Dokument wurde bearbeitet am:</strong> 19.09.2025
 <br>
-✍️ <strong>Von:</strong> <a href="https://github.com/johkori">Johkori(Tim H.)</a> (GitHub)
+  
+✍️ <strong>Von:
+  <strong>Von:</strong> <a href="https://github.com/Kateryna83">Kateryna83</a> (GitHub) und
+  </strong> <a href="https://github.com/johkori">Johkori(Tim H.)</a> (GitHub)
+  
+
 </p>
 
 ---
