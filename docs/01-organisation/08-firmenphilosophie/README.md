@@ -13,7 +13,7 @@ Bei Christoph Backhaus IT verstehen wir **Unternehmenskultur** nicht als leeres 
 
 📈 Auch auf Entwickler-Ebene orientiert sich unser Team an klaren **Grundprinzipien** und **Best Practices** – unter anderem inspiriert von KAIZEN –, um kontinuierlich besser zu werden. 
 
-💡 Die nächten Seiten geben dir einen **Einblick in unsere kulturellen Leitlinien** und wie wir sie im Alltag umsetzen.
+💡 Die nächsten Seiten geben dir einen **Einblick in unsere kulturellen Leitlinien** und wie wir sie im Alltag umsetzen.
 
 ---
 
