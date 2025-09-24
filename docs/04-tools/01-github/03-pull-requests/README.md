@@ -54,7 +54,6 @@ Pull Requests stellen sicher, dass neue Features oder Bugfixes vor ihrer Integra
 9. **Unklare Verantwortlichkeiten:** Wenn mehrere Personen an einem Pull Request arbeiten, kann es unklar sein, wer für bestimmte Änderungen verantwortlich ist.
 10. **Überlastung:** Bei vielen offenen Pull Requests kann es schwierig sein, den Überblick zu behalten und Prioritäten zu setzen.
 11. **Fehlende Standards:** Wenn keine klaren Richtlinien für Pull Requests vorhanden sind, kann dies zu Inkonsistenzen und Verwirrung führen.
-12. **Technische Schulden:** Wenn Pull Requests nicht regelmäßig bearbeitet werden, können sie zu einer Ansammlung von technischen Schulden führen.
 
 ---
 
