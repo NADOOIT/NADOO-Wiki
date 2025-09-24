@@ -9,6 +9,9 @@ Eine Freistellung ist eine offiziele Erlaubnis, für einen bestimmten Zeitraum n
 Schicke dafür eine kurze E-Mail an [**christoph.backhaus@nadooit.de**](mailto:christoph.backhaus@nadooit.de). Formuliere den **Betreff** dabei basierend auf dem folgenden Muster:
 
 MitarbeiterID_KRANKMELDUNG_START_YYYY_MMM_TT_ENDE_YYYY_MM_TT
+
+Beispiele:  
+
 13_KRANKMELDUNG_START_2025_09_19_ENDE_2025_09_25
 
 13_ARZTTERMIN_2025_09_19
