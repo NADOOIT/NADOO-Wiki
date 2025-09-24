@@ -87,14 +87,6 @@ Wichtige Aspekte sind:
 ---
 
 <p align="center">
-📅 <strong>Dieses Dokument wurde bearbeitet am:</strong> 19.09.2025
-<br>
-✍️ <strong>Von:</strong> <a href="https://github.com/johkori">Johkori(Tim H.)</a> (GitHub)
-</p>
-
----
-
-<p align="center">
 <a href="/docs/06-entwicklung/08-cms/05-erweiterung_plugins/README.md"><strong>Zurück</strong></a> | 
 <a href="/docs/06-entwicklung/08-cms/07-pruefungsvorbereitung/README.md"><strong>Weiter</strong></a>
 </p>
