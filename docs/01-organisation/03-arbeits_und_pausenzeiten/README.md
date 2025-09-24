@@ -18,8 +18,7 @@
 
 🕒 **Arbeitsstunden pro Woche:** nach persönlichem Praktikumsvertrag (z.B. 40 Stunden oder 28 Stunden)
 
-🕒 **Arbeitszeiterfassung**: über die Stempeluhr im [**NADOO-Launchpad**](docs/01-organisation/01-zeiterfassung/README.md) (nur erfasste Arbeitszeit ist echte Arbeitszeit!) 
-<br>**Bitte aktuelle Zeiterfassungsregelungen beachten!**
+🕒 **Arbeitszeiterfassung**: Findet momentan über E-Mail statt. Genaueres ist bitte hier nach zu lesen: [**Zeiterfassung**](/docs/01-organisation/01-zeiterfassung/README.md)
 
 <br>
 
