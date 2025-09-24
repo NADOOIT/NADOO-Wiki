@@ -211,15 +211,7 @@ MitarbeiterID_MESSEBESUCH_YYYY_MM_TT / 13_MESSEBESUCH_2025_09_18
 🔹 [**Dateibenennungsrichtlinien**](/docs/01-organisation/02-zeit_und_ausbildungsnachweise/02-dateibenennung/README.md) </br>
 🔹 [**Überprüfung der Dateinamen**](/docs/01-organisation/02-zeit_und_ausbildungsnachweise/03-ueberpruefung/README.md) </br>
 
----
 
-<p align="center">
-📅 <strong>Dieses Dokument wurde bearbeitet am:</strong> 19.09.2025
-<br>
-✍️ <strong>Von:</strong> <a href="https://github.com/johkori">Johkori(Tim H.)</a> (GitHub)
-</p>
-
----
 ---
 <p align="center">
 <a href="/docs/01-organisation/02-zeit_und_ausbildungsnachweise/README.md"><strong>Zurück</strong></a> | 

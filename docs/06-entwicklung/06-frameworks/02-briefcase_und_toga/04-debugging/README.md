@@ -159,14 +159,6 @@ Ein spannendes Video, das von den berühmtesten und größten Bugs berichtet:
 ---
 
 <p align="center">
-📅 <strong>Dieses Dokument wurde bearbeitet am:</strong> 19.09.2025
-<br>
-✍️ <strong>Von:</strong> <a href="https://github.com/johkori">Johkori(Tim H.)</a> (GitHub)
-</p>
-
----
-
-<p align="center">
 <a href="/docs/06-entwicklung/06-frameworks/02-briefcase_und_toga/03-zusammenspiel/README.md"><strong>Zurück</strong></a> | 
 <a href="/docs/06-entwicklung/07-digitale_produktentwicklung/README.md"><strong>Weiter</strong></a>
 </p>

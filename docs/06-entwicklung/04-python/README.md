@@ -42,13 +42,7 @@ Insofern ein:e **Ersteller:in** vermerkt ist, kannst du dich auch direkt an dies
 🔹 [**Debugging**](/docs/06-entwicklung/04-python/02-debugging/README.md) </br>
 
 ---
-<p align="center">
-📅 <strong>Dieses Dokument wurde bearbeitet am:</strong> 19.09.2025
-<br>
-✍️ <strong>Von:</strong> <a href="https://github.com/johkori">Johkori(Tim H.)</a> (GitHub)
-</p>
 
----
 <p align="center">
 <a href="/docs/06-entwicklung/03-lizenzen_und_opensource/README.md"><strong>Zurück</strong></a> | 
 <a href="/docs/06-entwicklung/04-python/01-einstieg/README.md"><strong>Weiter</strong></a>

@@ -26,14 +26,6 @@ Aus diesem Grund sind Trainingsbeiträge fester Bestandteil deiner Zeit bei NADO
 ---
 
 <p align="center">
-📅 <strong>Dieses Dokument wurde bearbeitet am:</strong> 19.09.2025  
-<br>
-✍️ <strong>Von:</strong> <a href="https://github.com/johkori">Johkori (Tim H.)</a> (GitHub)
-</p>
-
----
-
-<p align="center">
 <a href="/docs/02-arbeiten_bei_nadoo/02-training_und_vorbereitung/README.md"><strong>Zurück</strong></a> | 
 <a href="/docs/02-arbeiten_bei_nadoo/02-training_und_vorbereitung/01-trainingsbeitraege/01-basics/README.md"><strong>Weiter</strong></a>
 </p>

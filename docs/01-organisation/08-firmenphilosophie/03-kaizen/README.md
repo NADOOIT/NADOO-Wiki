@@ -124,14 +124,8 @@ Solltest du nach dem Lesen dieses Wikis Unklarheiten oder Fragen zu einem der ge
 
 
 ---
-<p align="center">
-📅 <strong>Dieses Dokument wurde bearbeitet am:</strong> 19.09.2025
-<br>
-✍️ <strong>Von:</strong> <a href="https://github.com/johkori">Johkori(Tim H.)</a> (GitHub)
-</p>
-
----
 
 <p align="center">
-<a href="/docs/01-organisation/08-firmenphilosophie/02-feedback-kultur/README.md"><strong>Zurück</strong></a> | <a href="/docs/02-arbeiten_bei_nadoo/README.md"><strong>Weiter</strong></a>
+<a href="/docs/01-organisation/08-firmenphilosophie/02-feedback-kultur/README.md"><strong>Zurück</strong></a> |
+<a href="/docs/02-arbeiten_bei_nadoo/README.md"><strong>Weiter</strong></a>
 </p>

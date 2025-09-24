@@ -49,14 +49,6 @@ Insofern ein:e **Ersteller:in** vermerkt ist, kannst du dich auch direkt an dies
 ---
 
 <p align="center">
-📅 <strong>Dieses Dokument wurde bearbeitet am:</strong> 19.09.2025  
-<br>
-✍️ <strong>Von:</strong> <a href="https://github.com/johkori">Johkori (Tim H.)</a> (GitHub)
-</p>
-
----
-
-<p align="center">
 <a href="/docs/02-arbeiten_bei_nadoo/02-training_und_vorbereitung/01-trainingsbeitraege/02-dokumentation/README.md"><strong>Zurück</strong></a> | 
 <a href="/docs/02-arbeiten_bei_nadoo/03-teams/README.md"><strong>Weiter</strong></a>
 </p>
