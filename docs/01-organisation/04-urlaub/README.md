@@ -15,8 +15,9 @@ Wenn du bei **Christoph Backhaus IT** im Zuge einer **Umschulung** als **Praktik
 **2.** Schicke dafür eine kurze E-Mail an [**christoph.backhaus@nadooit.de**](mailto:christoph.backhaus@nadooit.de). Formuliere den **Betreff** dabei basierend auf dem folgenden Muster:
 <br> 
 
-MitarbeiterID_URLAUBSANTRAG_START_YYYY_MM_TT_ENDE_YYYY_MM_TT
-13_URLAUBSANTRAG_START_2025_09_19_ENDE_2025_10_10
+**Betreff:**    MitarbeiterID_URLAUBSANTRAG_START_YYYY_MM_TT_ENDE_YYYY_MM_TT
+
+**Beispiel:**   13_URLAUBSANTRAG_START_2025_09_19_ENDE_2025_10_10
 
 ## Alle, die die Schule (Umschulung) besuchen müssen
 
@@ -25,7 +26,9 @@ Wenn ihr es noch nicht wisst und später erfahrt, gebt bitte ein paar Tage vor B
 🚩 Dies ist eine Pflichtregel, das heißt, ihr müsst dies unbedingt einhalten.
 
 Schicke eine E-Mail an [**christoph.backhaus@nadooit.de**](mailto:christoph.backhaus@nadooit.de).
-**Betreff:**  MitarbeiterID_SCHULE_START_YYYY_MM_TT_ENDE_YYYY_MM_TT 
+
+**Betreff:**   MitarbeiterID_SCHULE_START_YYYY_MM_TT_ENDE_YYYY_MM_TT 
+
 **Beispiel:**  13_SCHULE_START_2025_09_19_ENDE_2025_11_03 
 
 ---
