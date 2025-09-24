@@ -35,10 +35,9 @@ Komm am besten **zu einem späteren Zeitpunkt** nochmal wieder - mit etwas Glüc
 **Dieser Themenbereich beinhaltet folgende Themen:**
 ---
 
-🢒 [**Rollen und Aufgaben**](/docs/00-willkommen/01-leitfaden/README.md) </br>
-🢒 [**Training und Vorbereitung**](/docs/00-willkommen/02-starterpack/README.md) </br>
-🢒 [**Teams**](/docs/00-willkommen/03-styleguide/README.md)</br>
-
+🢒 [**Rollen und Aufgaben**](/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/README.md) </br>
+🢒 [**Training und Vorbereitung**](/docs/02-arbeiten_bei_nadoo/02-training_und_vorbereitung/README.md) </br>
+🢒 [**Teams**](/docs/02-arbeiten_bei_nadoo/03-teams/README.md)</br>
 
 ---
 
