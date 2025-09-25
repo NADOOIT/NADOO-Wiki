@@ -42,5 +42,5 @@ Komm am besten **zu einem späteren Zeitpunkt** nochmal wieder - mit etwas Glüc
 ---
 
 <p align="center"><a href="/docs/01-organisation/08-firmenphilosophie/03-kaizen/README.md"><strong>Zurück</strong></a> | 
-<a href="/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/README.md"><strong>Weiter</strong></a>
+<a href="/docs/03-meetings/01-allgemein/README.md"><strong>Weiter</strong></a>
 </p>
