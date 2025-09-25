@@ -68,6 +68,6 @@ Innerhalb einer Organisation kann man Teams anlegen – das sind Gruppen von Mit
 ---
 
 <p align="center">
-<a href="/docs/04-tools/01-github/README.md"><strong>Zurück</strong></a> | 
-<a href="/docs/04-tools/02-vscode/README.md"><strong>Weiter</strong></a>
+<a href="/docs/04-tools/01-github/08-markdown/README.md"><strong>Zurück</strong></a> | 
+<a href="/docs/04-tools/01-github/10-github-einfuehrung/README.md"><strong>Weiter</strong></a>
 </p>
