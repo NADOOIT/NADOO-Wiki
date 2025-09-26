@@ -4,8 +4,6 @@
 
 Button "Function Names" -->
 
----
-
 <div align="center">
   <table>
     <tr>
@@ -33,24 +31,19 @@ Insofern ein:e **Ersteller:in** vermerkt ist, kannst du dich auch direkt an dies
 
 ---
 
-**Dieses Thema beinhaltet folgende Kapitel:**
----
-
-🔹 [**Menu**](/docs/04-tools/05-launchpad/01-ueberblick/01-windows/README.md) </br>
-🔹 [**Berechtigungen**](/docs/04-tools/05-launchpad/01-ueberblick/02-mac/README.md) </br>
-🔹 [**Tokens**](/docs/04-tools/05-launchpad/01-ueberblick/02-mac/README.md) </br>
-🔹 [**Zeiterfassung**](/docs/04-tools/05-launchpad/01-ueberblick/02-mac/README.md) </br>
-🔹 [**Projektverwaltung**](/docs/04-tools/05-launchpad/01-ueberblick/02-mac/README.md) </br>
-🔹 [**Aktivitäten**](/docs/04-tools/05-launchpad/01-ueberblick/02-mac/README.md) </br>
-🔹 [**WochenÜbersicht**](/docs/04-tools/05-launchpad/01-ueberblick/02-mac/README.md) </br>
-🔹 [**Watchdog**](/docs/04-tools/05-launchpad/01-ueberblick/02-mac/README.md) </br>
-🔹 [**Create Snippets**](/docs/04-tools/05-launchpad/01-ueberblick/02-mac/README.md) </br>
-🔹 [**Function names**](/docs/04-tools/05-launchpad/01-ueberblick/02-mac/README.md) </br>
-🔹 [**T-Bar senden**](/docs/04-tools/05-launchpad/01-ueberblick/02-mac/README.md) </br>
+<p align="center">
+📅 <strong>Dieses Dokument wurde erstellt am:</strong> 08.05.2025
+<br>
+✍️ <strong>Von:</strong> <a href="https://github.com/cherylugbogu">Cheryl</a> (GitHub)
+</p>
 
 ---
 
 <p align="center">
 <a href="/docs/04-tools/05-launchpad/02-features/09-create_snippets/README.md"><strong>Zurück</strong></a> | 
 <a href="/docs/04-tools/05-launchpad/02-features/11-t_bar_senden/README.md"><strong>Weiter</strong></a>
+</p>
+
+<p align="center">
+<a href="/docs/04-tools/05-launchpad//02-features/README.md/#dieses-kapitel-beinhaltet-folgende-abschnitte"><strong>Zurück zur Abschnitts-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
 </p>

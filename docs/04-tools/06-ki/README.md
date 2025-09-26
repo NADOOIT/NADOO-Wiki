@@ -31,7 +31,8 @@ Insofern ein:e **Ersteller:in** vermerkt ist, kannst du dich auch direkt an dies
 
 ---
 
-**Dieses Thema beinhaltet folgende Kapitel:**
+### <p align="center">Dieses Thema beinhaltet folgende Kapitel:</p>
+
 ---
 
 🔹 [**Leitfaden KI**](/docs/04-tools/06-ki/01-leitfaden/README.md) </br>
@@ -44,3 +45,8 @@ Insofern ein:e **Ersteller:in** vermerkt ist, kannst du dich auch direkt an dies
 <a href="/docs/04-tools/05-launchpad/03-videos/README.md"><strong>Zurück</strong></a> | 
 <a href="/docs/04-tools/06-ki/01-leitfaden/README.md"><strong>Weiter</strong></a>
 </p>
+
+<p align="center">
+<a href="/docs/04-tools/README.md/#dieser-themenbereich-beinhaltet-folgende-themen"><strong>Zurück zur Themen-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
+</p>
+

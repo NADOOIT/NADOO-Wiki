@@ -58,3 +58,7 @@ Eine Code Review ist die Überprüfung von Code durch andere Teammitglieder, bev
 <a href="/docs/04-tools/01-github/04-issues/README.md"><strong>Weiter</strong></a>
 </p>
 
+<p align="center">
+<a href="/docs/04-tools/01-github/03-pull-requests/README.md/#dieses-kapitel-beinhaltet-folgende-abschnitte"><strong>Zurück zur Abschnitts-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
+</p>
+

@@ -60,7 +60,8 @@ Insofern ein:e **Ersteller:in** vermerkt ist, kannst du dich auch direkt an dies
 
 ---
 
-**Dieses Thema beinhaltet folgende Kapitel:**
+### <p align="center">Dieses Thema beinhaltet folgende Kapitel:</p>
+
 ---
 
 🔹 [**Überblick**](/docs/04-tools/03-intellij/01-ueberblick/README.md) </br>
@@ -72,4 +73,8 @@ Insofern ein:e **Ersteller:in** vermerkt ist, kannst du dich auch direkt an dies
 <p align="center">
 <a href="/docs/04-tools/04-terminal/README.md"><strong>Zurück</strong></a> | 
 <a href="/docs/04-tools/05-launchpad/01-ueberblick/README.md"><strong>Weiter</strong></a>
+</p>
+
+<p align="center">
+<a href="/docs/04-tools/README.md/#dieser-themenbereich-beinhaltet-folgende-themen"><strong>Zurück zur Themen-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
 </p>

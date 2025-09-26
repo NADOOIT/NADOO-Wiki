@@ -42,11 +42,12 @@ Insofern ein:e **Ersteller:in** vermerkt ist, kannst du dich auch direkt an dies
 
 ---
 
-**Dieses Thema beinhaltet folgende Kapitel:**
+### <p align="center">Dieses Kapitel beinhaltet folgende Abschnitte:</p>
+
 ---
 
-🔹 [**Windows**](/docs/04-tools/05-launchpad/01-ueberblick/01-windows/README.md) </br>
-🔹 [**Mac**](/docs/04-tools/05-launchpad/01-ueberblick/02-mac/README.md) </br>
+◻️ [**Windows**](/docs/04-tools/05-launchpad/01-ueberblick/01-windows/README.md) </br>
+◻️ [**Mac**](/docs/04-tools/05-launchpad/01-ueberblick/02-mac/README.md) </br>
 
 ---
 
@@ -54,4 +55,7 @@ Insofern ein:e **Ersteller:in** vermerkt ist, kannst du dich auch direkt an dies
 <a href="/docs/04-tools/04-terminal/README.md"><strong>Zurück</strong></a> | 
 <a href="/docs/04-tools/05-launchpad/01-ueberblick/01-windows/README.md"><strong>Weiter</strong></a>
 </p>
- 
+
+<p align="center">
+<a href="/docs/04-tools/05-launchpad/README.md/#dieses-thema-beinhaltet-folgende-kapitel"><strong>Zurück zur Kapitel-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
+</p>

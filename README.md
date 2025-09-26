@@ -123,7 +123,7 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
 <details>
 <summary>Urlaub</summary>
 
-  &nbsp;&nbsp;🔹 [Urlaubsregelung](docs/01-organisation/04-urlaub/README.md)
+  &nbsp;&nbsp;🔹 [Regelungungen für Urlaub und Freistellungen](docs/01-organisation/04-urlaub/README.md)
 
 </details>
 
@@ -271,7 +271,12 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
   &nbsp;&nbsp;🔹 [**Actions**](/docs/04-tools/01-github/05-actions/README.md) <br>
   &nbsp;&nbsp;🔹 [**GitHub-Notifications und Visual Studio Code**](/docs/04-tools/01-github/06-notifications/README.md) <br>
   &nbsp;&nbsp;🔹 [**Die GitHub-Suchfunktion effizient nutzen**](/docs/04-tools/01-github/07-suche/README.md) <br>
-  &nbsp;&nbsp;🔹 [**Markdown**](/docs/04-tools/01-github/08-markdown/README.md) <br>
+  &nbsp;&nbsp;🔹 [**Markdown**](/docs/04-tools/01-github/08-markdown/README.md) <br><br>
+
+  &nbsp;&nbsp;🔹 [**Organisationen und Teams auf GitHub**](/docs/04-tools/01-github/09-organizations-teams/README.md) </br>
+    &emsp;&emsp;◻️[**Schritt-für-Schritt-Anleitung zur NADOO-IT-Organisation und den Teams auf GitHub**](/docs/04-tools/01-github/09-organizations-teams/01-nadooit-guide/README.md) </br><br>
+
+  &nbsp;&nbsp;🔹 [**GitHub Einführung (Video)**](/docs/04-tools/01-github/10-github-einfuehrung/README.md) </br>
 
 </details>
 

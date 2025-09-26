@@ -82,7 +82,7 @@ Füge die Bilder in das Repository ein, indem du sie im `images/`-Ordner speiche
 
 ---
 
-### Quellen
+#### Quellen
 
 [1] https://serverspace.io/de/about/blog/basic-linux-commands-in-the-terminal/
 [2] https://www.heise.de/tipps-tricks/Linux-Befehle-Die-20-wichtigsten-Kommandos-3843388.html
@@ -95,20 +95,13 @@ Füge die Bilder in das Repository ein, indem du sie im `images/`-Ordner speiche
 
 ---
 
-**Dieser Themenbereich beinhaltet folgende Themen:**
----
-
-🔹 [**Github**](/docs/00-willkommen/03-styleguide/00-platzhalter/01-anleitung/README.md)<br>
-🔹 [**VS Code**](/docs/00-willkommen/03-styleguide/00-platzhalter/02-vorschau/README.md) <br>
-🔹 [**IntelliJ**](/docs/00-willkommen/03-styleguide/00-platzhalter/02-vorschau/README.md) <br>
-🔹 [**Terminal**](/docs/00-willkommen/03-styleguide/00-platzhalter/02-vorschau/README.md) <br>
-🔹 [**Launchpad**](/docs/00-willkommen/03-styleguide/00-platzhalter/02-vorschau/README.md) <br>
-🔹 [**KI, Künstliche Intelligenz**](/docs/00-willkommen/03-styleguide/00-platzhalter/02-vorschau/README.md) <br>
-
----
-
 <p align="center">
 <a href="/docs/04-tools/03-intellij/02-installation/README.md"><strong>Zurück</strong></a> | 
 <a href="/docs/04-tools/05-launchpad/README.md"><strong>Weiter</strong></a>
 </p>
+
+<p align="center">
+<a href="/docs/04-tools/README.md/#dieser-themenbereich-beinhaltet-folgende-themen"><strong>Zurück zur Themen-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
+</p>
+
 

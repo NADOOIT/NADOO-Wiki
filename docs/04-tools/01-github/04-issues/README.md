@@ -44,17 +44,18 @@ Issues helfen bei der systematischen Nachverfolgung von Aufgaben, der Kommunikat
 
 ---
 
-**Dieses Thema beinhaltet folgende Kapitel:**
+### <p align="center">Dieses Kapitel beinhaltet folgende Abschnitte:</p>
+
 ---
 
-🔹 [**Wiki-Guide**](/docs/04-tools/01-github/04-issues/01-wiki-guide/README.md) </br>
-🔹 [**Labels**](/docs/04-tools/01-github/04-issues/02-labels/README.md) </br>
-🔹 [**Types**](/docs/04-tools/01-github/04-issues/03-types/README.md) </br>
-🔹 [**Assignees**](/docs/04-tools/01-github/04-issues/04-assignees/README.md) </br>
-🔹 [**Milestones**](/docs/04-tools/01-github/04-issues/05-milestones/README.md) </br>
-🔹 [**Projects**](/docs/04-tools/01-github/04-issues/06-projects/README.md) </br>
-🔹 [**Discussions**](/docs/04-tools/01-github/04-issues/07-discussions/README.md) </br>
-🔹 [**Templates**](/docs/04-tools/01-github/04-issues/08-templates/README.md) </br>
+◻️ [**Selbstständig Veränderungen innerhalb des Wikis vornehmen: ein kleiner Guide**](/docs/04-tools/01-github/04-issues/01-wiki-guide/README.md) </br>
+◻️ [**Labels**](/docs/04-tools/01-github/04-issues/02-labels/README.md) </br>
+◻️ [**Types**](/docs/04-tools/01-github/04-issues/03-types/README.md) </br>
+◻️ [**Assignees**](/docs/04-tools/01-github/04-issues/04-assignees/README.md) </br>
+◻️ [**Milestones**](/docs/04-tools/01-github/04-issues/05-milestones/README.md) </br>
+◻️ [**Projects**](/docs/04-tools/01-github/04-issues/06-projects/README.md) </br>
+◻️ [**Discussions**](/docs/04-tools/01-github/04-issues/07-discussions/README.md) </br>
+◻️ [**Templates**](/docs/04-tools/01-github/04-issues/08-templates/README.md) </br>
 
 ---
 
@@ -63,3 +64,6 @@ Issues helfen bei der systematischen Nachverfolgung von Aufgaben, der Kommunikat
 <a href="/docs/04-tools/01-github/04-issues/01-wiki-guide/README.md"><strong>Weiter</strong></a>
 </p>
 
+<p align="center">
+<a href="/docs/04-tools/01-github/README.md/#dieses-thema-beinhaltet-folgende-kapitel"><strong>Zurück zur Kapitel-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
+</p>

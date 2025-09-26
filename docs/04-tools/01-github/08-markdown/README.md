@@ -86,23 +86,11 @@ Hier finden neue Mitarbeitende alle nötigen Informationen und Zugangsdaten.
 
 ---
 
-**Dieses Thema beinhaltet folgende Kapitel:**
----
-
-🔹 [**Repository**](/docs/01-organisation/02-zeit_und_ausbildungsnachweise/01-beispiele/README.md) </br>
-🔹 [**Branches**](/docs/01-organisation/02-zeit_und_ausbildungsnachweise/02-dateibenennung/README.md) </br>
-🔹 [**Pull-Requests**](/docs/01-organisation/02-zeit_und_ausbildungsnachweise/03-ueberpruefung/README.md) </br>
-🔹 [**Issues**](/docs/01-organisation/02-zeit_und_ausbildungsnachweise/03-ueberpruefung/README.md) </br>
-🔹 [**Actions**](/docs/01-organisation/02-zeit_und_ausbildungsnachweise/03-ueberpruefung/README.md) </br>
-🔹 [**Notifications**](/docs/01-organisation/02-zeit_und_ausbildungsnachweise/03-ueberpruefung/README.md) </br>
-🔹 [**Suche**](/docs/01-organisation/02-zeit_und_ausbildungsnachweise/03-ueberpruefung/README.md) </br>
-🔹 [**Markdown**](/docs/01-organisation/02-zeit_und_ausbildungsnachweise/03-ueberpruefung/README.md) </br>
-🔹 [**Organizations-teams**](/docs/04-tools/01-github/09-organizations-teams/README.md) </br>
-🔹 [**GitHub Einführung**](/docs/04-tools/01-github/10-github-einfuehrung/README.md) </br>
-
----
-
 <p align="center">
 <a href="/docs/04-tools/01-github/07-suche/README.md"><strong>Zurück</strong></a> | 
 <a href="/docs/04-tools/01-github/09-organizations-teams/README.md"><strong>Weiter</strong></a>
+</p>
+
+<p align="center">
+<a href="/docs/04-tools/01-github/README.md/#dieses-thema-beinhaltet-folgende-kapitel"><strong>Zurück zur Kapitel-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
 </p>

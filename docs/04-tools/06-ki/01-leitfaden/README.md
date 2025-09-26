@@ -291,19 +291,13 @@ https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-
 [7] https://openaccess.thecvf.com/content/CVPR2024/papers/Wan_OmniParser_A_Unified_Framework_for_Text_Spotting_Key_Information_Extraction_CVPR_2024_paper.pdf
 [8] https://www.psychology.hu-berlin.de/de/prof/ingpsy/inpsy_old/forschung/tools/literatur/fuhrmann-2010-entwicklung-eines-gui-fur-die-konfiguration-der-software-komponente-zur-systemprozessuberwachung-und-kontrolle-in-einer-psychologischen-versuchsumgebung.pdf
 
-
----
-
-**Dieses Thema beinhaltet folgende Kapitel:**
----
-
-🔹 [**Leitfaden KI**](/docs/04-tools/06-ki/01-leitfaden/README.md) </br>
-🔹 [**LLM-Mix**](/docs/04-tools/06-ki/02-llm-mlx/README.md) </br>
-🔹 [**Gemini**](/docs/04-tools/06-ki/03-gemini/README.md) </br>
-
 ---
 
 <p align="center">
 <a href="/docs/04-tools/06-ki/README.md"><strong>Zurück</strong></a> | 
 <a href="/docs/04-tools/06-ki/02-llm-mlx/README.md"><strong>Weiter</strong></a>
+</p>
+
+<p align="center">
+<a href="/docs/04-tools/06-ki/README.md/#dieses-thema-beinhaltet-folgende-kapitel"><strong>Zurück zur Kapitel-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
 </p>
