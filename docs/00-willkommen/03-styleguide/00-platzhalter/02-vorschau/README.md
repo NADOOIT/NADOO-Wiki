@@ -29,12 +29,4 @@ Insofern ein:e **Ersteller:in** vermerkt ist, kannst du dich auch direkt an dies
 
 ---
 
-**Dieses Thema beinhaltet folgende Kapitel:**
----
-
-🔹 [**Anleitung: So verwendest du die Vorlage**](/docs/00-willkommen/03-styleguide/00-platzhalter/01-anleitung/README.md)<br>
-🔹 [**Vorschau des Platzhalters zur Ansicht im Browser**](/docs/00-willkommen/03-styleguide/00-platzhalter/02-vorschau/README.md)
-
----
-
 <p align="center"><a href="/docs/00-willkommen/03-styleguide/00-platzhalter/01-anleitung/README.md"><strong>Zurück</strong></a> | <a href="/docs/01-organisation/README.md"><strong>Weiter</strong></a></p>
