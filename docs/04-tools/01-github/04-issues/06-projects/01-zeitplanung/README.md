@@ -1,20 +1,3 @@
----
-title: 🧠 Projektmanagement und Arbeitsorganisation
-
-description: Zeitplanung und Meilensteine mit GitHub Projects (Status, Priority, Size, Estimate, Iteration, Start- und Enddate)
-
-author: '@hfanieng'
-
-pubDate: 2025-05-30
-
-tags:
-  - projektmanagement
-  - ap2
-  - fiae
-  - meilenstein
-  - zeitplanung
-
----
 
 ## 🕒 Fokus: Zeitplanung und Meilensteine mit GitHub Projects
 
