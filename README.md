@@ -375,6 +375,7 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
     &emsp;&emsp;◻️ [Das Android-Smartphone als Webcam nutzen](/docs/05-kommunikation/02-webcam/01-droidcam/README.md) <br>
     &emsp;&emsp;◻️ [Das iPhone als Webcam für den Mac verwenden](/docs/05-kommunikation/02-webcam/02-ios/README.md) <br>
 
+  &nbsp;&nbsp;🔹 [**Bekannte Probleme**](/docs/05-kommunikation/03-bekannte_probleme/README.md) <br>
 </details>
 
 ---

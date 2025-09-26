@@ -19,7 +19,8 @@ Es wird jedoch empfohlen, in kleineren Gruppen oder bei persönlichen Gespräche
 
 ---
 
-**Dieses Thema beinhaltet folgende Kapitel:**
+### <p align="center">Dieses Thema beinhaltet folgende Kapitel:</p>
+
 ---
 
 🔹 [**Droidcam**](/docs/04-tools/06-ki/01-leitfaden/README.md) </br>
@@ -30,4 +31,8 @@ Es wird jedoch empfohlen, in kleineren Gruppen oder bei persönlichen Gespräche
 <p align="center">
 <a href="/docs/05-kommunikation/01-discord/01-einrichtung/README.md"><strong>Zurück</strong></a> | 
 <a href="/docs/05-kommunikation/02-webcam/01-droidcam/README.md"><strong>Weiter</strong></a>
+</p>
+
+<p align="center">
+<a href="/docs/05-kommunikation/README.md/#dieser-themenbereich-beinhaltet-folgende-themen"><strong>Zurück zur Themen-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
 </p>

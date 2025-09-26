@@ -52,14 +52,19 @@ So bleiben alle Teammitglieder – egal wo sie gerade sind – immer auf dem gle
 
 ---
 
-**Dieses Thema beinhaltet folgende Kapitel:**
+### <p align="center">Dieses Thema beinhaltet folgende Kapitel:</p>
+
 ---
 
-🔹 [**Einrichtung**](/docs/04-tools/06-ki/01-leitfaden/README.md) </br>
+🔹 [**Einrichtung**](/docs/05-kommunikation/01-discord/01-einrichtung/README.md) </br>
 
 ---
 
 <p align="center">
 <a href="/docs/05-kommunikation/README.md"><strong>Zurück</strong></a> | 
 <a href="/docs/05-kommunikation/01-discord/01-einrichtung/README.md"><strong>Weiter</strong></a>
+</p>
+
+<p align="center">
+<a href="/docs/05-kommunikation/README.md/#dieser-themenbereich-beinhaltet-folgende-themen"><strong>Zurück zur Themen-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
 </p>
