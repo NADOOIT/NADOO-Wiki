@@ -19,7 +19,7 @@ Damit du nach den Informationen, die du vor allem für den Start in einem neuen 
 
 ### 🤝 Dein Weg ins Team
 
-ℹ️ [**Kommunikation und Interaktion**](/docs/05-kommunikation/01-discord/README.md) <br>
+ℹ️ [**Kommunikation und Interaktion**](/docs/05-kommunikation/README.md) <br>
 ℹ️ [**Rollen und Aufgaben**](/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/README.md) <br>
 ℹ️ [**Beitritt in ein 11er-Team**](/docs/00-willkommen/01-leitfaden/README.md/#22-beitritt-in-ein-11er-team) <br>
 ℹ️ [**Übersicht aktueller Teams**](/docs/02-arbeiten_bei_nadoo/03-teams/01-aktive_teams/README.md) <br>
