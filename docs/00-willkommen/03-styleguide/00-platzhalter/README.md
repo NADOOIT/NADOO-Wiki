@@ -25,17 +25,19 @@ Auf der nächsten Seite findest du eine genaue [**Anleitung**](/docs/00-willkomm
 
 #
 
----
+### <p align="center">Dieses Thema beinhaltet folgende Kapitel:</p>
 
-**Dieses Thema beinhaltet folgende Kapitel:**
----
-
-🔹 [**Anleitung: So verwendest du die Vorlage**](/docs/00-willkommen/03-styleguide/00-platzhalter/01-anleitung/README.md)<br>
+🔹 [**Anleitung: So verwendest du die Vorlage**](/docs/00-willkommen/03-styleguide/00-platzhalter/01-anleitung/README.md) <br>
 🔹 [**Vorschau des Platzhalters zur Ansicht im Browser**](/docs/00-willkommen/03-styleguide/00-platzhalter/02-vorschau/README.md)
 
 
 ---
+
 <p align="center">
 <a href="/docs/00-willkommen/03-styleguide/README.md"><strong>Zurück</strong></a> | 
 <a href="/docs/00-willkommen/03-styleguide/00-platzhalter/01-anleitung/README.md"><strong>Weiter</strong></a>
+</p>
+
+<p align="center">
+<a href="/docs/00-willkommen/03-styleguide/README.md/#inhaltsverzeichnis"><strong>Zurück zum Styleguide-Inhaltsverzeichnis</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
 </p>

@@ -166,18 +166,14 @@ Eine ausführliche Beschreibung zu dem Thema findest du in unserem **NADOO-Wiki*
 | _freie Einteilung_   | **Pause**                                                | Discord-Channels [**🔇 afk**](https://discordapp.com/channels/1299292608744390707/1331528615132925972) ODER [**🌿 Ruhebereich**](https://discordapp.com/channels/1299292608744390707/1331765513826861136) |
 | _freie Einteilung_   | **Stillarbeit**                                          |                                               Discord-Channel [**🌿 Ruhebereich**](https://discordapp.com/channels/1299292608744390707/1331765513826861136)                                               |
 
----
-
-**Dieser Themenbereich beinhaltet folgende Themen:**
----
-
-🢒 [**Leitfaden/Onboarding**](/docs/00-willkommen/01-leitfaden/README.md) </br>
-🢒 [**Starterpack**](/docs/00-willkommen/02-starterpack/README.md) </br>
-🢒 [**Styleguide**](/docs/00-willkommen/03-styleguide/README.md)</br>
-
 
 ---
+
 <p align="center">
 <a href="/docs/00-willkommen/README.md"><strong>Zurück</strong></a> | 
 <a href="/docs/00-willkommen/02-starterpack/README.md"><strong>Weiter</strong></a>
+</p>
+
+<p align="center">
+<a href="/docs/00-willkommen/README.md/#dieser-themenbereich-beinhaltet-folgende-themen"><strong>Zurück zur Themen-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
 </p>
