@@ -29,4 +29,12 @@ Insofern ein:e **Ersteller:in** vermerkt ist, kannst du dich auch direkt an dies
 
 ---
 
+<p align="center">
+📅 <strong>Dieses Dokument wurde erstellt am:</strong> 12.05.2025
+<br>
+✍️ <strong>Von:</strong> <a href="https://github.com/dein_github_username">maxmuster</a> (GitHub)
+</p>
+
+---
+
 <p align="center"><a href="/docs/00-willkommen/03-styleguide/00-platzhalter/01-anleitung/README.md"><strong>Zurück</strong></a> | <a href="/docs/01-organisation/README.md"><strong>Weiter</strong></a></p>
