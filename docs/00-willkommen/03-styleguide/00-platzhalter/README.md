@@ -23,13 +23,14 @@ Die Folge davon ist, dass neu angelegte Wiki-Docs dann erstmal eine Weile komple
 
 Auf der nächsten Seite findest du eine genaue [**Anleitung**](/docs/00-willkommen/03-styleguide/00-platzhalter/01-anleitung/README.md) zur Anwendung des Templates. Außerdem kannst du dir [hier](/docs/00-willkommen/03-styleguide/00-platzhalter/02-vorschau/README.md) anschauen, wie der Platzhalter am Ende im Browser aussieht.
 
-#
+---
 
 ### <p align="center">Dieses Thema beinhaltet folgende Kapitel:</p>
 
+---
+
 🔹 [**Anleitung: So verwendest du die Vorlage**](/docs/00-willkommen/03-styleguide/00-platzhalter/01-anleitung/README.md) <br>
 🔹 [**Vorschau des Platzhalters zur Ansicht im Browser**](/docs/00-willkommen/03-styleguide/00-platzhalter/02-vorschau/README.md)
-
 
 ---
 

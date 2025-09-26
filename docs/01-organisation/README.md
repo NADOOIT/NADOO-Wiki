@@ -21,7 +21,8 @@ Okay, kommen wir zum ersten großen Themenbereich: **Organisation und Rahmenbedi
 
 ---
 
-**Dieser Themenbereich beinhaltet folgende Themen:**
+### <p align="center">Dieser Themenbereich beinhaltet folgende Themen:</p>
+
 ---
 
 🢒 [**Zeiterfassung / Einstempeln**](/docs/01-organisation/01-zeiterfassung/README.md) </br>
@@ -34,7 +35,9 @@ Okay, kommen wir zum ersten großen Themenbereich: **Organisation und Rahmenbedi
 🢒 [**Verhalten und Kultur bei Christoph Backhaus IT — unsere Firmenphilosophien**](/docs/01-organisation/08-firmenphilosophie/README.md) </br>
 
 ---
+
 <p align="center">
 <a href="/docs/00-willkommen/README.md"><strong>Zurück</strong></a> | 
 <a href="/docs/00-willkommen/02-starterpack/README.md"><strong>Weiter</strong></a>
 </p>
+

@@ -27,7 +27,8 @@ Abgesehen vom Anhang bleibt die E-Mail leer.
 
 ---
 
-**Dieses Thema beinhaltet folgende Kapitel:**
+### <p align="center">Dieses Thema beinhaltet folgende Kapitel:</p>
+
 ---
 
 🔹 [**Beispiele für Ausbildungs- und Zeitnachweise**](/docs/01-organisation/02-zeit_und_ausbildungsnachweise/01-beispiele/README.md) </br>
@@ -39,4 +40,8 @@ Abgesehen vom Anhang bleibt die E-Mail leer.
 <p align="center">
 <a href="/docs/01-organisation/01-zeiterfassung/README.md"><strong>Zurück</strong></a> | 
 <a href="/docs/01-organisation/02-zeit_und_ausbildungsnachweise/01-beispiele/README.md"><strong>Weiter</strong></a>
+</p>
+
+<p align="center">
+<a href="/docs/01-organisation/README.md/#dieser-themenbereich-beinhaltet-folgende-themen"><strong>Zurück zur Themen-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
 </p>

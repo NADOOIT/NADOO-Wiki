@@ -50,7 +50,7 @@ Du hast ein bisschen getrödelt, dein erster Tag steht quasi schon mit dem Fuß 
 
 <p align="center"><strong><em>Langer Rede kurzer Sinn</em></strong> — lass uns den Startschuss für deine Reise durchs NADOO-versum abfeuern! 🚀</p3>
 
-#
+---
 
 ### <p align="center">Dieser Themenbereich beinhaltet folgende Themen:</p>
 
