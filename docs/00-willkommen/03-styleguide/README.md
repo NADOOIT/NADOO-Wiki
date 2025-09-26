@@ -37,19 +37,7 @@ Damit unsere Inhalte **übersichtlich**, **konsistent** und gut **verständlich*
 
 ---
 
-### <p align="center"> Erklärung der Allgemeine Regeln
-
-## 1.Klar & kurz schreiben. Erste Zeile - die Kernaussage.
-Alle Nachrichten sollen **kurz und verständlich** sein.
-Die reste Zeile der Nachricht muss **die wichtigste Information enthalten**, damit sofort klar ist, worum es geht.
-## 2. Channels & Direct Messages.
-Fragen, die für das ganze Team interessant sind oder die Arbeit des Teams betreffen, schreibt man in den allgemeinen Kanal (Channel).
-Fragen persoönlicher Art schreibt man in private Nachrichten (Direct Message).
-## 3. Ton: professionell, freundlich, vermeide Emojis in automatisierbaren Subjects.
-Nachrichten sollen **professionell und freundlich** sein.
-Keine Emojis oder Sondernzeichen im Subject (Betreff), das automatisiert verarbeitet wird. Wenn Emojis im Betreff stehen - automatische Verarbeitung kann fehlschlagen.
-
-<br>
+## Wo starte ich am besten?
 
 Aktuell steckt unser Styleguide noch tief in seinen Kinderschuhen. Sehr viel gibt es hier deshalb _noch_ nicht zu sehen. Das wird sich mit der Zeit natürlich ändern.
 
@@ -84,15 +72,6 @@ Desweiteren folgt demnächst ein zweites Kapitel zum **Verzeichnisbaum des** [**
 🔹 [**Platzhalter für (vorerst) leere Docs**](/docs/00-willkommen/03-styleguide/00-platzhalter/02-vorschau/README.md) <br>
 
 <!-- 🔹 [**Verzeichnisbaum des Wiki-READMEs – Hierarchie, Bezeichnungen und Syntax**](tbd) -->
-
----
-
-**Dieser Themenbereich beinhaltet folgende Themen:**
----
-
-🢒 [**Leitfaden/Onboarding**](/docs/00-willkommen/01-leitfaden/README.md) </br>
-🢒 [**Starterpack**](/docs/00-willkommen/02-starterpack/README.md) </br>
-🢒 [**Styleguide**](/docs/00-willkommen/03-styleguide/README.md)</br>
 
 ---
 <p align="center">
