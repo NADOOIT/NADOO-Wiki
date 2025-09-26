@@ -1,28 +1,36 @@
 # <p align="center">Leitfaden für deinen ersten Tag <br> "First-Day-Fahrplan"</p>
 
-# Willkommen - Erster Tag (Kurz-Anleitung)
+<h3 align="center">📢 Disclaimer zum Thema Dokumentation und Fragen</h3>
 
+Es ist wichtig, dass du **alle Fragen, die während der Bearbeitung des Wikis aufkommen**, dokumentierst. **Notiere** deine Fragen, **bevor** du sie anderen stellst. Diese Praxis der Dokumentation ist entscheidend für Entwickler, da sie uns hilft, Unklarheiten zu identifizieren und den Lehrgang kontinuierlich zu verbessern und zugänglicher zu gestalten.
 
-## Dokumentation und Fragen
-
-Es ist wichtig, dass du alle Fragen, die während der Bearbeitung des Wikis aufkommen, dokumentierst. Notiere deine Fragen, bevor du sie anderen stellst. Diese Praxis der Dokumentation ist entscheidend für Entwickler, da sie uns hilft, Unklarheiten zu identifizieren und den Lehrgang kontinuierlich zu verbessern und zugänglicher zu gestalten.
+---
 
 ## 1. Einstempeln
 
-Zu Beginn und am Ende jedes Arbeitstages wird zuerst eine E-Mail an **christoph.backhaus@nadooit.de** gesendet, die als digitale Anwesenheitsbestätigung dient.
-So sollte es im Betreff aussehen :
-MitarbeiterID_START_YYYY_MM_TT_HH_MM / MitarbeiterID_ENDE_YYY_MM_TT_HH_MM
-Beispiel: 1_START_2025_09_17_08_00 / 1_ENDE_2025_09_17_16_30
+💡 Sobald du für deinen ersten Tag online kommst, darfst und solltest du dich einstempeln. Zu Beginn und am Ende jedes Arbeitstages wird zu diesem Zweck eine E-Mail an **christoph.backhaus@nadooit.de** gesendet, die als digitale Anwesenheitsbestätigung dient.
 
-💡 Sobald du für deinen ersten Tag online kommst, darfst und solltest du dich einstempeln. Für die [**Zeiterfassung**](/docs/01-organisation/01-zeiterfassung/README.md) nutzen wir ein internes Tool, unser [**NADOO-Launchpad**](https://github.com/NADOOIT/NADOO-Launchpad). 
+Achte hier darauf, den **Textkörper leer zu lassen** und verwende **die folgenden Formate für die Betreffzeile**:
+
+**E-Mail für den Arbeitsbeginn:** MitarbeiterID_START_YYYY_MM_TT_HH_MM <br>
+**E-Mail zum Ende des Arbeitstages:** MitarbeiterID_ENDE_YYY_MM_TT_HH_MM
+
+<br>
+
+<h2 align="center">Beispielbilder</h2>
+
+<img width="1018" height="371" alt="image" src="https://github.com/user-attachments/assets/10de422d-dc1c-4805-a095-13146737bc59" />
+<img width="443" height="190" alt="image" src="https://github.com/user-attachments/assets/427317e9-4514-496f-bbd5-3039cce8f449" />
+
+#
+
+Für die [**Zeiterfassung**](/docs/01-organisation/01-zeiterfassung/README.md) verwenden wir außerdem ein internes Tool – unser [**NADOO-Launchpad**](https://github.com/NADOOIT/NADOO-Launchpad). Nutze dieses **parallel zum manuellen Versenden der Anwesenheits-E-Mails**.
+
+⚠️ **Wichtig:** Damit das Einstempeln ab Tag 1 reibungslos klappt, solltest du dich am besten **im Voraus** schon mal mit dem Tool und den zugehörigen Wiki-Abschnitten vertraut machen.
 
 ---
 
-⚠️ **Wichtig:** Damit das Einstempeln an Tag 1 reibungslos klappt, solltest du dich am besten **im Voraus** schon mal mit dem Tool und den zugehörigen Wiki-Abschnitten vertraut machen.
-
----
-
-⚙️ Wie du das Tool **installierst** und startest, ist Schritt für Schritt im [**README des Launchpad-Repositories**](https://github.com/NADOOIT/NADOO-Launchpad/blob/main/README.md) beschrieben.
+⚙️ Wie du das Launchpad **installierst** und startest, ist Schritt für Schritt im [**README des Launchpad-Repositories**](https://github.com/NADOOIT/NADOO-Launchpad/blob/main/README.md) beschrieben.
 
 📑 Dieselben Installations-Anleitungen für Windows bzw. MacOS findest du außerdem im [**Einstiegskapitel**](/docs/04-tools/05-launchpad/01-ueberblick/README.md) unseres großen [**Launchpad-Guides**](/docs/04-tools/05-launchpad/README.md). In diesem Guide wird dir die **Benutzeroberfläche** der Anwendung im Detail erklärt, damit du ganz genau weißt, welche Funktionen das Programm neben der Zeiterfassung sonst noch so bietet und wie du diese richtig anwendest. 
 
@@ -100,49 +108,52 @@ Unsere Teams sind **dynamisch**. 🤸‍♀️ Dir ist **selbst überlassen**, w
 
 📝 Sowas wie eine "feste Aufgabe" gibt es für dich (noch) nicht direkt. Ein großer Teil deiner ersten Tage wird darin bestehen, dich in das [**NADOO-Wiki**](https://github.com/NADOOIT/NADOO-Wiki/) einzulesen und die **Issues** sowohl [**im Wiki-**](https://github.com/NADOOIT/NADOO-Wiki/issues) als auch [**im Launchpad-Repository**](https://github.com/NADOOIT/NADOO-Launchpad/issues) zu durchforsten.
 
-> Das ist eine kurze Erklärung, was ein "issue" ist :
+---
 
-Ein **issue** ist wie eine kleine Notiz oder Aufgabe in unserem System. Wenn du ein Prolem findest, eine Frage hast oder etwas verbessern möchtest, kannst du ein **issue** erstellen.
+💡 **Eine kurze Erklärung dazu, was ein "Issue" ist:**
 
-### Warum benutzen wir **Issue** !?!?
+Ein **Issue** ist wie eine kleine Notiz oder Aufgabe in unserem System. Wenn du ein Problem findest, eine Frage hast oder etwas verbessern möchtest, solltest du dafür ein **Issue** erstellen.
+
+### Warum benutzen wir **Issues**?
 
 1. Damit alle im Team sehen können, dass es ein Problem oder eine Idee gibt.
 2. Damit niemand vergisst, was noch zu tun ist.
 3. Damit wir gemeinsam eine Lösung finden können.
 
-### Wann soll ich ein **Issue** erstellen !?!?
+### Wann sollte ich ein **Issue** erstellen?
 
 1. Wenn du etwas in der Dokumentation nicht verstehst.
 2. Wenn du einen Fehler findest.
 3. Wenn du eine Idee für eine Verbesserung hast.
 
-### Wie erstelle ich ein **Issue** !?!?
+### Wie erstelle ich ein **Issue**?
 
-- Gehe zu unserem GitHub-Projekt (Repositories)
-- Klicke auf Issues (oben)
-- Klicke auf New Issue (rechts grüne Taste)
-- Schreibe einen klaren Titel
-- Beschreibe dein Problem oder deine Frage (Beschreibung des Anliegens)
-- Klicke auf Create
+1. Öffne das gewünschte bzw. passende GitHub-Repository (z.B. [das NADOO-Wiki](https://github.com/NADOOIT/NADOO-Wiki) oder [Launchpad-Repository](https://github.com/NADOOIT/NADOO-Launchpad)
+2. Klicke auf Issues (oben links)
+3. Klicke auf New Issue (rechts grüne Taste)
+4. Schreibe einen klaren Titel
+5. Beschreibe dein Problem oder deine Frage (Beschreibung des Anliegens)
+6. Klicke auf Create
+<br>
 
-💡 Tipp:
-Schreibe einfach und klar. So können andere dein **issue** schnell verstehen und dir helfen.
-Eine ausführliche Beschreibung findest du in unserer **NADOO-Wiki** : 
-Docs - 04-tools - 01-github - 04-issues
+💡 **Tipp**:
+Schreibe einfach und klar. So können andere dein **Issue** schnell verstehen und dir helfen.
+Eine ausführliche Beschreibung zu dem Thema findest du in unserem **NADOO-Wiki** in diesem [**Kapitel**](https://github.com/NADOOIT/NADOO-Wiki/blob/main/docs/04-tools/01-github/04-issues/README.md).
 
-❌ Keiner erwartet von dir, dass du dir an Tag 1 bereits große, technische Issues heraussuchst und diese löst - außer natürlich, du hast Bock drauf und weißt, wie. Auch davon wird dich hier niemand abhalten, denn **Eigeninitiative** wird bei NADOO **großgeschrieben**. 🚀
+---
+
+❌ Keine Sorge – keiner erwartet von dir, dass du dir an Tag 1 bereits große, technische Issues heraussuchst und diese löst - außer natürlich, du hast Bock drauf und weißt, wie. Auch davon wird dich hier niemand abhalten, denn **Eigeninitiative** wird bei NADOO **großgeschrieben**. 🚀
 
 💡 Wir empfehlen dir jedoch, erstmal **ganz entspannt anzukommen**. Nutze die ersten paar Tage und Wochen, um dich mit der Dokumentation, den Tools und vor allem den Menschen, mit denen du in der nächsten Zeit eng zusammenarbeiten wirst, vertraut zu machen.
 
-<!--hier vllt. KI-Image zum Thema "entspannen" einfügen-->
-
-
+---
 
 | |
 |:---|
 |⚠️ **Hinweis**: Solltest du noch keinen Zugriff auf die Repositories haben, melde dich bitte umgehend bei Christoph mit deinem **GitHub-Account-Namen**, damit dieser dich zur [NADOO-IT](https://github.com/orgs/NADOOIT/people) und zu den [NADOOlern](https://github.com/orgs/NADOOIT/teams/nadooler) einladen kann. Sobald du Mitglied bist, hast du automatisch Zugriff auf alle Repositories des Unternehmens, die für dich relevant sind.|
 | |
 
+---
 
 ## <p align="center">Übersicht: dein Fahrplan für den ersten Tag 🏎️💨</p>
 
