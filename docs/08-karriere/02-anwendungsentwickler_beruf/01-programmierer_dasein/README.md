@@ -64,7 +64,7 @@ Als Programmierer stehen wir an der Schwelle zu einer Zukunft voller Möglichkei
 
 Lasst uns gemeinsam voranschreiten, mit Verantwortung, Mitgefühl und dem unerschütterlichen Glauben an die positive Kraft des Codes. Denn in unseren Händen liegt nicht nur die Zukunft der Technologie, sondern auch ein Teil der Zukunft der Menschheit.
 
-### Quellen / Zitate:
+#### Quellen:
 
 [1] https://www.turing.com/blog/programmer-imposter-syndrome-tips <br>
 [2] https://betterprogramming.pub/we-need-to-talk-about-mental-health-for-software-developers-65bfa00e2356 <br>
@@ -77,18 +77,11 @@ Lasst uns gemeinsam voranschreiten, mit Verantwortung, Mitgefühl und dem unersc
 
 ---
 
-**Dieser Themenbereich beinhaltet folgende Themen:**
----
-
-🔹 [**Programmierer Dasein**](/docs/08-karriere/02-anwendungsentwickler_beruf/01-programmierer_dasein/README.md)<br>
-🔹 [**Bewerbungsverfahren**](/docs/08-karriere/02-anwendungsentwickler_beruf/02-bewerbungsverfahren/README.md) <br>
-🔹 [**Lernen und Arbeiten**](/docs/08-karriere/02-anwendungsentwickler_beruf/03-lernen_und_arbeiten/README.md) <br>
-🔹 [**Karriere bei Nadoo**](/docs/08-karriere/02-anwendungsentwickler_beruf/04-karriere_bei_nadoo/README.md) <br>
-
----
-
-
 <p align="center">
 <a href="/docs/08-karriere/02-anwendungsentwickler_beruf/README.md"><strong>Zurück</strong></a> | 
 <a href="/docs/08-karriere/02-anwendungsentwickler_beruf/02-bewerbungsverfahren/README.md"><strong>Weiter</strong></a>
+</p>
+
+<p align="center">
+<a href="/docs/08-karriere/02-anwendungsentwickler_beruf/README.md/#dieses-thema-beinhaltet-folgende-kapitel"><strong>Zurück zur Kapitel-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
 </p>

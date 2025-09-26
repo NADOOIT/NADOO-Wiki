@@ -2,7 +2,7 @@
 <!-- Einleitung zum Thema Projektarbeit mit besonderem Fokus auf IHK-Anfoderungen
 -> auch hier dringende inhaltliche Überarbeitung insbesondere hinsichtlich des Themas 01-projektmanagement notwendig-->
 
-***Mehr Infos folgen.***
+**26.09.2025: _Mehr Infos folgen._**
 
 ---
 
