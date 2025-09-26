@@ -502,25 +502,25 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
 
 ---
 
-<!-- 7. Methoden -->
+<!-- 7. Projekte -->
 
-## 📚 [Projektarbeit](/docs/07-methoden_und_projekte/README.md)
+## 📚 [Projekte](/docs/07-projekte/README.md)
 
-#### 🟦 [**Einstieg zum Themenbereich und Übersicht der Themen**](/docs/07-methoden_und_projekte/README.md)
+#### 🟦 [**Einstieg zum Themenbereich und Übersicht der Themen**](/docs/07-projekte/README.md)
 
 <details>
 <summary>Durchführung eines Projekts mit besonderem Hinblick auf deine IHK-Abschlussprüfung</summary>
 
-  &emsp;📄 [Kapitelübersicht](/docs/07-methoden_und_projekte/01-projektmanagement/README.md)
+  &emsp;📄 [Kapitelübersicht](/docs/07-projekte/01-projektarbeit/README.md)
   
-  &nbsp;&nbsp;🔹 [**Zeitmanagement**](/docs/07-methoden_und_projekte/01-projektmanagement/01-zeitmanagement/README.md) <br>
+  &nbsp;&nbsp;🔹 [**Zeitmanagement**](/docs/07-projekte/01-projektarbeit/01-zeitmanagement/README.md) <br>
   
-  &nbsp;&nbsp;🔹 [**Projektplanung**](/docs/07-methoden_und_projekte/01-projektmanagement/02-planung/README.md) <br>
-    &emsp;&emsp;◻️ [Leitfaden zur Erstellung eines Projektantrags](/docs/07-methoden_und_projekte/01-projektmanagement/02-planung/01-antrag/README.md) <br><br>
+  &nbsp;&nbsp;🔹 [**Projektplanung**](/docs/07-projekte/01-projektarbeit/02-planung/README.md) <br>
+    &emsp;&emsp;◻️ [Projektphasen](/docs/07-projekte/01-projektarbeit/02-planung/01-phasen/README.md) <br>
+    &emsp;&emsp;◻️ [Leitfaden zur Erstellung eines Projektantrags](/docs/07-projekte/01-projektarbeit/02-planung/02-antrag/README.md) <br><br>
   
-  &nbsp;&nbsp;🔹 [**Projektmanagement**](/docs/07-methoden_und_projekte/01-projektmanagement/03-projektmanagement/README.md) <br>
-  &nbsp;&nbsp;🔹 [**Projektphasen**](/docs/07-methoden_und_projekte/01-projektmanagement/01-projektmanagement/04-phasen/README.md) <br>
-  &nbsp;&nbsp;🔹 [**Das IHK-Abschlussprojekt**](/docs/07-methoden_und_projekte/01-projektmanagement/05-abschlussprojekt/README.md) <br>
+  &nbsp;&nbsp;🔹 [**Projektmanagement**](/docs/07-projekte/01-projektarbeit/03-projektmanagement/README.md) <br>
+  &nbsp;&nbsp;🔹 [**Das IHK-Abschlussprojekt**](/docs/07-projekte/01-projektarbeit/04-abschlussprojekt/README.md) <br>
 
 </details>
 

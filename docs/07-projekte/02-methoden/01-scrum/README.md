@@ -30,16 +30,19 @@ Insofern ein:e **Ersteller:in** vermerkt ist, kannst du dich auch direkt an dies
 
 ---
 
-**Dieses Thema beinhaltet folgende Kapitel:**
+<p align="center">
+📅 <strong>Dieses Dokument wurde erstellt am:</strong> 12.05.2025
+<br>
+✍️ <strong>Von:</strong> <a href="https://github.com/cherylugbogu">Cheryl</a>
+</p>
+
 ---
-
-🔹 [**Scrum**](/docs/07-methoden_und_projekte/02-methoden/01-scrum/README.md)<br>
-🔹 [**Kanban**](/docs/07-methoden_und_projekte/02-methoden/02-kanban/README.md) <br>
-
----
-
 
 <p align="center">
-<a href="/docs/07-methoden_und_projekte/02-methoden/README.md"><strong>Zurück</strong></a> | 
-<a href="/docs/07-methoden_und_projekte/02-methoden/02-kanban/README.md"><strong>Weiter</strong></a>
+<a href="/docs/07-projekte/02-methoden/README.md"><strong>Zurück</strong></a> | 
+<a href="/docs/07-projekte/02-methoden/02-kanban/README.md"><strong>Weiter</strong></a>
+</p>
+
+<p align="center">
+<a href="/docs/07-projekte/02-methoden/README.md/#dieses-thema-beinhaltet-folgende-kapitel"><strong>Zurück zur Kapitel-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
 </p>

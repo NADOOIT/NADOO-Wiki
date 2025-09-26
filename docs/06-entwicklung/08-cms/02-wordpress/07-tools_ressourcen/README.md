@@ -47,7 +47,7 @@ Es gibt viele nützliche Plugins, die die Funktionalität von WordPress erweiter
 
 <p align="center">
 <a href="/docs/06-entwicklung/08-cms/02-wordpress/06-pruefungsvorbereitung/README.md"><strong>Zurück</strong></a> | 
-<a href="/docs/07-methoden_und_projekte/README.md"><strong>Weiter</strong></a>
+<a href="/docs/07-projekte/README.md"><strong>Weiter</strong></a>
 </p>
 
 <p align="center">

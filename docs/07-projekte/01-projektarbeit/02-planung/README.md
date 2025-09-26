@@ -12,20 +12,21 @@ Es ist wichtig, regelmäßig den Fortschritt zu überprüfen und gegebenenfalls 
 
 ---
 
-**Dieses Thema beinhaltet folgende Kapitel:**
+### <p align="center">Dieses Kapitel beinhaltet folgende Abschnitte:</p>
+
 ---
 
-🔹 [**Zeitmanagement**](/docs/07-methoden_und_projekte/01-projektmanagement/01-zeitmanagement/README.md)<br>
-🔹 [**Planung**](/docs/07-methoden_und_projekte/01-projektmanagement/02-planung/README.md) <br>
-🔹 [**Planung - Antrag**](/docs/07-methoden_und_projekte/01-projektmanagement/02-planung/01-antrag/README.md) <br>
-🔹 [**Projektmanagement**](/docs/07-methoden_und_projekte/01-projektmanagement/03-projektmanagement/README.md) <br>
-🔹 [**Phasen**](/docs/07-methoden_und_projekte/01-projektmanagement/04-phasen/README.md) <br>
-🔹 [**Abschlussprojekt**](/docs/07-methoden_und_projekte/01-projektmanagement/05-abschlussprojekt/README.md) <br>
+◻️ [**Projektphasen**](/docs/07-projekte/01-projektarbeit/02-planung/01-phasen/README.md) <br>
+◻️ [**Leitfaden zur Erstellung eines Projektantrags**](/docs/07-projekte/01-projektarbeit/02-planung/02-antrag/README.md) <br>
 
 ---
 
 
 <p align="center">
-<a href="/docs/07-methoden_und_projekte/01-projektmanagement/01-zeitmanagement/README.md"><strong>Zurück</strong></a> | 
-<a href="/docs/07-methoden_und_projekte/01-projektmanagement/02-planung/01-antrag/README.md"><strong>Weiter</strong></a>
+<a href="/docs/07-projekte/01-projektarbeit/02-planung/01-phasen/README.md"><strong>Zurück</strong></a> | 
+<a href="/docs/07-projekte/01-projektarbeit/03-projektmanagement/README.md"><strong>Weiter</strong></a>
+</p>
+
+<p align="center">
+<a href="/docs/07-projekte/01-projektarbeit/README.md/#dieses-thema-beinhaltet-folgende-kapitel"><strong>Zurück zur Kapitel-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
 </p>

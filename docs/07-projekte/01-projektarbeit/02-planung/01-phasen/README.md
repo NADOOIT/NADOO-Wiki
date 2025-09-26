@@ -1,5 +1,9 @@
 # <p align="center">Projektphasen</p>
 
+Jedes Projekt durchläuft verschiedene Phasen, die jeweils spezifische Aufgaben und Ziele umfassen. Diese Phasen helfen dabei, das Projekt strukturiert und effizient zu gestalten. Welche Etappen nun konkret festgelegt werden, kann von Projekt zu Projekt – wie auch von Unternehmen zu Unternehmen variieren. Ob die geplante Herangehensweise dem klassischen oder agilen Projektmanagement folgt, kann hier ebenfalls Einfluss auf den Entscheidungsprozess nehmen. 
+
+Im Folgenden stellen wir dir die gängigsten Aufteilungn – grob nach dem 5-Phasen-Modell – vor:
+
 ## Projektinitialisierung
 
 Die Projektinitialisierung ist der erste Schritt in der Projektplanung. Hierbei werden die Rahmenbedingungen und Ziele des Projekts definiert. Die Projektinitialisierung umfasst die folgenden Schritte:
@@ -59,19 +63,11 @@ Der Projektabschluss fasst Ergebnisse zusammen und leitet zukünftige Maßnahmen
 
 ---
 
-**Dieses Thema beinhaltet folgende Kapitel:**
----
-
-🔹 [**Zeitmanagement**](/docs/07-methoden_und_projekte/01-projektmanagement/01-zeitmanagement/README.md)<br>
-🔹 [**Planung**](/docs/07-methoden_und_projekte/01-projektmanagement/02-planung/README.md) <br>
-🔹 [**Planung - Antrag**](/docs/07-methoden_und_projekte/01-projektmanagement/02-planung/01-antrag/README.md) <br>
-🔹 [**Projektmanagement**](/docs/07-methoden_und_projekte/01-projektmanagement/03-projektmanagement/README.md) <br>
-🔹 [**Phasen**](/docs/07-methoden_und_projekte/01-projektmanagement/04-phasen/README.md) <br>
-🔹 [**Abschlussprojekt**](/docs/07-methoden_und_projekte/01-projektmanagement/05-abschlussprojekt/README.md) <br>
-
----
+<p align="center">
+<a href="/docs/07-projekte/01-projektarbeit/02-planung/README.md"><strong>Zurück</strong></a> | 
+<a href="/docs/07-projekte/01-projektarbeit/02-planung/02-antrag/README.md"><strong>Weiter</strong></a>
+</p>
 
 <p align="center">
-<a href="/docs/07-methoden_und_projekte/01-projektmanagement/03-projektmanagement/README.md"><strong>Zurück</strong></a> | 
-<a href="/docs/07-methoden_und_projekte/01-projektmanagement/05-abschlussprojekt/README.md"><strong>Weiter</strong></a>
+<a href="/docs/07-projekte/01-projektarbeit/02-planung/README.md/#dieses-kapitel-beinhaltet-folgende-abschnitte"><strong>Zurück zur Abschnitts-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
 </p>

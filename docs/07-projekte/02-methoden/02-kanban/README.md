@@ -1,8 +1,5 @@
-# <p align="center">Projektarbeit</p>
-
-<!-- Einleitung zum Thema und Kapitelübersicht 
-
--> auch hier dringende inhaltliche Überarbeitung insbesondere hinsichtlich des Themas 01-projektmanagement notwendig-->
+# <p align="center">Kanban</p>
+<!-- Einleitung / Inhalt ; ggf. Aufteilung in Kapitel falls umfangreich, dann hier Kapitelübersicht-->
 
 ---
 
@@ -31,18 +28,21 @@ Komm am besten **zu einem späteren Zeitpunkt** nochmal wieder - mit etwas Glüc
 
 Insofern ein:e **Ersteller:in** vermerkt ist, kannst du dich auch direkt an diese Person richten.
 
-
 ---
 
-**Dieser Themenbereich beinhaltet folgende Themen:**
----
-
-🔹 [**Projektmanagement**](/docs/07-methoden_und_projekte/01-projektmanagement/README.md)<br>
-🔹 [**Methoden**](/docs/07-methoden_und_projekte/02-methoden/README.md) <br>
+<p align="center">
+📅 <strong>Dieses Dokument wurde erstellt am:</strong> 12.05.2025
+<br>
+✍️ <strong>Von:</strong> <a href="https://github.com/cherylugbogu">Cheryl</a>
+</p>
 
 ---
 
 <p align="center">
-<a href="/docs/06-entwicklung/08-cms/08-tools_ressourcen/README.md"><strong>Zurück</strong></a> | 
-<a href="/docs/07-methoden_und_projekte/01-projektmanagement/README.md"><strong>Weiter</strong></a>
+<a href="/docs/07-projekte/02-methoden/01-scrum/README.md"><strong>Zurück</strong></a> | 
+<a href="/docs/08-karriere/README.md"><strong>Weiter</strong></a>
+</p>
+
+<p align="center">
+<a href="/docs/07-projekte/02-methoden/README.md/#dieses-thema-beinhaltet-folgende-kapitel"><strong>Zurück zur Kapitel-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
 </p>
