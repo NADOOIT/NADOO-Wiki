@@ -41,18 +41,11 @@
 
 ---
 
-**Dieser Themenbereich beinhaltet folgende Themen:**
----
-
-🢒 [**Allgemein**](/docs/03-meetings/01-allgemein/README.md) </br>
-🢒 [**11er**](/docs/03-meetings/02-11er/README.md) </br>
-🢒 [**Teamkoordination**](/docs/03-meetings/03-teamkoordination/README.md)</br>
-🢒 [**33er**](/docs/03-meetings/04-33er/README.md)</br>
-
----
-
-
 <p align="center"><a href="/docs/03-meetings/README.md"><strong>Zurück</strong></a> | 
 <a href="/docs/03-meetings/02-11er/README.md"><strong>Weiter</strong></a>
+</p>
+
+<p align="center">
+<a href="/docs/03-meetings/README.md/#dieser-themenbereich-beinhaltet-folgende-themen"><strong>Zurück zur Themen-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
 </p>
 
