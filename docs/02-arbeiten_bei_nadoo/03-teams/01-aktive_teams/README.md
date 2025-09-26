@@ -193,6 +193,7 @@ p align="center">📍 <strong>Discord-Kanal
 - [Jakub](https://github.com/swierzakpl)
 - [Tim](https://github.com/TimHellmig)
 - [Timo](https://github.com/Timo699)
+- [Cheryl](https://github.com/cherylugbogu)
 
 👥 **externe Mitarbeitende:**
 
@@ -226,15 +227,12 @@ Das 3er-Team **Dokumentation** ist für die Dokumentation der Laravel/PHP-Projek
 👥 **Mitarbeitende:** k. A.  
 📍 **Discord:** [**Dokumentation**](https://discord.com/channels/1299292608744390707/1387422665135886416) <br>
 
----
-
-**Dieses Thema beinhaltet folgende Kapitel:**  
----
-
-🔹 [**Trainingsbeiträge**](/docs/02-arbeiten_bei_nadoo/02-training_und_vorbereitung/01-trainingsbeitraege/README.md) <br>
-🔹 [**Präsentationstraining**](/docs/02-arbeiten_bei_nadoo/02-training_und_vorbereitung/02-praesentationstraining/README.md) <br>
 
 ---
 
 <p align="center"><a href="/docs/02-arbeiten_bei_nadoo/03-teams/README.md"><strong>Zurück</strong></a> | 
 <a href="/docs/02-arbeiten_bei_nadoo/03-teams/02-team-archiv/README.md"><strong>Weiter</strong></a></p>
+
+<p align="center">
+<a href="/docs/02-arbeiten_bei_nadoo/03-teams/README.md/#dieses-thema-beinhaltet-folgende-kapitel"><strong>Zurück zur Kapitel-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
+</p>

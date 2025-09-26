@@ -37,7 +37,8 @@ Alles, was du zum Thema **Trainingsbeitrag** wissen musst, findest du auf der n�
 
 ---
 
-**Dieses Thema beinhaltet folgende Kapitel:**  
+### <p align="center">Dieses Thema beinhaltet folgende Kapitel:</p>
+
 ---
 
 🔹 [**Trainingsbeiträge**](/docs/02-arbeiten_bei_nadoo/02-training_und_vorbereitung/01-trainingsbeitraege/README.md) <br>
@@ -45,8 +46,11 @@ Alles, was du zum Thema **Trainingsbeitrag** wissen musst, findest du auf der n�
 
 ---
 
-
 <p align="center">
 <a href="/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/05-teamkoordinator/README.md"><strong>Zurück</strong></a> |
 <a href="/docs/02-arbeiten_bei_nadoo/02-training_und_vorbereitung/01-trainingsbeitraege/README.md"><strong>Weiter</strong></a>
+</p>
+
+<p align="center">
+<a href="/docs/02-arbeiten_bei_nadoo/README.md/#ddieser-themenbereich-beinhaltet-folgende-themen"><strong>Zurück zur Themen-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
 </p>

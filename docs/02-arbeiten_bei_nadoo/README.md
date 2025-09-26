@@ -32,7 +32,8 @@ Komm am besten **zu einem späteren Zeitpunkt** nochmal wieder - mit etwas Glüc
 
 ---
 
-**Dieser Themenbereich beinhaltet folgende Themen:**
+### <p align="center">Dieser Themenbereich beinhaltet folgende Themen:</p>
+
 ---
 
 🢒 [**Rollen und Aufgaben**](/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/README.md) </br>

@@ -40,15 +40,20 @@ Insofern ein:e **Ersteller:in** vermerkt ist, kannst du dich auch direkt an dies
 
 ---
 
-**Dieses Thema beinhaltet folgende Kapitel:**  
----
-
-🔹 [**Trainingsbeiträge**](/docs/02-arbeiten_bei_nadoo/02-training_und_vorbereitung/01-trainingsbeitraege/README.md) <br>
-🔹 [**Präsentationstraining**](/docs/02-arbeiten_bei_nadoo/02-training_und_vorbereitung/02-praesentationstraining/README.md) <br>
+<br>
+<p align="center">
+📅 <strong>Dieses Dokument wurde erstellt am:</strong> 15.02.2025
+<br>
+✍️ <strong>Von:</strong> <em>Keine Angabe</em>
+</p>
 
 ---
 
 <p align="center">
 <a href="/docs/02-arbeiten_bei_nadoo/02-training_und_vorbereitung/01-trainingsbeitraege/02-dokumentation/README.md"><strong>Zurück</strong></a> | 
 <a href="/docs/02-arbeiten_bei_nadoo/03-teams/01-aktive_teams/README.md"><strong>Weiter</strong></a>
+</p>
+
+<p align="center">
+<a href="/docs/02-arbeiten_bei_nadoo/02-training_und_vorbereitung/README.md/#dieses-thema-beinhaltet-folgende-kapitel"><strong>Zurück zur Kapitel-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
 </p>
