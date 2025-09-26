@@ -1,14 +1,8 @@
 # <p align="center">Übersicht aller Teams und Projekte</p>
 
-Hier findest du sowohl eine Übersicht aller **aktuell bestehenden 11er-Teams samt ihrer Team-Ziele** sowie einen **Rückblick** auf die erfolgreich abgeschlossenen Projekte vorheriger 11er-Teams.
-
----
-
-<p align="center">Dieses Thema beinhaltet folgende Kapitel:</p>
----
-
-🔹 [**Derzeit aktive Teams**](docs/02-arbeiten_bei_nadoo/03-teams/01-aktive_teams/README.md) <br>
-🔹 [**Ehemalige Teams und ihre abgeschlossenen Projekte**](docs/02-arbeiten_bei_nadoo/03-teams/02-team_archiv/README.md) <br>
+> **Status:** Momentan ein Entwurf, Automatisierung geplant.
+> **Automatisierung:** Wir wollen Team-Mitglieder aus Launchpad automatisch ins Wiki/Archiv übernehmen. Siehe Feature Request: **"Teammitgliedschaft via Launchpad mit Wiki-Sync"**.
+> Wer helfen will, kann ein Issue mit `enhancement` erstellen und auf dieses Dokument verweisen.
 
 ---
 
