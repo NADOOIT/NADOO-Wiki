@@ -1,8 +1,5 @@
 # <p align="center">Inhaltspflege und Struktur</p>
 
----
-<!-- Kapitel Inhaltspflege und Struktur -->
-
 ## Beiträge vs. Seiten
 
 In WordPress gibt es zwei Haupttypen von Inhalten: **Beiträge** und **Seiten**.
@@ -36,21 +33,11 @@ Der **Gutenberg-Editor** ist der Standard-Editor von WordPress, der eine blockba
 
 ---
 
-**Dieser Themenbereich beinhaltet folgende Themen:**
----
-
-🔹 [**Einführung**](/docs/06-entwicklung/08-cms/01-einfuehrung/README.md)<br>
-🔹 [**WP-Grundlagen**](/docs/06-entwicklung/08-cms/02-wp_grundlagen/README.md) <br>
-🔹 [**Einrichtung**](/docs/06-entwicklung/08-cms/03-einrichtung/README.md) <br>
-🔹 [**Inhalt Struktur**](/docs/06-entwicklung/08-cms/04-inhalt_struktur/README.md) <br>
-🔹 [**Erweiterungen und Plugins**](/docs/06-entwicklung/08-cms/05-erweiterung_plugins/README.md) <br>
-🔹 [**Design Themes**](/docs/06-entwicklung/08-cms/06-design_themes/README.md) <br>
-🔹 [**Prüfungsvorbereitung**](/docs/06-entwicklung/08-cms/07-pruefungsvorbereitung/README.md) <br>
-🔹 [**Tools und Ressourcen**](/docs/06-entwicklung/08-cms/08-tools_ressourcen/README.md) <br>
-
----
+<p align="center">
+<a href="/docs/06-entwicklung/08-cms/02-wordpress/02-einrichtung/README.md"><strong>Zurück</strong></a> | 
+<a href="/docs/06-entwicklung/08-cms/02-wordpress/04-plugins/README.md"><strong>Weiter</strong></a>
+</p>
 
 <p align="center">
-<a href="/docs/06-entwicklung/08-cms/03-einrichtung/README.md"><strong>Zurück</strong></a> | 
-<a href="/docs/06-entwicklung/08-cms/05-erweiterung_plugins/README.md"><strong>Weiter</strong></a>
+<a href="/docs/06-entwicklung/08-cms/02-wordpress/README.md/#dieses-kapitel-beinhaltet-folgende-abschnitte"><strong>Zurück zur Abschnitts-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
 </p>

@@ -340,15 +340,20 @@ Die Clean Architecture ist ein bewährtes Muster, um Softwareprojekte strukturie
 
 ---
 
-**Dieses Thema beinhaltet folgende Kapitel:**
+### <p align="center">Dieses Thema beinhaltet folgende Kapitel:</p>
+
 ---
 
-🔹 [**Praxisbeispiel**](/docs/04-tools/06-ki/01-leitfaden/README.md) </br>
-🔹 [**Best Practices**](/docs/04-tools/06-ki/01-leitfaden/README.md) </br>
+ 🔹 [**Praxisbeispiel**](/docs/06-entwicklung/02-clean_architecture/01-praxisbeispiel/README.md) </br>
+ 🔹 [**Best Practices**](/docs/06-entwicklung/02-clean_architecture/02-best_practices/README.md) </br>
 
 ---
 
 <p align="center">
 <a href="/docs/06-entwicklung/01-dokumentation/README.md"><strong>Zurück</strong></a> | 
 <a href="/docs/06-entwicklung/02-clean_architecture/01-praxisbeispiel/README.md"><strong>Weiter</strong></a>
+</p>
+
+<p align="center">
+<a href="/docs/06-entwicklung/README.md/#dieser-themenbereich-beinhaltet-folgende-themen"><strong>Zurück zur Themen-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
 </p>

@@ -1,10 +1,7 @@
 # <p align="center">Clean Architecture in der Praxis</p>
-
 <!-- 
 -> neue Aufteilung des Docs 02-clean_arcitecture/README.md 
 -> Inhalt folgt -->
-
----
 
 <div align="center">
   <table>
@@ -31,18 +28,21 @@ Komm am besten **zu einem späteren Zeitpunkt** nochmal wieder - mit etwas Glüc
 
 Insofern ein:e **Ersteller:in** vermerkt ist, kannst du dich auch direkt an diese Person richten.
 
-
 ---
 
-**Dieses Thema beinhaltet folgende Kapitel:**
----
-
-🔹 [**Praxisbeispiel**](/docs/04-tools/06-ki/01-leitfaden/README.md) </br>
-🔹 [**Best Practices**](/docs/04-tools/06-ki/01-leitfaden/README.md) </br>
+<p align="center">
+📅 <strong>Dieses Dokument wurde erstellt am:</strong> 14.05.2025
+<br>
+✍️ <strong>Von:</strong> <a href="https://github.com/cherylugbogu">Cheryl</a>
+</p>
 
 ---
 
 <p align="center">
 <a href="/docs/06-entwicklung/02-clean_architecture/README.md"><strong>Zurück</strong></a> | 
 <a href="/docs/06-entwicklung/02-clean_architecture/02-best_practices/README.md"><strong>Weiter</strong></a>
+</p>
+
+<p align="center">
+<a href="/docs/06-entwicklung/02-clean_architecture/README.md/#dieses-thema-beinhaltet-folgende-kapitel"><strong>Zurück zur Kapitel-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
 </p>

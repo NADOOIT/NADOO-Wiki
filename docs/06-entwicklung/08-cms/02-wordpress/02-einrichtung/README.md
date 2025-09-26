@@ -1,7 +1,4 @@
-# <p align="center">Einrichtung und Konfiguration</p>
-
----
-<!-- Kapitel Einrichtung und Konfiguration -->
+# <p align="center">WordPress: Einrichtung und Konfiguration</p>
 
 ## Lokale Entwicklungsumgebung (z. B. mit LocalWP oder Docker)
 
@@ -11,7 +8,7 @@ Beide Varianten eignen sich gut für Tests, Plugin-Entwicklung und Theme-Anpassu
 
 ---
 
-## WordPress installieren & konfigurieren
+## WordPress installieren und konfigurieren
 
 Nach dem Einrichten der lokalen Umgebung erfolgt die Installation von WordPress. Bei LocalWP genügt meist ein Klick, um eine neue Site anzulegen. Bei Docker erfolgt die Einrichtung in der Regel über ein `docker-compose.yml`-File, das Webserver, PHP und Datenbank konfiguriert.
 
@@ -46,21 +43,11 @@ Weitere Sicherheitsmaßnahmen wie Firewalls, Login-Schutz oder IP-Sperren könne
 
 ---
 
-**Dieser Themenbereich beinhaltet folgende Themen:**
----
-
-🔹 [**Einführung**](/docs/06-entwicklung/08-cms/01-einfuehrung/README.md)<br>
-🔹 [**WP-Grundlagen**](/docs/06-entwicklung/08-cms/02-wp_grundlagen/README.md) <br>
-🔹 [**Einrichtung**](/docs/06-entwicklung/08-cms/03-einrichtung/README.md) <br>
-🔹 [**Inhalt Struktur**](/docs/06-entwicklung/08-cms/04-inhalt_struktur/README.md) <br>
-🔹 [**Erweiterungen und Plugins**](/docs/06-entwicklung/08-cms/05-erweiterung_plugins/README.md) <br>
-🔹 [**Design Themes**](/docs/06-entwicklung/08-cms/06-design_themes/README.md) <br>
-🔹 [**Prüfungsvorbereitung**](/docs/06-entwicklung/08-cms/07-pruefungsvorbereitung/README.md) <br>
-🔹 [**Tools und Ressourcen**](/docs/06-entwicklung/08-cms/08-tools_ressourcen/README.md) <br>
-
----
+<p align="center">
+<a href="/docs/06-entwicklung/08-cms/02-wordpress/01-grundlagen/README.md"><strong>Zurück</strong></a> | 
+<a href="/docs/06-entwicklung/08-cms/02-wordpress/03-inhalt_struktur/README.md"><strong>Weiter</strong></a>
+</p>
 
 <p align="center">
-<a href="/docs/06-entwicklung/08-cms/02-wp_grundlagen/README.md"><strong>Zurück</strong></a> | 
-<a href="/docs/06-entwicklung/08-cms/04-inhalt_struktur/README.md"><strong>Weiter</strong></a>
+<a href="/docs/06-entwicklung/08-cms/02-wordpress/README.md/#dieses-kapitel-beinhaltet-folgende-abschnitte"><strong>Zurück zur Abschnitts-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
 </p>

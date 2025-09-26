@@ -1,59 +1,45 @@
-# <p align="center">Einführung</p>
+# <p align="center">CMS – Die Grundlagen</p>
+<!-- hier zum Thema CMS mehr in die Tiefe gehen -->
 
----
-<!-- Kapitel Einführung -->
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github.com/user-attachments/assets/69b70f12-916c-4167-8920-c6055f5903d5" alt="Platzhalter" width="200">
+      </td>
+      <td>
+        <h2>Sorry, hier gibt es leider (noch) nichts zu sehen! 👀</h2>
+      </td>
+    </tr>
+  </table>
+</div>
 
-## Was ist ein CMS?
+Unser Wiki wird **laufend** erweitert, angepasst und verbessert. **Das erfordert Zeit** - deshalb kann der ein oder andere geplante Inhalt manchmal nicht sofort umgesetzt werden.
 
-Ein Content Management System (CMS) ist eine Software, die es ermöglicht, digitale Inhalte zu erstellen, zu verwalten und zu veröffentlichen, ohne dass tiefgehende Programmierkenntnisse erforderlich sind.
+Der Eintrag, den du gerade siehst, steht bei uns aber bereits **auf der To Do-Liste** oder **wird im Moment überarbeitet**. 📋
 
-Es bietet eine benutzerfreundliche Oberfläche zur Bearbeitung von Inhalten und zur Anpassung des Designs.
+Komm am besten **zu einem späteren Zeitpunkt** nochmal wieder - mit etwas Glück sieht es hier dann schon wieder ganz anders aus. 🚀
 
----
+#
 
-## Vorteile und Einsatzbereiche
+💡 **Tipp**: Anhand des nachfolgenden **Erstellungsdatums** kannst du sehen, **wie lange** der Eintrag bereits in Bearbeitung ist. Wende dich im Zweifelsfall an das zum aktuellen Zeitpunkt aktive **Launch- bzw. Wiki-Team**, um den Status zu erfragen.
 
-- **Vorteile:**
-  - Einfache Handhabung
-  - Schnelle Anpassungen
-  - Keine Programmierkenntnisse erforderlich
-  - Große Community und viele Plugins/Themes
-- **Einsatzbereiche:**
-  - Blogs
-  - Unternehmenswebsites
-  - E-Commerce
-  - Portfolios
-  - Foren und soziale Netzwerke
-
----
-
-## Vergleich: WordPress, TYPO3, Joomla, Drupal und Headless CMS (Überblick)
-
-| CMS | Vorteile | Nachteile |
-| :--- | :--- | :--- |
-| WordPress | Einfache Bedienung, große Community, viele Plugins/Themes | Sicherheitsrisiken, Performance bei großen Seiten |
-| TYPO3 | Sehr flexibel, skalierbar, Enterprise-fähig | Komplexe Lernkurve, höhere Kosten für Hosting und Entwicklung |
-| Joomla | Gute Balance zwischen Benutzerfreundlichkeit und Flexibilität | Weniger Plugins/Themes als WordPress, kleinere Community |
-| Drupal | Sehr leistungsfähig, hohe Flexibilität, gute Sicherheit | Komplexe Lernkurve, erfordert mehr technisches Wissen |
-| Headless CMS | Hohe Flexibilität, Trennung von Backend und Frontend, API-first | Komplexere Implementierung, erfordert mehr technisches Wissen |
+Insofern ein:e **Ersteller:in** vermerkt ist, kannst du dich auch direkt an diese Person richten.
 
 ---
 
-**Dieser Themenbereich beinhaltet folgende Themen:**
----
-
-🔹 [**Einführung**](/docs/06-entwicklung/08-cms/01-einfuehrung/README.md)<br>
-🔹 [**WP-Grundlagen**](/docs/06-entwicklung/08-cms/02-wp_grundlagen/README.md) <br>
-🔹 [**Einrichtung**](/docs/06-entwicklung/08-cms/03-einrichtung/README.md) <br>
-🔹 [**Inhalt Struktur**](/docs/06-entwicklung/08-cms/04-inhalt_struktur/README.md) <br>
-🔹 [**Erweiterungen und Plugins**](/docs/06-entwicklung/08-cms/05-erweiterung_plugins/README.md) <br>
-🔹 [**Design Themes**](/docs/06-entwicklung/08-cms/06-design_themes/README.md) <br>
-🔹 [**Prüfungsvorbereitung**](/docs/06-entwicklung/08-cms/07-pruefungsvorbereitung/README.md) <br>
-🔹 [**Tools und Ressourcen**](/docs/06-entwicklung/08-cms/08-tools_ressourcen/README.md) <br>
+<p align="center">
+📅 <strong>Dieses Dokument wurde erstellt am:</strong> 26.09.2025
+<br>
+✍️ <strong>Von:</strong> <a href="https://github.com/cherylugbogu">Cheryl</a>
+</p>
 
 ---
 
 <p align="center">
 <a href="/docs/06-entwicklung/08-cms/README.md"><strong>Zurück</strong></a> | 
-<a href="/docs/06-entwicklung/08-cms/02-wp_grundlagen/README.md"><strong>Weiter</strong></a>
+<a href="/docs/06-entwicklung/08-cms/02-wordpress/README.md
+
+<p align="center">
+<a href="/docs/06-entwicklung/07-digitale_produktentwicklung/README.md/#dieses-thema-beinhaltet-folgende-kapitel"><strong>Zurück zur Kapitel-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
 </p>

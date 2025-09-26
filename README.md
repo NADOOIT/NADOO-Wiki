@@ -435,10 +435,19 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
 <details>
 <summary>Java</summary>
   
-  &emsp;📄 [Kapitelübersicht](docs/06-entwicklung/05-java/README.md) <!-- vorsorglich angelegt, da hier wohl noch mehr Inhalte eingeplant sind -->
+  &emsp;📄 [Kapitelübersicht](docs/06-entwicklung/05-java/README.md)
   
-  &nbsp;&nbsp;🔹 [Java](/docs/06-entwicklung/05-java/README.md)
-  
+  &nbsp;&nbsp;🔹 [**Java-Tutorial 01**](/docs/06-entwicklung/05-java/01-tutorial/README.md) <br>
+        &emsp;&emsp;◻️ [Theorie | LEVEL 1: 🧙‍♂️ Meistere die Grundlagen](/docs/06-entwicklung/05-java/01-tutorial/01-theorie/README.md) </br>
+        &emsp;&emsp;◻️ [Theorie | LEVEL 2: 🏰 Denke in Objekten](/docs/06-entwicklung/05-java/01-tutorial/02-theorie/README.md) </br>
+        &emsp;&emsp;◻️ [Theorie | LEVEL 3: 🗄️ Baue dein Arsenal auf](/docs/06-entwicklung/05-java/01-tutorial/03-theorie/README.md) </br>
+        &emsp;&emsp;◻️ [Theorie | LEVEL 4: 🛡️ Schütze deinen Code](/docs/06-entwicklung/05-java/01-tutorial/04-theorie/README.md) </br>
+        &emsp;&emsp;◻️ [Theorie | LEVEL 5: 🧨 Werde Fehlermeister](/docs/06-entwicklung/05-java/01-tutorial/05-theorie/README.md) </br>
+        &emsp;&emsp;◻️ [Theorie | LEVEL 6: 🧭 Organisiere dein Chaos](/docs/06-entwicklung/05-java/01-tutorial/06-theorie/README.md) </br>
+        &emsp;&emsp;◻️ [Theorie | LEVEL 7: 🌌 Meistere die Tiefe](/docs/06-entwicklung/05-java/01-tutorial/07-theorie/README.md) </br>
+        &emsp;&emsp;◻️ [Praxis  | LEVEL 1: 🗡️ Der erste Schlag: Baue deinen Charakter, kämpfe gegen dein Spiegelbild](/docs/06-entwicklung/05-java/01-tutorial/08-praxis-1/README.md) </br>
+        &emsp;&emsp;◻️ [Praxis  | LEVEL 2: 🏰 Der Weg des Codemagiers](/docs/06-entwicklung/05-java/01-tutorial/09-praxis-2/README.md) </br>
+
 </details>
 
 <!-- Frameworks -->
@@ -471,21 +480,23 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
 
 </details>
 
-<!-- Softwareentwicklung -->
+<!-- CMS -->
 
 <details>
-<summary>Content Management Systeme (CMS) – Fokus WordPress</summary>
+<summary>Content Management Systeme (CMS)</summary>
 
   &emsp;📄 [Kapitelübersicht](/docs/06-entwicklung/08-cms/README.md)
 
-  &nbsp;&nbsp;🔹 [Einführung in CMS](/docs/06-entwicklung/08-cms/01-einfuehrung/README.md) <br>
-  &nbsp;&nbsp;🔹 [WordPress – Grundlagen](/docs/06-entwicklung/08-cms/02-wp_grundlagen/README.md) <br>
-  &nbsp;&nbsp;🔹 [Einrichtung und Konfiguration](/docs/06-entwicklung/08-cms/03-einrichtung/README.md) <br>
-  &nbsp;&nbsp;🔹 [Inhaltspflege und Struktur](/docs/06-entwicklung/08-cms/04-inhalt_struktur/README.md) <br>
-  &nbsp;&nbsp;🔹 [Erweiterung durch Plugins](/docs/06-entwicklung/08-cms/05-erweiterung_plugins/README.md) <br>
-  &nbsp;&nbsp;🔹 [Themes und Designanpassungen](/docs/06-entwicklung/08-cms/06-design_themes/README.md) <br>
-  &nbsp;&nbsp;🔹 [WordPress in der Prüfungsvorbereitung](/docs/06-entwicklung/08-cms/07-pruefungsvorbereitung/README.md) <br>
-  &nbsp;&nbsp;🔹 [Nützliche Tools und Ressourcen](/docs/06-entwicklung/08-cms/08-tools_ressourcen/README.md) <br>
+  &nbsp;&nbsp;🔹 [**CMS – Die Grundlagen**](/docs/06-entwicklung/08-cms/01-einfuehrung/README.md)<br>
+  
+  &nbsp;&nbsp;🔹 [**WordPress**](/docs/06-entwicklung/08-cms/02-wordpress/README.md) <br>
+    &emsp;&emsp;◻️ [**WordPress – Die Grundlagen**](/docs/06-entwicklung/08-cms/02-wordpress/01-grundlagen/README.md) <br>
+    &emsp;&emsp;◻️ [**Einrichtung und Konfiguration**](/docs/06-entwicklung/08-cms/02-wordpress/02-einrichtung/README.md) <br>
+    &emsp;&emsp;◻️ [**Inhaltspflege und Struktur**](/docs/06-entwicklung/08-cms/02-wordpress/03-inhalt_struktur/README.md) <br>
+    &emsp;&emsp;◻️ [**Erweiterung durch Plugins**](/docs/06-entwicklung/08-cms/02-wordpress/04-plugins/README.md) <br>
+    &emsp;&emsp;◻️ [**Design und Theme-Anpassung**](/docs/06-entwicklung/08-cms/02-wordpress/05-design_themes/README.md) <br>
+    &emsp;&emsp;◻️ [**WordPress in der Prüfungsvorbereitung**](/docs/06-entwicklung/08-cms/02-wordpress/06-pruefungsvorbereitung/) <br>
+    &emsp;&emsp;◻️ [**Nützliche Tools und Ressourcen**](/docs/06-entwicklung/08-cms/02-wordpress/07-tools_ressourcen/README.md) <br>
 
 </details>
 
