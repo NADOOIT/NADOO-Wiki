@@ -583,7 +583,7 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
 
 </details>
 
-<!-- 09 Glossar -->
+<!--  Glossar -->
 
 ## 🔠 [**Das große IT-Glossar**](/docs/09-glossar/README.md)
 
