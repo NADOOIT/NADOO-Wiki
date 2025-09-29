@@ -1,7 +1,5 @@
 # <p align="center">Dokumentation</p>
 
----
-
 Die Dokumentation ist ein zentraler Bestandteil jedes Softwareprojekts. Sie stellt sicher, dass alle wichtigen Informationen über Architektur, Code, Technologien sowie Prozesse festgehalten und leicht auffindbar sind.
 
 Eine gute, konsequent gepflegte Dokumentation vereinfacht die Zusammenarbeit zwischen Teammitgliedern, beschleunigt die Einarbeitung neuer Kolleg*innen und trägt langfristig zur Qualität und Wartbarkeit eines Projekts bei.
@@ -64,7 +62,7 @@ Um diese Anforderungen zu erfüllen, empfiehlt es sich, ein zentrales und leicht
 
 <p align="center">
 <a href="/docs/06-entwicklung/README.md"><strong>Zurück</strong></a> | 
-<a href="/docs/06-entwicklung/02-clean_architecture/README.md"><strong>Weiter</strong></a>
+<a href="/docs/06-entwicklung/02-architekturen/README.md"><strong>Weiter</strong></a>
 </p>
 
 <p align="center">

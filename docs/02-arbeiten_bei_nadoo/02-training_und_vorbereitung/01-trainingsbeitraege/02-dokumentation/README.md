@@ -91,7 +91,7 @@ Dieser Schritt ist kein Muss (und auch nicht bei jedem Thema super sinnvoll), ab
 
 <br>
 
-<p align"center"><strong>Und so geht's:</strong></p>
+<p align="center"><strong>Und so geht's:</strong></p>
 
 ---
 

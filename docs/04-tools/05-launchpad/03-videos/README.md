@@ -1,4 +1,4 @@
-# <p align="center">**Video-Tutorials und Demonstrationen**</p>
+# <p align="center">Video-Tutorials und Demonstrationen</p>
 
 ## Video zum Thema "Isssue Workflow" ⬇️
 

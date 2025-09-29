@@ -3,7 +3,7 @@
 
 Python ist eine junge, vielseitige Programmiersprache, die für ihre Lesbarkeit und Benutzerfreundlichkeit bekannt ist. Sie wurde in den späten 1980er Jahren von Guido van Rossum entwickelt und hat sich seitdem zu einer der beliebtesten Programmiersprachen weltweit entwickelt.
 
-***Weitere Infos folgen.***
+**26.09.2025: _Mehr Infos folgen._**
 
 ---
 

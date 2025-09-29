@@ -1,12 +1,11 @@
-# NADOO-IT ein Überblick über die aktiven Teams
+# <p align="center">Derzeit aktive Teams | Stand: September 2025</p>
 
-### Status der Teammitgliedschaft
+---
 
-Die **Automatisierung der Teammitgliedschaft über Launchpad** ist in Vorbereitung. Sobald verfügbar, werden Teamlisten automatisch aktualisiert und mit der Wiki synchronisiert.
-⚠ Funktion befindet sich derzeit in Entwicklung.
+📢 **Disclaimer:** Die **Automatisierung der Teammitgliedschaft über das Launchpad** ist in Planung. Sobald verfügbar, werden Teamlisten automatisch aktualisiert und mit dem Wiki synchronisiert. Die Funktion befindet sich aktuell noch in der Entwicklung.
 
-<p align="center">Derzeit aktive Teams </p>
-<br>
+---
+
 <p align="center">🟡 11er-Team: Launch</p>
 
 <p align="center">📍 <strong>Discord-Kanal: </strong><a href="https://discord.com/channels/1299292608744390707/13362955833502597620"><strong>Launch</strong></a></p>

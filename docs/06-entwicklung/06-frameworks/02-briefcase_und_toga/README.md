@@ -1,10 +1,17 @@
 # <p align="center">Briefcase und Toga: Python-Frameworks für plattformübergreifende Apps</p>
+<p align="center"><a href="#dieses-kapitel-beinhaltet-folgende-abschnitte">🚀 Direkt zur Abschnitts-Übersicht</a></p>
+
+---
+<br>
+<!-- dringende inhaltliche Überarbeitung des kompletten Python-Themas - auch im Zusammenhang mit Briefcase und Toga- notwendig 
+- Installation scheinbar doppelt? 
+- Zusammenhänge/Reihenfolge der Docs unklar - evtl. müssen Inhalte beider Verzeichnisse (04-python + 06-frameworks) zusammengeführt und neu strukturiert werden, da das Thema Framework sich nicht auf eine einzige Sprache beschränken, sondern allgemein behandelt werden sollte -->
 
 Herzlich Willkommen zu den Briefcase und Toga Tutorials!
 
 In diesem Wiki-Artikel bereiten wir dich auf die Tutorials vor, in denen du lernst, wie du mit **Briefcase** und **Toga** plattformübergreifende Anwendungen in Python entwickelst.  
 Bevor es losgeht, zeigen wir dir, wie du Python 3.11 mithilfe von **uv** installierst und eine virtuelle Umgebung einrichtest – ein Schritt, der in den offiziellen Tutorials von Python.org ebenfalls vorkommt. Wir haben diesen Ansatz gewählt, weil er häufig auftretende Probleme vermeidet.
-<!-- dringende inhaltliche Überarbeitung des kompletten Python-Themas notwendig - Installation scheinbar doppelt? Zusammenhänge/Reihenfolge der Docs unklar -->
+
 ---
 
 ## 📋 Vorbereitung: Python 3.11 und virtuelle Umgebung

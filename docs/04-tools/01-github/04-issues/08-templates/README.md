@@ -30,7 +30,7 @@ Du kannst mehrere Templates für unterschiedliche Zwecke erstellen, z. B. für
 
 ## Weitere Informationen
 
-- [GitHub Docs: Issue Templates](https://docs.github.com/de/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository)
+[GitHub Docs: Issue Templates](https://docs.github.com/de/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository)
 
 ---
 

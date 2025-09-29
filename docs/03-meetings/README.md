@@ -1,6 +1,4 @@
-# <p align="center">📅 Termine und zeitlicher Ablauf</p>
-
-## <p align="center">Meetings und Zeitpläne bei Christoph Backhaus IT</p>
+# <p align="center">Meetings und Zeitpläne bei Christoph Backhaus IT</p>
 
 Unsere Meetings fördern effiziente **Zusammenarbeit**, kontinuierliches **Lernen** und transparente **Kommunikation**.
 
@@ -32,6 +30,10 @@ In diesem Abschnitt findest du alle relevanten Informationen zu unseren **Meetin
 ---
 
 <p align="center">
-<a href="docs/02-arbeiten_bei_nadoo/03-teams/README.md"><strong>Zurück</strong></a> | 
+<a href="/docs/02-arbeiten_bei_nadoo/03-teams/02-team-archiv/README.md"><strong>Zurück</strong></a> | 
 <a href="/docs/03-meetings/01-allgemein/README.md"><strong>Weiter</strong></a>
 </p>
+
+<p align="center"><a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a></p>
+
+

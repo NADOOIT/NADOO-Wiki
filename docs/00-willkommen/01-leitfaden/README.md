@@ -1,4 +1,10 @@
 # <p align="center">Leitfaden für deinen ersten Tag <br> "First-Day-Fahrplan"</p>
+<p align="center">
+<a href="#übersicht-dein-fahrplan-für-den-ersten-tag-">➡️ direkt zum First-Day-Fahrplan</a>
+</p>
+
+---
+<br>
 
 <h3 align="center">📢 Disclaimer zum Thema Dokumentation und Fragen</h3>
 

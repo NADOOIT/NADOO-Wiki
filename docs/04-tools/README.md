@@ -24,4 +24,6 @@ Ob für die **Verwaltung** von Daten und Prozessen, die **Dokumentation** von Wi
 <a href="/docs/04-tools/01-github/README.md"><strong>Weiter</strong></a>
 </p>
 
+<p align="center"><a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a></p>
+
 

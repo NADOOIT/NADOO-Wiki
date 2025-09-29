@@ -1,5 +1,7 @@
 # <p align="center">Durchführung eines Projekts mit besonderem Hinblick auf deine IHK-Abschlussprüfung</p>
 <!--
+Stand Mai 2025:
+
 -> alte Unterpunkte müssen noch angepasst / ggf. um weitere Kapitel ergänzt / Reihenfolge überarbeitet werden:
 
 1. Zeitmanagement
@@ -14,7 +16,9 @@
 5. Projektabschluss
 
 -> Einleitung zum Thema
--> Kapitelübersicht in korrektes Format bringen -->
+-> Kapitelübersicht in korrektes Format bringen 
+
+Stand 29.09.25: Reihenfolge/Ordnerstrukturen samt Übersichten wurden angepasst; Inhalte müssen weiterhin überarbeitet/ggf. umverteilt werden-->
 
 **26.09.2025: _Mehr Infos folgen._**
 

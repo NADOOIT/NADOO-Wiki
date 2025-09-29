@@ -7,7 +7,7 @@
 </div>
 <br>
 
-<p align="center"><a href="#dieser-themenbereich-beinhaltet-folgende-themen">🚀 direkt zur Themenübersicht</a></p>
+<p align="center"><a href="#dieser-themenbereich-beinhaltet-folgende-themen">🚀 Direkt zur Themen-Übersicht</a></p>
 
 ---
 <br>
@@ -61,5 +61,6 @@ Du hast ein bisschen getrödelt, dein erster Tag steht quasi schon mit dem Fuß 
 ---
 
 <p align="center">
-<a href="/README.md"><strong>Zurück zum Start</strong></a> | <a href="/docs/00-willkommen/01-leitfaden/README.md"><strong>Weiter</strong></a>
+<a href="/README.md/#-einstieg-und-orientierung"><strong>Zurück zum Start des Wikis</strong></a> | <a href="/docs/00-willkommen/01-leitfaden/README.md"><strong>Weiter</strong></a>
 </p>
+

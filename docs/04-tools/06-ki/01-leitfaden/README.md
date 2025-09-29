@@ -281,15 +281,16 @@ https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-
 
 ---
 
-### Quellen:
-[1] https://www.microsoft.com/en-us/research/articles/omniparser-for-pure-vision-based-gui-agent/
-[2] https://huggingface.co/papers/2408.00203
-[3] https://microsoft.github.io/OmniParser/
-[4] https://huggingface.co/microsoft/OmniParser
-[5] https://arxiv.org/abs/2408.00203
-[6] https://www.youtube.com/watch?v=KOHfJprfN60
-[7] https://openaccess.thecvf.com/content/CVPR2024/papers/Wan_OmniParser_A_Unified_Framework_for_Text_Spotting_Key_Information_Extraction_CVPR_2024_paper.pdf
-[8] https://www.psychology.hu-berlin.de/de/prof/ingpsy/inpsy_old/forschung/tools/literatur/fuhrmann-2010-entwicklung-eines-gui-fur-die-konfiguration-der-software-komponente-zur-systemprozessuberwachung-und-kontrolle-in-einer-psychologischen-versuchsumgebung.pdf
+### Quellen
+
+[1] https://www.microsoft.com/en-us/research/articles/omniparser-for-pure-vision-based-gui-agent/ <br>
+[2] https://huggingface.co/papers/2408.00203 <br>
+[3] https://microsoft.github.io/OmniParser/ <br>
+[4] https://huggingface.co/microsoft/OmniParser <br>
+[5] https://arxiv.org/abs/2408.00203 <br>
+[6] https://www.youtube.com/watch?v=KOHfJprfN60 <br>
+[7] https://openaccess.thecvf.com/content/CVPR2024/papers/Wan_OmniParser_A_Unified_Framework_for_Text_Spotting_Key_Information_Extraction_CVPR_2024_paper.pdf <br>
+[8] https://www.psychology.hu-berlin.de/de/prof/ingpsy/inpsy_old/forschung/tools/literatur/fuhrmann-2010-entwicklung-eines-gui-fur-die-konfiguration-der-software-komponente-zur-systemprozessuberwachung-und-kontrolle-in-einer-psychologischen-versuchsumgebung.pdf <br>
 
 ---
 

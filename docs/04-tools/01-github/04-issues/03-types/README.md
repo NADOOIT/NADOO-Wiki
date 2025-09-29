@@ -22,7 +22,7 @@ Mit klaren Typen kann man schneller filtern, sortieren und priorisieren. Besonde
 
 ## Weitere Informationen
 
-- [GitHub Docs: Issue Types](https://docs.github.com/de/issues/tracking-your-work-with-issues/configuring-issues/managing-issue-types-in-an-organization)
+[GitHub Docs: Issue Types](https://docs.github.com/de/issues/tracking-your-work-with-issues/configuring-issues/managing-issue-types-in-an-organization)
 
 ---
 

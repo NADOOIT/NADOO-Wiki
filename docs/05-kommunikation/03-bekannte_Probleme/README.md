@@ -18,7 +18,7 @@ In den Discord-Einstellungen prüfen, ob das richtige Aufnahmegerät statt „De
 
 <p align="center">
 <a href="/docs/05-kommunikation/02-webcam/02-ios/README.md"><strong>Zurück</strong></a> | 
-<a href="/docs/06-entwicklung/01-dokumentation/README.md"><strong>Weiter</strong></a>
+<a href="/docs/06-entwicklung/README.md"><strong>Weiter</strong></a>
 </p>
 
 <p align="center">

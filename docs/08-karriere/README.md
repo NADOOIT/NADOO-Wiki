@@ -22,3 +22,5 @@ Stichwort: berufliche Förderung von / Vorbereitung von NADOO-IT auf zukünftige
 <a href="/docs/07-projekte/02-methoden/02-kanban/README.md)"><strong>Zurück</strong></a> | 
 <a href="/docs/08-karriere/01-social_media_netzwerk/README.md"><strong>Weiter</strong></a>
 </p>
+
+<p align="center"><a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a></p>

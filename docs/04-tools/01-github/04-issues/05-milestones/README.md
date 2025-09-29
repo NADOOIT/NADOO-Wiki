@@ -29,7 +29,7 @@ Verwende Milestones für größere Themenblöcke, wie z. B. Releases, Sprints 
 
 ## Weitere Informationen
 
-- [GitHub Docs: Milestones](https://docs.github.com/de/issues/using-labels-and-milestones-to-track-work/creating-and-editing-milestones-for-issues-and-pull-requests)
+[GitHub Docs: Milestones](https://docs.github.com/de/issues/using-labels-and-milestones-to-track-work/creating-and-editing-milestones-for-issues-and-pull-requests)
 
 ---
 

@@ -1,5 +1,10 @@
 # <p align="center">Template / Vorlage | Platzhalter für (vorerst) leere Docs</p>
 
+<p align="center"><a href="#dieses-thema-beinhaltet-folgende-kapitel">🚀 Direkt zur Kapitel-Übersicht</a></p>
+
+---
+<br>
+
 ## Anwendungsfall
 
 Da für das NADOO-Wiki laufend neue Inhalte geplant werden, macht es in den meisten Fällen Sinn, für diese direkt im Anschluss neue Ordner-Strukturen und README-Dateien anzulegen, um damit das Fundament der zukünftigen Einträge zu legen. Allerdings hat der Umfang an geplanter Arbeit, die eine Person an einem Tag umsetzen kann, immer ein Limit. Manchmal wirst du aktuelle Tasks auch abbrechen oder nach hinten verschieben müssen, weil eine andere Aufgabe mit höherer Priorität gerade deine Aufmerksamkeit erfordert.

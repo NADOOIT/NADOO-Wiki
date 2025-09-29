@@ -1,7 +1,5 @@
 # <p align="center">Das Android-Smartphone als Webcam nutzen</p>
 
----
-
 ## DroidCam Webcam-App installieren
 
 Lade die DroidCam Webcam-App von Dev47Apps aus dem Google Play Store auf dein Smartphone herunter und installiere sie.  

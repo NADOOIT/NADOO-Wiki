@@ -31,12 +31,12 @@ Nutze Labels und verlinke relevante Issues oder Pull Requests, um Diskussionen b
 
 ## Weitere Informationen
 
-- [GitHub Docs: Discussions](https://docs.github.com/de/discussions)
+[GitHub Docs: Discussions](https://docs.github.com/de/discussions)
 
 ---
 
 <p align="center">
-<a href="/docs/04-tools/01-github/04-issues/06-projects/README.md"><strong>Zurück</strong></a> | 
+<a href="/docs/04-tools/01-github/04-issues/06-projects/01-zeitplanung/README.md"><strong>Zurück</strong></a> | 
 <a href="/docs/04-tools/01-github/04-issues/08-templates/README.md"><strong>Weiter</strong></a>
 </p>
 

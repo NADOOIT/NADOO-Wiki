@@ -1,5 +1,10 @@
 # <p align="center">Übersicht aller Teams und Projekte</p>
 
+<p align="center"><a href="#dieses-thema-beinhaltet-folgende-kapitel">🚀 Direkt zur Kapitel-Übersicht</a></p>
+
+---
+<br>
+
 Hier findest du sowohl eine Übersicht aller **aktuell bestehenden 11er-Teams samt ihrer Team-Ziele** sowie einen **Rückblick** auf die erfolgreich abgeschlossenen Projekte vorheriger 11er-Teams.
 
 --- 
@@ -24,8 +29,8 @@ In Kürze wird eine **automatische Verwaltung der Teammitgliederschaft über das
 ---
 
 <p align="center"><a href="/docs/02-arbeiten_bei_nadoo/02-training_und_vorbereitung/02-praesentationstraining/README.md"><strong>Zurück</strong></a> | 
-<a href="/docs/02-arbeiten_bei_nadoo/README.md"><strong>Weiter</strong></a></p>
+<a href="/docs/02-arbeiten_bei_nadoo/03-teams/01-aktive_teams/README.md"><strong>Weiter</strong></a></p>
 
 <p align="center">
-<a href="/docs/02-arbeiten_bei_nadoo/README.md/#ddieser-themenbereich-beinhaltet-folgende-themen"><strong>Zurück zur Themen-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
+<a href="/docs/02-arbeiten_bei_nadoo/README.md/#dieser-themenbereich-beinhaltet-folgende-themen"><strong>Zurück zur Themen-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
 </p>

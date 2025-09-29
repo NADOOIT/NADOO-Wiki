@@ -30,7 +30,7 @@ Nutze Projects zusammen mit Labels, Milestones und Assignees für eine strukturi
 
 ## Weitere Informationen
 
-- [GitHub Docs: Projects](https://docs.github.com/de/projects/learn-github-projects)
+[GitHub Docs: Projects](https://docs.github.com/de/projects/learn-github-projects)
 
 ---
 

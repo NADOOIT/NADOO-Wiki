@@ -20,3 +20,4 @@
 <a href="/docs/07-projekte/01-projektarbeit/README.md"><strong>Weiter</strong></a>
 </p>
 
+<p align="center"><a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a></p>

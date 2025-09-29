@@ -1,6 +1,8 @@
 # <p align="center">Java</p>
-<!-- hier Kapitel-Übersicht nicht vergessen, sollten neue Inhalte hinzugefügt werden
--> für diese dann neue Kapitel-Ordner anlegen! -->
+<p align="center"><a href="#dieses-thema-beinhaltet-folgende-kapitel">🚀 Direkt zur Kapitel-Übersicht</a></p>
+
+---
+<br>
 
 Java ist eine weitverbreitete, objektorientierte Programmiersprache, die erstmals 1995 von Sun Microsystems veröffentlicht wurde. Dieser Artikel bietet einen kurzen Überblick über die Entstehung und die Grundprinzipien von Java.
 

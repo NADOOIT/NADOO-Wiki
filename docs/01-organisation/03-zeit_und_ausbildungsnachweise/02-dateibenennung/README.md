@@ -99,10 +99,10 @@ Die folgenden **Regeln** wurden entwickelt, um die **Bearbeitung** der Dateien z
 ---
 
 <p align="center">
-<a href="/docs/01-organisation/02-zeit_und_ausbildungsnachweise/01-beispiele/README.md"><strong>Zurück</strong></a> | 
-<a href="/docs/01-organisation/02-zeit_und_ausbildungsnachweise/03-ueberpruefung/README.md"><strong>Weiter</strong></a>
+<a href="/docs/01-organisation/03-zeit_und_ausbildungsnachweise/01-beispiele/README.md"><strong>Zurück</strong></a> | 
+<a href="/docs/01-organisation/03-zeit_und_ausbildungsnachweise/03-ueberpruefung/README.md"><strong>Weiter</strong></a>
 </p>
 
 <p align="center">
-<a href="/docs/01-organisation/02-zeit_und_ausbildungsnachweise/README.md/#dieses-thema-beinhaltet-folgende-kapitel"><strong>Zurück zur Kapitel-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
+<a href="/docs/01-organisation/03-zeit_und_ausbildungsnachweise/README.md/#dieses-thema-beinhaltet-folgende-kapitel"><strong>Zurück zur Kapitel-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
 </p>

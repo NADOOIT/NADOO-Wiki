@@ -1,7 +1,6 @@
 # <p align="center">Umgang und Kultur bei Christoph Backhaus IT — unsere Firmenphilosophien</p>
-
 <p align="center">
-<a href="#dieses-thema-beinhaltet-folgende-kapitel">🚀 direkt zur Kapitelübersicht</a>
+<a href="#dieses-thema-beinhaltet-folgende-kapitel">🚀 Direkt zur Kapitel-Übersicht</a>
 </p>
 
 ---

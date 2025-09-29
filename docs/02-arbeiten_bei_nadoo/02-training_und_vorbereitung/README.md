@@ -1,7 +1,9 @@
 # <p align="center">Vorbereitung auf die IHK-Prüfungen und deine Zukunft in der IT-Arbeitswelt</p>
-<p align="center"><a href="#dieses-thema-beinhaltet-folgende-kapitel">🚀 direkt zur Kapitelübersicht</a></p>
 
-#
+<p align="center"><a href="#dieses-thema-beinhaltet-folgende-kapitel">🚀 Direkt zur Kapitel-Übersicht</a></p>
+
+---
+<br>
 
 ## Persönliche Weiterentwicklung durch Jobrotation
 

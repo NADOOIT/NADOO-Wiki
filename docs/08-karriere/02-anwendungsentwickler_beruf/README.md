@@ -1,6 +1,5 @@
 # <p align="center">Deine Karriere als Anwendungsentwickler:in</p>
-<!--
-- Einleitungstext
+<!-- Einleitungstext
 Keywords: Tipps, Hinweise, Empfehlungen und Ähnliches-->
 
 **26.09.2025: _Mehr Infos folgen._**

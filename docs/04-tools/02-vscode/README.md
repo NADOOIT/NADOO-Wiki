@@ -10,16 +10,16 @@ Visual Studio Code (VS Code) ist eine schlanke und vielseitige Entwicklungsumgeb
 
 ---
 
-🔹 [**Installation**](/docs/04-tools/02-vscode/01-installation/README.md) </br>
-🔹 [**Plugins**](/docs/04-tools/02-vscode/02-plugins/README.md) </br>
-🔹 [**Workspaces**](/docs/04-tools/02-vscode/03-workspaces/README.md) </br>
-🔹 [**Editor**](/docs/04-tools/02-vscode/04-editor/README.md) </br>
-🔹 [**Debugging**](/docs/04-tools/02-vscode/05-debugging/README.md) </br>
+🔹 [**Installation und Einrichtung**](/docs/04-tools/02-vscode/01-installation/README.md) </br>
+🔹 [**Plugins und Erweiterungen**](/docs/04-tools/02-vscode/02-plugins/README.md) </br>
+🔹 [**Workspaces (Arbeitsbereiche)**](/docs/04-tools/02-vscode/03-workspaces/README.md) </br>
+🔹 [**Editorfunktionen und IntelliSense**](/docs/04-tools/02-vscode/04-editor/README.md) </br>
+🔹 [**Terminal und Debugging**](/docs/04-tools/02-vscode/05-debugging/README.md) </br>
 
 ---
 
 <p align="center">
-<a href="/docs/04-tools/01-github/09-organizations-teams/01-nadooit-guide/README.md"><strong>Zurück</strong></a> | 
+<a href="/docs/04-tools/01-github/10-github-einfuehrung/README.md"><strong>Zurück</strong></a> | 
 <a href="/docs/04-tools/02-vscode/01-installation/README.md"><strong>Weiter</strong></a>
 </p>
 

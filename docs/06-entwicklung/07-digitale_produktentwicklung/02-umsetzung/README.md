@@ -99,7 +99,7 @@ Viel Erfolg bei der Erstellung deiner ersten App! Denke daran, dass der Lernproz
 
 ---
 
-#### Quellen:
+#### Quellen
 
 [1] <https://peras.de/hr-blog/detail/ki-tools-unternehmen> <br>
 [2] <https://www.ai-universe.com/ki-tools> <br>

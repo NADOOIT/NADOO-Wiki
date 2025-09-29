@@ -1,7 +1,5 @@
 # <p align="center">**Video- und Bildschirmübertragung**</p>
 
----
-
 ## Video- bzw. Avatar-Pflicht
 
 In einem professionellen Umfeld innerhalb unserer digitalen Welt ist es wichtig, durch die Nutzung von Videoübertragung Präsenz zu zeigen.
@@ -23,8 +21,8 @@ Es wird jedoch empfohlen, in kleineren Gruppen oder bei persönlichen Gespräche
 
 ---
 
-🔹 [**Droidcam**](/docs/04-tools/06-ki/01-leitfaden/README.md) </br>
-🔹 [**IOS**](/docs/04-tools/06-ki/01-leitfaden/README.md) </br>
+🔹 [**Das Android-Smartphone als Webcam nutzen**](/docs/04-tools/06-ki/01-leitfaden/README.md) </br>
+🔹 [**Das iPhone als Webcam für den Mac verwenden**](/docs/04-tools/06-ki/01-leitfaden/README.md) </br>
 
 ---
 

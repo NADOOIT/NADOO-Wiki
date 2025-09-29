@@ -53,7 +53,7 @@ Diese Labels helfen dir und dem Team, Aufgaben schnell zu finden und sinnvoll ei
 
 ## Weitere Informationen
 
-- [GitHub Docs: Labels](https://docs.github.com/de/issues/using-labels-and-milestones-to-track-work/managing-labels)
+[GitHub Docs: Labels](https://docs.github.com/de/issues/using-labels-and-milestones-to-track-work/managing-labels)
 
 ---
 

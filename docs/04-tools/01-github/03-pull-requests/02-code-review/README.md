@@ -1,6 +1,5 @@
 # <p align="center">Code Reviews</p>
 
-
 ## Was ist eine Code Review?
 
 Eine Code Review ist die Überprüfung von Code durch andere Teammitglieder, bevor dieser in den Hauptzweig (z. B. `main` oder `develop`) übernommen wird. Ziel ist es, Fehler frühzeitig zu erkennen, die Codequalität zu verbessern und voneinander zu lernen.

@@ -1,7 +1,5 @@
 # <p align="center">Das iPhone als Webcam für den Mac verwenden</p>
 
----
-
 ![Integrationskamera](../../../../images/integrationskamera.png)
 
 Mit der Funktion „Integrationskamera“ kannst du dein iPhone als Webcam für deinen Mac verwenden. Dein iPhone bietet eine hochwertige Kamera und kann automatisch als Kameraquelle für deinen Mac dienen.
@@ -63,7 +61,7 @@ Falls dein iPhone nicht automatisch als Kameraquelle erkannt wird:
 
 <p align="center">
 <a href="/docs/05-kommunikation/02-webcam/01-droidcam/README.md"><strong>Zurück</strong></a> | 
-<a href="/docs/06-entwicklung/README.md"><strong>Weiter</strong></a>
+<a href="/docs/05-kommunikation/03-bekannte_probleme/README.md"><strong>Weiter</strong></a>
 </p>
 
 <p align="center">

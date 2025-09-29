@@ -1,4 +1,8 @@
 # <p align="center">Issues</p>
+<p align="center"><a href="#dieses-kapitel-beinhaltet-folgende-abschnitte">🚀 Direkt zur Abschnitts-Übersicht</a></p>
+
+---
+<br>
 
 Ein Issue beschreibt eine offene Aufgabe oder ein Problem in einem Projekt. Es dient zur Nachverfolgung und Verwaltung von Bugs, Feature-Anfragen oder Verbesserungen.
 
@@ -40,7 +44,7 @@ Issues helfen bei der systematischen Nachverfolgung von Aufgaben, der Kommunikat
 
 ## Weitere Informationen
 
-- [GitHub Docs: Issues](https://docs.github.com/de/issues)
+[GitHub Docs: Issues](https://docs.github.com/de/issues)
 
 ---
 

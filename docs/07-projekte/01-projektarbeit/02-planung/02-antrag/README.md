@@ -168,7 +168,7 @@ Ein gut strukturierter Projektantrag ist der **Schlüssel** für ein erfolgreich
 ---
 
 <p align="center">
-<a href="/docs/07-projekte/01-projektarbeit/02-planung/README.md"><strong>Zurück</strong></a> | 
+<a href="/docs/07-projekte/01-projektarbeit/02-planung/01-phasen/README.md"><strong>Zurück</strong></a> | 
 <a href="/docs/07-projekte/01-projektarbeit/03-projektmanagement/README.md"><strong>Weiter</strong></a>
 </p>
 

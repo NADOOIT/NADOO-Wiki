@@ -52,7 +52,7 @@ Branches ermöglichen eine getrennte Entwicklung von neuen Funktionen, Experimen
 
 <p align="center">
 <a href="/docs/04-tools/01-github/01-repository/README.md"><strong>Zurück</strong></a> | 
-<a href="/docs/04-tools/01-github/03-pull-requests-branches/README.md"><strong>Weiter</strong></a>
+<a href="/docs/04-tools/01-github/02-branches/01-protection/README.md"><strong>Weiter</strong></a>
 </p>
 
 <p align="center">

@@ -89,7 +89,7 @@ Die Welt der Softwareentwicklung ist komplex und voller Nuancen. Während wir di
 ---
 
 <p align="center">
-<a href="/docs/06-entwicklung/02-clean_architecture/02-best_practices/README.md"><strong>Zurück</strong></a> | 
+<a href="/docs/06-entwicklung/02-architekturen/01-clean_architecture/02-best_practices/README.md"><strong>Zurück</strong></a> | 
 <a href="/docs/06-entwicklung/04-python/README.md"><strong>Weiter</strong></a>
 </p>
 

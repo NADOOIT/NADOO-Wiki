@@ -67,20 +67,9 @@ Der/Die Teamkoordinator:in des 11er-Teams „Launch“ sammelt Issues rund um di
 
 ---
 
-**Dieses Thema beinhaltet folgende Kapitel:**  
----
-
-🔹 [**Dokumentar(ist):in**](/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/01-dokumentar/README.md) <br>
-🔹 [**Researcher:in**](/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/02-researcher/README.md) <br>
-🔹 [**Entwickler:in**](/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/03-entwickler/README.md) <br>
-🔹 [**Tester:in**](/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/04-tester/README.md) <br>
-🔹 [**Teamkoordinator:in**](/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/05-teamkoordinator/README.md) <br>
-
----
-
 <p align="center">
 <a href="/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/04-tester/README.md"><strong>Zurück</strong></a> | 
-<a href="/docs/02-arbeiten_bei_nadoo/02-training_und_vorbereitung"><strong>Weiter</strong></a>
+<a href="/docs/02-arbeiten_bei_nadoo/02-training_und_vorbereitung/README.md"><strong>Weiter</strong></a>
 </p>
 
 <p align="center">

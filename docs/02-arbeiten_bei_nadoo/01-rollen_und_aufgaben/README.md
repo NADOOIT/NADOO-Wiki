@@ -1,7 +1,9 @@
 # <p align="center">Rollen und Aufgaben/Aufgabenbereiche</p>
-<p align="center"><a href="#dieses-thema-beinhaltet-folgende-kapitel">🚀 direkt zur Kapitelübersicht</a></p>
 
-#
+<p align="center"><a href="#dieses-thema-beinhaltet-folgende-kapitel">🚀 Direkt zur Kapitel-Übersicht</a></p>
+
+---
+<br>
 
 🎯 Damit die Zusammenarbeit in Projekten reibungslos funktioniert, ist eine **klare Aufteilung von Aufgaben und Verantwortlichkeiten** entscheidend. Ziel ist es, Transparenz zu schaffen, wer wofür zuständig ist, und die Zusammenarbeit **effizient und nachvollziehbar** zu gestalten. 
 
@@ -26,7 +28,7 @@
 
 <p align="center">
 <a href="/docs/02-arbeiten_bei_nadoo/README.md"><strong>Zurück</strong></a> | 
-<a href="/docs/02-arbeiten_bei_nadoo/02-training_und_vorbereitung/01-trainingsbeitraege"><strong>Weiter</strong></a>
+<a href="/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/01-dokumentar/README.md"><strong>Weiter</strong></a>
 </p>
 
 <p align="center">

@@ -51,7 +51,7 @@ Insofern ein:e **Ersteller:in** vermerkt ist, kannst du dich auch direkt an dies
 
 <p align="center">
 <a href="/docs/02-arbeiten_bei_nadoo/02-training_und_vorbereitung/01-trainingsbeitraege/02-dokumentation/README.md"><strong>Zurück</strong></a> | 
-<a href="/docs/02-arbeiten_bei_nadoo/03-teams/01-aktive_teams/README.md"><strong>Weiter</strong></a>
+<a href="/docs/02-arbeiten_bei_nadoo/03-teams/README.md"><strong>Weiter</strong></a>
 </p>
 
 <p align="center">

@@ -1,4 +1,10 @@
 # <p align="center">Versionsverwaltung mit GitHub</p>
+
+<p align="center"><a href="#dieses-thema-beinhaltet-folgende-kapitel">🚀 Direkt zur Kapitel-Übersicht</a></p>
+
+---
+<br>
+
 <!-- 
 Einleitungstext ggf. nochmal überarbeiten
 Shortcut zur Kapitel-Übersicht hinzufügen

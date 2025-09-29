@@ -1,7 +1,7 @@
 # <p align="center">Zeit- und Ausbildungsnachweise</p>
 
 <p align="center">
-<a href="#dieses-thema-beinhaltet-folgende-kapitel">🚀 direkt zur Kapitelübersicht</a>
+<a href="#dieses-thema-beinhaltet-folgende-kapitel">🚀 Direkt zur Kapitel-Übersicht</a>
 </p>
 
 ---
@@ -21,8 +21,6 @@
 
 ![alt text](image-2.png)
 
-
-
 Abgesehen vom Anhang bleibt die E-Mail leer.
 
 ---
@@ -38,8 +36,8 @@ Abgesehen vom Anhang bleibt die E-Mail leer.
 ---
 
 <p align="center">
-<a href="/docs/01-organisation/01-zeiterfassung/README.md"><strong>Zurück</strong></a> | 
-<a href="/docs/01-organisation/02-zeit_und_ausbildungsnachweise/01-beispiele/README.md"><strong>Weiter</strong></a>
+<a href="/docs/01-organisation/02-zeiterfassung/README.md"><strong>Zurück</strong></a> | 
+<a href="/docs/01-organisation/03-zeit_und_ausbildungsnachweise/01-beispiele/README.md"><strong>Weiter</strong></a>
 </p>
 
 <p align="center">

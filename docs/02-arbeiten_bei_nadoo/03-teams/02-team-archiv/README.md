@@ -59,7 +59,7 @@ Das 11er-Team hat die Implementierung der Zeiterfassung in das NADOO-Launchpad e
 ---
 
 <p align="center"><a href="/docs/02-arbeiten_bei_nadoo/03-teams/01-aktive_teams/README.md"><strong>Zurück</strong></a> |
-<a href="/docs/02-arbeiten_bei_nadoo/03-teams/README.md"><strong>Weiter</strong></a></p>
+<a href="/docs/03-meetings/README.md"><strong>Weiter</strong></a></p>
 
 <p align="center">
 <a href="/docs/02-arbeiten_bei_nadoo/03-teams/README.md/#dieses-thema-beinhaltet-folgende-kapitel"><strong>Zurück zur Kapitel-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>

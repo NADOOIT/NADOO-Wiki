@@ -98,10 +98,10 @@ https://github.com/NADOOIT/NADOO-Launchpad/issues/463).
 ---
 
 <p align="center">
-<a href="/docs/01-organisation/02-zeit_und_ausbildungsnachweise/02-dateibenennung/README.md"><strong>Zurück</strong></a> | 
-<a href="/docs/01-organisation/03-arbeits_und_pausenzeiten/README.md"><strong>Weiter</strong></a>
+<a href="/docs/01-organisation/03-zeit_und_ausbildungsnachweise/02-dateibenennung/README.md"><strong>Zurück</strong></a> | 
+<a href="/docs/01-organisation/04-urlaub/README.md"><strong>Weiter</strong></a>
 </p>
 
 <p align="center">
-<a href="/docs/01-organisation/02-zeit_und_ausbildungsnachweise/README.md/#dieses-thema-beinhaltet-folgende-kapitel"><strong>Zurück zur Kapitel-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
+<a href="/docs/01-organisation/03-zeit_und_ausbildungsnachweise/README.md/#dieses-thema-beinhaltet-folgende-kapitel"><strong>Zurück zur Kapitel-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
 </p>

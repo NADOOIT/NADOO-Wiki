@@ -1,4 +1,8 @@
 # <p align="center">Entwicklung und Programmiersprachen</p>
+<p align="center"><a href="#dieser-themenbereich-beinhaltet-folgende-themen">🚀 Direkt zur Themen-Übersicht</a></p>
+
+---
+<br>
 
 ## Entwicklung
 
@@ -33,7 +37,7 @@ Es gibt eine Vielzahl von Programmiersprachen, die jeweils ihre eigenen Stärken
 ---
 
 🢒 [**Dokumentation**](/docs/06-entwicklung/01-dokumentation/README.md)<br>
-🢒 [**Clean Architecture**](/docs/06-entwicklung/02-clean_architecture/README.md) <br>
+🢒 [**Architekturstile in der Anwendungsentwicklung**](/docs/06-entwicklung/02-architekturen/README.md) <br>
 🢒 [**Lizenzen, Open Source und die Welt der Softwareabhängigkeiten**](/docs/06-entwicklung/03-lizenzen_und_opensource/README.md) <br>
 🢒 [**Python**](/docs/06-entwicklung/04-python/README.md) <br>
 🢒 [**Java**](/docs/06-entwicklung/05-java/README.md) <br>
@@ -44,7 +48,8 @@ Es gibt eine Vielzahl von Programmiersprachen, die jeweils ihre eigenen Stärken
 ---
 
 <p align="center">
-<a href="/docs/05-kommunikation/02-webcam/02-ios/README.md"><strong>Zurück</strong></a> | 
+<a href="/docs/05-kommunikation/03-bekannte_probleme/README.md"><strong>Zurück</strong></a> | 
 <a href="/docs/06-entwicklung/01-dokumentation/README.md"><strong>Weiter</strong></a>
 </p>
 
+<p align="center"><a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a></p>

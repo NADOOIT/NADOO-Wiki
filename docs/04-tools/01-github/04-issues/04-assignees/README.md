@@ -30,7 +30,7 @@ Nutze Assignees zusammen mit Labels und Milestones für eine strukturierte Arbei
 
 ## Weitere Informationen
 
-- [GitHub Docs: Assignees](https://docs.github.com/de/issues/tracking-your-work-with-issues/using-issues/assigning-issues-and-pull-requests-to-other-github-users)
+[GitHub Docs: Assignees](https://docs.github.com/de/issues/tracking-your-work-with-issues/using-issues/assigning-issues-and-pull-requests-to-other-github-users)
 
 ---
 

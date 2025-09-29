@@ -1,4 +1,7 @@
 # <p align="center">Kommunikation und Zusammenarbeit</p>
+<p align="center"><a href="#dieser-themenbereich-beinhaltet-folgende-themen">🚀 Direkt zur Themen-Übersicht</a></p>
+
+---
 <br>
 
 ## Allgemeine Regeln
@@ -54,3 +57,5 @@ Die Bildschirmübertragung sollte in allen Meetings aktiviert sein, um den Austa
 <a href="/docs/04-tools/06-ki/03-gemini/README.md"><strong>Zurück</strong></a> | 
 <a href="/docs/05-kommunikation/01-discord/README.md"><strong>Weiter</strong></a>
 </p>
+
+<p align="center"><a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a></p>

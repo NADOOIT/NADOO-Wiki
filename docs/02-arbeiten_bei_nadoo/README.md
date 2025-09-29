@@ -12,12 +12,14 @@ In diesem Bereich findest du alle wichtigen Informationen rund um die Gestaltung
 
 ---
 
-🢒 [**Rollen und Aufgaben**](/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/README.md) </br>
-🢒 [**Training und Vorbereitung**](/docs/02-arbeiten_bei_nadoo/02-training_und_vorbereitung/README.md) </br>
-🢒 [**Teams**](/docs/02-arbeiten_bei_nadoo/03-teams/README.md)</br>
+🢒 [**Rollen und Aufgaben/Aufgabenbereiche**](/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/README.md) </br>
+🢒 [**orbereitung auf die IHK-Prüfungen und deine Zukunft in der IT-Arbeitswelt**](/docs/02-arbeiten_bei_nadoo/02-training_und_vorbereitung/README.md) </br>
+🢒 [**Übersicht aller Teams und Projekte**](/docs/02-arbeiten_bei_nadoo/03-teams/README.md)</br>
 
 ---
 
 <p align="center"><a href="/docs/01-organisation/08-firmenphilosophie/03-kaizen/README.md"><strong>Zurück</strong></a> | 
-<a href="/docs/03-meetings/01-allgemein/README.md"><strong>Weiter</strong></a>
+<a href="/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/README.md"><strong>Weiter</strong></a>
 </p>
+
+<p align="center"><a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a></p>

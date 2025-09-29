@@ -51,7 +51,7 @@ Wenn du an einer **Messe** oder einer anderen **arbeits- bzw. studienbezogenen V
 ---
 
 <p align="center">
-<a href="/docs/01-organisation/03-arbeits_und_pausenzeiten/README.md"><strong>Zurück</strong></a> | 
+<a href="/docs/01-organisation/03-zeit_und_ausbildungsnachweise/03-ueberpruefung/README.md"><strong>Zurück</strong></a> | 
 <a href="/docs/01-organisation/05-krankmeldungen/README.md"><strong>Weiter</strong></a>
 </p>
 

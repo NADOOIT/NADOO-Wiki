@@ -1,6 +1,7 @@
 # <p align="center">Integrierte Entwicklungsumgebung (IDE) für Java: IntelliJ IDEA</p>
+<!--Einleitung-->
 
-<!--Einleitung und Kapitelübersicht-->
+**26.09.2025: _Mehr Infos folgen._**
 
 ---
 
@@ -8,8 +9,8 @@
 
 ---
 
-🔹 [**Überblick**](/docs/04-tools/03-intellij/01-ueberblick/README.md) </br>
-🔹 [**Installation**](/docs/04-tools/03-intellij/02-installation/README.md) </br>
+🔹 [**IntelliJ IDEA — ein Überblick**](/docs/04-tools/03-intellij/01-ueberblick/README.md) </br>
+🔹 [**Installation und Einrichtung**](/docs/04-tools/03-intellij/02-installation/README.md) </br>
 
 ---
 

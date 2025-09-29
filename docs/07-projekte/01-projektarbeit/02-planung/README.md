@@ -23,8 +23,8 @@ Es ist wichtig, regelmäßig den Fortschritt zu überprüfen und gegebenenfalls 
 
 
 <p align="center">
-<a href="/docs/07-projekte/01-projektarbeit/02-planung/01-phasen/README.md"><strong>Zurück</strong></a> | 
-<a href="/docs/07-projekte/01-projektarbeit/03-projektmanagement/README.md"><strong>Weiter</strong></a>
+<a href="/docs/07-projekte/01-projektarbeit/01-zeitmanagement/README.md"><strong>Zurück</strong></a> | 
+<a href="/docs/07-projekte/01-projektarbeit/02-planung/01-phasen/README.md"><strong>Weiter</strong></a>
 </p>
 
 <p align="center">
