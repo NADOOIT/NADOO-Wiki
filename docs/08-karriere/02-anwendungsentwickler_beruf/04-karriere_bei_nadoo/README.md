@@ -1,8 +1,5 @@
 # <p align="center">Karrieremöglichkeiten bei Christoph Backhaus IT</p>
-
 <!--hier Inhalt zum Thema ausformulieren (README reicht vermutlich / keine Kapitel)-->
-
----
 
 <div align="center">
   <table>
@@ -29,20 +26,21 @@ Komm am besten **zu einem späteren Zeitpunkt** nochmal wieder - mit etwas Glüc
 
 Insofern ein:e **Ersteller:in** vermerkt ist, kannst du dich auch direkt an diese Person richten.
 
-
 ---
 
-**Dieser Themenbereich beinhaltet folgende Themen:**
----
-
-🔹 [**Programmierer Dasein**](/docs/08-karriere/02-anwendungsentwickler_beruf/01-programmierer_dasein/README.md)<br>
-🔹 [**Bewerbungsverfahren**](/docs/08-karriere/02-anwendungsentwickler_beruf/02-bewerbungsverfahren/README.md) <br>
-🔹 [**Lernen und Arbeiten**](/docs/08-karriere/02-anwendungsentwickler_beruf/03-lernen_und_arbeiten/README.md) <br>
-🔹 [**Karriere bei Nadoo**](/docs/08-karriere/02-anwendungsentwickler_beruf/04-karriere_bei_nadoo/README.md) <br>
+<p align="center">
+📅 <strong>Dieses Dokument wurde erstellt am:</strong> 29.04.2025
+<br>
+✍️ <strong>Von:</strong> <a href="https://github.com/cherylugbogu">Cheryl</a>
+</p>
 
 ---
 
 <p align="center">
 <a href="/docs/08-karriere/02-anwendungsentwickler_beruf/03-lernen_und_arbeiten/README.md"><strong>Zurück</strong></a> | 
-<a href="/docs/09-Glossar/README.md"><strong>Weiter</strong></a>
+<a href="/docs/09-glossar/README.md"><strong>Weiter</strong></a>
+</p>
+
+<p align="center">
+<a href="/docs/08-karriere/02-anwendungsentwickler_beruf/README.md/#dieses-thema-beinhaltet-folgende-kapitel"><strong>Zurück zur Kapitel-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
 </p>

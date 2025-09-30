@@ -97,7 +97,9 @@ code .
 
 Viel Erfolg bei der Erstellung deiner ersten App! Denke daran, dass der Lernprozess genauso wichtig ist wie das Endergebnis. Zögere nicht, Fragen zu stellen oder Hilfe zu suchen, wenn du auf Probleme stößt.
 
-**Quellen / Zitate:**
+---
+
+#### Quellen
 
 [1] <https://peras.de/hr-blog/detail/ki-tools-unternehmen> <br>
 [2] <https://www.ai-universe.com/ki-tools> <br>
@@ -110,17 +112,11 @@ Viel Erfolg bei der Erstellung deiner ersten App! Denke daran, dass der Lernproz
 
 ---
 
-**Dieser Themenbereich beinhaltet folgende Themen:**
----
-
-🔹 [**Idee und Vorbereitung**](/docs/06-entwicklung/06-frameworks/01-nadoo_framework/README.md)<br>
-🔹 [**Umsetzung**](/docs/06-entwicklung/06-frameworks/02-briefcase_und_toga/README.md) <br>
-🔹 [**Feedback und Testing**](/docs/06-entwicklung/06-frameworks/02-briefcase_und_toga/README.md) <br>
-
----
-
-
 <p align="center">
 <a href="/docs/06-entwicklung/07-digitale_produktentwicklung/01-idee_und_vorbereitung/README.md"><strong>Zurück</strong></a> | 
 <a href="docs/06-entwicklung/07-digitale_produktentwicklung/03-feedback_und_testing/README.md"><strong>Weiter</strong></a>
+</p>
+
+<p align="center">
+<a href="/docs/06-entwicklung/07-digitale_produktentwicklung/README.md/#dieses-thema-beinhaltet-folgende-kapitel"><strong>Zurück zur Kapitel-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
 </p>

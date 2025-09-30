@@ -1,4 +1,5 @@
 # <p align="center">Online-Kalender mit Doodle einrichten und in LinkedIn-Profil integrieren</p>
+<!--Text evtl. nochmal verkürzen/entfernen, großer Teil wiederholt sich Wort für Wort-->
 
 Ein Online-Kalender erleichtert es potenziellen Arbeitgebern, Kollegen und neuen Kontakten, Termine mit Ihnen zu vereinbaren. In dieser Anleitung erfahren Sie, wie Sie einen Online-Kalender mit Doodle einrichten und in Ihr LinkedIn-Profil integrieren.
 
@@ -38,6 +39,8 @@ Um sicherzustellen, dass deine E-Mail-Kommunikation den Anforderungen der Datens
 
 ℹ️ Outlook bietet sowohl E-Mail- als auch Kalenderdienste an.
 
+---
+
 ## 2. Schritt: Doodle-Konto erstellen
 
 1. Öffne die offizielle Website von [**Doodle**](https://doodle.com/de/) und erstelle dort ein kostenloses Konto.
@@ -45,6 +48,8 @@ Um sicherzustellen, dass deine E-Mail-Kommunikation den Anforderungen der Datens
 2. Folge den Anweisungen zur Einrichtung deines Profils.
 
 ℹ️ Obwohl Doodle limitierter ist als andere Tools, bietet es eine **DSGVO-konforme** und **kostenlose** Lösung für **Terminplanung**.
+
+---
 
 ## 3. Schritt: Terminplaner ("Umfrage") erstellen
 
@@ -54,11 +59,15 @@ Um sicherzustellen, dass deine E-Mail-Kommunikation den Anforderungen der Datens
 
 3. Wähle die Datumsoptionen und Zeitfenster aus, die du anbieten möchtest
 
+---
+
 ## 4. Schritt: Terminplaner in LinkedIn intgrieren
 
 1. Nach dem Erstellen der "Umfrage" erhältst du einen Link, den du mit anderen teilen kannst.
 
 2. Kopiere diesen Link und füge ihn in dein **LinkedIn-Profil** unter "**Kontaktdaten**" ein, damit neue Kontakte direkt einen Termin mit dir vereinbaren können.
+
+---
 
 ## 5. Schritt: Kalender als zentrales Lebensmanagement-Tool nutzen
 
@@ -84,10 +93,13 @@ Aus Sicht eines Unternehmers und erfahrenen Kalendernutzers kann nicht genug bet
 
 Nutze dieses System, um deine Produktivität zu steigern und gleichzeitig deine Lebensqualität zu verbessern.
 
+---
 
 ## 6. Fragen dokumentieren
 
 Notiere alle Fragen, die während der Einrichtung deines Online-Kalenders aufkommen. Nur dokumentierte Fragen dürfen an andere gestellt werden. Dies unterstützt uns dabei, den Lehrgang kontinuierlich zu verbessern.
+
+---
 
 ## 7. Schritt: Ausführliche E-Mail-Signatur erstellen
 
@@ -150,27 +162,21 @@ Dies ist ein weiterer wichtiger Schritt, um sich verfügbar zu machen und deine 
 
 <br>
 
+---
+
 ## Fazit
 
 Ein gut organisierter Online-Kalender ist ein wichtiger Bestandteil eines professionellen Profils. Er ermöglicht es dir, effizient zu arbeiten und potenziellen Arbeitgebern sowie Kontakten eine einfache Möglichkeit zur Terminvereinbarung zu bieten. Obwohl Doodle im Vergleich zu anderen Tools eingeschränkter ist, bietet es eine kostenlose und DSGVO-konforme Lösung für grundlegende Terminplanungen.
 
 Zusammen mit einer gut gestalteten E-Mail-Signatur bildet dein Online-Kalender die Grundlage für eine effiziente und professionelle Kommunikation, die es anderen erleichtert, mit dir in Kontakt zu treten und Termine zu vereinbaren.
-<!--Text evtl. nochmal verkürzen/entfernen, großer Teil wiederholt sich Wort für Wort-->
 
 ---
-
-**Dieses Thema beinhaltet folgende Kapitel:**
----
-
-🔹 [**Github**](/docs/08-karriere/01-social_media_netzwerk/01-github/README.md)<br>
-🔹 [**Linked-In**](/docs/08-karriere/01-social_media_netzwerk/02-linkedin/README.md) <br>
-🔹 [**Xing**](/docs/08-karriere/01-social_media_netzwerk/03-xing/README.md) <br>
-🔹 [**Doodle Kalender**](/docs/08-karriere/01-social_media_netzwerk/04-doodle_kalender/README.md) <br>
-
----
-
 
 <p align="center">
 <a href="/docs/08-karriere/01-social_media_netzwerk/03-xing/README.md"><strong>Zurück</strong></a> | 
 <a href="/docs/08-karriere/02-anwendungsentwickler_beruf/README.md"><strong>Weiter</strong></a>
+</p>
+
+<p align="center">
+<a href="/docs/08-karriere/01-social_media_netzwerk/README.md/#dieses-thema-beinhaltet-folgende-kapitel"><strong>Zurück zur Kapitel-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
 </p>

@@ -1,5 +1,8 @@
 # <p align="center">Pull Requests</p>
+<p align="center"><a href="#dieses-kapitel-beinhaltet-folgende-abschnitte">🚀 Direkt zur Abschnitts-Übersicht</a></p>
 
+---
+<br>
 
 Ein Pull Request ist eine Anfrage, Änderungen aus einem Branch in einen anderen Branch zu integrieren. Er dient als Diskussions- und Überprüfungsbasis, bevor Code offiziell zusammengeführt wird.
 
@@ -57,15 +60,20 @@ Pull Requests stellen sicher, dass neue Features oder Bugfixes vor ihrer Integra
 
 ---
 
-**Dieses Thema beinhaltet folgende Kapitel:**
+### <p align="center">Dieses Kapitel beinhaltet folgende Abschnitte:</p>
+
 ---
 
-🔹 [**Merge-Konflikte**](/docs/04-tools/01-github/03-pull-requests/01-merge-konflikte/README.md) </br>
-🔹 [**Code-Review**](/docs/04-tools/01-github/03-pull-requests/02-code-review/README.md) </br>
+◻️ [**Merge-Konflikte**](/docs/04-tools/01-github/03-pull-requests/01-merge-konflikte/README.md) </br>
+◻️ [**Code Reviews**](/docs/04-tools/01-github/03-pull-requests/02-code-review/README.md) </br>
 
 ---
 
 <p align="center">
 <a href="/docs/04-tools/01-github/02-branches/01-protection/README.md"><strong>Zurück</strong></a> | 
 <a href="/docs/04-tools/01-github/03-pull-requests/01-merge-konflikte/README.md"><strong>Weiter</strong></a>
+</p>
+
+<p align="center">
+<a href="/docs/04-tools/01-github/README.md/#dieses-thema-beinhaltet-folgende-kapitel"><strong>Zurück zur Kapitel-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
 </p>

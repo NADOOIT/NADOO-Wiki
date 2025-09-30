@@ -1,7 +1,5 @@
 # <p align="center">Installation und Erstellung der virtuellen Umgebung</p>
 
----
-
 ## Installation von Python 3.11 mit uv
 
 1. Öffne das Terminal in Visual Studio Code (View > Terminal oder ``Ctrl+` ``).
@@ -55,16 +53,11 @@
 
 ---
 
-**Dieses Thema beinhaltet folgende Kapitel:**
----
-
-🔹 [**Virtuelle Umgebungen**](/docs/04-tools/06-ki/01-leitfaden/README.md) </br>
-🔹 [**Installation**](/docs/04-tools/06-ki/01-leitfaden/README.md) </br>
-🔹 [**Grundkonzept (Beispiel)**](/docs/04-tools/06-ki/01-leitfaden/README.md) </br>
-
----
-
 <p align="center">
 <a href="/docs/06-entwicklung/04-python/01-einstieg/01-virtuelle_umgebungen/README.md"><strong>Zurück</strong></a> | 
 <a href="/docs/06-entwicklung/04-python/01-einstieg/03-grundkonzept_bsp/README.md"><strong>Weiter</strong></a>
+</p>
+
+<p align="center">
+<a href="/docs/06-entwicklung/04-python/01-einstieg/README.md/#dieses-kapitel-beinhaltet-folgende-abschnitte"><strong>Zurück zur Abschnitts-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
 </p>

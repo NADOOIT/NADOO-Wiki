@@ -1,7 +1,5 @@
 # <p align="center">Python-Grundkonzepte: Veranschaulichung anhand eines Beispielskripts</p>
 
----
-
 ## Das Skript
 
 Hier ist ein **umfassendes Beispielskript**, das **grundlegende Python-Konzepte** erklärt:
@@ -205,17 +203,11 @@ Durch das Verstehen und Anwenden dieser Konzepte in der Praxis legst du eine sol
 
 ---
 
-**Dieses Thema beinhaltet folgende Kapitel:**
----
-
-🔹 [**Virtuelle Umgebungen**](/docs/04-tools/06-ki/01-leitfaden/README.md) </br>
-🔹 [**Installation**](/docs/04-tools/06-ki/01-leitfaden/README.md) </br>
-🔹 [**Grundkonzept (Beispiel)**](/docs/04-tools/06-ki/01-leitfaden/README.md) </br>
-
-
----
-
 <p align="center">
 <a href="/docs/06-entwicklung/04-python/01-einstieg/02-installation/README.md"><strong>Zurück</strong></a> | 
 <a href="/docs/06-entwicklung/04-python/02-debugging/README.md"><strong>Weiter</strong></a>
+</p>
+
+<p align="center">
+<a href="/docs/06-entwicklung/04-python/01-einstieg/README.md/#dieses-kapitel-beinhaltet-folgende-abschnitte"><strong>Zurück zur Abschnitts-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
 </p>

@@ -37,7 +37,7 @@ Damit du nach den Informationen, die du vor allem für den Start in einem neuen 
 ### 📚 Gezieltes Lernen und Prüfungsvorbereitung
 
 ℹ️ [**Trainingsbeiträge**](/docs/02-arbeiten_bei_nadoo/02-training_und_vorbereitung/01-trainingsbeitraege/README.md) <br>
-
+ℹ️ [**Kein Wiki-Doc, aber trotzdem relevant: Die NADOO-ACADEMY**](https://github.com/NADOOIT/NADOO-Academy) <br>
 <!-- aktuell noch unsicher, ob hier nur Fokus auf IHK-Vorbereitung und welche Docs außer Wiki für TBs relevant wären | mögliche Docs:
 - "Lernpartner und -gruppen"? - bisher noch kein Wiki-Eintrag
 - NADOO-Academy - bisher noch kein Wiki-Eintrag
@@ -53,16 +53,11 @@ Dort wird neben den hier bereits verlinkten Einträgen **in großem Umfang** auf
 
 ---
 
-**Dieser Themenbereich beinhaltet folgende Themen:**
----
-
-🢒 [**Leitfaden/Onboarding**](/docs/00-willkommen/01-leitfaden/README.md) </br>
-🢒 [**Starterpack**](/docs/00-willkommen/02-starterpack/README.md) </br>
-🢒 [**Styleguide**](/docs/00-willkommen/03-styleguide/README.md)</br>
-
-
----
 <p align="center">
 <a href="/docs/00-willkommen/01-leitfaden/README.md"><strong>Zurück</strong></a> | 
 <a href="/docs/00-willkommen/03-styleguide/README.md"><strong>Weiter</strong></a>
+</p>
+
+<p align="center">
+<a href="/docs/00-willkommen/README.md/#dieser-themenbereich-beinhaltet-folgende-themen"><strong>Zurück zur Themen-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
 </p>

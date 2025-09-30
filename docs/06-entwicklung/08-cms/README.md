@@ -1,90 +1,62 @@
 # <p align="center">Content Management Systeme (CMS)</p>
+<p align="center"><a href="#dieses-thema-beinhaltet-folgende-kapitel">🚀 Direkt zur Kapitel-Übersicht</a></p>
 
 ---
-<!-- Einleitung und Kapitel-Übersicht -->
+<br>
 
-## Einführung in CMS
+## Was ist ein CMS?
 
-- Was ist ein CMS?
-- Vorteile und Einsatzbereiche
-- Vergleich: WordPress, TYPO3, Joomla, Headless CMS (Überblick)
+Ein **Content Management System (CMS)** ist eine Software, die es ermöglicht, digitale Inhalte zu **erstellen**, zu **verwalten** und zu **veröffentlichen**, ohne dass tiefgehende Programmierkenntnisse erforderlich sind.
 
---
-
-## WordPress – Grundlagen
-
-- Aufbau und Komponenten (Themes, Plugins, Widgets)
-- Der WordPress-Core und Updates
-- Benutzerrollen & Rechteverwaltung
-- Hosting und Systemanforderungen
+Es bietet eine **benutzerfreundliche Oberfläche** zur Bearbeitung von Inhalten und zur Anpassung des Designs.
 
 ---
 
-## Einrichtung und Konfiguration
+## Vorteile und Einsatzbereiche
 
-- Lokale Entwicklungsumgebung (z. B. mit LocalWP oder Docker)
-- WordPress installieren & konfigurieren
-- Sicherheitseinstellungen (Updates, Passwörter, Plugins)
+### Vorteile:
 
----
+  - Einfache Handhabung
+  - Schnelle Anpassungen
+  - Keine Programmierkenntnisse erforderlich
+  - Große Community und viele Plugins/Themes
 
-## Inhaltspflege und Struktur
+### Einsatzbereiche:
 
-- Beiträge vs. Seiten
-- Menüs, Kategorien, Schlagwörter
-- Mediathek & Gutenberg-Editor
-
----
-
-## Erweiterung durch Plugins
-
-- Wichtige Plugin-Kategorien (SEO, Sicherheit, Analyse, Formulare)
-- Beispiel: Koko Analytics datenschutzfreundlich einrichten
-- DSGVO-konformes Tracking ohne Cookies
+  - Blogs
+  - Unternehmenswebsites
+  - E-Commerce
+  - Portfolios
+  - Foren und soziale Netzwerke
 
 ---
 
-## Design und Theme-Anpassung
+## Vergleich: WordPress, TYPO3, Joomla, Drupal und Headless CMS (Überblick)
 
-- Child-Themes
-- Theme Customizer
-- Barrierefreiheit und CI-konformes Design
-
----
-
-## WordPress in der Prüfungsvorbereitung
-
-- Verbindung zu AP-Themenfeldern:
-  - Datenschutz & IT-Sicherheit (AP2.04)
-  - Webentwicklung (AP1.04, AP2.03)
-  - Projektarbeit und Kundenberatung (AP2.01)
-- Praxisbeispiel für Projektarbeit mit WordPress
+| CMS | Vorteile | Nachteile |
+| :--- | :--- | :--- |
+| WordPress | Einfache Bedienung, große Community, viele Plugins/Themes | Sicherheitsrisiken, Performance bei großen Seiten |
+| TYPO3 | Sehr flexibel, skalierbar, Enterprise-fähig | Komplexe Lernkurve, höhere Kosten für Hosting und Entwicklung |
+| Joomla | Gute Balance zwischen Benutzerfreundlichkeit und Flexibilität | Weniger Plugins/Themes als WordPress, kleinere Community |
+| Drupal | Sehr leistungsfähig, hohe Flexibilität, gute Sicherheit | Komplexe Lernkurve, erfordert mehr technisches Wissen |
+| Headless CMS | Hohe Flexibilität, Trennung von Backend und Frontend, API-first | Komplexere Implementierung, erfordert mehr technisches Wissen |
 
 ---
 
-## Nützliche Tools und Ressourcen
-
-- WP CLI
-- Plugin-Empfehlungen für den Einstieg
-- Hilfreiche Quellen (z. B. wpbeginner.com, developer.wordpress.org)
+### <p align="center">Dieses Thema beinhaltet folgende Kapitel:</p>
 
 ---
 
-**Dieses Thema beinhaltet folgende Kapitel:**
----
-
-🔹 [**Einführung**](/docs/06-entwicklung/08-cms/01-einfuehrung/README.md)<br>
-🔹 [**WP-Grundlagen**](/docs/06-entwicklung/08-cms/02-wp_grundlagen/README.md) <br>
-🔹 [**Einrichtung**](/docs/06-entwicklung/08-cms/03-einrichtung/README.md) <br>
-🔹 [**Inhalt Struktur**](/docs/06-entwicklung/08-cms/04-inhalt_struktur/README.md) <br>
-🔹 [**Erweiterungen und Plugins**](/docs/06-entwicklung/08-cms/05-erweiterung_plugins/README.md) <br>
-🔹 [**Design Themes**](/docs/06-entwicklung/08-cms/06-design_themes/README.md) <br>
-🔹 [**Prüfungsvorbereitung**](/docs/06-entwicklung/08-cms/07-pruefungsvorbereitung/README.md) <br>
-🔹 [**Tools und Ressourcen**](/docs/06-entwicklung/08-cms/08-tools_ressourcen/README.md) <br>
+🔹 [**CMS – Die Grundlagen**](/docs/06-entwicklung/08-cms/01-einfuehrung/README.md)<br>
+🔹 [**WordPress**](/docs/06-entwicklung/08-cms/02-wordpress/README.md) <br>
 
 ---
 
 <p align="center">
 <a href="/docs/06-entwicklung/07-digitale_produktentwicklung/03-feedback_und_testing/README.md"><strong>Zurück</strong></a> | 
 <a href="/docs/06-entwicklung/08-cms/01-einfuehrung/README.md"><strong>Weiter</strong></a>
+</p>
+
+<p align="center">
+<a href="/docs/06-entwicklung/README.md/#dieser-themenbereich-beinhaltet-folgende-themen"><strong>Zurück zur Themen-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
 </p>

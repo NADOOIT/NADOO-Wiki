@@ -1,6 +1,6 @@
-# <p align="center">IT-Lebenslauf-101</p>
-
----
+# <p align="center">Das IT-Lebenslauf-101</p>
+<!--Inhalt des Kapitels 
+-> Christoph bereitet da aktuell (Mai 2025) wohl eh was vor - am besten hier reinkopieren, sobald das öffentlich ist -->
 
 <div align="center">
   <table>
@@ -27,23 +27,21 @@ Komm am besten **zu einem späteren Zeitpunkt** nochmal wieder - mit etwas Glüc
 
 Insofern ein:e **Ersteller:in** vermerkt ist, kannst du dich auch direkt an diese Person richten.
 
-
-<!--Inhalt des Kapitels 
-
--> Christoph bereitet da aktuell (Mai 2025) wohl eh was vor - am besten hier reinkopieren, sobald das öffentlich ist-->
-
 ---
 
-**Dieses Thema beinhaltet folgende Kapitel:**
----
-
-🔹 [**Lebenslauf**](/docs/08-karriere/02-anwendungsentwickler_beruf/02-bewerbungsverfahren/01-lebenslauf/README.md)<br>
-🔹 [**Technisches Interview**](/docs/08-karriere/02-anwendungsentwickler_beruf/02-bewerbungsverfahren/02-technisches_interview/README.md) <br>
-🔹 [**Dos and Don'ts**](/docs/08-karriere/02-anwendungsentwickler_beruf/02-bewerbungsverfahren/03-dos_and_donts/README.md) <br>
+<p align="center">
+📅 <strong>Dieses Dokument wurde erstellt am:</strong> 29.04.2025
+<br>
+✍️ <strong>Von:</strong> <a href="https://github.com/cherylugbogu">Cheryl</a>
+</p>
 
 ---
 
 <p align="center">
 <a href="/docs/08-karriere/02-anwendungsentwickler_beruf/02-bewerbungsverfahren/README.md"><strong>Zurück</strong></a> | 
 <a href="/docs/08-karriere/02-anwendungsentwickler_beruf/02-bewerbungsverfahren/02-technisches_interview/README.md"><strong>Weiter</strong></a>
+</p>
+
+<p align="center">
+<a href="/docs/08-karriere/02-anwendungsentwickler_beruf/02-bewerbungsverfahren/README.md/#dieses-kapitel-beinhaltet-folgende-abschnitte"><strong>Zurück zur Abschnitts-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
 </p>

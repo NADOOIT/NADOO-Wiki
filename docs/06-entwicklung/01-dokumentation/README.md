@@ -1,7 +1,5 @@
 # <p align="center">Dokumentation</p>
 
----
-
 Die Dokumentation ist ein zentraler Bestandteil jedes Softwareprojekts. Sie stellt sicher, dass alle wichtigen Informationen über Architektur, Code, Technologien sowie Prozesse festgehalten und leicht auffindbar sind.
 
 Eine gute, konsequent gepflegte Dokumentation vereinfacht die Zusammenarbeit zwischen Teammitgliedern, beschleunigt die Einarbeitung neuer Kolleg*innen und trägt langfristig zur Qualität und Wartbarkeit eines Projekts bei.
@@ -62,21 +60,11 @@ Um diese Anforderungen zu erfüllen, empfiehlt es sich, ein zentrales und leicht
 
 ---
 
-**Dieser Themenbereich beinhaltet folgende Themen:**
----
-
-🔹 [**Dokumentation**](/docs/06-entwicklung/01-dokumentation/README.md)<br>
-🔹 [**Clean Architecture**](/docs/06-entwicklung/02-clean_architecture/README.md) <br>
-🔹 [**Lizenzen und Open Source**](/docs/06-entwicklung/03-lizenzen_und_opensource/README.md) <br>
-🔹 [**Python**](/docs/06-entwicklung/04-python/README.md) <br>
-🔹 [**Java**](/docs/06-entwicklung/05-java/README.md) <br>
-🔹 [**Frameworks**](/docs/06-entwicklung/06-frameworks/README.md) <br>
-🔹 [**Digitale Produktentwicklung**](/docs/06-entwicklung/07-digitale_produktentwicklung/README.md) <br>
-🔹 [**CMS**](/docs/06-entwicklung/08-cms/README.md) <br>
-
----
-
 <p align="center">
 <a href="/docs/06-entwicklung/README.md"><strong>Zurück</strong></a> | 
-<a href="/docs/06-entwicklung/02-clean_architecture/README.md"><strong>Weiter</strong></a>
+<a href="/docs/06-entwicklung/02-architekturen/README.md"><strong>Weiter</strong></a>
+</p>
+
+<p align="center">
+<a href="/docs/06-entwicklung/README.md/#dieser-themenbereich-beinhaltet-folgende-themen"><strong>Zurück zur Themen-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
 </p>
