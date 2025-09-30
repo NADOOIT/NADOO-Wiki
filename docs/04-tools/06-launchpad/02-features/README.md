@@ -15,17 +15,17 @@
 
 ---
 
-◻️ [**[Feature-Guide] Menüleiste**](/docs/04-tools/05-launchpad/02-features/01-menu/README.md) </br>
-◻️ [**[Feature-Guide] Berechtigungen**](/docs/04-tools/05-launchpad/02-features/02-berechtigungen/README.md) </br>
-◻️ [**[Feature-Guide] Tokens**](/docs/04-tools/05-launchpad/02-features/03-tokens/README.md) </br>
-◻️ [**[Feature-Guide] Erfassung der Arbeitszeiten**](/docs/04-tools/05-launchpad/02-features/04-zeiterfassung/README.md) </br>
-◻️ [**[Feature-Guide] Projektverwaltung**](/docs/04-tools/05-launchpad/02-features/05-projektverwaltung/README.md) </br>
-◻️ [**[Feature-Guide] Aktivitäten**](/docs/04-tools/05-launchpad/02-features/06-aktivitaeten/README.md) </br>
-◻️ [**[Feature-Guide] Wochenübersicht**](/docs/04-tools/05-launchpad/02-features/07-wochenuebersicht/README.md) </br>
-◻️ [**[Feature-Guide] Watchdog**](/docs/04-tools/05-launchpad/02-features/08-watchdog/README.md) </br>
-◻️ [**[Feature-Guide] Create Snippets**](/docs/04-tools/05-launchpad/02-features/09-create_snippets/README.md) </br>
-◻️ [**[Feature-Guide] Function Names**](/docs/04-tools/05-launchpad/02-features/10-function_names/README.md) </br>
-◻️ [**[Feature-Guide] Tokens versenden**](/docs/04-tools/05-launchpad/02-features/11-t_bar_senden/README.md) </br>
+◻️ [**[Feature-Guide] Menüleiste**](/docs/04-tools/06-launchpad/02-features/01-menu/README.md) </br>
+◻️ [**[Feature-Guide] Berechtigungen**](/docs/04-tools/06-launchpad/02-features/02-berechtigungen/README.md) </br>
+◻️ [**[Feature-Guide] Tokens**](/docs/04-tools/06-launchpad/02-features/03-tokens/README.md) </br>
+◻️ [**[Feature-Guide] Erfassung der Arbeitszeiten**](/docs/04-tools/06-launchpad/02-features/04-zeiterfassung/README.md) </br>
+◻️ [**[Feature-Guide] Projektverwaltung**](/docs/04-tools/06-launchpad/02-features/05-projektverwaltung/README.md) </br>
+◻️ [**[Feature-Guide] Aktivitäten**](/docs/04-tools/06-launchpad/02-features/06-aktivitaeten/README.md) </br>
+◻️ [**[Feature-Guide] Wochenübersicht**](/docs/04-tools/06-launchpad/02-features/07-wochenuebersicht/README.md) </br>
+◻️ [**[Feature-Guide] Watchdog**](/docs/04-tools/06-launchpad/02-features/08-watchdog/README.md) </br>
+◻️ [**[Feature-Guide] Create Snippets**](/docs/04-tools/06-launchpad/02-features/09-create_snippets/README.md) </br>
+◻️ [**[Feature-Guide] Function Names**](/docs/04-tools/06-launchpad/02-features/10-function_names/README.md) </br>
+◻️ [**[Feature-Guide] Tokens versenden**](/docs/04-tools/06-launchpad/02-features/11-t_bar_senden/README.md) </br>
 
 ---
 
