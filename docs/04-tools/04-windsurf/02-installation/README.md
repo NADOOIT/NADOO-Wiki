@@ -142,12 +142,6 @@ Um zu prüfen, ob Windsurf korrekt installiert wurde, erstelle am besten ein neu
 
 ---
 
-**Dieser Themenbereich beinhaltet folgende Themen:**
----
-
-🔹 [**Windsurf-Überblick**](/docs/04-windsurf/01-ueberblick/README.md)<br>
-🔹 [**Windsurf-Installation**](/docs/04-windsurf/02-installation/README.md)<br>
-
 <p align="center">
 <a href="/docs/04-tools/04-windsurf/01-ueberblick/README.md"><strong>Zurück</strong></a> | 
 <a href="/docs/04-tools/05-terminal/README.md"><strong>Weiter</strong></a>
