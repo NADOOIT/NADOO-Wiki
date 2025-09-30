@@ -1,28 +1,23 @@
 # <p align="center">Erfassung deiner Arbeits- und Pausenzeiten (Einstempeln/Ausstempeln)</p>
 
-**Das Wichtigste vorweg:** Die Erfasung deiner Arbeits- und Pausenzeiten besteht bei uns aus zwei, parallel ablaufenden Vorgängen. Du solltest beide Prozesse täglich ausführen.
+**Das Wichtigste vorweg:** Die Erfasung deiner Arbeits- und Pausenzeiten besteht bei uns aus einem Vorgang. **Du musst den Prozess täglich ausführen**, sonst wird deine Anwesenheit nicht erfasst.
 
 ---
 
 ## Der erste Vorgang: Die digitale Anwesenheitsbestätigung via E-Mail
 
-Jede/r Mitarbeiter/in sendet jeweils **zwei E-Mails pro Tag** (Start des Arbeitstages/Ende des Arbeitstages) an <christoph.backhaus@nadooit.de> als Anwesenheitsnachweis.
+Jede/r Mitarbeiter/in sendet jeweils **eine E-Mail pro Tag** an <christoph.backhaus@nadooit.de> als Anwesenheitsnachweis.
 
-❗ Achte hier darauf, den **Textkörper leer zu lassen** und verwende **die folgenden Formate für die Betreffzeile**:
+Betreff für den Arbeitsbeginn (Einstempeln) ist: **GO**
 
-**E-Mail für den Arbeitsbeginn (Einstempeln):** MitarbeiterID_START_YYYY_MM_TT_HH_MM <br>
-**E-Mail zum Ende des Arbeitstages (Ausstempeln):** MitarbeiterID_ENDE_YYY_MM_TT_HH_MM
+❗ Achte hier darauf, den Textkörper (Body) leer zu lassen.
 
-<br>
+💡 Das Ausstempeln erfolgt automatisch und ist immer auf 16:30 Uhr gesetzt.
 
-💡 Deine einzigartige **Mitarbeiter-ID** wird dir im Zuge des Onboarding-Prozesses von Christoph zur verfügung gestellt.
 
-<br> 
+<h3 align="center">So sollten die Mails in etwa aussehen:</h3>
 
-<h2 align="center">So sollten die Mails in etwa aussehen:</h2>
-
-<img width="1018" height="371" alt="image" src="https://github.com/user-attachments/assets/10de422d-dc1c-4805-a095-13146737bc59" />
-<img width="443" height="190" alt="image" src="https://github.com/user-attachments/assets/427317e9-4514-496f-bbd5-3039cce8f449" />
+_BILD_
 
 ---
 
