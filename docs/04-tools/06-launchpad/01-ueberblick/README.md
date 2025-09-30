@@ -25,8 +25,8 @@
 
 ---
 
-◻️ [**Installation [Windows]**](/docs/04-tools/05-launchpad/01-ueberblick/01-windows/README.md) </br>
-◻️ [**Installation [MAC]**](/docs/04-tools/05-launchpad/01-ueberblick/02-mac/README.md) </br>
+◻️ [**Installation [Windows]**](/docs/04-tools/06-launchpad/01-ueberblick/01-windows/README.md) </br>
+◻️ [**Installation [MAC]**](/docs/04-tools/06-launchpad/01-ueberblick/02-mac/README.md) </br>
 
 ---
 
