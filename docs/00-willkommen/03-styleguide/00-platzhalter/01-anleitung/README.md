@@ -80,5 +80,5 @@ Insofern ein:e **Ersteller:in** vermerkt ist, kannst du dich auch direkt an dies
 </p>
 
 <p align="center">
-<a href="/docs/00-willkommen/03-styleguide/00-platzhalter/README.md/#dieses-thema-beinhaltet-folgende-kapitel"><strong>Zurück zur Kapitel-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
+<a href="/docs/00-willkommen/03-styleguide/00-platzhalter/README.md/#dieses-kapitel-beinhaltet-folgende-abschnitte"><strong>Zurück zur Kapitel-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
 </p>
