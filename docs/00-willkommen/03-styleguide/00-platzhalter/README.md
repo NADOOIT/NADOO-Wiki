@@ -1,6 +1,6 @@
 # <p align="center">Template / Vorlage | Platzhalter für (vorerst) leere Docs</p>
 
-<p align="center"><a href="#dieses-thema-beinhaltet-folgende-kapitel">🚀 Direkt zur Kapitel-Übersicht</a></p>
+<p align="center"><a href="#dieses-kapitel-beinhaltet-folgende-abschnitte">🚀 Direkt zur Abschnitts-Übersicht</a></p>
 
 ---
 <br>
@@ -30,12 +30,12 @@ Auf der nächsten Seite findest du eine genaue [**Anleitung**](/docs/00-willkomm
 
 ---
 
-### <p align="center">Dieses Thema beinhaltet folgende Kapitel:</p>
+### <p align="center">Dieses Kapitel beinhaltet folgende Abschnitte:</p>
 
 ---
 
-🔹 [**Anleitung: So verwendest du die Vorlage**](/docs/00-willkommen/03-styleguide/00-platzhalter/01-anleitung/README.md) <br>
-🔹 [**Vorschau des Platzhalters zur Ansicht im Browser**](/docs/00-willkommen/03-styleguide/00-platzhalter/02-vorschau/README.md)
+◻️ [**Anleitung: So verwendest du die Vorlage**](/docs/00-willkommen/03-styleguide/00-platzhalter/01-anleitung/README.md) <br>
+◻️ [**Vorschau des Platzhalters zur Ansicht im Browser**](/docs/00-willkommen/03-styleguide/00-platzhalter/02-vorschau/README.md)
 
 ---
 
