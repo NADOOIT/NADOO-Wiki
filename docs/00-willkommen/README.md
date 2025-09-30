@@ -54,6 +54,8 @@ Du hast ein bisschen getrödelt, dein erster Tag steht quasi schon mit dem Fuß 
 
 ### <p align="center">Dieser Themenbereich beinhaltet folgende Themen:</p>
 
+---
+
 🢒 [**Onboarding**](/docs/00-willkommen/01-leitfaden/README.md) <br>
 🢒 [**Das Wiki-Docs Starterpack**](/docs/00-willkommen/02-starterpack/README.md) <br>
 🢒 [**Deine Mitgestaltung des NADOO-Wikis**](/docs/00-willkommen/03-styleguide/README.md) <br>
