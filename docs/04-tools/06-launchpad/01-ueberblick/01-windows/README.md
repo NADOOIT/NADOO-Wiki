@@ -200,14 +200,10 @@ Sobald die Installation abgeschlossen ist, wird die Umgebung automatisch erstell
 ---
 
 <p align="center">
-<<<<<<< HEAD:docs/04-tools/06-launchpad/01-ueberblick/01-windows/README.md
-
-=======
 <a href="/docs/04-tools/06-launchpad/01-ueberblick/README.md"><strong>Zurück</strong></a> | 
 <a href="/docs/04-tools/06-launchpad/01-ueberblick/02-mac/README.md"><strong>Weiter</strong></a>
 </p>
 
 <p align="center">
 <a href="/docs/04-tools/06-launchpad/01-ueberblick/README.md/#dieses-kapitel-beinhaltet-folgende-abschnitte"><strong>Zurück zur Abschnitts-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
->>>>>>> main:docs/04-tools/05-launchpad/01-ueberblick/01-windows/README.md
 </p>
