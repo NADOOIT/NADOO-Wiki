@@ -63,11 +63,13 @@ Desweiteren folgt demnächst ein zweites Kapitel zum **Verzeichnisbaum des** [**
 
 🚀 Um dir diesen Schritt zu erleichtern, wird dir dort außerdem eine **syntaktische Vorlage** zur Verfügung gestellt, die du nur noch mit den entsprechenden Inhalten ausfüllen musst.
 
+#### <p align="center">Okay, cool. Ready für deinen ersten Wiki-Eintrag? 😎 Dann mal los! 👇</p>
+
 ---
 
-## <p align="center">Okay, cool. Ready für deinen ersten Wiki-Eintrag? 😎 Dann mal los! 👇</p>
-
 ### <p align="center">Inhaltsverzeichnis</p>
+
+---
 
 #### 🖨️ Templates / Vorlagen
 
