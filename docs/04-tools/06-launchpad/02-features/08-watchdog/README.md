@@ -59,5 +59,5 @@ Für Fragen oder Probleme nutze bitte den Issue-Tracker im Repository des Projek
 </p>
 
 <p align="center">
-<a href="/docs/04-tools/05-launchpad/02-features/README.md/#dieses-kapitel-beinhaltet-folgende-abschnitte"><strong>Zurück zur Abschnitts-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
+<a href="/docs/04-tools/06-launchpad/02-features/README.md/#dieses-kapitel-beinhaltet-folgende-abschnitte"><strong>Zurück zur Abschnitts-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
 </p>

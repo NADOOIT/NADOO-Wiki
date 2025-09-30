@@ -61,5 +61,5 @@ Diese Anleitung basiert auf Informationen aus der [offiziellen Gemini API-Dokume
 </p>
 
 <p align="center">
-<a href="/docs/04-tools/06-ki/README.md/#dieses-thema-beinhaltet-folgende-kapitel"><strong>Zurück zur Kapitel-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
+<a href="/docs/04-tools/07-ki/README.md/#dieses-thema-beinhaltet-folgende-kapitel"><strong>Zurück zur Kapitel-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
 </p>

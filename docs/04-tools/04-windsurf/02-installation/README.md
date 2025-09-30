@@ -153,4 +153,6 @@ Um zu prüfen, ob Windsurf korrekt installiert wurde, erstelle am besten ein neu
 <a href="/docs/04-tools/05-terminal/README.md"><strong>Weiter</strong></a>
 </p>
 
-
+<p align="center">
+<a href="/docs/04-tools/04-windsurf/README.md/#dieses-thema-beinhaltet-folgende-kapitel"><strong>Zurück zur Kapitel-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
+</p>
