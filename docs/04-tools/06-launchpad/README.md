@@ -44,9 +44,9 @@ Mögliche Inhalte / zu beantwortende Fragen:
 
 ---
 
-🔹 [**Das NADOO-Launchpad - ein grundlegender Überblick**](/docs/04-tools/05-launchpad/01-ueberblick/README.md) </br>
-🔹 [**Der Launchpad-Feature-Guide: Funktions- und Anwendungsweise aller Features und Komponenten**](/docs/04-tools/05-launchpad/02-features/README.md) </br>
-🔹 [**Video-Tutorials und Demonstrationen**](/docs/04-tools/05-launchpad/03-videos/README.md) </br>
+🔹 [**Das NADOO-Launchpad - ein grundlegender Überblick**](/docs/04-tools/06-launchpad/01-ueberblick/README.md) </br>
+🔹 [**Der Launchpad-Feature-Guide: Funktions- und Anwendungsweise aller Features und Komponenten**](/docs/04-tools/06-launchpad/02-features/README.md) </br>
+🔹 [**Video-Tutorials und Demonstrationen**](/docs/04-tools/06-launchpad/03-videos/README.md) </br>
 
 ---
 
