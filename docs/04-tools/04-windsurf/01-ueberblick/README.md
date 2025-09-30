@@ -27,14 +27,6 @@ Insofern ein:e **Ersteller:in** vermerkt ist, kannst du dich auch direkt an dies
 
 ---
 
-**Dieser Themenbereich beinhaltet folgende Themen:**
----
-
-🔹 [**Windsurf-Überblick**](/docs/04-windsurf/01-ueberblick/README.md)<br>
-🔹 [**Windsurf-Installation**](/docs/04-windsurf/02-installation/README.md)<br>
-
----
-
 <br>
 <p align="center">
 📅 <strong>Dieses Dokument wurde erstellt am:</strong> 29.09.2025
