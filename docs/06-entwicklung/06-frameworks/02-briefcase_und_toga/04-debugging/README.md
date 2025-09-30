@@ -93,6 +93,8 @@ Du wirst mehrere Fehler sehen. Lass uns diese analysieren:
 
 3. **Namenfehler**: In der letzten Zeile der `say_hello`-Methode gibt es einen Tippfehler: `greting` statt `greeting`.
 
+---
+
 ## Fehler beheben
 
 Lass uns diese Fehler Schritt für Schritt beheben:
@@ -130,6 +132,8 @@ logging.debug(f"Name eingegeben: {name}")
 
 Dies schreibt Debug-Informationen in eine Datei namens `app.log`.
 
+---
+
 ## Fazit
 
 Fehler sind ein wichtiger Teil des Lernprozesses. Sie zeigen dir, wo du deine Fähigkeiten verbessern kannst. Mit der Zeit und mehr Erfahrung wirst du in der Lage sein, komplexere Features zu entwickeln und weniger Fehler zu machen. Dennoch bleiben Fehler ein natürlicher Teil des Entwicklungsprozesses, selbst für erfahrene Programmierer.
@@ -148,17 +152,11 @@ Ein spannendes Video, das von den berühmtesten und größten Bugs berichtet:
 
 ---
 
-**Dieses Thema beinhaltet folgende Kapitel:**
----
-
-🔹 [**Briefcase**](/docs/06-entwicklung/01-dokumentation/README.md)<br>
-🔹 [**Toga**](/docs/06-entwicklung/02-clean_architecture/README.md) <br>
-🔹 [**Zusammenspiel**](/docs/06-entwicklung/02-clean_architecture/README.md) <br>
-🔹 [**Debugging**](/docs/06-entwicklung/02-clean_architecture/README.md) <br>
-
----
-
 <p align="center">
 <a href="/docs/06-entwicklung/06-frameworks/02-briefcase_und_toga/03-zusammenspiel/README.md"><strong>Zurück</strong></a> | 
 <a href="/docs/06-entwicklung/07-digitale_produktentwicklung/README.md"><strong>Weiter</strong></a>
+</p>
+
+<p align="center">
+<a href="/docs/06-entwicklung/06-frameworks/02-briefcase_und_toga/README.md/#dieses-kapitel-beinhaltet-folgende-abschnitte"><strong>Zurück zur Abschnitts-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
 </p>

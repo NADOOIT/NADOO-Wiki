@@ -47,8 +47,15 @@ Prüfe bitte direkt nach dem Beitritt, ob du Zugriff auf die folgenden Repositor
 Sollte es zu Problemen mit GitHub kommen und du dringend Hilfe benötigst, kannst du dich auch direkt über Discord an die Teammitglieder wenden.
 
 ---
+<!-- Hinweis zum Kommentar "Links nach Absprache der Struktur ergänzen":
+Da das neue Doc bereits erstellt und mit dem Main-Branch gemerged, also veröffentlicht wurde, wurde die aktuelle Navigation verlinkt. -->
+<p align="center">
+<a href="/docs/04-tools/01-github/09-organizations-teams/README.md"><strong>Zurück</strong></a> | 
+<a href="/docs/04-tools/01-github/10-github-einfuehrung/README.md"><strong>Weiter</strong></a>
+</p>
 
-<!-- Links nach Absprache der Struktur ergänzen -->
+<p align="center">
+<a href="/docs/04-tools/01-github/09-organizations-teams/README.md/#dieses-kapitel-beinhaltet-folgende-abschnitte"><strong>Zurück zur Abschnitts-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
+</p>
 
----
 

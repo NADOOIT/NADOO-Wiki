@@ -1,5 +1,5 @@
-# <p align="center">🔠 Alphabetisch sortierte Abkürzungen/Akronyme mit Kurzerklärungen IT</p>
-
+# <p align="center">🔠 Das große IT-Glossar – Alphabetisch sortierte Abkürzungen/Akronyme mit Kurzerklärungen</p>
+<!-- Achtung: Das Glossar sollte die letzte Seite des Wikis bleiben. Neue Themenbereiche innerhalb der Projektstruktur bitte nur an Stellen VOR dem Glossar anlegen.-->
 
 - **AFR (Annualized Failure Rate)**: Eine Schätzung der Ausfallrate eines Produkts oder Systems innerhalb eines Jahres.
 - **AGB (Allgemeine Geschäftsbedingungen)**: Standardisierte Vertragsbedingungen, die für eine Vielzahl von Verträgen gelten.
@@ -77,6 +77,5 @@
 
 <p align="center">
 <a href="/docs/08-karriere/02-anwendungsentwickler_beruf/04-karriere_bei_nadoo/README.md"><strong>Zurück</strong></a> | 
-<a href="/README.md"><strong>Weiter</strong></a>
+<a href="/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
 </p>
-

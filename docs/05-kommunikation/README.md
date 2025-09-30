@@ -1,4 +1,7 @@
 # <p align="center">Kommunikation und Zusammenarbeit</p>
+<p align="center"><a href="#dieser-themenbereich-beinhaltet-folgende-themen">🚀 Direkt zur Themen-Übersicht</a></p>
+
+---
 <br>
 
 ## Allgemeine Regeln
@@ -40,12 +43,13 @@ Die Bildschirmübertragung sollte in allen Meetings aktiviert sein, um den Austa
 
 ---
 
-**Dieser Themenbereich beinhaltet folgende Themen:**
+### <p align="center">Dieser Themenbereich beinhaltet folgende Themen:</p>
+
 ---
 
-🔹 [**Discord**](/docs/05-kommunikation/01-discord/README.md)<br>
-🔹 [**Webcam**](/docs/05-kommunikation/02-webcam/README.md) <br>
-🔹 [**Bekannte Probleme**](/docs/05-kommunikation/03-bekannte_Probleme/README.md) <br>
+🢒 [**Discord: Die zentrale Kommunikationsplattform bei Christoph Backhaus / NADOO-IT**](/docs/05-kommunikation/01-discord/README.md)<br>
+🢒 [**Video- und Bildschirmübertragung**](/docs/05-kommunikation/02-webcam/README.md) <br>
+🢒 [**Bekannte Probleme**](/docs/05-kommunikation/03-bekannte_probleme/README.md) <br>
 
 ---
 
@@ -53,3 +57,5 @@ Die Bildschirmübertragung sollte in allen Meetings aktiviert sein, um den Austa
 <a href="/docs/04-tools/07-ki/03-gemini/README.md"><strong>Zurück</strong></a> | 
 <a href="/docs/05-kommunikation/01-discord/README.md"><strong>Weiter</strong></a>
 </p>
+
+<p align="center"><a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a></p>

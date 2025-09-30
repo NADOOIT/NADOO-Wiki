@@ -1,5 +1,9 @@
 # <p align="center">🎨 Der Wiki-Doc-Styleguide</p>
 
+<p align="center"><a href="#inhaltsverzeichnis">🚀 direkt zum Inhaltsverzeichnis</a></p>
+
+---
+
 ### <p align="center">All Hands on Deck 🙌 - auch _dein_ Input ist gefragt! <br> Nutze den Styleguide für die Erstellung neuer Einträge:</p>
 
 ---
@@ -59,11 +63,13 @@ Desweiteren folgt demnächst ein zweites Kapitel zum **Verzeichnisbaum des** [**
 
 🚀 Um dir diesen Schritt zu erleichtern, wird dir dort außerdem eine **syntaktische Vorlage** zur Verfügung gestellt, die du nur noch mit den entsprechenden Inhalten ausfüllen musst.
 
+#### <p align="center">Okay, cool. Ready für deinen ersten Wiki-Eintrag? 😎 Dann mal los! 👇</p>
+
 ---
 
-## <p align="center">Okay, cool. Ready für deinen ersten Wiki-Eintrag? 😎 Dann mal los! 👇</p>
-
 ### <p align="center">Inhaltsverzeichnis</p>
+
+---
 
 #### 🖨️ Templates / Vorlagen
 
@@ -74,7 +80,12 @@ Desweiteren folgt demnächst ein zweites Kapitel zum **Verzeichnisbaum des** [**
 <!-- 🔹 [**Verzeichnisbaum des Wiki-READMEs – Hierarchie, Bezeichnungen und Syntax**](tbd) -->
 
 ---
+
 <p align="center">
 <a href="/docs/00-willkommen/02-starterpack/README.md"><strong>Zurück</strong></a> | 
 <a href="/docs/00-willkommen/03-styleguide/00-platzhalter/README.md"><strong>Weiter</strong></a>
+</p>
+
+<p align="center">
+<a href="/docs/00-willkommen/README.md/#dieser-themenbereich-beinhaltet-folgende-themen"><strong>Zurück zur Themen-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
 </p>

@@ -55,16 +55,11 @@ Diese Anleitung basiert auf Informationen aus der [offiziellen Gemini API-Dokume
 
 ---
 
-**Dieses Thema beinhaltet folgende Kapitel:**
----
-
-🔹 [**Leitfaden KI**](/docs/04-tools/06-ki/01-leitfaden/README.md) </br>
-🔹 [**LLM-Mix**](/docs/04-tools/06-ki/02-llm-mlx/README.md) </br>
-🔹 [**Gemini**](/docs/04-tools/06-ki/03-gemini/README.md) </br>
-
----
-
 <p align="center">
 <a href="/docs/04-tools/07-ki/02-llm-mlx/README.md"><strong>Zurück</strong></a> | 
 <a href="/docs/05-kommunikation/README.md"><strong>Weiter</strong></a>
+</p>
+
+<p align="center">
+<a href="/docs/04-tools/06-ki/README.md/#dieses-thema-beinhaltet-folgende-kapitel"><strong>Zurück zur Kapitel-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
 </p>

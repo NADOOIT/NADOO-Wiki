@@ -1,4 +1,10 @@
 # <p align="center">Leitfaden für deinen ersten Tag <br> "First-Day-Fahrplan"</p>
+<p align="center">
+<a href="#übersicht-dein-fahrplan-für-den-ersten-tag-">➡️ direkt zum First-Day-Fahrplan</a>
+</p>
+
+---
+<br>
 
 <h3 align="center">📢 Disclaimer zum Thema Dokumentation und Fragen</h3>
 
@@ -161,23 +167,18 @@ Eine ausführliche Beschreibung zu dem Thema findest du in unserem **NADOO-Wiki*
 |:--------------------:|:--------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | 06:00–10:14 Uhr      | **Einstempeln** / Arbeitstag beginnen                    |                                                                                             **Launchpad**-App                                                                                             |
 | 10:14–10:30 Uhr      | **Anwesenheitskontrolle**                                |                                              Discord-Channel [**33er [weekly] 🔴**](https://discordapp.com/channels/1299292608744390707/1330880189475065910)                                              |
-| 10:30–11:20 Uhr      | **11er-Meeting**                                         |                            Discord-Channel [**DevOps 🟡**](https://discordapp.com/channels/1299292608744390707/1364897110050213918) ODER einer der **Team-Launch 🟡🟢**-Kanäle                            |
+| 10:30–11:20 Uhr      | **11er-Meeting**                                         |                            **Discord-Channel deines Teams** ODER einer der **Team-Launch 🟡🟢**-Kanäle                            |
 | _ab_ 11:20–11:45&nbsp;Uhr | freies Arbeiten / Netzwerken mit Team-Mitgliedern   |                                                                                        Discord-Channel deiner Wahl                                                                                        |
-| _freie Einteilung_   | **Pause**                                                | Discord-Channels [**🔇 afk**](https://discordapp.com/channels/1299292608744390707/1331528615132925972) ODER [**🌿 Ruhebereich**](https://discordapp.com/channels/1299292608744390707/1331765513826861136) |
-| _freie Einteilung_   | **Stillarbeit**                                          |                                               Discord-Channel [**🌿 Ruhebereich**](https://discordapp.com/channels/1299292608744390707/1331765513826861136)                                               |
-
----
-
-**Dieser Themenbereich beinhaltet folgende Themen:**
----
-
-🢒 [**Leitfaden/Onboarding**](/docs/00-willkommen/01-leitfaden/README.md) </br>
-🢒 [**Starterpack**](/docs/00-willkommen/02-starterpack/README.md) </br>
-🢒 [**Styleguide**](/docs/00-willkommen/03-styleguide/README.md)</br>
+| freie Einteilung _ab_ Beendigung des entsprechenden Daily Meetings (11er/33er)    | **Pause (30 Minuten pro Vollzeit-Arbeitstag)**                                                | außerhalb von Discord oder gemutet in Team-Channel |
 
 
 ---
+
 <p align="center">
 <a href="/docs/00-willkommen/README.md"><strong>Zurück</strong></a> | 
 <a href="/docs/00-willkommen/02-starterpack/README.md"><strong>Weiter</strong></a>
+</p>
+
+<p align="center">
+<a href="/docs/00-willkommen/README.md/#dieser-themenbereich-beinhaltet-folgende-themen"><strong>Zurück zur Themen-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
 </p>

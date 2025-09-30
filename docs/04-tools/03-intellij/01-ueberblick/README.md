@@ -36,15 +36,11 @@ Sie gehört zu den beliebtesten und leistungsfähigsten IDEs im Bereich der Java
 
 ---
 
-**Dieses Thema beinhaltet folgende Kapitel:**
----
-
-🔹 [**Überblick**](/docs/04-tools/03-intellij/01-ueberblick/README.md) </br>
-🔹 [**Installation**](/docs/04-tools/03-intellij/02-installation/README.md) </br>
-
----
-
 <p align="center">
 <a href="/docs/04-tools/03-intellij/README.md"><strong>Zurück</strong></a> | 
 <a href="/docs/04-tools/03-intellij/02-installation/README.md"><strong>Weiter</strong></a>
+</p>
+
+<p align="center">
+<a href="/docs/04-tools/03-intellij/README.md/#dieses-thema-beinhaltet-folgende-kapitel"><strong>Zurück zur Kapitel-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
 </p>

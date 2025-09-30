@@ -1,5 +1,9 @@
 # <p align="center">Das NADOO-Launchpad — was es kann und wie es funktioniert</p>
- 
+
+<p align="center"><a href="#dieses-thema-beinhaltet-folgende-kapitel">🚀 Direkt zur Kapitel-Übersicht</a></p>
+
+---
+<br>
 
 <!--
 Fertigen Guide später (oder, wenn einfacher, direkt) inhaltlich logisch aufteilen und in die Platzhalter-READMEs übertragen // hier nur Einleitungstext + Kapitelübersicht // Ordnernamen / Überschriften / Aufteilung ggf. anpassen - sind alles nur Vorschläge;
@@ -31,45 +35,26 @@ Mögliche Inhalte / zu beantwortende Fragen:
 
 -->
 
----
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github.com/user-attachments/assets/69b70f12-916c-4167-8920-c6055f5903d5" alt="Platzhalter" width="200">
-      </td>
-      <td>
-        <h2>Sorry, hier gibt es leider (noch) nichts zu sehen! 👀</h2>
-      </td>
-    </tr>
-  </table>
-</div>
-
-Unser Wiki wird **laufend** erweitert, angepasst und verbessert. **Das erfordert Zeit** - deshalb kann der ein oder andere geplante Inhalt manchmal nicht sofort umgesetzt werden.
-
-Der Eintrag, den du gerade siehst, steht bei uns aber bereits **auf der To Do-Liste** oder **wird im Moment überarbeitet**. 📋
-
-Komm am besten **zu einem späteren Zeitpunkt** nochmal wieder - mit etwas Glück sieht es hier dann schon wieder ganz anders aus. 🚀
-
-#
-
-💡 **Tipp**: Anhand des nachfolgenden **Erstellungsdatums** kannst du sehen, **wie lange** der Eintrag bereits in Bearbeitung ist. Wende dich im Zweifelsfall an das zum aktuellen Zeitpunkt aktive **Launch- bzw. Wiki-Team**, um den Status zu erfragen.
-
-Insofern ein:e **Ersteller:in** vermerkt ist, kannst du dich auch direkt an diese Person richten.
+**26.09.2025: _Mehr Infos folgen._**
 
 ---
 
-**Dieses Thema beinhaltet folgende Kapitel:**
+### <p align="center">Dieses Thema beinhaltet folgende Kapitel:</p>
+
 ---
 
-🔹 [**Überblick**](/docs/04-tools/03-intellij/01-ueberblick/README.md) </br>
-🔹 [**Features**](/docs/04-tools/03-intellij/02-installation/README.md) </br>
-🔹 [**Videos**](/docs/04-tools/03-intellij/02-installation/README.md) </br>
+🔹 [**Das NADOO-Launchpad - ein grundlegender Überblick**](/docs/04-tools/05-launchpad/01-ueberblick/README.md) </br>
+🔹 [**Der Launchpad-Feature-Guide: Funktions- und Anwendungsweise aller Features und Komponenten**](/docs/04-tools/05-launchpad/02-features/README.md) </br>
+🔹 [**Video-Tutorials und Demonstrationen**](/docs/04-tools/05-launchpad/03-videos/README.md) </br>
 
 ---
 
 <p align="center">
 <a href="/docs/04-tools/05-terminal/README.md"><strong>Zurück</strong></a> | 
 <a href="/docs/04-tools/06-launchpad/01-ueberblick/README.md"><strong>Weiter</strong></a>
+</p>
+
+<p align="center">
+<a href="/docs/04-tools/README.md/#dieser-themenbereich-beinhaltet-folgende-themen"><strong>Zurück zur Themen-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
 </p>

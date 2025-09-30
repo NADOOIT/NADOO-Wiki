@@ -1,7 +1,5 @@
 # <p align="center">Anmeldung und Einrichtung</p>
 
----
-
 Discord ist unser **zentrales Kommunikationstool** bei NADOO-IT.
 
 So richtest du es ein und meldest dich an:
@@ -49,14 +47,11 @@ Alternativ kannst du natürlich auch jederzeit ein Issue unter [Kommunikation un
 
 ---
 
-**Dieses Thema beinhaltet folgende Kapitel:**
----
-
-🔹 [**Einrichtung**](/docs/04-tools/06-ki/01-leitfaden/README.md) </br>
-
----
-
 <p align="center">
 <a href="/docs/05-kommunikation/01-discord/README.md"><strong>Zurück</strong></a> | 
 <a href="/docs/05-kommunikation/02-webcam/README.md"><strong>Weiter</strong></a>
+</p>
+
+<p align="center">
+<a href="/docs/05-kommunikation/01-discord/README.md/#dieses-thema-beinhaltet-folgende-kapitel"><strong>Zurück zur Kapitel-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
 </p>

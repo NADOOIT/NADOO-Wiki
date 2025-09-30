@@ -1,7 +1,6 @@
 # <p align="center">Umgang und Kultur bei Christoph Backhaus IT — unsere Firmenphilosophien</p>
-
 <p align="center">
-<a href="#dieses-thema-beinhaltet-folgende-kapitel">🚀 direkt zur Kapitelübersicht</a>
+<a href="#dieses-thema-beinhaltet-folgende-kapitel">🚀 Direkt zur Kapitel-Übersicht</a>
 </p>
 
 ---
@@ -17,7 +16,8 @@ Bei Christoph Backhaus IT verstehen wir **Unternehmenskultur** nicht als leeres 
 
 ---
 
- <p align="center">Dieses Thema beinhaltet folgende Kapitel:</p>
+### <p align="center">Dieses Thema beinhaltet folgende Kapitel:</p>
+
 ---
 
 🔹 [**Verhaltensregeln bei Christoph Backhaus / NADOO-IT**](/docs/01-organisation/08-firmenphilosophie/01-verhaltensregeln/README.md) </br>
@@ -30,3 +30,8 @@ Bei Christoph Backhaus IT verstehen wir **Unternehmenskultur** nicht als leeres 
 <a href="/docs/01-organisation/07-datenschutz/README.md"><strong>Zurück</strong></a> | 
 <a href="/docs/01-organisation/08-firmenphilosophie/01-verhaltensregeln/README.md"><strong>Weiter</strong></a>
 </p>
+
+<p align="center">
+<a href="/docs/01-organisation/README.md/#dieser-themenbereich-beinhaltet-folgende-themen"><strong>Zurück zur Themen-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
+</p>
+

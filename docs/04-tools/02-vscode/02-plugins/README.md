@@ -25,18 +25,11 @@ Kurz gesagt: Markdown Preview Enhanced ist ideal für technische Dokumentationen
 
 ---
 
-**Dieses Thema beinhaltet folgende Kapitel:**
----
-
-🔹 [**Installation**](/docs/04-tools/02-vscode/01-installation/README.md) </br>
-🔹 [**Plugins**](/docs/04-tools/02-vscode/02-plugins/README.md) </br>
-🔹 [**Workspaces**](/docs/04-tools/02-vscode/03-workspaces/README.md) </br>
-🔹 [**Editor**](/docs/04-tools/02-vscode/04-editor/README.md) </br>
-🔹 [**Debugging**](/docs/04-tools/02-vscode/05-debugging/README.md) </br>
-
----
-
 <p align="center">
 <a href="/docs/04-tools/02-vscode/01-installation/README.md"><strong>Zurück</strong></a> | 
 <a href="/docs/04-tools/02-vscode/03-workspaces/README.md"><strong>Weiter</strong></a>
+</p>
+
+<p align="center">
+<a href="/docs/04-tools/02-vscode/README.md/#dieses-thema-beinhaltet-folgende-kapitel"><strong>Zurück zur Kapitel-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
 </p>

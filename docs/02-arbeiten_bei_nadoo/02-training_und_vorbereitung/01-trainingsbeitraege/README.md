@@ -17,15 +17,20 @@ Aus diesem Grund sind Trainingsbeiträge fester Bestandteil deiner Zeit bei NADO
 
 ---
 
-**Dieses Thema beinhaltet folgende Kapitel:**  
+### <p align="center">Dieses Kapitel beinhaltet folgende Abschnitte:</p>
+
 ---
 
-🔹 [**Basics**](/docs/02-arbeiten_bei_nadoo/02-training_und_vorbereitung/01-trainingsbeitraege/01-basics/README.md) <br>
-🔹 [**Dokumentation**](/docs/02-arbeiten_bei_nadoo/02-training_und_vorbereitung/01-trainingsbeitraege/02-dokumentation/README.md) <br>
+◻️ [**Trainingsbeitrag 101 – die Basics im Überblick**](/docs/02-arbeiten_bei_nadoo/02-training_und_vorbereitung/01-trainingsbeitraege/01-basics/README.md) <br>
+◻️ [**Wie bzw. wo wird der Trainingsbeitrag angelegt und dokumentiert?**](/docs/02-arbeiten_bei_nadoo/02-training_und_vorbereitung/01-trainingsbeitraege/02-dokumentation/README.md) <br>
 
 ---
 
 <p align="center">
 <a href="/docs/02-arbeiten_bei_nadoo/02-training_und_vorbereitung/README.md"><strong>Zurück</strong></a> | 
 <a href="/docs/02-arbeiten_bei_nadoo/02-training_und_vorbereitung/01-trainingsbeitraege/01-basics/README.md"><strong>Weiter</strong></a>
+</p>
+
+<p align="center">
+<a href="/docs/02-arbeiten_bei_nadoo/02-training_und_vorbereitung/README.md/#dieses-thema-beinhaltet-folgende-kapitel"><strong>Zurück zur Kapitel-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
 </p>

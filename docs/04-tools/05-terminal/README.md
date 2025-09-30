@@ -2,11 +2,15 @@
 
 Willkommen zu den Terminal Grundlagen! Diese Seite dient als Einführung in die wichtigsten Konzepte und Funktionen des Terminals. Hier lernst du, wie du ein Terminal startest, die Benutzeroberfläche verstehst und grundlegende Navigationsbefehle anwendest.
 
+---
+
 ## Inhalte
 
 - Terminal starten
 - Benutzeroberfläche verstehen
 - Grundlegende Navigation
+
+---
 
 ## Terminal starten
 
@@ -61,6 +65,8 @@ Hier sind einige grundlegende Befehle zur Navigation im Terminal:
 - `tree`: Zeigt die Verzeichnisstruktur als Baum an.
   Unter macOS musst du möglicherweise zuerst `brew install tree` ausführen.
 
+---
+
 ## Hilfreiche Ressourcen
 
 ### Deutsch:
@@ -69,6 +75,8 @@ Hier sind einige grundlegende Befehle zur Navigation im Terminal:
 
 ### Englisch:
 - [Command Line Crash Course (freecodecamp)](https://www.freecodecamp.org/news/command-line-for-beginners/)
+
+---
 
 ## Aufgabe: Bilder erstellen und hinzufügen
 
@@ -82,28 +90,16 @@ Füge die Bilder in das Repository ein, indem du sie im `images/`-Ordner speiche
 
 ---
 
-### Quellen
+#### Quellen
 
-[1] https://serverspace.io/de/about/blog/basic-linux-commands-in-the-terminal/
-[2] https://www.heise.de/tipps-tricks/Linux-Befehle-Die-20-wichtigsten-Kommandos-3843388.html
-[3] https://www.linuxumsteiger.net/linux-terminal-befehle/
-[4] https://kinsta.com/de/blog/linux-befehle/
-[5] https://support.apple.com/de-de/guide/terminal/welcome/mac
-[6] https://contabo.com/blog/de/linux-befehle/
-[7] https://www.ionos.de/digitalguide/server/konfiguration/linux-befehle-terminal-kommandos-im-ueberblick/
-[8] https://hsp.pages.cs.uni-duesseldorf.de/programmierung/website/lectures/progra/tutorials/terminal/
-
----
-
-**Dieser Themenbereich beinhaltet folgende Themen:**
----
-
-🔹 [**Github**](/docs/00-willkommen/03-styleguide/00-platzhalter/01-anleitung/README.md)<br>
-🔹 [**VS Code**](/docs/00-willkommen/03-styleguide/00-platzhalter/02-vorschau/README.md) <br>
-🔹 [**IntelliJ**](/docs/00-willkommen/03-styleguide/00-platzhalter/02-vorschau/README.md) <br>
-🔹 [**Terminal**](/docs/00-willkommen/03-styleguide/00-platzhalter/02-vorschau/README.md) <br>
-🔹 [**Launchpad**](/docs/00-willkommen/03-styleguide/00-platzhalter/02-vorschau/README.md) <br>
-🔹 [**KI, Künstliche Intelligenz**](/docs/00-willkommen/03-styleguide/00-platzhalter/02-vorschau/README.md) <br>
+[1] https://serverspace.io/de/about/blog/basic-linux-commands-in-the-terminal/ <br>
+[2] https://www.heise.de/tipps-tricks/Linux-Befehle-Die-20-wichtigsten-Kommandos-3843388.html <br>
+[3] https://www.linuxumsteiger.net/linux-terminal-befehle/ <br>
+[4] https://kinsta.com/de/blog/linux-befehle/ <br>
+[5] https://support.apple.com/de-de/guide/terminal/welcome/mac <br>
+[6] https://contabo.com/blog/de/linux-befehle/ <br>
+[7] https://www.ionos.de/digitalguide/server/konfiguration/linux-befehle-terminal-kommandos-im-ueberblick/ <br>
+[8] https://hsp.pages.cs.uni-duesseldorf.de/programmierung/website/lectures/progra/tutorials/terminal/ <br>
 
 ---
 
@@ -111,4 +107,9 @@ Füge die Bilder in das Repository ein, indem du sie im `images/`-Ordner speiche
 <a href="/docs/04-tools/04-windsurf/02-installation/README.md"><strong>Zurück</strong></a> | 
 <a href="/docs/04-tools/06-launchpad/README.md"><strong>Weiter</strong></a>
 </p>
+
+<p align="center">
+<a href="/docs/04-tools/README.md/#dieser-themenbereich-beinhaltet-folgende-themen"><strong>Zurück zur Themen-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
+</p>
+
 
