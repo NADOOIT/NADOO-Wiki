@@ -9,9 +9,9 @@
 
 ---
 
-🔹 [**KI‐Nutzung: Ein umfassender Leitfaden**](/docs/04-tools/06-ki/01-leitfaden/README.md) </br>
-🔹 [**Large Language Model (LLM) und das Apple MLX (MacOS Silicon) Framework — ein Vergleich**](/docs/04-tools/06-ki/02-llm-mlx/README.md) </br>
-🔹 [**Nutzung der Gemini API – eine Anleitung**](/docs/04-tools/06-ki/03-gemini/README.md) </br>
+🔹 [**KI‐Nutzung: Ein umfassender Leitfaden**](/docs/04-tools/07-ki/01-leitfaden/README.md) </br>
+🔹 [**Large Language Model (LLM) und das Apple MLX (MacOS Silicon) Framework — ein Vergleich**](/docs/04-tools/07-ki/02-llm-mlx/README.md) </br>
+🔹 [**Nutzung der Gemini API – eine Anleitung**](/docs/04-tools/07-ki/03-gemini/README.md) </br>
 
 ---
 
