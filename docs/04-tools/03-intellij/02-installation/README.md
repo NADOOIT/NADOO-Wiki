@@ -137,7 +137,7 @@ Da der offizielle Installer standardmäßig in `C:\Program Files` installiert un
 
 <p align="center">
 <a href="/docs/04-tools/03-intellij/01-ueberblick/README.md"><strong>Zurück</strong></a> | 
-<a href="/docs/04-tools/04-terminal/README.md"><strong>Weiter</strong></a>
+<a href="/docs/04-tools/04-windsurf/README.md"><strong>Weiter</strong></a>
 </p>
 
 <p align="center">
