@@ -107,6 +107,8 @@ Als bevorzugtes Installationsverzeichnis wählst du das vorgeschlagene Standardv
 
 <img width="596" height="457" alt="5  installationspfad auswählen" src="https://github.com/user-attachments/assets/44d9444f-4f16-41b6-b994-7637b8671cec" />
 
+---
+
 Wenn du einen Startmenü-Ordner erstellen möchtest, klicke auf **Weiter** und warte, bis die Installation abgeschlossen ist.
 
 <img width="596" height="457" alt="6  Ordner benennen" src="https://github.com/user-attachments/assets/5df4fc54-201b-42ba-ad8b-ce1f89143b89" />
