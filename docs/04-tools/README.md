@@ -13,9 +13,10 @@ Ob für die **Verwaltung** von Daten und Prozessen, die **Dokumentation** von Wi
 🢒  [**Versionsverwaltung mit GitHub**](/docs/04-tools/01-github/README.md) <br>
 🢒  [**Integrierte Entwicklungsumgebung (IDE) Visual Studio Code**](/docs/04-tools/02-vscode/README.md) <br>
 🢒  [**Integrierte Entwicklungsumgebung (IDE) für Java: IntelliJ IDEA**](/docs/04-tools/03-intellij/README.md) <br>
-🢒  [**Das Terminal — die Grundlagen**](/docs/04-tools/04-terminal/README.md) <br>
-🢒  [**Das NADOO-Launchpad — was es kann und wie es funktioniert**](/docs/04-tools/05-launchpad/README.md) <br>
-🢒  [**Künstliche Intelligenz (KI)**](/docs/04-tools/06-ki/README.md) <br>
+🢒  [**Integrierte Entwicklungsumgebung (IDE) Windsurf**](/docs/04-tools/04-windsurf/README.md) <br>
+🢒  [**Das Terminal — die Grundlagen**](/docs/04-tools/05-terminal/README.md) <br>
+🢒  [**Das NADOO-Launchpad — was es kann und wie es funktioniert**](/docs/04-tools/06-launchpad/README.md) <br>
+🢒  [**Künstliche Intelligenz (KI)**](/docs/04-tools/07-ki/README.md) <br>
 
 ---
 

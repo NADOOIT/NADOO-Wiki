@@ -112,9 +112,9 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
 
   &emsp;📄 [Kapitelübersicht](docs/01-organisation/03-zeit_und_ausbildungsnachweise/README.md)
 
-  &nbsp;&nbsp;🔹 [Beispiele für Ausbildungs- und Zeitnachweise](docs/01-organisation/02-zeit_und_ausbildungsnachweise/01-beispiele/README.md) <br>
-  &nbsp;&nbsp;🔹 [Dateibenennungsrichtlinien](docs/01-organisation/02-zeit_und_ausbildungsnachweise/02-dateibenennung/README.md) <br>
-  &nbsp;&nbsp;🔹 [Überprüfung der Dateinamen](/docs/01-organisation/02-zeit_und_ausbildungsnachweise/03-ueberpruefung/README.md) <br>
+  &nbsp;&nbsp;🔹 [Beispiele für Ausbildungs- und Zeitnachweise](docs/01-organisation/03-zeit_und_ausbildungsnachweise/01-beispiele/README.md) <br>
+  &nbsp;&nbsp;🔹 [Dateibenennungsrichtlinien](docs/01-organisation/03-zeit_und_ausbildungsnachweise/02-dateibenennung/README.md) <br>
+  &nbsp;&nbsp;🔹 [Überprüfung der Dateinamen](/docs/01-organisation/03-zeit_und_ausbildungsnachweise/03-ueberpruefung/README.md) <br>
 
 </details>
 
