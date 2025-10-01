@@ -308,53 +308,65 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
 
 </details>
 
-<!-- 4-04 Terminal -->
+<!-- 4-04 Windsurf -->
+
+<details>
+<summary>Integrierte Entwicklungsumgebung (IDE) Windsurf</summary>
+
+  &emsp;📄 [Kapitelübersicht](/docs/04-tools/04-windsurf/README.md)
+
+  &nbsp;&nbsp;🔹 [Windsurf — ein Überblick](/docs/04-tools/04-windsurf/01-ueberblick/README.md) <br>
+  &nbsp;&nbsp;🔹 [Installation und Einrichtung](/docs/04-tools/04-windsurf/02-installation/README.md) <br>
+
+</details>
+
+<!-- 4-05 Terminal -->
 
 <details>
 <summary>Terminal</summary>
 
-  &nbsp;&nbsp;🔹 [Das Terminal — die Grundlagen](/docs/04-tools/04-terminal/README.md)
+  &nbsp;&nbsp;🔹 [Das Terminal — die Grundlagen](/docs/04-tools/05-terminal/README.md)
 
 </details>
 
-<!-- 4-05 Launchpad -->
+<!-- 4-06 Launchpad -->
 
 <details>
 <summary>Das NADOO-Launchpad — was es kann und wie es funktioniert</summary>
 
-  &emsp;📄 [Kapitelübersicht](/docs/04-tools/05-launchpad/README.md)
+  &emsp;📄 [Kapitelübersicht](/docs/04-tools/06-launchpad/README.md)
 
-  &nbsp;&nbsp;🔹 [**Das NADOO-Launchpad - ein grundlegender Überblick**](/docs/04-tools/05-launchpad/01-ueberblick/README.md) <br>
-    &emsp;&emsp;◻️ [Installation [Windows]](/docs/04-tools/05-launchpad/01-ueberblick/01-windows/README.md) <br>
-    &emsp;&emsp;◻️ [Installation [MAC]](/docs/04-tools/05-launchpad/01-ueberblick/02-mac/README.md) <br><br>
+  &nbsp;&nbsp;🔹 [**Das NADOO-Launchpad - ein grundlegender Überblick**](/docs/04-tools/06-launchpad/01-ueberblick/README.md) <br>
+    &emsp;&emsp;◻️ [Installation [Windows]](/docs/04-tools/06-launchpad/01-ueberblick/01-windows/README.md) <br>
+    &emsp;&emsp;◻️ [Installation [MAC]](/docs/04-tools/06-launchpad/01-ueberblick/02-mac/README.md) <br><br>
 
-  &nbsp;&nbsp;🔹 [**Der Launchpad-Feature-Guide: Funktions- und Anwendungsweise aller Features und Komponenten**](/docs/04-tools/05-launchpad/02-features/README.md) <br>
-    &emsp;&emsp;◻️ [[Feature-Guide] Menüleiste](/docs/04-tools/05-launchpad/02-features/01-menu/README.md) <br>
-    &emsp;&emsp;◻️ [[Feature-Guide] Berechtigungen](/docs/04-tools/05-launchpad/02-features/02-berechtigungen/README.md) <br>
-    &emsp;&emsp;◻️ [[Feature-Guide] Tokens](/docs/04-tools/05-launchpad/01-guide/03-tokens/README.md) <br>
-    &emsp;&emsp;◻️ [[Feature-Guide] Erfassung der Arbeitszeiten](/docs/04-tools/05-launchpad/02-features/04-zeiterfassung/README.md) <br>
-    &emsp;&emsp;◻️ [[Feature-Guide] Projektverwaltung](/docs/04-tools/05-launchpad/02-features/05-projektverwaltung/README.md) <br>
-    &emsp;&emsp;◻️ [[Feature-Guide] Aktivitäten](/docs/04-tools/05-launchpad/02-features/06-aktivitaeten/README.md) <br>
-    &emsp;&emsp;◻️ [[Feature-Guide] Wochenübersicht](/docs/04-tools/05-launchpad/02-features/07-wochenuebersicht/README.md) <br>
-    &emsp;&emsp;◻️ [[Feature-Guide] Watchdog](/docs/04-tools/05-launchpad/02-features/08-watchdog/README.md) <br>
-    &emsp;&emsp;◻️ [[Feature-Guide] Create Snippets](/docs/04-tools/05-launchpad/02-features/09-create_snippets/README.md) <br>
-    &emsp;&emsp;◻️ [[Feature-Guide] Function Names](/docs/04-tools/05-launchpad/02-features/10-function_names/README.md) <br>
-    &emsp;&emsp;◻️ [[Feature-Guide] Tokens versenden](/docs/04-tools/05-launchpad/02-features/11-t_bar_senden/README.md) <br><br>
+  &nbsp;&nbsp;🔹 [**Der Launchpad-Feature-Guide: Funktions- und Anwendungsweise aller Features und Komponenten**](/docs/04-tools/06-launchpad/02-features/README.md) <br>
+    &emsp;&emsp;◻️ [[Feature-Guide] Menüleiste](/docs/04-tools/06-launchpad/02-features/01-menu/README.md) <br>
+    &emsp;&emsp;◻️ [[Feature-Guide] Berechtigungen](/docs/04-tools/06-launchpad/02-features/02-berechtigungen/README.md) <br>
+    &emsp;&emsp;◻️ [[Feature-Guide] Tokens](/docs/04-tools/06-launchpad/01-guide/03-tokens/README.md) <br>
+    &emsp;&emsp;◻️ [[Feature-Guide] Erfassung der Arbeitszeiten](/docs/04-tools/06-launchpad/02-features/04-zeiterfassung/README.md) <br>
+    &emsp;&emsp;◻️ [[Feature-Guide] Projektverwaltung](/docs/04-tools/06-launchpad/02-features/05-projektverwaltung/README.md) <br>
+    &emsp;&emsp;◻️ [[Feature-Guide] Aktivitäten](/docs/04-tools/06-launchpad/02-features/06-aktivitaeten/README.md) <br>
+    &emsp;&emsp;◻️ [[Feature-Guide] Wochenübersicht](/docs/04-tools/06-launchpad/02-features/07-wochenuebersicht/README.md) <br>
+    &emsp;&emsp;◻️ [[Feature-Guide] Watchdog](/docs/04-tools/06-launchpad/02-features/08-watchdog/README.md) <br>
+    &emsp;&emsp;◻️ [[Feature-Guide] Create Snippets](/docs/04-tools/06-launchpad/02-features/09-create_snippets/README.md) <br>
+    &emsp;&emsp;◻️ [[Feature-Guide] Function Names](/docs/04-tools/06-launchpad/02-features/10-function_names/README.md) <br>
+    &emsp;&emsp;◻️ [[Feature-Guide] Tokens versenden](/docs/04-tools/06-launchpad/02-features/11-t_bar_senden/README.md) <br><br>
 
-  &nbsp;&nbsp;🔹 [**Video-Tutorials und Demonstrationen**](/docs/04-tools/05-launchpad/03-videos/README.md) <br>
+  &nbsp;&nbsp;🔹 [**Video-Tutorials und Demonstrationen**](/docs/04-tools/06-launchpad/03-videos/README.md) <br>
 
 </details>
 
-<!-- 4-06 KI -->
+<!-- 4-07 KI -->
 
 <details>
 <summary>Künstliche Intelligenz (KI)</summary>
 
-  &emsp;📄 [Kapitelübersicht](/docs/04-tools/06-ki/README.md)
+  &emsp;📄 [Kapitelübersicht](/docs/04-tools/07-ki/README.md)
 
-  &nbsp;&nbsp;🔹 [KI‐Nutzung: Ein umfassender Leitfaden](/docs/04-tools/06-ki/01-leitfaden/README.md) <br>
-  &nbsp;&nbsp;🔹 [Large Language Model (LLM) und das Apple MLX (MacOS Silicon) Framework — ein Vergleich](/docs/04-tools/06-ki/02-llm-mlx/README.md) <br>
-  &nbsp;&nbsp;🔹 [Nutzung der Gemini API – eine Anleitung](/docs/04-tools/06-ki/03-gemini/README.md) <br>
+  &nbsp;&nbsp;🔹 [KI‐Nutzung: Ein umfassender Leitfaden](/docs/04-tools/07-ki/01-leitfaden/README.md) <br>
+  &nbsp;&nbsp;🔹 [Large Language Model (LLM) und das Apple MLX (MacOS Silicon) Framework — ein Vergleich](/docs/04-tools/07-ki/02-llm-mlx/README.md) <br>
+  &nbsp;&nbsp;🔹 [Nutzung der Gemini API – eine Anleitung](/docs/04-tools/07-ki/03-gemini/README.md) <br>
 
 </details>
 
