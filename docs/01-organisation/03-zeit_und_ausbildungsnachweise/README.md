@@ -29,9 +29,9 @@ Abgesehen vom Anhang bleibt die E-Mail leer.
 
 ---
 
-🔹 [**Beispiele für Ausbildungs- und Zeitnachweise**](/docs/01-organisation/02-zeit_und_ausbildungsnachweise/01-beispiele/README.md) </br>
-🔹 [**Dateibenennungsrichtlinien**](/docs/01-organisation/02-zeit_und_ausbildungsnachweise/02-dateibenennung/README.md) </br>
-🔹 [**Überprüfung der Dateinamen**](/docs/01-organisation/02-zeit_und_ausbildungsnachweise/03-ueberpruefung/README.md) </br>
+🔹 [**Beispiele für Ausbildungs- und Zeitnachweise**](/docs/01-organisation/03-zeit_und_ausbildungsnachweise/01-beispiele/README.md) </br>
+🔹 [**Dateibenennungsrichtlinien**](/docs/01-organisation/03-zeit_und_ausbildungsnachweise/02-dateibenennung/README.md) </br>
+🔹 [**Überprüfung der Dateinamen**](/docs/01-organisation/03-zeit_und_ausbildungsnachweise/03-ueberpruefung/README.md) </br>
 
 ---
 
