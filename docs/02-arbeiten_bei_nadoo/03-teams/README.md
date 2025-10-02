@@ -1,5 +1,10 @@
 # <p align="center">Übersicht aller Teams und Projekte</p>
 
+
+> **Status:** Momentan ein Entwurf, Automatisierung geplant.
+> **Automatisierung:** Wir wollen Team-Mitglieder aus Launchpad automatisch ins Wiki/Archiv übernehmen. Siehe Feature Request: **"Teammitgliedschaft via Launchpad mit Wiki-Sync"**.
+> Wer helfen will, kann ein Issue mit `enhancement` erstellen und auf dieses Dokument verweisen.
+
 <p align="center"><a href="#dieses-thema-beinhaltet-folgende-kapitel">🚀 Direkt zur Kapitel-Übersicht</a></p>
 
 ---
@@ -25,6 +30,7 @@ In Kürze wird eine **automatische Verwaltung der Teammitgliederschaft über das
 
 🔹 [**Derzeit aktive Teams**](docs/02-arbeiten_bei_nadoo/03-teams/01-aktive_teams/README.md) <br>
 🔹 [**Ehemalige Teams und ihre abgeschlossenen Projekte**](docs/02-arbeiten_bei_nadoo/03-teams/02-team_archiv/README.md) <br>
+
 
 ---
 
