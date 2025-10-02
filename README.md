@@ -1,13 +1,13 @@
 # <p align="center">Willkommen bei Christoph Backhaus / NADOO-IT</p>
 
 | [Christoph Backhaus IT](https://wirrettendeinezeit.de) | **Hörbuch**                                                                                                                                                | **Unsere Mission**                                                                              | **Unsere Kernwerte**                                                                           |
-| :----------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------- |
+| :----------------------------------------------------- |:-----------------------------------------------------------------------------------------------------------------------------------------------------------| :---------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------- |
 | ![NADOO-IT](images/nadooit.png)                        | [Das Nadoo Manifest](https://open.spotify.com/playlist/46JIKBvnuF7tYp9RSVUMFC?si=5e7145b2b7d34bc4&trk=public_post_comment-text&nd=1&dlsi=fb9cdd3ba7aa415a) | - **Entwicklung einer Plattform von Anwendungsentwickler:innen für Anwendungsentwickler:innen** | - **Es gibt keine Fehler, sondern ausschließlich Chancen, sich gemeinsam weiterzuentwickeln!** |
 | 🏣 Anschrift                                           | Am Markt 1, 47229 Duisburg                                                                                                                                 | - Vorbereitung für Unternehmensarbeit und Selbständigkeit                                       | - **Es gibt keine dummen Fragen!**                                                             |
 | 📞 Telefon                                             | +49 2065 7098429                                                                                                                                           | - Programmieren & Teamarbeit                                                                    | - **nur gemeinsam/zusammen sind wir stark!**                                                   |
 | 📱 Mobil                                               | +49 176 565 44 075                                                                                                                                         | - Ermöglichung von Wegen aus dem Hamsterrad                                                     |                                                                                                |
 | 📧 E-Mail                                              | <christoph.backhaus@nadooit.de>                                                                                                                            | - Etablierung von Standort-unbhängigen Möglichkeiten zur Zusammenarbeit                         |                                                                                                |
-| Discord                                                | [NADOO-IT](https://discord.gg/Ffv4JTFE7E)                                                                                                                  | - Ermöglichung von work-life-balance für alle                                                   | -Vereinbarkeit von Job & Familie                                                               |
+| Discord                                                | NADOO-IT (Link folgt...)                                                                                                                                   | - Ermöglichung von work-life-balance für alle                                                   | -Vereinbarkeit von Job & Familie                                                               |
 | Twitch                                                 | [NADOO-IT](https://www.twitch.tv/nadooit_christophba)                                                                                                      |                                                                                                 |                                                                                                |
 
 ---
@@ -41,13 +41,13 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
 
 ---
 
-<!-- Einstieg & Orientierung -->
+<!-- 00 Einstieg & Orientierung -->
 
 ## 📘 [**Einstieg und Orientierung**](docs/00-willkommen/README.md)
 
 #### 🟦 [**Einstieg zum Themenbereich und Übersicht der Themen**](docs/00-willkommen/README.md)
 
-<!-- Onboarding -->
+<!-- 0-01 Onboarding -->
 
 <details>
 <summary>Onboarding</summary>
@@ -56,7 +56,7 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
 
 </details>
 
-<!-- Relevante Links für ersten Monat ("Starterpack") -->
+<!-- 0-02 Relevante Links für ersten Monat ("Starterpack") -->
 
 <details>
 <summary>Das Wiki-Docs-Starterpack</summary>
@@ -65,7 +65,7 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
 
 </details>
 
-<!-- Wiki-Doc-Styleguide -->
+<!-- 0-03 Wiki-Doc-Styleguide -->
 
 <details>
 <summary>Deine Mitgestaltung des NADOO-Wikis</summary>
@@ -80,54 +80,54 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
 
 ---
 
-<!-- 1. Organisation und Rahmenbedingungen -->
+<!-- 01 Organisation und Rahmenbedingungen -->
 
 ## 🗂️ [**Organisation und Rahmenbedingungen**](docs/01-organisation/README.md)
 
 #### 🟦 [**Einstieg zum Themenbereich und Übersicht der Themen**](docs/01-organisation/README.md)
 
-<!-- Zeiterfassung mit NADOO-Launchpad -->
-
-<details>
-<summary>Zeiterfassung / Einstempeln </summary>
-  
-  &nbsp;&nbsp;🔹 [Erfassung deiner Arbeits- und Pausenzeiten mit dem NADOO-Launchpad](docs/01-organisation/01-zeiterfassung/README.md) 
-  <!-- ↑ hier nachträglich die Feature-Erklärung / Anleitung zur Zeiterfassung aus dem Launchpad-Guide in Themenabschnitt Tools rüberkopieren (bleibt weiterhin auch im Launchpad-Guide, NICHT ausschneiden). ggf. um Einleitungstext bzw. wenn notwendig/sinnvoll, weitere Infos ergänzen -->
-
-</details>
-
-<!-- Zeit- und Ausbildungsnachweise -->
-
-<details>
-<summary>Zeit- und Ausbildungsnachweise</summary>
-
-  &emsp;📄 [Kapitelübersicht](docs/01-organisation/02-zeit_und_ausbildungsnachweise/README.md)
-
-  &nbsp;&nbsp;🔹 [Beispiele für Ausbildungs- und Zeitnachweise](docs/01-organisation/02-zeit_und_ausbildungsnachweise/01-beispiele/README.md) <br>
-  &nbsp;&nbsp;🔹 [Dateibenennungsrichtlinien](docs/01-organisation/02-zeit_und_ausbildungsnachweise/02-dateibenennung/README.md) <br>
-  &nbsp;&nbsp;🔹 [Überprüfung der Dateinamen](/docs/01-organisation/02-zeit_und_ausbildungsnachweise/03-ueberpruefung/README.md) <br>
-
-</details>
-
-<!-- Arbeitszeit und Pausen -->
+<!-- 1-01 Arbeitszeit und Pausen -->
 
 <details>
 <summary>Arbeits- und Pausenzeiten</summary>
 
-  &nbsp;&nbsp;🔹 [Arbeitszeit und Pausen](docs/01-organisation/03-arbeits_und_pausenzeiten/README.md)
+  &nbsp;&nbsp;🔹 [Arbeitszeit und Pausen](docs/01-organisation/01-arbeits_und_pausenzeiten/README.md)
 
 </details>
 
-<!-- Urlaub -->
+<!-- 1-02 Zeiterfassung mit NADOO-Launchpad -->
+
+<details>
+<summary>Zeiterfassung / Einstempeln </summary>
+  
+  &nbsp;&nbsp;🔹 [Erfassung deiner Arbeits- und Pausenzeiten mit dem NADOO-Launchpad](docs/01-organisation/02-zeiterfassung/README.md) 
+  <!-- ↑ hier nachträglich die Feature-Erklärung / Anleitung zur Zeiterfassung aus dem Launchpad-Guide in Themenabschnitt Tools rüberkopieren (bleibt weiterhin auch im Launchpad-Guide, NICHT ausschneiden). ggf. um Einleitungstext bzw. wenn notwendig/sinnvoll, weitere Infos ergänzen -->
+
+</details>
+
+<!-- 1-03 Zeit- und Ausbildungsnachweise -->
+
+<details>
+<summary>Zeit- und Ausbildungsnachweise</summary>
+
+  &emsp;📄 [Kapitelübersicht](docs/01-organisation/03-zeit_und_ausbildungsnachweise/README.md)
+
+  &nbsp;&nbsp;🔹 [Beispiele für Ausbildungs- und Zeitnachweise](docs/01-organisation/03-zeit_und_ausbildungsnachweise/01-beispiele/README.md) <br>
+  &nbsp;&nbsp;🔹 [Dateibenennungsrichtlinien](docs/01-organisation/03-zeit_und_ausbildungsnachweise/02-dateibenennung/README.md) <br>
+  &nbsp;&nbsp;🔹 [Überprüfung der Dateinamen](/docs/01-organisation/03-zeit_und_ausbildungsnachweise/03-ueberpruefung/README.md) <br>
+
+</details>
+
+<!-- 1-04 Urlaub -->
 
 <details>
 <summary>Urlaub</summary>
 
-  &nbsp;&nbsp;🔹 [Urlaubsregelung](docs/01-organisation/04-urlaub/README.md)
+  &nbsp;&nbsp;🔹 [Regelungungen für Urlaub und Freistellungen](docs/01-organisation/04-urlaub/README.md)
 
 </details>
 
-<!-- Krankmeldungen -->
+<!-- 1-05 Krankmeldungen -->
 
 <details>
 <summary>Krankmeldungen</summary>
@@ -136,7 +136,7 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
 
 </details>
 
-<!-- Mutterschutz und Elternzeit -->
+<!-- 1-06 Mutterschutz und Elternzeit -->
 
 <details>
 <summary>Mutterschutz und Elternzeit</summary>
@@ -145,7 +145,7 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
 
 </details>
 
-<!-- Datenschutz -->
+<!-- 1-07 Datenschutz -->
 
 <details>
 <summary>Umgang mit Unternehmensdaten</summary>
@@ -154,7 +154,7 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
 
 </details>
 
-<!-- NADOO-Philosophie -->
+<!-- 1-08 NADOO-Philosophie -->
 
 <details>
 <summary>Umgang und Kultur bei Christoph Backhaus IT — unsere Firmenphilosophien</summary>
@@ -169,13 +169,13 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
 
 ---
 
-<!-- 2. Arbeiten bei NADOO -->
+<!-- 02 Arbeiten bei NADOO -->
 
 ## 🏢 [**Arbeiten bei Christoph Backhaus / NADOO-IT**](/docs/02-arbeiten_bei_nadoo/README.md)
 
 #### 🟦 [**Einstieg zum Themenbereich und Übersicht der Themen**](/docs/02-arbeiten_bei_nadoo/README.md)
 
-<!-- Rollen und Aufgaben/Aufgabenbereiche -->
+<!-- 2-01 Rollen und Aufgaben/Aufgabenbereiche -->
 
 <details>
 <summary>Rollen und Aufgaben/Aufgabenbereiche</summary>
@@ -190,7 +190,7 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
 
 </details>
 
-<!-- Prüfungs-Vorbereitung und Präsentationstraining -->
+<!-- 2-02 Prüfungs-Vorbereitung und Präsentationstraining -->
 
 <details>
 <summary>Vorbereitung auf die IHK-Prüfungen und deine Zukunft in der IT-Arbeitswelt</summary>
@@ -205,7 +205,7 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
 
 </details>
 
-<!-- Übersicht der Teams (alt und aktiv) -->
+<!-- 2-03 Übersicht der Teams (alt und aktiv) -->
 
 <details>
 <summary>Übersicht aller Teams und Projekte</summary>
@@ -219,7 +219,7 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
 
 ---
 
-<!-- 3. Meetings und Zeitpläne -->
+<!-- 03 Meetings und Zeitpläne -->
 
 ## 📅 [**Termine und zeitlicher Ablauf**](/docs/03-meetings/README.md)
 
@@ -237,13 +237,13 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
 
 ---
 
-<!-- 4. Tools und Technologien -->
+<!-- 04 Tools und Technologien -->
 
 ## 🛠️ [**Tools und Technologien**](/docs/04-tools/README.md)
 
 #### 🟦 [**Einstieg zum Themenbereich und Übersicht der Themen**](/docs/04-tools/README.md)
 
-<!-- Github -->
+<!-- 4-01 Github -->
 
 <details>
 <summary>Versionsverwaltung mit GitHub</summary>
@@ -265,17 +265,23 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
     &emsp;&emsp;◻️ [Assignees](/docs/04-tools/01-github/04-issues/04-assignees/README.md) <br>
     &emsp;&emsp;◻️ [Milestones](/docs/04-tools/01-github/04-issues/05-milestones/README.md) <br>
     &emsp;&emsp;◻️ [Projects](/docs/04-tools/01-github/04-issues/06-projects/README.md) <br>
+      &emsp;&emsp;&emsp;▪ [Fokus: Zeitplanung und Meilensteine mit GitHub Projects](/docs/04-tools/01-github/04-issues/06-projects/01-zeitplanung/README.md) </br>
     &emsp;&emsp;◻️ [Discussions](/docs/04-tools/01-github/04-issues/07-discussions/README.md) <br>
     &emsp;&emsp;◻️ [Templates](/docs/04-tools/01-github/04-issues/08-templates/README.md) <br><br>
 
   &nbsp;&nbsp;🔹 [**Actions**](/docs/04-tools/01-github/05-actions/README.md) <br>
   &nbsp;&nbsp;🔹 [**GitHub-Notifications und Visual Studio Code**](/docs/04-tools/01-github/06-notifications/README.md) <br>
   &nbsp;&nbsp;🔹 [**Die GitHub-Suchfunktion effizient nutzen**](/docs/04-tools/01-github/07-suche/README.md) <br>
-  &nbsp;&nbsp;🔹 [**Markdown**](/docs/04-tools/01-github/08-markdown/README.md) <br>
+  &nbsp;&nbsp;🔹 [**Markdown**](/docs/04-tools/01-github/08-markdown/README.md) <br><br>
+
+  &nbsp;&nbsp;🔹 [**Organisationen und Teams auf GitHub**](/docs/04-tools/01-github/09-organizations-teams/README.md) </br>
+    &emsp;&emsp;◻️[**Schritt-für-Schritt-Anleitung zur NADOO-IT-Organisation und den Teams auf GitHub**](/docs/04-tools/01-github/09-organizations-teams/01-nadooit-guide/README.md) </br><br>
+
+  &nbsp;&nbsp;🔹 [**GitHub Einführung (Video)**](/docs/04-tools/01-github/10-github-einfuehrung/README.md) </br>
 
 </details>
 
-<!-- Visual Studio Code -->
+<!-- 4-02 Visual Studio Code -->
 
 <details>
 <summary>Integrierte Entwicklungsumgebung (IDE) Visual Studio Code</summary>
@@ -290,7 +296,7 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
 
 </details>
 
-<!-- IntelliJ IDEA -->
+<!-- 4-03 IntelliJ IDEA -->
 
 <details>
 <summary>Integrierte Entwicklungsumgebung (IDE) für Java: IntelliJ IDEA</summary>
@@ -302,59 +308,71 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
 
 </details>
 
-<!-- Terminal -->
+<!-- 4-04 Windsurf -->
+
+<details>
+<summary>Integrierte Entwicklungsumgebung (IDE) Windsurf</summary>
+
+  &emsp;📄 [Kapitelübersicht](/docs/04-tools/04-windsurf/README.md)
+
+  &nbsp;&nbsp;🔹 [Windsurf — ein Überblick](/docs/04-tools/04-windsurf/01-ueberblick/README.md) <br>
+  &nbsp;&nbsp;🔹 [Installation und Einrichtung](/docs/04-tools/04-windsurf/02-installation/README.md) <br>
+
+</details>
+
+<!-- 4-05 Terminal -->
 
 <details>
 <summary>Terminal</summary>
 
-  &nbsp;&nbsp;🔹 [Das Terminal — die Grundlagen](/docs/04-tools/04-terminal/README.md)
+  &nbsp;&nbsp;🔹 [Das Terminal — die Grundlagen](/docs/04-tools/05-terminal/README.md)
 
 </details>
 
-<!-- Launchpad -->
+<!-- 4-06 Launchpad -->
 
 <details>
 <summary>Das NADOO-Launchpad — was es kann und wie es funktioniert</summary>
 
-  &emsp;📄 [Kapitelübersicht](/docs/04-tools/05-launchpad/README.md)
+  &emsp;📄 [Kapitelübersicht](/docs/04-tools/06-launchpad/README.md)
 
-  &nbsp;&nbsp;🔹 [**Das NADOO-Launchpad - ein grundlegender Überblick**](/docs/04-tools/05-launchpad/01-ueberblick/README.md) <br>
-    &emsp;&emsp;◻️ [Installation [Windows]](/docs/04-tools/05-launchpad/01-ueberblick/01-windows/README.md) <br>
-    &emsp;&emsp;◻️ [Installation [MAC]](/docs/04-tools/05-launchpad/01-ueberblick/02-mac/README.md) <br><br>
+  &nbsp;&nbsp;🔹 [**Das NADOO-Launchpad - ein grundlegender Überblick**](/docs/04-tools/06-launchpad/01-ueberblick/README.md) <br>
+    &emsp;&emsp;◻️ [Installation [Windows]](/docs/04-tools/06-launchpad/01-ueberblick/01-windows/README.md) <br>
+    &emsp;&emsp;◻️ [Installation [MAC]](/docs/04-tools/06-launchpad/01-ueberblick/02-mac/README.md) <br><br>
 
-  &nbsp;&nbsp;🔹 [**Der Launchpad-Feature-Guide: Funktions- und Anwendungsweise aller Features und Komponenten**](/docs/04-tools/05-launchpad/02-features/README.md) <br>
-    &emsp;&emsp;◻️ [[Feature-Guide] Menüleiste](/docs/04-tools/05-launchpad/02-features/01-menu/README.md) <br>
-    &emsp;&emsp;◻️ [[Feature-Guide] Berechtigungen](/docs/04-tools/05-launchpad/02-features/02-berechtigungen/README.md) <br>
-    &emsp;&emsp;◻️ [[Feature-Guide]: Tokens](/docs/04-tools/05-launchpad/01-guide/03-tokens/README.md) <br>
-    &emsp;&emsp;◻️ [[Feature-Guide] Erfassung der Arbeitszeiten](/docs/04-tools/05-launchpad/02-features/04-zeiterfassung/README.md) <br>
-    &emsp;&emsp;◻️ [[Feature-Guide] Projektverwaltung](/docs/04-tools/05-launchpad/02-features/05-projektverwaltung/README.md) <br>
-    &emsp;&emsp;◻️ [[Feature-Guide] Aktivitäten](/docs/04-tools/05-launchpad/02-features/06-aktivitaeten/README.md) <br>
-    &emsp;&emsp;◻️ [[Feature-Guide]: Wochenübersicht](/docs/04-tools/05-launchpad/02-features/07-wochenuebersicht/README.md) <br>
-    &emsp;&emsp;◻️ [[Feature-Guide] Watchdog](/docs/04-tools/05-launchpad/02-features/08-watchdog/README.md) <br>
-    &emsp;&emsp;◻️ [[Feature-Guide] Create Snippets](/docs/04-tools/05-launchpad/02-features/09-create_snippets/README.md) <br>
-    &emsp;&emsp;◻️ [[Feature-Guide] Function Names](/docs/04-tools/05-launchpad/02-features/10-function_names/README.md) <br>
-    &emsp;&emsp;◻️ [[Feature-Guide] Tokens versenden](/docs/04-tools/05-launchpad/02-features/11-t_bar_senden/README.md) <br><br>
+  &nbsp;&nbsp;🔹 [**Der Launchpad-Feature-Guide: Funktions- und Anwendungsweise aller Features und Komponenten**](/docs/04-tools/06-launchpad/02-features/README.md) <br>
+    &emsp;&emsp;◻️ [[Feature-Guide] Menüleiste](/docs/04-tools/06-launchpad/02-features/01-menu/README.md) <br>
+    &emsp;&emsp;◻️ [[Feature-Guide] Berechtigungen](/docs/04-tools/06-launchpad/02-features/02-berechtigungen/README.md) <br>
+    &emsp;&emsp;◻️ [[Feature-Guide] Tokens](/docs/04-tools/06-launchpad/01-guide/03-tokens/README.md) <br>
+    &emsp;&emsp;◻️ [[Feature-Guide] Erfassung der Arbeitszeiten](/docs/04-tools/06-launchpad/02-features/04-zeiterfassung/README.md) <br>
+    &emsp;&emsp;◻️ [[Feature-Guide] Projektverwaltung](/docs/04-tools/06-launchpad/02-features/05-projektverwaltung/README.md) <br>
+    &emsp;&emsp;◻️ [[Feature-Guide] Aktivitäten](/docs/04-tools/06-launchpad/02-features/06-aktivitaeten/README.md) <br>
+    &emsp;&emsp;◻️ [[Feature-Guide] Wochenübersicht](/docs/04-tools/06-launchpad/02-features/07-wochenuebersicht/README.md) <br>
+    &emsp;&emsp;◻️ [[Feature-Guide] Watchdog](/docs/04-tools/06-launchpad/02-features/08-watchdog/README.md) <br>
+    &emsp;&emsp;◻️ [[Feature-Guide] Create Snippets](/docs/04-tools/06-launchpad/02-features/09-create_snippets/README.md) <br>
+    &emsp;&emsp;◻️ [[Feature-Guide] Function Names](/docs/04-tools/06-launchpad/02-features/10-function_names/README.md) <br>
+    &emsp;&emsp;◻️ [[Feature-Guide] Tokens versenden](/docs/04-tools/06-launchpad/02-features/11-t_bar_senden/README.md) <br><br>
 
-  &nbsp;&nbsp;🔹 [**Video-Tutorials und Demonstrationen**](/docs/04-tools/05-launchpad/03-videos/README.md) <br>
+  &nbsp;&nbsp;🔹 [**Video-Tutorials und Demonstrationen**](/docs/04-tools/06-launchpad/03-videos/README.md) <br>
 
 </details>
 
-<!-- KI -->
+<!-- 4-07 KI -->
 
 <details>
 <summary>Künstliche Intelligenz (KI)</summary>
 
-  &emsp;📄 [Kapitelübersicht](/docs/04-tools/06-ki/README.md)
+  &emsp;📄 [Kapitelübersicht](/docs/04-tools/07-ki/README.md)
 
-  &nbsp;&nbsp;🔹 [KI‐Nutzung: Ein umfassender Leitfaden](/docs/04-tools/06-ki/01-leitfaden/README.md) <br>
-  &nbsp;&nbsp;🔹 [Large Language Model (LLM) und das Apple MLX (MacOS Silicon) Framework — ein Vergleich](/docs/04-tools/06-ki/02-llm-mlx/README.md) <br>
-  &nbsp;&nbsp;🔹 [Nutzung der Gemini API – eine Anleitung](/docs/04-tools/06-ki/03-gemini/README.md) <br>
+  &nbsp;&nbsp;🔹 [KI‐Nutzung: Ein umfassender Leitfaden](/docs/04-tools/07-ki/01-leitfaden/README.md) <br>
+  &nbsp;&nbsp;🔹 [Large Language Model (LLM) und das Apple MLX (MacOS Silicon) Framework — ein Vergleich](/docs/04-tools/07-ki/02-llm-mlx/README.md) <br>
+  &nbsp;&nbsp;🔹 [Nutzung der Gemini API – eine Anleitung](/docs/04-tools/07-ki/03-gemini/README.md) <br>
 
 </details>
 
 ---
 
-<!-- 5. Kommunikation -->
+<!-- 05 Kommunikation -->
 
 ## 📞 [**Kommunikation und Zusammenarbeit**](/docs/05-kommunikation/README.md)
 
@@ -370,15 +388,18 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
     &emsp;&emsp;◻️ [Das Android-Smartphone als Webcam nutzen](/docs/05-kommunikation/02-webcam/01-droidcam/README.md) <br>
     &emsp;&emsp;◻️ [Das iPhone als Webcam für den Mac verwenden](/docs/05-kommunikation/02-webcam/02-ios/README.md) <br>
 
+  &nbsp;&nbsp;🔹 [**Bekannte Probleme**](/docs/05-kommunikation/03-bekannte_probleme/README.md) <br>
 </details>
 
 ---
 
-<!-- 6. Entwicklung und Programmiersprachen -->
+<!-- 06 Entwicklung und Programmiersprachen -->
 
 ## 💻 [**Entwicklung und Programmiersprachen**](/docs/06-entwicklung/README.md)
 
 #### 🟦 [**Einstieg zum Themenbereich und Übersicht der Themen**](/docs/06-entwicklung/README.md)
+
+<!-- 6-01 Dokumentantion -->
 
 <details>
 <summary>Dokumentation</summary>
@@ -387,19 +408,20 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
 
 </details>
 
-<!-- Clean Architecture -->
+<!-- 6-02 Software-Architekturen -->
 
 <details>
-<summary>Clean Architecture</summary>
+<summary>Architekturstile in der Anwendungsentwicklung</summary>
 
-  &emsp;📄 [Kapitelübersicht](/docs/06-entwicklung/02-clean_architecture/README.md)
+  &emsp;📄 [Kapitelübersicht](/docs/06-entwicklung/02-architekturen/README.md)
 
-  &nbsp;&nbsp;🔹 [Clean Architecture in der Praxis](/docs/06-entwicklung/02-clean_architecture/01-praxisbeispiel/README.md) <br>
-  &nbsp;&nbsp;🔹 [Best Practices und Tipps für Einsteiger(-Teams)](/docs/06-entwicklung/02-clean_architecture/02-best_practices/README.md) <br>
+  &nbsp;&nbsp;🔹 [**Clean Architecture**](/docs/06-entwicklung/02-architekturen/01-clean_architecture/README.md) <br>
+      &emsp;&emsp;◻️ [Praxisbeispiel "Zeiterfassung": Anwendungsentwicklung mit Clean Architecture](/docs/06-entwicklung/02-architekturen/01-clean_architecture/01-praxisbeispiel/README.md) <br>
+      &emsp;&emsp;◻️ [Best Practices und Tipps für Einsteiger](/docs/06-entwicklung/02-architekturen/01-clean_architecture/02-best_practices/README.md) <br>
 
 </details>
 
-<!-- Lizenzen und Open Source -->
+<!-- 6-03 Lizenzen und Open Source -->
 
 <details>
 <summary>Lizenzen, Open Source und Softwareabhängigkeiten</summary>
@@ -408,7 +430,7 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
 
 </details>
 
-<!-- Python -->
+<!-- 6-04 Python -->
 
 <details>
 <summary>Python</summary>
@@ -424,18 +446,27 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
 
 </details>
 
-<!-- Java -->
+<!-- 6-05 Java -->
 
 <details>
 <summary>Java</summary>
   
-  &emsp;📄 [Kapitelübersicht](docs/06-entwicklung/05-java/README.md) <!-- vorsorglich angelegt, da hier wohl noch mehr Inhalte eingeplant sind -->
+  &emsp;📄 [Kapitelübersicht](docs/06-entwicklung/05-java/README.md)
   
-  &nbsp;&nbsp;🔹 [Java](/docs/06-entwicklung/05-java/README.md)
-  
+  &nbsp;&nbsp;🔹 [**Java-Tutorial 01**](/docs/06-entwicklung/05-java/01-tutorial/README.md) <br>
+        &emsp;&emsp;◻️ [Theorie | LEVEL 1: 🧙‍♂️ Meistere die Grundlagen](/docs/06-entwicklung/05-java/01-tutorial/01-theorie/README.md) </br>
+        &emsp;&emsp;◻️ [Theorie | LEVEL 2: 🏰 Denke in Objekten](/docs/06-entwicklung/05-java/01-tutorial/02-theorie/README.md) </br>
+        &emsp;&emsp;◻️ [Theorie | LEVEL 3: 🗄️ Baue dein Arsenal auf](/docs/06-entwicklung/05-java/01-tutorial/03-theorie/README.md) </br>
+        &emsp;&emsp;◻️ [Theorie | LEVEL 4: 🛡️ Schütze deinen Code](/docs/06-entwicklung/05-java/01-tutorial/04-theorie/README.md) </br>
+        &emsp;&emsp;◻️ [Theorie | LEVEL 5: 🧨 Werde Fehlermeister](/docs/06-entwicklung/05-java/01-tutorial/05-theorie/README.md) </br>
+        &emsp;&emsp;◻️ [Theorie | LEVEL 6: 🧭 Organisiere dein Chaos](/docs/06-entwicklung/05-java/01-tutorial/06-theorie/README.md) </br>
+        &emsp;&emsp;◻️ [Theorie | LEVEL 7: 🌌 Meistere die Tiefe](/docs/06-entwicklung/05-java/01-tutorial/07-theorie/README.md) </br>
+        &emsp;&emsp;◻️ [Praxis  | LEVEL 1: 🗡️ Der erste Schlag: Baue deinen Charakter, kämpfe gegen dein Spiegelbild](/docs/06-entwicklung/05-java/01-tutorial/08-praxis-1/README.md) </br>
+        &emsp;&emsp;◻️ [Praxis  | LEVEL 2: 🏰 Der Weg des Codemagiers](/docs/06-entwicklung/05-java/01-tutorial/09-praxis-2/README.md) </br>
+
 </details>
 
-<!-- Frameworks -->
+<!-- 6-06 Frameworks -->
 
 <details>
 <summary>Frameworks</summary>
@@ -452,7 +483,7 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
 
 </details>
 
-<!-- Digitale Produktentwicklung -->
+<!-- 6-07 Digitale Produktentwicklung -->
 
 <details>
 <summary>Dein Einstieg in die digitale Produktentwicklung</summary>
@@ -465,49 +496,53 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
 
 </details>
 
-<!-- Softwareentwicklung -->
+<!-- 6-08 CMS -->
 
 <details>
-<summary>Content Management Systeme (CMS) – Fokus WordPress</summary>
+<summary>Content Management Systeme (CMS)</summary>
 
   &emsp;📄 [Kapitelübersicht](/docs/06-entwicklung/08-cms/README.md)
 
-  &nbsp;&nbsp;🔹 [Einführung in CMS](/docs/06-entwicklung/08-cms/01-einfuehrung/README.md) <br>
-  &nbsp;&nbsp;🔹 [WordPress – Grundlagen](/docs/06-entwicklung/08-cms/02-wp_grundlagen/README.md) <br>
-  &nbsp;&nbsp;🔹 [Einrichtung und Konfiguration](/docs/06-entwicklung/08-cms/03-einrichtung/README.md) <br>
-  &nbsp;&nbsp;🔹 [Inhaltspflege und Struktur](/docs/06-entwicklung/08-cms/04-inhalt_struktur/README.md) <br>
-  &nbsp;&nbsp;🔹 [Erweiterung durch Plugins](/docs/06-entwicklung/08-cms/05-erweiterung_plugins/README.md) <br>
-  &nbsp;&nbsp;🔹 [Themes und Designanpassungen](/docs/06-entwicklung/08-cms/06-design_themes/README.md) <br>
-  &nbsp;&nbsp;🔹 [WordPress in der Prüfungsvorbereitung](/docs/06-entwicklung/08-cms/07-pruefungsvorbereitung/README.md) <br>
-  &nbsp;&nbsp;🔹 [Nützliche Tools und Ressourcen](/docs/06-entwicklung/08-cms/08-tools_ressourcen/README.md) <br>
+  &nbsp;&nbsp;🔹 [**CMS – Die Grundlagen**](/docs/06-entwicklung/08-cms/01-einfuehrung/README.md)<br>
+  
+  &nbsp;&nbsp;🔹 [**WordPress**](/docs/06-entwicklung/08-cms/02-wordpress/README.md) <br>
+    &emsp;&emsp;◻️ [**WordPress – Die Grundlagen**](/docs/06-entwicklung/08-cms/02-wordpress/01-grundlagen/README.md) <br>
+    &emsp;&emsp;◻️ [**Einrichtung und Konfiguration**](/docs/06-entwicklung/08-cms/02-wordpress/02-einrichtung/README.md) <br>
+    &emsp;&emsp;◻️ [**Inhaltspflege und Struktur**](/docs/06-entwicklung/08-cms/02-wordpress/03-inhalt_struktur/README.md) <br>
+    &emsp;&emsp;◻️ [**Erweiterung durch Plugins**](/docs/06-entwicklung/08-cms/02-wordpress/04-plugins/README.md) <br>
+    &emsp;&emsp;◻️ [**Design und Theme-Anpassung**](/docs/06-entwicklung/08-cms/02-wordpress/05-design_themes/README.md) <br>
+    &emsp;&emsp;◻️ [**WordPress in der Prüfungsvorbereitung**](/docs/06-entwicklung/08-cms/02-wordpress/06-pruefungsvorbereitung/) <br>
+    &emsp;&emsp;◻️ [**Nützliche Tools und Ressourcen**](/docs/06-entwicklung/08-cms/02-wordpress/07-tools_ressourcen/README.md) <br>
 
 </details>
 
 ---
 
-<!-- 7. Methoden -->
+<!-- 07 Projekte -->
 
-## 📚 [Projektarbeit](/docs/07-methoden_und_projekte/README.md)
+## 📚 [Projekte](/docs/07-projekte/README.md)
 
-#### 🟦 [**Einstieg zum Themenbereich und Übersicht der Themen**](/docs/07-methoden_und_projekte/README.md)
+#### 🟦 [**Einstieg zum Themenbereich und Übersicht der Themen**](/docs/07-projekte/README.md)
+
+<!-- 7-01 Projektarbeit in der Praxis -->
 
 <details>
 <summary>Durchführung eines Projekts mit besonderem Hinblick auf deine IHK-Abschlussprüfung</summary>
 
-  &emsp;📄 [Kapitelübersicht](/docs/07-methoden_und_projekte/01-projektmanagement/README.md)
+  &emsp;📄 [Kapitelübersicht](/docs/07-projekte/01-projektarbeit/README.md)
   
-  &nbsp;&nbsp;🔹 [**Zeitmanagement**](/docs/07-methoden_und_projekte/01-projektmanagement/01-zeitmanagement/README.md) <br>
+  &nbsp;&nbsp;🔹 [**Zeitmanagement**](/docs/07-projekte/01-projektarbeit/01-zeitmanagement/README.md) <br>
   
-  &nbsp;&nbsp;🔹 [**Projektplanung**](/docs/07-methoden_und_projekte/01-projektmanagement/02-planung/README.md) <br>
-    &emsp;&emsp;◻️ [Leitfaden zur Erstellung eines Projektantrags](/docs/07-methoden_und_projekte/01-projektmanagement/02-planung/01-antrag/README.md) <br><br>
+  &nbsp;&nbsp;🔹 [**Projektplanung**](/docs/07-projekte/01-projektarbeit/02-planung/README.md) <br>
+    &emsp;&emsp;◻️ [Projektphasen](/docs/07-projekte/01-projektarbeit/02-planung/01-phasen/README.md) <br>
+    &emsp;&emsp;◻️ [Leitfaden zur Erstellung eines Projektantrags](/docs/07-projekte/01-projektarbeit/02-planung/02-antrag/README.md) <br><br>
   
-  &nbsp;&nbsp;🔹 [**Projektmanagement**](/docs/07-methoden_und_projekte/01-projektmanagement/03-projektmanagement/README.md) <br>
-  &nbsp;&nbsp;🔹 [**Projektphasen**](/docs/07-methoden_und_projekte/01-projektmanagement/01-projektmanagement/04-phasen/README.md) <br>
-  &nbsp;&nbsp;🔹 [**Das IHK-Abschlussprojekt**](/docs/07-methoden_und_projekte/01-projektmanagement/05-abschlussprojekt/README.md) <br>
+  &nbsp;&nbsp;🔹 [**Projektmanagement**](/docs/07-projekte/01-projektarbeit/03-projektmanagement/README.md) <br>
+  &nbsp;&nbsp;🔹 [**Das IHK-Abschlussprojekt**](/docs/07-projekte/01-projektarbeit/04-abschlussprojekt/README.md) <br>
 
 </details>
 
-<!-- Methoden und Frameworks? -->
+<!-- 7-02 PM-Methoden und -Frameworks -->
 
 <details>
 <summary>Bewährte Methoden und Frameworks im Projektmanagement</summary>
@@ -521,13 +556,13 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
 
 ---
 
-<!--8. Netzwerken und Karriere-->
+<!-- 08 Netzwerken und Karriere-->
 
 ## 🚀 [Netzwerken und Karriere](/docs/08-karriere/README.md)
 
 #### 🟦 [**Einstieg zum Themenbereich und Übersicht der Themen**](/docs/08-karriere/README.md)
 
-<!-- Social Media zum Netzwerken -->
+<!-- 8-01 Social Media zum Netzwerken -->
 
 <details>
 <summary>Social Media für dein berufliches Netzwerk</summary>
@@ -541,7 +576,7 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
 
 </details>
 
-<!-- Anwendungsentwickler-Karriere - Tipps, Hinweise, Empfehlungen und Ähnliches -->
+<!-- 8-02 Anwendungsentwickler-Karriere - Tipps, Hinweise, Empfehlungen und Ähnliches -->
 
 <details>
 <summary>Deine Karriere als Anwendungsentwickler:in</summary>
@@ -560,6 +595,17 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
 
 </details>
 
+<!--  Glossar -->
+
+## 🔠 [**Das große IT-Glossar**](/docs/09-glossar/README.md)
+
+<details>
+<summary>Alphabetisch sortierte Abkürzungen/Akronyme mit Kurzerklärungen</summary>
+
+  &emsp;🌐 [**Zum Glossar**](/docs/09-glossar/README.md)
+
+</details>
+
 ---
 
-<p  align="center"><a href="/docs/00-willkommen/README.md"><strong>Zum Anfang des Wikis</strong></a></p>
+<p align="center"><a href="/README.md/#willkommen-bei-christoph-backhaus--nadoo-it"><strong>Zurück zum Anfang des Wikis springen</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Weiter zur ersten Seite</strong></a></p>

@@ -1,12 +1,11 @@
-# # <p align="center">Python und virtuelle Umgebungen — ein Überblick</p>
-
----
+# <p align="center">Python und virtuelle Umgebungen — ein Überblick</p>
 
 Bevor wir mit dem Coding beginnen, installieren wir nicht nur Python 3.11 mithilfe von uv, sondern erstellen außerdem eine **virtuelle Umgebung**.
 
 ---
 
 ## Was ist eine virtuelle Umgebung?
+_tbd_
 <!-- Definition nachtragen -->
 
 ---
@@ -44,23 +43,11 @@ Nun hast du eine grobe Vorstellung davon, was virtuelle Umgebungen sind und welc
 
 ---
 
-**Dieses Thema beinhaltet folgende Kapitel:**
----
-
-🔹 [**Virtuelle Umgebungen**](/docs/04-tools/06-ki/01-leitfaden/README.md) </br>
-🔹 [**Installation**](/docs/04-tools/06-ki/01-leitfaden/README.md) </br>
-🔹 [**Grundkonzept (Beispiel)**](/docs/04-tools/06-ki/01-leitfaden/README.md) </br>
-
----
-<p align="center">
-📅 <strong>Dieses Dokument wurde bearbeitet am:</strong> 19.09.2025
-<br>
-✍️ <strong>Von:</strong> <a href="https://github.com/johkori">Johkori(Tim H.)</a> (GitHub)
-</p>
-
----
-
 <p align="center">
 <a href="/docs/06-entwicklung/04-python/01-einstieg/README.md"><strong>Zurück</strong></a> | 
 <a href="/docs/06-entwicklung/04-python/01-einstieg/02-installation/README.md"><strong>Weiter</strong></a>
+</p>
+
+<p align="center">
+<a href="/docs/06-entwicklung/04-python/01-einstieg/README.md/#dieses-kapitel-beinhaltet-folgende-abschnitte"><strong>Zurück zur Abschnitts-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
 </p>

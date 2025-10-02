@@ -1,5 +1,9 @@
 # <p align="center">🎨 Der Wiki-Doc-Styleguide</p>
 
+<p align="center"><a href="#inhaltsverzeichnis">🚀 direkt zum Inhaltsverzeichnis</a></p>
+
+---
+
 ### <p align="center">All Hands on Deck 🙌 - auch _dein_ Input ist gefragt! <br> Nutze den Styleguide für die Erstellung neuer Einträge:</p>
 
 ---
@@ -37,19 +41,7 @@ Damit unsere Inhalte **übersichtlich**, **konsistent** und gut **verständlich*
 
 ---
 
-### <p align="center"> Erklärung der Allgemeine Regeln
-
-## 1.Klar & kurz schreiben. Erste Zeile - die Kernaussage.
-Alle Nachrichten sollen **kurz und verständlich** sein.
-Die reste Zeile der Nachricht muss **die wichtigste Information enthalten**, damit sofort klar ist, worum es geht.
-## 2. Channels & Direct Messages.
-Fragen, die für das ganze Team interessant sind oder die Arbeit des Teams betreffen, schreibt man in den allgemeinen Kanal (Channel).
-Fragen persoönlicher Art schreibt man in private Nachrichten (Direct Message).
-## 3. Ton: professionell, freundlich, vermeide Emojis in automatisierbaren Subjects.
-Nachrichten sollen **professionell und freundlich** sein.
-Keine Emojis oder Sondernzeichen im Subject (Betreff), das automatisiert verarbeitet wird. Wenn Emojis im Betreff stehen - automatische Verarbeitung kann fehlschlagen.
-
-<br>
+## Wo starte ich am besten?
 
 Aktuell steckt unser Styleguide noch tief in seinen Kinderschuhen. Sehr viel gibt es hier deshalb _noch_ nicht zu sehen. Das wird sich mit der Zeit natürlich ändern.
 
@@ -71,11 +63,13 @@ Desweiteren folgt demnächst ein zweites Kapitel zum **Verzeichnisbaum des** [**
 
 🚀 Um dir diesen Schritt zu erleichtern, wird dir dort außerdem eine **syntaktische Vorlage** zur Verfügung gestellt, die du nur noch mit den entsprechenden Inhalten ausfüllen musst.
 
+#### <p align="center">Okay, cool. Ready für deinen ersten Wiki-Eintrag? 😎 Dann mal los! 👇</p>
+
 ---
 
-## <p align="center">Okay, cool. Ready für deinen ersten Wiki-Eintrag? 😎 Dann mal los! 👇</p>
-
 ### <p align="center">Inhaltsverzeichnis</p>
+
+---
 
 #### 🖨️ Templates / Vorlagen
 
@@ -87,24 +81,11 @@ Desweiteren folgt demnächst ein zweites Kapitel zum **Verzeichnisbaum des** [**
 
 ---
 
-**Dieser Themenbereich beinhaltet folgende Themen:**
----
-
-🢒 [**Leitfaden/Onboarding**](/docs/00-willkommen/01-leitfaden/README.md) </br>
-🢒 [**Starterpack**](/docs/00-willkommen/02-starterpack/README.md) </br>
-🢒 [**Styleguide**](/docs/00-willkommen/03-styleguide/README.md)</br>
-
-
----
-
-<p align="center">
-📅 <strong>Dieses Dokument wurde bearbeitet am:</strong> 19.09.2025
-<br>
-✍️ <strong>Von:</strong> <a href="https://github.com/johkori">Johkori(Tim H.)</a> (GitHub)
-</p>
-
----
 <p align="center">
 <a href="/docs/00-willkommen/02-starterpack/README.md"><strong>Zurück</strong></a> | 
 <a href="/docs/00-willkommen/03-styleguide/00-platzhalter/README.md"><strong>Weiter</strong></a>
+</p>
+
+<p align="center">
+<a href="/docs/00-willkommen/README.md/#dieser-themenbereich-beinhaltet-folgende-themen"><strong>Zurück zur Themen-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
 </p>

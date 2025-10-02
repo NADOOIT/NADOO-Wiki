@@ -2,8 +2,6 @@
 <!-- neue inhaltliche Aufteilung
 -> Anpassung folgt -->
 
----
-
 <div align="center">
   <table>
     <tr>
@@ -29,19 +27,21 @@ Komm am besten **zu einem späteren Zeitpunkt** nochmal wieder - mit etwas Glüc
 
 Insofern ein:e **Ersteller:in** vermerkt ist, kannst du dich auch direkt an diese Person richten.
 
-
 ---
 
-**Dieser Themenbereich beinhaltet folgende Themen:**
----
-
-🔹 [**Idee und Vorbereitung**](/docs/06-entwicklung/06-frameworks/01-nadoo_framework/README.md)<br>
-🔹 [**Umsetzung**](/docs/06-entwicklung/06-frameworks/02-briefcase_und_toga/README.md) <br>
-🔹 [**Feedback und Testing**](/docs/06-entwicklung/06-frameworks/02-briefcase_und_toga/README.md) <br>
+<p align="center">
+📅 <strong>Dieses Dokument wurde erstellt am:</strong> 14.05.2025
+<br>
+✍️ <strong>Von:</strong> <a href="https://github.com/cherylugbogu">Cheryl</a>
+</p>
 
 ---
 
 <p align="center">
 <a href="/docs/06-entwicklung/07-digitale_produktentwicklung/README.md"><strong>Zurück</strong></a> | 
 <a href="/docs/06-entwicklung/07-digitale_produktentwicklung/02-umsetzung/README.md"><strong>Weiter</strong></a>
+</p>
+
+<p align="center">
+<a href="/docs/06-entwicklung/07-digitale_produktentwicklung/README.md/#dieses-thema-beinhaltet-folgende-kapitel"><strong>Zurück zur Kapitel-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
 </p>

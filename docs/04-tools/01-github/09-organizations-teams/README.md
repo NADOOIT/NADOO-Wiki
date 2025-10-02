@@ -55,19 +55,25 @@ Innerhalb einer Organisation kann man Teams anlegen – das sind Gruppen von Mit
 - [Was ist eine Organisation? – GitHub Docs](https://docs.github.com/de/organizations/collaborating-with-groups-in-organizations/about-organizations)
 - [Teams verwalten – GitHub Docs](https://docs.github.com/de/organizations/organizing-members-into-teams/about-teams)
 
----
+<br>
+
 ✨ *Dieser Beitrag ist Teil der Einführung in GitHub für die NADOO-Academy.*
 
 ---
 
-**Dieses Thema beinhaltet folgende Kapitel:**
+### <p align="center">Dieses Kapitel beinhaltet folgende Abschnitte:</p>
+
 ---
 
-🔹 [**Nadoo IT-Guide**](/docs/01-organisation/02-zeit_und_ausbildungsnachweise/01-beispiele/README.md) </br>
+◻️ [**Schritt-für-Schritt-Anleitung zur NADOO-IT-Organisation und den Teams auf GitHub**](/docs/04-tools/01-github/09-organizations-teams/01-nadooit-guide/README.md) </br>
 
 ---
 
 <p align="center">
-<a href="/docs/04-tools/01-github/README.md"><strong>Zurück</strong></a> | 
-<a href="/docs/04-tools/02-vscode/README.md"><strong>Weiter</strong></a>
+<a href="/docs/04-tools/01-github/08-markdown/README.md"><strong>Zurück</strong></a> | 
+<a href="/docs/04-tools/01-github/09-organizations-teams/01-nadooit-guide/README.md"><strong>Weiter</strong></a>
+</p>
+
+<p align="center">
+<a href="/docs/04-tools/01-github/README.md/#dieses-thema-beinhaltet-folgende-kapitel"><strong>Zurück zur Kapitel-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
 </p>

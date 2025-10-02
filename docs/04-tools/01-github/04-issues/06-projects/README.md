@@ -30,19 +30,21 @@ Nutze Projects zusammen mit Labels, Milestones und Assignees für eine strukturi
 
 ## Weitere Informationen
 
-- [GitHub Docs: Projects](https://docs.github.com/de/projects/learn-github-projects)
+[GitHub Docs: Projects](https://docs.github.com/de/projects/learn-github-projects)
 
 ---
 
+### <p align="center">Weiterführende Artikel zu diesem Abschnitt:</p>
 
-**Dieses Thema beinhaltet folgende Kapitel:**
----
-
-🔹 [**Zeitplanung**](/docs/04-tools/01-github/04-issues/06-projects/01-zeitplanung/README.md) </br>
+▪ [**Fokus: Zeitplanung und Meilensteine mit GitHub Projects**](/docs/04-tools/01-github/04-issues/06-projects/01-zeitplanung/README.md) </br>
 
 ---
 
 <p align="center">
 <a href="/docs/04-tools/01-github/04-issues/05-milestones/README.md"><strong>Zurück</strong></a> | 
 <a href="/docs/04-tools/01-github/04-issues/06-projects/01-zeitplanung/README.md"><strong>Weiter</strong></a>
+</p>
+
+<p align="center">
+<a href="/docs/04-tools/01-github/04-issues/README.md/#dieses-kapitel-beinhaltet-folgende-abschnitte"><strong>Zurück zur Abschnitts-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
 </p>

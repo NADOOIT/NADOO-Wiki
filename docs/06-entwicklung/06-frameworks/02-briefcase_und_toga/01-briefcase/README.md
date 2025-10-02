@@ -1,8 +1,6 @@
 # <p align="center">Briefcase</p>
 <!-- neue Aufteilung / neue Inhalte in Planung -->
 
----
-
 <div align="center">
   <table>
     <tr>
@@ -28,20 +26,21 @@ Komm am besten **zu einem späteren Zeitpunkt** nochmal wieder - mit etwas Glüc
 
 Insofern ein:e **Ersteller:in** vermerkt ist, kannst du dich auch direkt an diese Person richten.
 
-
 ---
 
-**Dieses Thema beinhaltet folgende Kapitel:**
----
-
-🔹 [**Briefcase**](/docs/06-entwicklung/01-dokumentation/README.md)<br>
-🔹 [**Toga**](/docs/06-entwicklung/02-clean_architecture/README.md) <br>
-🔹 [**Zusammenspiel**](/docs/06-entwicklung/02-clean_architecture/README.md) <br>
-🔹 [**Debugging**](/docs/06-entwicklung/02-clean_architecture/README.md) <br>
+<p align="center">
+📅 <strong>Dieses Dokument wurde erstellt am:</strong> 14.05.2025
+<br>
+✍️ <strong>Von:</strong> <a href="https://github.com/cherylugbogu">Cheryl</a>
+</p>
 
 ---
 
 <p align="center">
 <a href="/docs/06-entwicklung/06-frameworks/02-briefcase_und_toga/README.md"><strong>Zurück</strong></a> | 
 <a href="/docs/06-entwicklung/06-frameworks/02-briefcase_und_toga/02-toga/README.md"><strong>Weiter</strong></a>
+</p>
+
+<p align="center">
+<a href="/docs/06-entwicklung/06-frameworks/02-briefcase_und_toga/README.md/#dieses-kapitel-beinhaltet-folgende-abschnitte"><strong>Zurück zur Abschnitts-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
 </p>

@@ -30,26 +30,15 @@ Nutze Assignees zusammen mit Labels und Milestones für eine strukturierte Arbei
 
 ## Weitere Informationen
 
-- [GitHub Docs: Assignees](https://docs.github.com/de/issues/tracking-your-work-with-issues/using-issues/assigning-issues-and-pull-requests-to-other-github-users)
+[GitHub Docs: Assignees](https://docs.github.com/de/issues/tracking-your-work-with-issues/using-issues/assigning-issues-and-pull-requests-to-other-github-users)
 
 ---
-
-**Dieses Thema beinhaltet folgende Kapitel:**
----
-
-🔹 [**Wiki-Guide**](/docs/04-tools/01-github/04-issues/01-wiki-guide/README.md) </br>
-🔹 [**Labels**](/docs/04-tools/01-github/04-issues/02-labels/README.md) </br>
-🔹 [**Types**](/docs/04-tools/01-github/04-issues/03-types/README.md) </br>
-🔹 [**Assignees**](/docs/04-tools/01-github/04-issues/04-assignees/README.md) </br>
-🔹 [**Milestones**](/docs/04-tools/01-github/04-issues/05-milestones/README.md) </br>
-🔹 [**Projects**](/docs/04-tools/01-github/04-issues/06-projects/README.md) </br>
-🔹 [**Discussions**](/docs/04-tools/01-github/04-issues/07-discussions/README.md) </br>
-🔹 [**Templates**](/docs/04-tools/01-github/04-issues/08-templates/README.md) </br>
-
----
-
 
 <p align="center">
 <a href="/docs/04-tools/01-github/04-issues/03-types/README.md"><strong>Zurück</strong></a> | 
 <a href="/docs/04-tools/01-github/04-issues/05-milestones/README.md"><strong>Weiter</strong></a>
+</p>
+
+<p align="center">
+<a href="/docs/04-tools/01-github/04-issues/README.md/#dieses-kapitel-beinhaltet-folgende-abschnitte"><strong>Zurück zur Abschnitts-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
 </p>

@@ -9,6 +9,9 @@ Eine Freistellung ist eine offiziele Erlaubnis, für einen bestimmten Zeitraum n
 Schicke dafür eine kurze E-Mail an [**christoph.backhaus@nadooit.de**](mailto:christoph.backhaus@nadooit.de). Formuliere den **Betreff** dabei basierend auf dem folgenden Muster:
 
 MitarbeiterID_KRANKMELDUNG_START_YYYY_MMM_TT_ENDE_YYYY_MM_TT
+
+Beispiele:  
+
 13_KRANKMELDUNG_START_2025_09_19_ENDE_2025_09_25
 
 13_ARZTTERMIN_2025_09_19
@@ -19,21 +22,11 @@ MitarbeiterID_KRANKMELDUNG_START_YYYY_MMM_TT_ENDE_YYYY_MM_TT
 
 ---
 
-**Dieser Themenbereich beinhaltet folgende Themen:**
----
-
-🢒 [**Zeiterfassung / Einstempeln**](/docs/01-organisation/01-zeiterfassung/README.md) </br>
-🢒 [**Zeit- und Ausbildungsnachweise**](/docs/01-organisation/02-zeit_und_ausbildungsnachweise/README.md) </br>
-🢒 [**Arbeits- und Pausenzeiten**](/docs/01-organisation/03-arbeits_und_pausenzeiten/README.md)</br>
-🢒 [**Urlaub**](/docs/01-organisation/04-urlaub/README.md) </br>
-🢒 [**Krankmeldungen**](/docs/01-organisation/05-krankmeldungen/README.md) </br>
-🢒 [**Mutterschutz und Elternzeit**](/docs/01-organisation/06-mutterschutz_und_elternzeit/README.md) </br>
-🢒 [**Umgang mit Unternehmensdaten**](/docs/01-organisation/07-datenschutz/README.md) </br>
-🢒 [**Verhalten und Kultur bei Christoph Backhaus IT — unsere Firmenphilosophien**](/docs/01-organisation/08-firmenphilosophie/README.md) </br>
-
----
-
 <p align="center">
 <a href="/docs/01-organisation/04-urlaub/README.md"><strong>Zurück</strong></a> | 
 <a href="/docs/01-organisation/06-mutterschutz_und_elternzeit/README.md"><strong>Weiter</strong></a>
+</p>
+
+<p align="center">
+<a href="/docs/01-organisation/README.md/#dieser-themenbereich-beinhaltet-folgende-themen"><strong>Zurück zur Themen-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
 </p>

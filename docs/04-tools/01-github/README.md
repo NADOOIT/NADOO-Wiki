@@ -1,4 +1,10 @@
 # <p align="center">Versionsverwaltung mit GitHub</p>
+
+<p align="center"><a href="#dieses-thema-beinhaltet-folgende-kapitel">🚀 Direkt zur Kapitel-Übersicht</a></p>
+
+---
+<br>
+
 <!-- 
 Einleitungstext ggf. nochmal überarbeiten
 Shortcut zur Kapitel-Übersicht hinzufügen
@@ -110,7 +116,8 @@ GitHub-Organisationen sind Gruppen von Benutzern, die zusammenarbeiten, um Proje
 
 ---
 
-**Dieses Thema beinhaltet folgende Kapitel:**
+### <p align="center">Dieses Thema beinhaltet folgende Kapitel:</p>
+
 ---
 
 🔹 [**Repository**](/docs/01-organisation/02-zeit_und_ausbildungsnachweise/01-beispiele/README.md) </br>
@@ -118,15 +125,19 @@ GitHub-Organisationen sind Gruppen von Benutzern, die zusammenarbeiten, um Proje
 🔹 [**Pull-Requests**](/docs/01-organisation/02-zeit_und_ausbildungsnachweise/03-ueberpruefung/README.md) </br>
 🔹 [**Issues**](/docs/01-organisation/02-zeit_und_ausbildungsnachweise/03-ueberpruefung/README.md) </br>
 🔹 [**Actions**](/docs/01-organisation/02-zeit_und_ausbildungsnachweise/03-ueberpruefung/README.md) </br>
-🔹 [**Notifications**](/docs/01-organisation/02-zeit_und_ausbildungsnachweise/03-ueberpruefung/README.md) </br>
-🔹 [**Suche**](/docs/01-organisation/02-zeit_und_ausbildungsnachweise/03-ueberpruefung/README.md) </br>
+🔹 [**GitHub-Notifications und Visual Studio Code**](/docs/01-organisation/02-zeit_und_ausbildungsnachweise/03-ueberpruefung/README.md) </br>
+🔹 [**Die GitHub-Suchfunktion effizient nutzen**](/docs/01-organisation/02-zeit_und_ausbildungsnachweise/03-ueberpruefung/README.md) </br>
 🔹 [**Markdown**](/docs/01-organisation/02-zeit_und_ausbildungsnachweise/03-ueberpruefung/README.md) </br>
-🔹 [**Organizations-teams**](/docs/04-tools/01-github/09-organizations-teams/README.md) </br>
-🔹 [**GitHub Einführung**](/docs/04-tools/01-github/10-github-einfuehrung/README.md) </br>
+🔹 [**Organisationen und Teams auf GitHub**](/docs/04-tools/01-github/09-organizations-teams/README.md) </br>
+🔹 [**GitHub Einführung (Video)**](/docs/04-tools/01-github/10-github-einfuehrung/README.md) </br>
 
 ---
 
 <p align="center">
 <a href="/docs/04-tools/README.md"><strong>Zurück</strong></a> | 
 <a href="/docs/04-tools/01-github/01-repository/README.md"><strong>Weiter</strong></a>
+</p>
+
+<p align="center">
+<a href="/docs/04-tools/README.md/#dieser-themenbereich-beinhaltet-folgende-themen"><strong>Zurück zur Themen-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
 </p>

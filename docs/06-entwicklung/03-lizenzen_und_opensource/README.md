@@ -1,7 +1,5 @@
 # <p align="center">Lizenzen, Open Source und die Welt der Softwareabhängigkeiten</p>
 
----
-
 Bevor du mit der Entwicklung deiner ersten eigenen App beginnst, solltest du dich mit der Thematik rund um Lizenzen und Softwareabhängigkeiten vertraut machen. Immerhin wirst du während dieses Prozesses verschiedene Softwarepakete nutzen müssen, die alle unter bestimmten Lizenzen veröffentlicht wurden. Lass uns einen Moment innehalten, um die Bedeutung dieser Lizenzen und die Welt der Open-Source-Software zu betrachten.
 
 ---
@@ -48,7 +46,10 @@ Trotz der vielen Vorteile bringen Abhängigkeiten auch Risiken mit sich:
 
 3. **Kompatibilitätsprobleme**: Große Umstellungen wie der Wechsel von Python 2 zu Python 3 können erhebliche Probleme verursachen und werden von vielen Entwicklern als schwierige Phase erinnert.
 
+---
+
 ## Die Bedeutung von Frameworks
+<!--bisher nur Fokus auf Python, muss mit der Zeit nochmal überarbeitet werden (Stand: 13.05.25)-->
 
 Briefcase, was du unter Umständen bereits verwendet hast, ist ein Framework. Frameworks geben eine Struktur vor, nach der Projekte organisiert sein müssen. Dies mag zunächst einschränkend erscheinen, bietet aber viele Vorteile:
 
@@ -60,20 +61,21 @@ Briefcase, was du unter Umständen bereits verwendet hast, ist ein Framework. Fr
 
 Andere beliebte Frameworks in der Python-Welt sind Django, Flask und FastAPI für Webentwicklung.
 
-<!--bisher nur Fokus auf Python, muss mit der Zeit nochmal überarbeitet werden (Stand: 13.05.25)-->
-
+<!--
 ## Blick in die Zukunft: Mojo
 
 Während Python eine großartige Sprache zum Lernen und für viele Anwendungen ist, hat es Nachteile in Bezug auf Geschwindigkeit und Energieeffizienz. Deshalb werden wir in Zukunft auf Mojo umsteigen, eine Sprache, die du im Verlauf dieses Lehrgangs kennenlernen wirst. Mojo verspricht, die Vorteile von Python mit deutlich verbesserter Performance zu kombinieren.
 
-<!--Plan vermutlich nicht mehr aktuell, da auf Java umgestiegen wird (Stand: 13.05.25)-->
+Plan vermutlich nicht mehr aktuell, da auf Java umgestiegen wird (Stand: 13.05.25) -->
+
+---
 
 ## Fazit
 
 Die Welt der Softwareentwicklung ist komplex und voller Nuancen. Während wir die enormen Vorteile von Open-Source-Software und Frameworks genießen, müssen wir uns auch der Verantwortung und potenziellen Risiken bewusst sein. Indem wir diese Aspekte verstehen und respektvoll mit den Werkzeugen umgehen, die uns zur Verfügung stehen, können wir nicht nur bessere Software entwickeln, sondern auch zur Weiterentwicklung der Entwicklergemeinschaft beitragen.
 
 
-### Quellen
+#### Quellen
 
 [1] <https://pypi.org/project/uv/0.1.16/> <br>
 [2] <https://blog.kusho.ai/uv-pip-killer-or-yet-another-package-manager/> <br>
@@ -86,22 +88,12 @@ Die Welt der Softwareentwicklung ist komplex und voller Nuancen. Während wir di
 
 ---
 
-**Dieser Themenbereich beinhaltet folgende Themen:**
----
-
-🔹 [**Dokumentation**](/docs/06-entwicklung/01-dokumentation/README.md)<br>
-🔹 [**Clean Architecture**](/docs/06-entwicklung/02-clean_architecture/README.md) <br>
-🔹 [**Lizenzen und Open Source**](/docs/06-entwicklung/03-lizenzen_und_opensource/README.md) <br>
-🔹 [**Python**](/docs/06-entwicklung/04-python/README.md) <br>
-🔹 [**Java**](/docs/06-entwicklung/05-java/README.md) <br>
-🔹 [**Frameworks**](/docs/06-entwicklung/06-frameworks/README.md) <br>
-🔹 [**Digitale Produktentwicklung**](/docs/06-entwicklung/07-digitale_produktentwicklung/README.md) <br>
-🔹 [**CMS**](/docs/06-entwicklung/08-cms/README.md) <br>
-
----
+<p align="center">
+<a href="/docs/06-entwicklung/02-architekturen/01-clean_architecture/02-best_practices/README.md"><strong>Zurück</strong></a> | 
+<a href="/docs/06-entwicklung/04-python/README.md"><strong>Weiter</strong></a>
+</p>
 
 <p align="center">
-<a href="/docs/06-entwicklung/02-clean_architecture/02-best_practices/README.md"><strong>Zurück</strong></a> | 
-<a href="/docs/06-entwicklung/04-python/README.md"><strong>Weiter</strong></a>
+<a href="/docs/06-entwicklung/README.md/#dieser-themenbereich-beinhaltet-folgende-themen"><strong>Zurück zur Themen-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
 </p>
 

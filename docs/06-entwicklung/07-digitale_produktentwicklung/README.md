@@ -1,22 +1,22 @@
 # <p align="center">Dein Einstieg in die digitale Produktentwicklung</p>
+<p align="center"><a href="#dieses-thema-beinhaltet-folgende-kapitel">🚀 Direkt zur Kapitel-Übersicht</a></p>
+
+---
+<br>
 
 <!-- 
 Stand: 12.05.2025
 
 dringende inhaltliche Überarbeitung des Themas notwendig: 
 
--> es muss ein fließender Übergang von "dein Eintstieg" bzw. "deine Aufgabe" zu "Lizenzen" und dann zu "erste eigene App" stattfinden 
+-> es muss ein fließender Übergang von "dein Einstieg" bzw. "deine Aufgabe" zu "Lizenzen" und dann zu "erste eigene App" stattfinden 
 
 Stand: 14.05.2025
 
--> Reihenfolge der Docs wurde angepasst: thematisch arbeitet der komplette Themenbereich 06-entwicklung auf die Übungsaufgabe hin - daher komplettes Verzeichnis ensprechend umstrukturiert. Texte bisher teilweise angepasst, aber bisher nur lokal (-> inhaltlicher roter Faden steht, Implementierung/Umsetzung wip) 
+-> Reihenfolge der Docs wurde angepasst: thematisch arbeitet der komplette Themenbereich 06-entwicklung auf die Übungsaufgabe hin - daher komplettes Verzeichnis entsprechend umstrukturiert. Texte bisher teilweise angepasst, aber bisher nur lokal (-> inhaltlicher roter Faden steht, Implementierung/Umsetzung wip) -->
 
--> hier im Doc noch Kapitelübersicht hinzufügen -->
-Digitale Produkte sind das Herzstück jedes IT-Unternehmens. Sie umfassen sowohl Dienstleistungen (z. B. Einrichtung, Wartung, Schulungen) als auch Softwareprodukte (z. B. Apps).
-
----
-
-Praktisch alles, was täglich getan wird oder über eine Software erfolgt, ist ein potenzielles Produkt.
+Digitale Produkte sind das Herzstück jedes IT-Unternehmens. Sie umfassen sowohl Dienstleistungen (z. B. Einrichtung, Wartung, Schulungen) als auch Softwareprodukte (z. B. Apps). Praktisch alles, was täglich getan wird oder über eine Software erfolgt, ist ein potenzielles Produkt.
+Digitale Produkte können dabei in vielen Formen auftreten. Das können PDFs, Webseiten, Workshops und viele andere Formate sein.
 
 ## Beispiele für digitale Produkte
 
@@ -25,8 +25,6 @@ Praktisch alles, was täglich getan wird oder über eine Software erfolgt, ist e
 - **Einsteiger-Kurs im Gaming**
 - **OBS-Einrichtung** für Präsentationen, Veranstaltungen, Streaming, Online-Meetings, ...
 - **Stempeluhr**, **Tools zur Dokumentation**, **Notizen**, ...
-
-Digitale Produkte können dabei in vielen Formen auftreten. Das können PDFs, Webseiten, Workshops und viele andere Formate sein.
 
 ---
 
@@ -56,16 +54,21 @@ Am Ende des Prozesses hast du dein eigenes digitales Produkt entwickelt, das du 
 
 ---
 
-**Dieser Themenbereich beinhaltet folgende Themen:**
+### <p align="center">Dieses Thema beinhaltet folgende Kapitel:</p>
+
 ---
 
-🔹 [**Idee und Vorbereitung**](/docs/06-entwicklung/06-frameworks/01-nadoo_framework/README.md)<br>
-🔹 [**Umsetzung**](/docs/06-entwicklung/06-frameworks/02-briefcase_und_toga/README.md) <br>
-🔹 [**Feedback und Testing**](/docs/06-entwicklung/06-frameworks/02-briefcase_und_toga/README.md) <br>
+🔹 [**Phase 1: Ideenfindung und Projektvorbereitung**](/docs/06-entwicklung/07-digitale_produktentwicklung/01-idee_und_vorbereitung/README.md)<br>
+🔹 [**Phase 2: Von der Idee zur Umsetzung**](/docs/06-entwicklung/07-digitale_produktentwicklung/02-umsetzung/README.md) <br>
+🔹 [**Phase 3: Feedback und Testing**](/docs/06-entwicklung/07-digitale_produktentwicklung/03-feedback_und_testing/) <br>
 
 ---
 
 <p align="center">
 <a href="/docs/06-entwicklung/06-frameworks/02-briefcase_und_toga/04-debugging/README.md"><strong>Zurück</strong></a> | 
 <a href="/docs/06-entwicklung/07-digitale_produktentwicklung/01-idee_und_vorbereitung/README.md"><strong>Weiter</strong></a>
+</p>
+
+<p align="center">
+<a href="/docs/06-entwicklung/README.md/#dieser-themenbereich-beinhaltet-folgende-themen"><strong>Zurück zur Themen-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
 </p>

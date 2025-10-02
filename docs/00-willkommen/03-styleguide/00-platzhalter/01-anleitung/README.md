@@ -1,8 +1,10 @@
 # <p align="center">Step-by-Step: so verwendest du die Vorlage</p>
 <br>
 
-1. **Kopiere den [Inhalt des Platzhalters](#die-vorlage---diesen-part-bitte-kopieren-und-in-neue-dokumente-übertragen)** und füge ihn im neu erstellten README-Dokument **zwischen** der **Überschrift** (falls vorhanden) **und** der **Navigation-Bar** (_"Zurück | Weiter"_) ein. <br><br> <!-- evtl. Screenshot zur Verdeutlichung-->
-⚠️ **Gemeint ist damit der _Code_** und nicht das, was am Ende im Browser angezeigt wird - ansonsten gehen Bilder und Text-Formatierungen **verloren**. <br><br> <!-- hier ggf. Screenshot zur Verdeutlichung einfügen--> 
+1. **Kopiere den [Inhalt des Platzhalters](#die-vorlage----diesen-part-bitte-kopieren-in-neue-dokumente-übertragen-und-entsprechend-ausfüllen)** und füge ihn im neu erstellten README-Dokument **zwischen** der **Überschrift** (falls vorhanden) **und** der **Navigation-Bar** (_"Zurück | Weiter"_) ein. <br><br> <!-- evtl. Screenshot zur Verdeutlichung-->
+
+⚠️ **Gemeint ist damit der _Code_** – NICHT der Browser-Output - ansonsten gehen Bilder und Text-Formatierungen **verloren**. <br><br> <!-- hier ggf. Screenshot zur Verdeutlichung einfügen--> 
+
 💡 **Tipp**: Alternativ kannst du auch einfach die **README-Datei aus** [**02-vorschau**](/docs/00-willkommen/03-styleguide/00-platzhalter/02-vorschau/README.md) kopieren und in die betroffenen Ordner einfügen. **Denke** bei diesem Weg aber **daran**, die **erste Zeile** "_Vorschau des Platzhalters zur Ansicht im Browser_" zu **entfernen** und ggf. das "_maxmuster (GitHub)_" <strong>durch `<em>Keine Angabe</em>`</strong> zu **ersetzen**. Fahre ansonsten ganz normal mit den folgenden Schritten fort.
 
 ---
@@ -18,11 +20,11 @@
 
 4. Sollte bereits ein Teil des Inhalts vorhanden sein, hast du folgende Möglichkeiten:
 
-   **Option 1 |** Die "sauberste" Vorgehensweise: Du sicherst deinen Fortschritt im zugehörigen Branch ganz einfach, indem du Änderungen committest (und gegebenenfalls pushst), **ohne** ihn mit dem **Main**-Branch zu **mergen**, sodass im Hauptzweig des öffentlichen Wikis weiterhin der Platzhalter zu sehen ist.
+   **Option 1 |** Die "sauberste" Vorgehensweise: Du sicherst deinen Fortschritt im zugehörigen Branch ganz einfach, indem du Änderungen committest (und gegebenenfalls pushst), **ohne** ihn mit dem **Main**-Branch zu **mergen**, sodass **im Hauptzweig des öffentlichen Wikis weiterhin der Platzhalter zu sehen** ist.
 
    **Option 2 |** Die Vorlage bleibt weiterhin im Dokument vorhanden und "sichtbar", während der unvollständige Inhalt im Doc von dir **vorerst auszukommentiert** wird.
 
-   **Option 3 |** Wenn der Großteil des Inhalts bereit für die Veröffentlichung ist und bspw. nur ein bestimmter Abschnitt im Text noch länger nach hinten verschoben werden muss, könntest du den **Platzhalter** theoretisch auch **nur dort einfügen** und den Rest des des Textes so bereits für alle Team-Mitglieder im Main-Branch verfügbar machen. **Passe das Datum** im Template dann entsprechend **an**.
+   **Option 3 |** Wenn der Großteil des Inhalts bereit für die Veröffentlichung ist und bspw. nur ein bestimmter Abschnitt im Text noch länger nach hinten verschoben werden muss, könntest du den **Platzhalter** theoretisch auch **nur dort einfügen** und den Rest des des Textes so bereits für alle Team-Mitglieder im Main-Branch verfügbar machen. **Passe das Datum** im Template dann entsprechend **an**. Alternativ würde in diesem Fall aber auch ein kurzer Hinweis wie "Inhalt folgt" mit Datum ausreichen.
    <!--hier evtl. zur Verdeutlichung noch Screenshot, der Option 3 visuell darstellt -->
 
 ---
@@ -70,23 +72,13 @@ Insofern ein:e **Ersteller:in** vermerkt ist, kannst du dich auch direkt an dies
 ✍️ <strong>Von:</strong> <em>Keine Angabe</em> ODER [dein Name] ODER <a href="[Link zu deinem Profil]">[dein Username]</a> ([Plattform])
 </p>
 ```
----
-
-**Dieses Thema beinhaltet folgende Kapitel:**
----
-
-🔹 [**Anleitung: So verwendest du die Vorlage**](/docs/00-willkommen/03-styleguide/00-platzhalter/01-anleitung/README.md)<br>
-🔹 [**Vorschau des Platzhalters zur Ansicht im Browser**](/docs/00-willkommen/03-styleguide/00-platzhalter/02-vorschau/README.md)
 
 ---
 
 <p align="center">
-📅 <strong>Dieses Dokument wurde bearbeitet am:</strong> 19.09.2025
-<br>
-✍️ <strong>Von:</strong> <a href="https://github.com/johkori">Johkori(Tim H.)</a> (GitHub)
+<a href="/docs/00-willkommen/03-styleguide/00-platzhalter/README.md"><strong>Zurück</strong></a> | <a href="/docs/00-willkommen/03-styleguide/00-platzhalter/02-vorschau/README.md"><strong>Weiter</strong></a>
 </p>
----
+
 <p align="center">
-<a href="/docs/00-willkommen/01-leitfaden/README.md"><strong>Zurück</strong></a> | 
-<a href="/docs/00-willkommen/03-styleguide/README.md"><strong>Weiter</strong></a>
+<a href="/docs/00-willkommen/03-styleguide/00-platzhalter/README.md/#dieses-kapitel-beinhaltet-folgende-abschnitte"><strong>Zurück zur Abschnitts-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
 </p>

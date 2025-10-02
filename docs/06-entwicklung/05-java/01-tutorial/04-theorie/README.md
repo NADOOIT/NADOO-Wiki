@@ -576,22 +576,11 @@ Erkläre mit eigenen Worten, warum du in Java keine Angst vor Speicherlöchern (
 
 ---
 
-**Dieses Thema beinhaltet folgendes Tutorial:**
----
-
-🔹 [**Theorie 01**](/docs/06-entwicklung/05-java/01-tutorial/01-theorie/README.md) </br>
-🔹 [**Theorie 02**](/docs/06-entwicklung/05-java/01-tutorial/02-theorie/README.md) </br>
-🔹 [**Theorie 03**](/docs/06-entwicklung/05-java/01-tutorial/03-theorie/README.md) </br>
-🔹 [**Theorie 04**](/docs/06-entwicklung/05-java/01-tutorial/04-theorie/README.md) </br>
-🔹 [**Theorie 05**](/docs/06-entwicklung/05-java/01-tutorial/05-theorie/README.md) </br>
-🔹 [**Theorie 06**](/docs/06-entwicklung/05-java/01-tutorial/06-theorie/README.md) </br>
-🔹 [**Theorie 07**](/docs/06-entwicklung/05-java/01-tutorial/07-theorie/README.md) </br>
-🔹 [**Praxis 01**](/docs/06-entwicklung/05-java/01-tutorial/08-praxis-1/README.md) </br>
-🔹 [**Praxis 02**](/docs/06-entwicklung/05-java/01-tutorial/09-praxis-2/README.md) </br>
-
----
-
 <p align="center">
 <a href="/docs/06-entwicklung/05-java/01-tutorial/03-theorie/README.md"><strong>Zurück</strong></a> | 
 <a href="/docs/06-entwicklung/05-java/01-tutorial/05-theorie/README.md"><strong>Weiter</strong></a>
+</p>
+
+<p align="center">
+<a href="/docs/06-entwicklung/05-java/README.md/#dieses-thema-beinhaltet-folgende-kapitel"><strong>Zurück zum Inhaltsverzeichis</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
 </p>
