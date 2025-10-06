@@ -46,9 +46,8 @@ Du hast ein bisschen getrödelt, dein erster Tag steht quasi schon mit dem Fuß 
 ### 💡 Denke aber daran, zeitnah ins Wiki zurückzukehren und deine Einarbeitung nachzuholen bzw. fortzuführen.
 
 ---
-<br>
 
-<p align="center"><strong><em>Langer Rede kurzer Sinn</em></strong> — lass uns den Startschuss für deine Reise durchs NADOO-versum abfeuern! 🚀</p3>
+<p align="center"><strong><em>Langer Rede kurzer Sinn</em></strong> — lass uns den Startschuss für deine Reise durchs NADOO-versum abfeuern! 🚀</p>
 
 ---
 
