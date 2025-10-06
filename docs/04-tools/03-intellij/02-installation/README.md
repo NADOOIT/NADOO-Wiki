@@ -20,29 +20,29 @@ Gehe zur offiziellen Seite von JetBrains und lade den Installer herunter:
 
 ---
 
-## 2. Java 21 (JDK) installieren
+## 2. Java 25 (JDK) installieren
 
 ### **Download:**
 
-Lade die **JDK 21** Version (z. B. von Oracle, Eclipse Temurin oder OpenJDK) als **Installer**:
-**Download-Link:** [`<JDK 21>`](https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html)
+Lade die **JDK 25** Version (z. B. von Oracle, Eclipse Temurin oder OpenJDK) als **Installer**:
+**Download-Link:** [`<JDK 25>`](https://www.oracle.com/java/technologies/downloads/#jdk25-windows)
 
 _BILD_
 
 ### **Installation:**
 
-1. Starte den **JDK 21 Installer**.
+1. Starte den **JDK 25 Installer**.
 2. Wähle beim Setup die Option „Benutzerdefinierte Installation“ (Custom).
 3. **Installationsverzeichnis anpassen:**
    - Gib folgendes Zielverzeichnis an:  
-     `C:\Programmierung\Java\JDK21`
+     `C:\Programmierung\Java\JDK25`
 
 _BILD_
 
 4. Weiterklicken und Installation abschließen.
 
 > Nach der Installation kannst du in IntelliJ unter **Project Structure > SDKs** den JDK-Pfad manuell hinzufügen:  
-`C:\Programmierung\Java\JDK21`
+`C:\Programmierung\Java\JDK25`
 
 _BILD_
 ---
@@ -76,10 +76,10 @@ _BILD_
 
 _BILD_
 
-3. Unter „Maven home directory“:
+3. Unter „Maven home path“:
    - Wähle:  
      `C:\Programmierung\Java\Maven`
-4. Bestätige mit OK.
+4. Bestätige mit Apply und dann OK.
 
 ---
 
@@ -115,7 +115,6 @@ Da der offizielle Installer standardmäßig in `C:\Program Files` installiert un
 
    > Passe den Dateinamen an deine heruntergeladene Version an.
 
-_BILD_
 
 ---
 
@@ -129,7 +128,6 @@ _BILD_
 
    C:\Programmierung\Java\Scene Builder\SceneBuilder.exe
 
-_BILD_
 
 4. Bestätige mit **OK**.
 
