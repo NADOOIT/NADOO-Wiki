@@ -27,7 +27,7 @@ Gehe zur offiziellen Seite von JetBrains und lade den Installer herunter:
 Lade die **JDK 21** Version (z. B. von Oracle, Eclipse Temurin oder OpenJDK) als **Installer**:
 **Download-Link:** [`<JDK 21>`](https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html)
 
-![Image](https://github.com/user-attachments/assets/18fcb1bc-df68-4b65-a871-263612fefc1f)
+_BILD_
 
 ### **Installation:**
 
@@ -37,15 +37,14 @@ Lade die **JDK 21** Version (z. B. von Oracle, Eclipse Temurin oder OpenJDK) a
    - Gib folgendes Zielverzeichnis an:  
      `C:\Programmierung\Java\JDK21`
 
-![Image](https://github.com/user-attachments/assets/4dfcfb7d-ba93-4f10-aa37-af399ac73dc4)
+_BILD_
 
 4. Weiterklicken und Installation abschließen.
 
 > Nach der Installation kannst du in IntelliJ unter **Project Structure > SDKs** den JDK-Pfad manuell hinzufügen:  
 `C:\Programmierung\Java\JDK21`
 
-![Image](https://github.com/user-attachments/assets/e9a31019-dafe-4f7e-a349-b746ba4a03aa) ![Image](https://github.com/user-attachments/assets/bcfe79c7-b1c8-4a79-8c35-eb4900fffa1c)
-
+_BILD_
 ---
 
 ## 3. Maven manuell installieren
@@ -54,7 +53,7 @@ Lade die **JDK 21** Version (z. B. von Oracle, Eclipse Temurin oder OpenJDK) a
 Lade das **ZIP-Archiv von Apache Maven** herunter (nicht den Installer):
 **Download-Link:** [`<Maven>`](https://maven.apache.org/download.cgi)
 
-![Image](https://github.com/user-attachments/assets/fe4f776f-16f6-4ba3-8619-f4a77aa182e6)
+_BILD_
 
 ### **Installation (manuell, aber ohne Kommandozeile):**
 
@@ -63,7 +62,7 @@ Lade das **ZIP-Archiv von Apache Maven** herunter (nicht den Installer):
    `C:\Programmierung\Java`
 3. Benenne den extrahierten Ordner in `Maven` um
 
-![Image](https://github.com/user-attachments/assets/d7238d05-b300-41b7-9cab-d2adc19f03c8)
+_BILD_
 
 4. Achte darauf, dass die Struktur so aussieht:  
    `C:\Programmierung\Java\Maven\bin\mvn.cmd`
@@ -72,9 +71,10 @@ Lade das **ZIP-Archiv von Apache Maven** herunter (nicht den Installer):
 
 1. Öffne IntelliJ IDEA.
 2. Gehe zu **File > Settings > Build, Execution, Deployment > Build Tools > Maven**
-![Image](https://github.com/user-attachments/assets/c1acc247-01aa-45b4-a7ae-8306964d8699)
 
-![Image](https://github.com/user-attachments/assets/4561e3b1-6089-42ff-b22e-de1a764c4dab)
+_BILD_
+
+_BILD_
 
 3. Unter „Maven home directory“:
    - Wähle:  
@@ -89,7 +89,7 @@ Lade das **ZIP-Archiv von Apache Maven** herunter (nicht den Installer):
 Besuche die offizielle Seite von GluonHQ und lade den Scene Builder herunter:  
 **Download-Link:** [Scene Builder](https://gluonhq.com/products/scene-builder/#download)
 
-![Image](https://github.com/user-attachments/assets/8a60148c-96e5-4c40-94d8-215cac09099b)
+_BILD_
 
 > Wähle die **Windows Installer (.msi)** Datei aus.
 
@@ -115,7 +115,7 @@ Da der offizielle Installer standardmäßig in `C:\Program Files` installiert un
 
    > Passe den Dateinamen an deine heruntergeladene Version an.
 
-![Image](https://github.com/user-attachments/assets/8ed5db9b-33b2-40e6-bbce-cca14bf3d8ff)
+_BILD_
 
 ---
 
@@ -129,7 +129,7 @@ Da der offizielle Installer standardmäßig in `C:\Program Files` installiert un
 
    C:\Programmierung\Java\Scene Builder\SceneBuilder.exe
 
-![Image](https://github.com/user-attachments/assets/6ff9f471-c689-43c1-9dba-328e51b03195)
+_BILD_
 
 4. Bestätige mit **OK**.
 
