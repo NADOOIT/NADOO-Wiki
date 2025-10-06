@@ -39,7 +39,7 @@ Wird ein **ZEITNACHWEIS** benötigt? JA|NEIN<br>
 Wird ein **BERICHTSHEFT** benötigt? JA|NEIN<br>
 Wird eine **ANWESENHEITSLISTE** benötigt? JA|NEIN<br>
 
-✔️ **Format:** `[ID]_ANFORDERUNGEN_ZEITNACHWEIS_JA|NEIN_BERICHTSHEFTE_JA|NEIN_ANWESENHEITSLISTE_JA|NEIN`<br>
+✔️ **Format:** `[MitarbeiterID]_ANFORDERUNGEN_ZEITNACHWEIS_JA|NEIN_BERICHTSHEFTE_JA|NEIN_ANWESENHEITSLISTE_JA|NEIN`<br>
 ✔️ **Beispiel:** `1234_ANFORDERUNGEN_ZEITNACHWEIS_JA_BERICHTSHEFTE_NEIN_ANWESENHEITSLISTE_JA`
 
 ---
@@ -71,6 +71,15 @@ Wird eine **ANWESENHEITSLISTE** benötigt? JA|NEIN<br>
 
 ✔️ **Format:** `[MitarbeiterID]_BERICHTSHEFT_[YYYY]_KW[W]`<br>
 ✔️ **Beispiel:** `1234_BERICHTSHEFT_2025_KW36`<br>
+
+---
+
+### 6. Anweisenheitsliste
+
+👉 **Regel 1:** Wir benennen die Datei "**ANWESENHEITSLISTE**".<br>
+
+✔️ **Format:** `[MitarbeiterID]_ANWESENHEITSLISTE_[YYYY]_KW[W]`<br>
+✔️ **Beispiel:** `1234_ANWESENHEITSLISTE_2025_KW36`<br>
 
 ---
 
