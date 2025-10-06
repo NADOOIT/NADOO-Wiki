@@ -14,19 +14,15 @@ Es ist wichtig, dass du **alle Fragen, die während der Bearbeitung des Wikis au
 
 ## 1. Einstempeln
 
-💡 Sobald du für deinen ersten Tag online kommst, darfst und solltest du dich einstempeln. Zu Beginn und am Ende jedes Arbeitstages wird zu diesem Zweck eine E-Mail an **christoph.backhaus@nadooit.de** gesendet, die als digitale Anwesenheitsbestätigung dient.
+💡 Sobald du für deinen ersten Tag online kommst, musst du dich einstempeln. Zu Beginn jedes Arbeitstages wird zu diesem Zweck eine E-Mail an **christoph.backhaus@nadooit.de** gesendet, die als digitale Anwesenheitsbestätigung dient. Das Ausstempeln wird nicht aktiv benötigt, da es automatisch abläuft.
 
-Achte hier darauf, den **Textkörper leer zu lassen** und verwende **die folgenden Formate für die Betreffzeile**:
+Achte hier darauf, den **Textkörper leer zu lassen** und verwende **das folgende Format für die Betreffzeile**:
 
-**E-Mail für den Arbeitsbeginn:** MitarbeiterID_START_YYYY_MM_TT_HH_MM <br>
-**E-Mail zum Ende des Arbeitstages:** MitarbeiterID_ENDE_YYY_MM_TT_HH_MM
+**E-Mail für den Arbeitsbeginn:** GO
 
 <br>
 
 <h2 align="center">Beispielbilder</h2>
-
-<img width="1018" height="371" alt="image" src="https://github.com/user-attachments/assets/10de422d-dc1c-4805-a095-13146737bc59" />
-<img width="443" height="190" alt="image" src="https://github.com/user-attachments/assets/427317e9-4514-496f-bbd5-3039cce8f449" />
 
 #
 
