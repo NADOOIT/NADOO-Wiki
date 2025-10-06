@@ -18,11 +18,10 @@ Es ist wichtig, dass du **alle Fragen, die während der Bearbeitung des Wikis au
 
 Achte hier darauf, den **Textkörper leer zu lassen** und verwende **das folgende Format für die Betreffzeile**:
 
-**E-Mail für den Arbeitsbeginn:** GO
+**E-Mail für den Arbeitsbeginn:** GO<br>
 
-<br>
-
-<h2 align="center">Beispielbilder</h2>
+<h2 align="center">Beispielbild</h2><br>
+<p align="center"><img width="717" height="274" alt="email format anwesenheit" src="https://github.com/user-attachments/assets/e218979a-c803-46fe-b839-69094fc8cbb0" /></p>
 
 #
 
