@@ -90,10 +90,9 @@ Wird eine **ANWESENHEITSLISTE** benötigt? JA|NEIN<br>
 
 #
 
-#### Musterbeispiel des Mitarbeiters "Boris Musterovski" mit der Mitarbeiter-ID "62":
-<br>
+#### Musterbeispiel des Mitarbeiters "Boris Musterovski" mit der Mitarbeiter-ID "62":<br>
 
-_BILD_
+<img width="623" height="150" alt="berichtsheft" src="https://github.com/user-attachments/assets/79470c31-42d4-4988-933c-3b31fab6c127" />
 
 #
 
@@ -105,10 +104,10 @@ _BILD_
 
 #
 
-#### Musterbeispiel für die Nachweise im E-Mail-Anhang:
-<br>
+#### Musterbeispiel für die Nachweise im E-Mail-Anhang:<br>
 
-_BILD_
+<img width="738" height="432" alt="Emailberichtsheft" src="https://github.com/user-attachments/assets/d817fdbb-baff-4372-8e0f-beb9f267031c" />
+
 
 ---
 
