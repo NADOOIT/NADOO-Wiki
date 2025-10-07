@@ -8,14 +8,15 @@ Die folgenden **Regeln** wurden entwickelt, um die **Bearbeitung** der Dateien z
 
 ### 1. Trennzeichen
 
-👉 **Regel 1:** Die einzelnen Infomationen zu den Nachweisen werden jeweils **mit** einem **Unterstrich / Underscore ( _ )** voneinander **getrennt**. <br>
-<p align="center">❗ <strong>KEINE</strong> Bindestriche / Minuszeichen, Leerzeichen oder ähnliches!</p>
-<br>
-👉 **Regel 2:** Bei mehreren Vor-/Nachnamen werden auch diese voneinander mit Unterstrichen getrennt - **NICHT** ❗ name1-name2 <br>
+👉 **Regel 1:** Die einzelnen Infomationen zu den Nachweisen werden jeweils **mit** einem **Unterstrich / Underscore ( _ )** voneinander **getrennt**.<br>
 
-✔️ **Richtig:** ID_musterovski_boris_berichtsheft_2024_kw13 <br>
-✔️ **Beispiel:** ID_musterovski_nachname2_nachname3_boris_vorname2_vorname3_berichtsheft_2024_kw5 <br>
-❌ **Falsch:** ID - musterovski, boris - berichtsheft 2024-kw13
+❗ <strong>KEINE</strong> Bindestriche / Minuszeichen, Leerzeichen oder ähnliches!
+
+👉 **Regel 2:** Bei mehreren Vor-/ Nachnamen werden auch diese voneinander mit Unterstrichen getrennt - **NICHT** ❗ name1-name2<br>
+
+✔️ **Richtig:** `[MitarbeiterID]_BERICHTSHEFT_[YYYY]_KW[W]`<br>
+✔️ **Beispiel:** `1234_BERICHTSHEFT_2025_KW36`<br>
+❌ **Falsch:** `ID - 1234 - berichtsheft_2024-kw13`
 
 ---
 
@@ -23,18 +24,29 @@ Die folgenden **Regeln** wurden entwickelt, um die **Bearbeitung** der Dateien z
 
 ℹ️ **Mitarbeiternummern werden** derzeit noch **vom Chef** persönlich **vergeben**. Wenn du dir also **unsicher über deine ID** bist, einfach bei Christoph nachfragen.
 
-👉 **Regel 1:** keine 0 voranstellen, d.h. Mitarbeiter-ID "8" **bleibt** 8 und wird **NICHT** ❗ zu _08_
+👉 **Regel 1:** keine 0 voranstellen, d.h. Mitarbeiter-ID "8" **bleibt** 8 und wird **NICHT** ❗ zu _08_<br>
 
-<br>
-
-✔️ **Beispiel 1:** 9_musterovski_boris_berichtsheft_2024_kw13 <br>
-✔️ **Beispiel 2:** 9_musterovski_boris_zeitnachweis_2024_8
+✔️ **Beispiel 1:** `9_BERICHTSHEFT_2025_KW36`<br>
+✔️ **Beispiel 2:** `9_ZEITNACHWEIS_2025_9`
 
 ---
 
-### 3. Zeitnachweise
+### 3. Anforderungen deines Bildungsträgers
 
-👉 **Regel 1:** Wir benennen die Datei "**zeitnachweis**". <br>
+ℹ️ Da jeder Bildungsträger andere Anforderung an die Zeiterfassung und Nachweisführung hat, wird von euch folgende Rückmeldung benötigt:
+
+Wird ein **ZEITNACHWEIS** benötigt? JA|NEIN<br>
+Wird ein **BERICHTSHEFT** benötigt? JA|NEIN<br>
+Wird eine **ANWESENHEITSLISTE** benötigt? JA|NEIN<br>
+
+✔️ **Format:** `[MitarbeiterID]_ANFORDERUNGEN_ZEITNACHWEIS_JA|NEIN_BERICHTSHEFTE_JA|NEIN_ANWESENHEITSLISTE_JA|NEIN`<br>
+✔️ **Beispiel:** `1234_ANFORDERUNGEN_ZEITNACHWEIS_JA_BERICHTSHEFTE_NEIN_ANWESENHEITSLISTE_JA`
+
+---
+
+### 4. Zeitnachweise
+
+👉 **Regel 1:** Wir benennen die Datei "**ZEITNACHWEIS**". <br>
 👉 **Regel 2:** Der **Monat** wird anhand seiner entsprechenden **Nummer** angegeben: <br>
 
 | Januar | Februar | März | April | Mai | Juni | Juli | August | September | Oktober | November | Dezember |
@@ -43,54 +55,60 @@ Die folgenden **Regeln** wurden entwickelt, um die **Bearbeitung** der Dateien z
 
 👉 **Regel 3:** die Monats-Nummern entsprechen **1 bis 12** – **NICHT** ❗ _01_, _02_, etc.
 
-<br>
-
-✔️ **Beispiel 1:** ID_musterovski_boris_**zeitnachweis**\_2024_**12** <br>
-✔️ **Beispiel 2:** ID_musterovski_boris_**zeitnachweis**\_2024_**1**
+✔️ **Format:**    `[MitarbeiterID]_ZEITNACHWEIS_[YYYY]_[M]`<br>
+✔️ **Beispiel:** `1234_ZEITNACHWEIS_2025_9`<br>
 
 ---
 
-### 4. Berichtshefte / Ausbildungsnachweise
+### 5. Berichtshefte / Ausbildungsnachweise
 
-👉 **Regel 1:** Wir benennen die Datei "**berichtsheft**". <br>
-👉 **Regel 2:** Der **Ausbildungszeitraum** wird anhand der entsprechenden **Kalenderwoche (kw)** angegeben <br>
-👉 **Regel 3:** die kw-Nummern entsprechen **1 bis 52** – **NICHT** ❗ _01_, _02_, etc. <br>
+👉 **Regel 1:** Wir benennen die Datei "**BERICHTSHEFT**".<br>
+👉 **Regel 2:** Der **Ausbildungszeitraum** wird anhand der entsprechenden **Kalenderwoche (KW)** angegeben<br>
+👉 **Regel 3:** die KW-Nummern entsprechen **1 bis 52** – **NICHT** ❗ _01_, _02_, etc.<br>
 
-#
+ ⚠️ **Wichtig:** "KW" entspricht hier der *tatsächlichen* **aktuellen** Kalenderwoche des entsprechenden Kalenderjahres — **nicht** der Anzahl an Wochen, die seit Beginn deines Praktikums vergangen sind!<br>
+ ⚠️ **Beispiel:** Wenn deine **erste Praktikumswoche** bspw. am 12.05.2025 begonnen hat, dann handelt es sich dabei **nicht** um "**KW1**", sondern um **KW20 ❗ des Jahres 2025**.<br>
 
- ⚠️ **Wichtig:** "kw" entspricht hier der *tatsächlichen* **aktuellen** Kalenderwoche des entsprechenden Kalenderjahres — **nicht** der Anzahl an Wochen, die seit Beginn deines Praktikums vergangen sind! 
- Wenn deine **erste Praktikumswoche** bspw. am 12.05.2025 begonnen hat, dann handelt es sich dabei **nicht** um "**kw1**", sondern um **kw20 ❗ des Jahres 2025**.
+✔️ **Format:** `[MitarbeiterID]_BERICHTSHEFT_[YYYY]_KW[W]`<br>
+✔️ **Beispiel:** `1234_BERICHTSHEFT_2025_KW36`<br>
 
-<br>
+---
 
-✔️ **Beispiel 1:** ID_musterovski_boris_berichtsheft_2024_kw1
+### 6. Anweisenheitsliste
 
-✔️ **Beispiel 2:** ID_musterovski_boris_berichtsheft_2024_kw52
+👉 **Regel 1:** Wir benennen die Datei "**ANWESENHEITSLISTE**".<br>
+
+✔️ **Format:** `[MitarbeiterID]_ANWESENHEITSLISTE_[YYYY]_KW[W]`<br>
+✔️ **Beispiel:** `1234_ANWESENHEITSLISTE_2025_KW36`<br>
 
 ---
 
 ### Was du ansonsten noch beachten musst:
 
-👉 **4.** **Alle Buchstaben** im Dateiennamen werden **KLEIN** geschrieben. <br>
-👉 **5.** **Alle Dateien** müssen im **PDF-Format** versendet werden. <br>
+👉 **Alle Buchstaben** im Dateiennamen werden **GROß** geschrieben. <br>
+👉 **Alle Dateien** müssen im **PDF-Format** versendet werden. <br>
 
 #
 
-#### Musterbeispiel des Mitarbeiters "Boris Musterovski" mit der Mitarbeiter-ID "9":
+#### Musterbeispiel des Mitarbeiters "Boris Musterovski" mit der Mitarbeiter-ID "62":
 <br>
 
-![image](https://github.com/user-attachments/assets/3e4c077b-d3c1-4bad-bdf6-ca7c9af755f0)
+_BILD_
 
 #
 
-👉 **6.** **Jede PDF** wird dem Anhang der E-Mail an Christoph **einzeln hinzugefügt**. Verschicke deine Nachweise bitte **NICHT** ❗ in gebündelter Form – heißt: **KEINE** _zip_'s, _rar_'s oder sonstige Archivformate.
+👉 Alle Nachweise sind einzeln an Christoph zu versenden.
+
+👉 Verschicke deine Nachweise bitte **NICHT** ❗ in gebündelter Form – heißt: **KEINE** _zip_'s, _rar_'s oder sonstige Archivformate.
+
+👉 Verschicke immer nur **eine** E-Mail mit **einem** PDF-Anhang. ❗
 
 #
 
 #### Musterbeispiel für die Nachweise im E-Mail-Anhang:
 <br>
 
-![image](https://github.com/user-attachments/assets/8c520580-be00-42d1-b497-8e167a6fde34)
+_BILD_
 
 ---
 
