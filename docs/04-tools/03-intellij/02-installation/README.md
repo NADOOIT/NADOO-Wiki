@@ -119,8 +119,6 @@ Lade das **ZIP-Archiv von Apache Maven** herunter (nicht den Installer):
 Besuche die offizielle Seite von GluonHQ und lade den Scene Builder herunter:  
 **Download-Link:** [Scene Builder](https://gluonhq.com/products/scene-builder/#download)
 
-_BILD_
-
 > Wähle die **Windows Installer (.msi)** Datei aus.
 
 ---
