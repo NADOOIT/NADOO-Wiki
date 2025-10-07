@@ -28,7 +28,7 @@ Damit du nach den Informationen, die du vor allem für den Start in einem neuen 
 
 ℹ️ [**Visual Studio Code: Installation und Einrichtung**](/docs/04-tools/02-vscode/README.md) <br>
 ℹ️ [**IntelliJ: Installation und Einrichtung**](/docs/04-tools/03-intellij/README.md) <br>
-
+ℹ️ [**Windsurf: Installation und Einrichtung**](/docs/04-tools/04-windsurf/README.md) <br>
 <!-- Video: „Einstieg GitHub“ (-> Wiki-Issue #375) hier einfügen, sobald fertiggestellt; dann ggf. Shortcut zu Github Repository entfernen -->
 
 ℹ️ [**GitHub Repository**](/docs/04-tools/01-github/01-repository/README.md) <br>
