@@ -9,6 +9,16 @@ Solltest du auf Unklarheiten stoßen, möchtest neue Inhalte hinzufügen, besteh
 
 ![Image](https://github.com/user-attachments/assets/eea54f62-a29e-4ae1-9f78-fe1865ef2dd0)
 
+GitHub zeigt dir alle verfügbaren Issue-Vorlagen an. Prüfe, ob eine passende Vorlage für dein Anliegen vorhanden ist. Falls keine der vorgegebenen Vorlagen zu deinem Anliegen passt, scrolle in der Vorlagenliste nach unten und klicke auf  „Blank issue". Dies ermöglicht dir, ein komplett individuelles Issue zu erstellen.
+
+![Image](https://github.com/user-attachments/assets/21fe41fa-63a8-4d43-9b40-269db8840922)
+
+Anschließend gibst du zunächst einen kurzen, prägnanten Titel ein, der den Kern deines Anliegens auf den Punkt bringt. Danach folgt die Beschreibung, in der du dein Anliegen in klar abgegrenzte Abschnitte gliederst. Zuerst beschreibst du das Problem oder Anliegen, dann erläuterst du den Kontext, in dem es auftritt, gefolgt von dem erwarteten Verhalten. Abschließend fügst du alle zusätzlichen Informationen an, etwa Screenshots, Fehlermeldungen oder Links.
+
+Optional weist du Labels, Assignees und Meilensteine zu, aber dazu erfährst du später mehr.
+
+Zuletzt klickst du auf Create, um dein Issue zu veröffentlichen. Es erhält automatisch eine fortlaufende Nummer (zum Beispiel #42) und ist ab sofort für alle Teammitglieder sichtbar.
+
 ![Image](https://github.com/user-attachments/assets/0caccfbd-1e07-46bf-941b-c51ff612b303)
 
 Wenn du ein bereits bestehendes Issue bzgl. des Wiki bearbeiten willst, fällt der erste Schritt weg und du wählst das Issue im Wiki-Repository aus.
