@@ -228,7 +228,7 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
 
   &emsp;📄 [Kapitelübersicht](/docs/03-meetings/README.md)
 
-  &nbsp;&nbsp;🔹 [Zeitpläne des allgemeinen Morgenmeetings](/docs/03-meetings/01-allgemein-morgens/README.md) <br>
+  &nbsp;&nbsp;🔹 [Zeitpläne des allgemeinen Morgenmeetings](/docs/03-meetings/01-allgemein/README.md) <br>
   &nbsp;&nbsp;🔹 [11er-Meeting](/docs/03-meetings/02-11er/README.md) <br>
   &nbsp;&nbsp;🔹 [Teamkoordinator:innen-Meeting](/docs/03-meetings/03-teamkoordination/README.md) <br>
   &nbsp;&nbsp;🔹 [33er-Meeting](/docs/03-meetings/04-33er/README.md) <br>
@@ -343,7 +343,7 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
   &nbsp;&nbsp;🔹 [**Der Launchpad-Feature-Guide: Funktions- und Anwendungsweise aller Features und Komponenten**](/docs/04-tools/06-launchpad/02-features/README.md) <br>
     &emsp;&emsp;◻️ [[Feature-Guide] Menüleiste](/docs/04-tools/06-launchpad/02-features/01-menu/README.md) <br>
     &emsp;&emsp;◻️ [[Feature-Guide] Berechtigungen](/docs/04-tools/06-launchpad/02-features/02-berechtigungen/README.md) <br>
-    &emsp;&emsp;◻️ [[Feature-Guide] Tokens](/docs/04-tools/06-launchpad/01-guide/03-tokens/README.md) <br>
+    &emsp;&emsp;◻️ [[Feature-Guide] Tokens](/docs/04-tools/06-launchpad/02-features/03-tokens/README.md) <br>
     &emsp;&emsp;◻️ [[Feature-Guide] Erfassung der Arbeitszeiten](/docs/04-tools/06-launchpad/02-features/04-zeiterfassung/README.md) <br>
     &emsp;&emsp;◻️ [[Feature-Guide] Projektverwaltung](/docs/04-tools/06-launchpad/02-features/05-projektverwaltung/README.md) <br>
     &emsp;&emsp;◻️ [[Feature-Guide] Aktivitäten](/docs/04-tools/06-launchpad/02-features/06-aktivitaeten/README.md) <br>
@@ -388,7 +388,7 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
     &emsp;&emsp;◻️ [Das Android-Smartphone als Webcam nutzen](/docs/05-kommunikation/02-webcam/01-droidcam/README.md) <br>
     &emsp;&emsp;◻️ [Das iPhone als Webcam für den Mac verwenden](/docs/05-kommunikation/02-webcam/02-ios/README.md) <br>
 
-  &nbsp;&nbsp;🔹 [**Bekannte Probleme**](/docs/05-kommunikation/03-bekannte_probleme/README.md) <br>
+  &nbsp;&nbsp;🔹 [**Bekannte Probleme**](/docs/05-kommunikation/03-bekannte_Probleme/README.md) <br>
 </details>
 
 ---
@@ -547,10 +547,10 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
 <details>
 <summary>Bewährte Methoden und Frameworks im Projektmanagement</summary>
 
-  &emsp;📄 [Kapitelübersicht](/docs/07-methoden_und_projekte/02-methoden/README.md)
+  &emsp;📄 [Kapitelübersicht](/docs/07-projekte/02-methoden/README.md)
   
-  &nbsp;&nbsp;🔹 [Scrum](/docs/07-methoden_und_projekte/02-methoden/01-scrum/README.md) <br>
-  &nbsp;&nbsp;🔹 [Kanban](/docs/07-methoden_und_projekte/02-methoden/02-kanban/README.md) <br>
+  &nbsp;&nbsp;🔹 [Scrum](/docs/07-projekte/02-methoden/01-scrum/README.md) <br>
+  &nbsp;&nbsp;🔹 [Kanban](/docs/07-projekte/02-methoden/02-kanban/README.md) <br>
 
 </details>
 

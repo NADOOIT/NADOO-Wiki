@@ -38,7 +38,7 @@ Insofern ein:e **Ersteller:in** vermerkt ist, kannst du dich auch direkt an dies
 
 <p align="center">
 <a href="/docs/08-karriere/02-anwendungsentwickler_beruf/03-lernen_und_arbeiten/README.md"><strong>Zurück</strong></a> | 
-<a href="/docs/09-glossar/README.md"><strong>Weiter</strong></a>
+<a href="/docs/09-Glossar/README.md"><strong>Weiter</strong></a>
 </p>
 
 <p align="center">
