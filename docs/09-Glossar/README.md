@@ -11,6 +11,7 @@
 - **CBT (Computer Based Training)**: Eine Form der Ausbildung, die computerbasierte Lernmethoden nutzt.
 - **CE (Conformité Européenne)**: Ein Zeichen, das die Konformität eines Produkts mit den europäischen Sicherheitsrichtlinien anzeigt.
 - **CI (Corporate Identity)**: Das Erscheinungsbild eines Unternehmens, einschließlich Logos, Farben und Designrichtlinien.
+- **CI/CD (Continuous Integration / Continuous Deployment)**: Kombination aus automatischem Zusammenführen von Codeänderungen (CI) und automatisiertem Ausrollen nach erfolgreichen Tests/Prüfungen (CD) – für schnellere, verlässlichere Software-Releases.
 - **CIFS (Common Internet File System)**: Ein Protokoll zur gemeinsamen Nutzung von Dateien im Netzwerk.
 - **CPS (Cyber-Physical Systems)**: Systeme, die physische und softwarebasierte Komponenten integrieren.
 - **CRM (Customer Relationship Management)**: Systeme zur Verwaltung der Beziehungen und Interaktionen eines Unternehmens mit aktuellen und potenziellen Kunden.
