@@ -79,4 +79,4 @@
 <a href="/docs/08-karriere/02-anwendungsentwickler_beruf/04-karriere_bei_nadoo/README.md"><strong>Zurück</strong></a> | 
 <a href="/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
 </p>
-🧠 Glossar-Testeintrag: Branch-Übung von [Dein Name]
+🧠 Glossar-Testeintrag: Branch-Übung
