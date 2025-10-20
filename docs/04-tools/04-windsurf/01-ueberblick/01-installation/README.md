@@ -172,8 +172,7 @@ Um zu prüfen, ob Windsurf korrekt installiert wurde, erstelle am besten ein neu
 ---
 
 <p align="center">
-<a href="/docs/04-tools/04-windsurf/01-ueberblick/README.md"><strong>Zurück</strong></a> | 
-<a href="/docs/04-tools/05-terminal/README.md"><strong>Weiter</strong></a>
+<a href="/docs/04-tools/04-windsurf/01-ueberblick/README.md"><strong>Zurück</strong></a> | <a href="/docs/04-tools/04-windsurf/01-ueberblick/02-api_anbindungen_und_externe_modelle/README.md"><strong>Weiter</strong></a>
 </p>
 
 <p align="center">

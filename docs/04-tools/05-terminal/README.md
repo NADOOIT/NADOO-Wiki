@@ -104,7 +104,7 @@ Füge die Bilder in das Repository ein, indem du sie im `images/`-Ordner speiche
 ---
 
 <p align="center">
-<a href="/docs/04-tools/04-windsurf/02-installation/README.md"><strong>Zurück</strong></a> | 
+<a href="/docs/04-tools/04-windsurf/01-ueberblick/04-datenschutz_sicherheit_und_datenhaltung/README.md"><strong>Zurück</strong></a> | 
 <a href="/docs/04-tools/06-launchpad/README.md"><strong>Weiter</strong></a>
 </p>
 

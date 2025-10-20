@@ -1,14 +1,15 @@
 # <p align="center">Windsurf</p>
 
-<!--Einleitung und Kapitelübersicht-->
+## Einleitung
 
----
+Windsurf ist eine Agentic IDE (KI-gesteuerte Entwicklungsumgebung). Sie wurde entwickelt, um Entwicklern die Arbeit zu erleichtern, indem sie fortgeschrittene KI-Funktionen wie den Cascade-Workflow und kontextbezogene Vorschläge direkt im Editor bereitstellt. Das Ziel ist, den sogenannten "Flow State" beim Programmieren zu unterstützen und zu beschleunigen. Es gibt die Windsurf Editor IDE selbst, aber auch Plugins für andere IDEs (wie z.B. JetBrains oder VS Code).
 
 **Dieses Thema beinhaltet folgende Kapitel:**
+
 ---
 
 🔹 [**Überblick**](/docs/04-tools/04-windsurf/01-ueberblick/README.md) </br>
-🔹 [**Installation**](/docs/04-tools/04-windsurf/02-installation/README.md) </br>
+🔹 [**Installation**](/docs/04-tools/04-windsurf/01-ueberblick/01-installation/README.md) </br>
 
 ---
 
