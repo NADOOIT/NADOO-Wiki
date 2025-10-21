@@ -326,6 +326,10 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
 <summary>Terminal</summary>
 
   &nbsp;&nbsp;🔹 [Das Terminal — die Grundlagen](/docs/04-tools/05-terminal/README.md)
+![PowerShell Navigation und Verzeichnisbefehle](./images/terminal.windows/PrompEingabe.JPG)
+![tree-Befehl Verzeichnisstruktur](./images/terminal.windows/terminal-Baumverzeichnisstruktur.JPG)
+![PowerShell Prompt und aktueller Pfad](./images/terminal.windows/VerzeichnisWechesln-Anzeigen.JPG)
+
 
 </details>
 
