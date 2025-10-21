@@ -81,4 +81,6 @@
 <a href="/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
 </p>
 🧠 Glossar-Testeintrag: Branch-Übung
+- **TEST-EINTRAG (Konfliktübung)**: Änderung durch Branch KonfliktBeispiel-B
 - **TEST-EINTRAG (Konfliktübung)**: Änderung durch Branch KonfliktBeispiel
+
