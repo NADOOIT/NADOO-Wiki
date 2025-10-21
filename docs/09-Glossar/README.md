@@ -82,3 +82,5 @@
 </p>
 🧠 Glossar-Testeintrag: Branch-Übung
 - **TEST-EINTRAG (Konfliktübung)**: Änderung durch Branch KonfliktBeispiel-B
+- **TEST-EINTRAG (Konfliktübung)**: Änderung durch Branch KonfliktBeispiel
+
