@@ -84,26 +84,6 @@ Nun stellen wir sicher, dass folgende grundlegende Komponenten installiert und e
    - Prüfe, ob die Meldung **"Docker Desktop is running"** angezeigt wird
 
 4. **Starte Windsurf neu**, falls es noch geöffnet war.  
-   - Danach sollte der MCP-Server automatisch erfolgreich verbunden werden. Erkennbar durch einen grünen Punkt bei MCPs oben rechts im Cascade Chat Bereich.
-
-5. **Github-MCP-Server in Docker Desktop hinzufügen**
-
-   - Öffne Docker Desktop
-   - Klicke auf den Button **Add Server** im Bereich MCP Toolkit.
-   - Suche nach **GitHub** und wähle den offiziellen **GitHub-MCP-Server** aus der Liste
-   - In einem Pop-up-Fenster wirst du aufgefordert, dein **GitHub-Token** einzugeben.  
-     Füge dort das eben erstellte Token ein.
-   - Bestätige deine Eingabe.
-
-### ❗ Wichtiger Hinweis: Docker ist erforderlich!
-
-Der Mein-MCP-Server wird in einer isolierten Umgebung über **Docker Desktop** ausgeführt.  
-Wenn Docker **nicht installiert oder nicht gestartet** ist, erhältst du beim Start des Servers eine Fehlermeldung wie:
-
-> MCP Server Error (mein-mcp-server): failed to create mcp stdio client: failed to start stdio transport: 
-> failed to start command: exec: "docker": executable file not found in %PATH%
-
-In diesem Fall überprüfe die bisherigen Schritte oder ob Docker Desktop gestartet ist.
 
 ---
 
@@ -207,9 +187,32 @@ Klicke unten auf **Generate token**.
 
 ---
 
-### 📥 Verwendung des Tokens in Windsurf
+## Github-MCP-Server in Docker Desktop hinzufügen
 
-Nachdem du dein Token erstellt hast, kannst du es direkt in Windsurf verwenden:
+   - Öffne Docker Desktop
+   - Klicke auf den Button **Add Server** im Bereich MCP Toolkit.
+   - Suche nach **GitHub** und wähle den offiziellen **GitHub-MCP-Server** aus der Liste
+   - In einem Pop-up-Fenster wirst du aufgefordert, dein **GitHub-Token** einzugeben.  
+     Füge dort das eben erstellte Token ein.
+   - Bestätige deine Eingabe.
+
+### ❗ Wichtiger Hinweis: Docker ist erforderlich!
+
+Der Mein-MCP-Server wird in einer isolierten Umgebung über **Docker Desktop** ausgeführt.  
+Wenn Docker **nicht installiert oder nicht gestartet** ist, erhältst du beim Start des Servers eine Fehlermeldung wie:
+
+> MCP Server Error (mein-mcp-server): failed to create mcp stdio client: failed to start stdio transport: 
+> failed to start command: exec: "docker": executable file not found in %PATH%
+
+In diesem Fall überprüfe die bisherigen Schritte oder ob Docker Desktop gestartet ist.
+
+---
+
+## 📥 Alternativer Weg: Verwendung des Tokens in Windsurf
+
+💠 Docker Desktop wird auch hier benötigt, außer man bevorzugt ein manuelle Lösung.
+
+Nachdem du dein Token erstellt hast, kannst du es alternativ in Windsurf verwenden:
 
 1. **Öffne Windsurf.**
 
@@ -256,7 +259,7 @@ Der Button ändert sich anschließend zu **Enabled**, was bedeutet, dass der Ser
 
 ---
 
-### 🧠 Was der GitHub-MCP-Server macht
+## 🧠 Was der GitHub-MCP-Server macht
 
 Sobald die Verbindung aktiv ist, kann Windsurf über den GitHub-MCP-Server folgende Aktionen durchführen:
 
@@ -270,7 +273,7 @@ Sobald die Verbindung aktiv ist, kann Windsurf über den GitHub-MCP-Server folge
 
 ---
 
-### ✅ Abschluss dieses Schrittes
+## ✅ Abschluss dieses Schrittes
 
 Wenn der Mein-MCP-Server in Windsurf unter **Aktive Server** angezeigt wird und der Status auf **Grün** steht, ist die API-Anbindung erfolgreich eingerichtet.  
 
