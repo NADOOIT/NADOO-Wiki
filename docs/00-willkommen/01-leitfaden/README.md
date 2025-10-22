@@ -21,7 +21,7 @@ Achte hier darauf, den **Textkörper leer zu lassen** und verwende **das folgend
 **E-Mail für den Arbeitsbeginn:** GO<br>
 
 <h2 align="center">Beispielbild</h2><br>
-<p align="center"><img width="717" height="274" alt="email format anwesenheit" src="https://github.com/user-attachments/assets/e218979a-c803-46fe-b839-69094fc8cbb0" /></p>
+<p align="center"><img width="717" height="274" alt="email format anwesenheit" src="../../../images/email_format_anwesenheit.png" /></p>
 
 #
 
