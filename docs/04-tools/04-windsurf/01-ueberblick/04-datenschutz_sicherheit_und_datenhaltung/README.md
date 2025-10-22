@@ -1,4 +1,4 @@
-# Windsurf: Datenschutz, Sicherheit und Datenhaltung
+# <p align="center">Windsurf: Datenschutz, Sicherheit und Datenhaltung</p>
 
 ### 📃 Einleitung: Windsurf als KI-Native IDE
 

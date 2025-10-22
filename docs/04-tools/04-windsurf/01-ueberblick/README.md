@@ -1,4 +1,4 @@
-#  Windsurf – Überblick in die KI-Entwicklungsumgebung
+# <p align="center">Windsurf – Überblick in die KI-Entwicklungsumgebung</p>
 
 <h3>❗💡 Hinweis: Alle&nbsp;&nbsp;▶&nbsp;&nbsp;sind aufklappbar</h3>
 

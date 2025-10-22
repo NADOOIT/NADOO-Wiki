@@ -1,4 +1,8 @@
-## Schritt-für-Schritt: Discord Bot Token bekommen
+# <p align="center">Schritt-für-Schritt: Discord Bot Token bekommen</p>
+
+<h3>❗💡 Hinweis: Alle&nbsp;&nbsp;▶&nbsp;&nbsp;sind aufklappbar</h3>
+
+---
 
 ### 1️⃣ Discord Developer Portal öffnen
 
@@ -16,11 +20,15 @@ Wenn du **noch keinen Bot hast**:
 
 Klicke oben rechts auf **“New Application”**
 
-_BILD PLATZHALTER_
+<div style="margin-left: 40px;"><details><summary><strong>Beispielbild</strong></summary>
+<img src="../../../../../../images/windsurf_bilder/bild0_discord1.png" alt="dtoken 1">
+</details></div><br>
 
 Gib einen Namen ein (z. B. *dbot token*) und klicke auf **Create**
 
-_BILD PLATZHALTER_
+<div style="margin-left: 40px;"><details><summary><strong>Beispielbild</strong></summary>
+<img src="../../../../../../images/windsurf_bilder/bild0_discord2.png" alt="discord token 2">
+</details></div><br>
 
 Wenn du **schon eine Anwendung** hast (z. B. für einen existierenden Bot):
 
@@ -32,7 +40,9 @@ Wenn du **schon eine Anwendung** hast (z. B. für einen existierenden Bot):
 
 Links in der Seitenleiste klickst du auf **Bot**
 
-_BILD PLATZHALTER_
+<div style="margin-left: 40px;"><details><summary><strong>Beispielbild</strong></summary>
+<img src="../../../../../../images/windsurf_bilder/bild0_discord3.png" alt="discord token 3">
+</details></div><br>
 
 Jetzt siehst du die Bot-Einstellungen deiner Anwendung.
 
@@ -44,7 +54,9 @@ Falls du noch keinen Bot erstellt hast:
 
 Klicke auf **“Add Bot”** und Bestätige es.
 
-_BILD PLATZHALTER_
+<div style="margin-left: 40px;"><details><summary><strong>Beispielbild</strong></summary>
+<img src="../../../../../../images/windsurf_bilder/bild0_discord7.png" alt="discord token 4">
+</details></div><br>
 
 Danach existiert dein Bot-Account.
 
@@ -56,18 +68,23 @@ Unter dem Abschnitt **Token:**
 
 Klicke auf **“Reset Token”** oder **“View Token”** und bestätige mit **Yes, do it!**.
 
-_BILD PLATZHALTER_
+<div style="margin-left: 40px;"><details><summary><strong>Beispielbild</strong></summary>
+<img src="../../../../../../images/windsurf_bilder/bild0_discord4.png" alt="discord token 4">
+</details></div><br>
 
-_BILD PLATZHALTER_
+<div style="margin-left: 40px;"><details><summary><strong>Beispielbild</strong></summary>
+<img src="../../../../../../images/windsurf_bilder/bild0_discord5.png" alt="discord token 5">
+</details></div><br>
 
 Kopiere das Token (z. B. `MTAxMjM0NTY3ODkw.Qwerty123ABC...`)
 
-_BILD PLATZHALTER_
+<div style="margin-left: 40px;"><details><summary><strong>Beispielbild</strong></summary>
+<img src="../../../../../../images/windsurf_bilder/bild0_discord6.png" alt="discord token 6">
+</details></div><br>
 
 ⚠️ **Wichtig:**
 
-Dieses Token ist **wie ein Passwort** für deinen Bot.  
-Wenn du es jemandem gibst, kann er deinen Bot komplett steuern.  
+Dieses Token ist **wie ein Passwort** für deinen Bot. Wenn du es jemandem gibst, kann er deinen Bot komplett steuern.  
 → Speichere es sicher (z. B. Passwortmanager).
 
 ---

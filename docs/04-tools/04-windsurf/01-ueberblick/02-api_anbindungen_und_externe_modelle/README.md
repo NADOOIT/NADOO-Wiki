@@ -1,4 +1,6 @@
-# 1. API-Anbindungen und externe Modelle in Windsurf konfigurieren
+# <p align="center">API-Anbindungen und externe Modelle in Windsurf konfigurieren</p>
+
+<h3>❗💡 Hinweis: Alle&nbsp;&nbsp;▶&nbsp;&nbsp;sind aufklappbar</h3>
 
 ## Einleitung
 
@@ -47,11 +49,13 @@ Nun stellen wir sicher, dass folgende grundlegende Komponenten installiert und e
 
 <div style="margin-left: 40px;"><a href="/docs/04-tools/04-windsurf/01-ueberblick/01-installation/README.md">Windsurf installieren</a></div><br>
 
-- uv/uvx Launcher: Ermöglicht das Starten und Steuern von MCP-Servern, insbesondere für Jentic.
+- uv/uvx Launcher: Ermöglicht das Starten und Steuern von MCP-Servern, insbesondere für Jentic.<br>
 
 <div style="margin-left: 40px;"><strong>Installieren mit pip über z.B. PowerShell (alle Betriebssysteme): pip install uv</strong></div><br>
 
-_Platzhalter_BILD_installuv
+<div style="margin-left: 40px;"><details><summary>Beispielbild</summary>
+<img src="../../../../../images/windsurf_bilder/BILD1_installuv.png" alt="UV Installieren">
+</details></div><br>
 
 - Übungsbeispiel Discord Bot Token erstellen: 
 
@@ -129,21 +133,42 @@ Damit Windsurf über den MCP-Server mit deinem GitHub-Konto kommunizieren darf, 
 
 ---
 
-### Schritt-für-Schritt-Anleitung zum Erstellen des GitHub Tokens (BILDER NOCH EINFÜGEN!!!!!)
+### Schritt-für-Schritt-Anleitung zum Erstellen des GitHub Tokens
 
 1. Melde dich bei GitHub an:  
    
-   Öffne [https://github.com](https://github.com) und logge dich mit deinem Konto ein.
+   Öffne [https://github.com](https://github.com) und logge dich mit deinem Konto ein und verifiziere es anhand des Codes, der dir per E-Mail zugeschickt wird.
 
 2. Öffne die Token-Verwaltung:  
    
-   Klicke oben rechts auf dein Profilbild → **Settings** → **Developer settings** → **Personal access tokens** → **Tokens (classic)**
+   Klicke oben rechts auf dein
+
+
+<div style="margin-left: 40px;"><details><summary><strong>Profilbild</strong> ⏬ Beispielbild</summary>
+<img src="../../../../../images/windsurf_bilder/githubtoken1.png" alt="GitHub Token 1">
+</details></div><br>
+
+<div style="margin-left: 40px;"><details><summary><strong>Settings</strong> ⏬ Beispielbild</summary>
+<img src="../../../../../images/windsurf_bilder/githubtoken2.png" alt="GitHub Token 2">
+</details></div><br>
+
+<div style="margin-left: 40px;"><details><summary><strong>Developer settings</strong> ⏬ Beispielbild</summary>
+<img src="../../../../../images/windsurf_bilder/githubtoken3.png" alt="GitHub Token 3">
+</details></div><br>
+
+<div style="margin-left: 40px;"><details><summary><strong>Personal access tokens → Tokens (classic)</strong> ⏬ Beispielbild</summary>
+<img src="../../../../../images/windsurf_bilder/githubtoken4.png" alt="GitHub Token 4">
+</details></div><br>
 
 3. Klicke auf „Generate new token (classic)“.
 
+<div style="margin-left: 40px;"><details><summary>Beispielbild</summary>
+<img src="../../../../../images/windsurf_bilder/githubtoken5.png" alt="GitHub Token 5">
+</details></div><br>
+
 4. Vergib einen Namen (Note):  
    
-   Wähle z. B. `Windsurf-MCP` als Bezeichnung.
+   Wähle z. B. `WindsurfApiBeispiel` als Bezeichnung.
 
 5. Lege eine Ablaufzeit (Expiration) fest:
 
@@ -160,12 +185,25 @@ Damit Windsurf über den MCP-Server mit deinem GitHub-Konto kommunizieren darf, 
    | `read:user` | Lesen von Benutzerinformationen |
    | `user:email` | Zugriff auf E-Mail-Adresse (optional) |
 
+<div style="margin-left: 40px;"><details><summary>Beispielbild</summary>
+<img src="../../../../../images/windsurf_bilder/githubtoken7.png" alt="GitHub Token 7">
+</details></div><br>
+
 7. Erstelle das Token:
 
-   Klicke unten auf **Generate token**.  
-   ❗ Achtung, GitHub zeigt dir dein neues Token **nur ein einziges Mal** an.
+Klicke unten auf **Generate token**.
+
+❗ Achtung, GitHub zeigt dir dein neues Token **nur ein einziges Mal** an.
+
+<div style="margin-left: 40px;"><details><summary>Beispielbild</summary>
+<img src="../../../../../images/windsurf_bilder/githubtoken8.png" alt="GitHub Token 8">
+</details></div><br>
 
 8. Kopiere das Token sofort und **bewahre es sicher auf** (z. B. in einem Passwortmanager oder einem verschlüsselten Notizsystem).
+
+<div style="margin-left: 40px;"><details><summary>Beispielbild</summary>
+<img src="../../../../../images/windsurf_bilder/githubtoken9.png" alt="GitHub Token 9">
+</details></div><br>
 
 ---
 
@@ -174,12 +212,42 @@ Damit Windsurf über den MCP-Server mit deinem GitHub-Konto kommunizieren darf, 
 Nachdem du dein Token erstellt hast, kannst du es direkt in Windsurf verwenden:
 
 1. **Öffne Windsurf.**
-2. Suche in der rechten Seitenleiste das kleine Steckersymbol **(MCPs)** und klicke danach auf **MCP Marketplace**.
-3. Wähle **GitHub** aus der Serverliste.
-4. Klicke auf den Button **Install**.
-5. In einem Pop-up-Fenster wirst du aufgefordert, dein **GitHub-Token** einzugeben.  
+
+2. Suche in der rechten Seitenleiste das kleine Steckersymbol **(MCPs)** und klicke danach auf **MCP Marketplace**.<br>
+
+<div style="margin-left: 40px;"><details><summary>Beispielbilder</summary>
+<img src="../../../../../images/windsurf_bilder/1mcp.png" alt="MCP Login einrichten">
+</details></div><br>
+
+<div style="margin-left: 40px;"><details><summary>Beispielbilder</summary>
+<img src="../../../../../images/windsurf_bilder/2mcp.png" alt="MCP2 Login einrichten">
+</details></div><br>
+
+<div style="margin-left: 40px;"><details><summary>Beispielbilder</summary>
+<img src="../../../../../images/windsurf_bilder/3mcp.png" alt="MCP3 Login einrichten">
+</details></div><br>
+
+3. Wähle **GitHub** aus der Serverliste.<br>   
+
+<div style="margin-left: 40px;"><details><summary>Beispielbild</summary>
+<img src="../../../../../images/windsurf_bilder/4mcp.png" alt="MCP4 Login einrichten">
+</details></div><br>
+
+4. Klicke auf den Button **Install**.<br>
+
+<div style="margin-left: 40px;"><details><summary>Beispielbild</summary>
+<img src="../../../../../images/windsurf_bilder/5neumcp.png" alt="MCP5 Login einrichten">
+</details></div><br>
+
+5. In einem Pop-up-Fenster wirst du aufgefordert, dein **GitHub-Token** einzugeben.
+
    Füge dort das eben erstellte Token ein.
-6. Bestätige deine Eingabe.
+
+6. Bestätige deine Eingabe mit **Save**.<br>
+
+<div style="margin-left: 40px;"><details><summary>Beispielbild</summary>
+<img src="../../../../../images/windsurf_bilder/githubtoken10.png" alt="GitHub Token 10">
+</details></div><br>
 
 Nach der Bestätigung wird der **MCP-Server automatisch installiert** und mit deinem Konto verbunden.  
 Der Button ändert sich anschließend zu **Enabled**, was bedeutet, dass der Server jetzt aktiv ist. 
@@ -230,9 +298,23 @@ Beispiele für unterstützte APIs und Integrationen:
 
 💡 **Tipp:**
 
-Du kannst MCP-Server auch manuell installieren, indem du die Konfigurationsdatei (`mcp_config.json`) bearbeitest.<br> Ausführliche Anleitungen hierzu findest du im Internet reichlich.
+Du kannst MCP-Server auch manuell installieren, indem du die Konfigurationsdatei (z.B. `mcp_config.json`) bearbeitest.<br>
 
-Einige Server (z. B. OpenAI oder Discord) benötigen zusätzlich lokale Python- oder Docker-Komponenten, die Windsurf bei Bedarf anfordert oder automatisch installiert.
+Fülle deine Config-Datei mit folgenden Informationen aus:
+
+<details><summary>Bildbeispiel</summary>
+<img src="../../../../../images/windsurf_bilder/bild11_mcpservers.png" alt="MCP Config">
+</details><br>
+
+Wenn du es nicht bereits in der Jentic Konfiguration gemacht hast, wechsel anschließend nach Powershell und führe dort folgende Befehle aus:
+
+<details><summary>Bildbeispiel</summary>
+<img src="../../../../../images/windsurf_bilder/bild10_powershell.png" alt="Powershell Config">
+</details><br>
+
+🌐 Genauere Informationen zur manuellen Installation von MCP-Servern findet man im Internet reichlich.
+
+Einige Server (z. B. OpenAI oder Discord) benötigen zudem zusätzlich lokale Python- oder Docker-Komponenten, die Windsurf bei Bedarf anfordert oder automatisch installiert.
 
 ---
 
@@ -247,27 +329,9 @@ Ein MCP-Client wie *Cascade*, der innerhalb von Windsurf läuft, verbindet sich 
 - die Authentifizierung (z. B. per Token),
 - sowie die Steuerung von Zugriffen und Workflows.
 
-Sobald dein Server aktiv ist, stehen in Windsurf spezielle Befehle zur Verfügung, um APIs direkt anzusprechen oder Workflows zu starten:
-
-| Befehl | Funktion |
-|--------|-----------|
-| `/search_apis` | Durchsucht alle verfügbaren APIs nach bestimmten Funktionen (z. B. „Create Issue“, „Send Discord Message“) |
-| `/load_execution_info` | Zeigt technische Details einer API (z. B. URL, Parameter, Authentifizierungstyp) |
-| `/execute` | Führt einen API-Aufruf mit den angegebenen Parametern aus |
-| `/gpt-4-analyse` | Beispielhafter Workflow-Aufruf für KI-basierte Analysefunktionen |
-
-💡 **Hinweis:**  
-
-Diese Befehle stehen nur zur Verfügung, wenn der jeweilige MCP-Server aktiv ist und in Windsurf erfolgreich geladen wurde.  
-Achte darauf, dass Docker (oder der jeweilige lokale Prozess) läuft, bevor du die Befehle ausführst.
-
----
-
-## Beispiel: GitHub-MCP-Server
-
 Wenn du – wie in Schritt 2 beschrieben – den GitHub-MCP-Server eingerichtet hast, kannst du damit direkt auf GitHub-Daten zugreifen, ohne Windsurf zu verlassen.
 
-Beispielhafte Aktionen:
+**Beispielhafte Aktionen:**
 
 - Repository-Informationen abrufen  
 - Offene Pull Requests oder Issues anzeigen  
@@ -292,8 +356,8 @@ Auch bei korrekter Konfiguration kann es bei der API-Anbindung in Windsurf geleg
 |------------|--------------|--------|
 | **1. Docker nicht gestartet** | Windsurf kann keine MCP-Server starten, wenn Docker Desktop nicht läuft. | Öffne **Docker Desktop**, warte bis „Docker is running“ erscheint, und starte Windsurf anschließend neu. |
 | **2. Fehlendes Token** | Windsurf zeigt bei GitHub, Discord oder Jentic einen Authentifizierungsfehler an. | Prüfe, ob dein Token in Windsurf korrekt eingetragen ist. Falls du dein Token in GitHub oder Jentic neu generiert hast, musst du es auch in Windsurf aktualisieren. |
-| **3. Falsches Format in der JSON-Datei** | Die manuell erstellte `mcp_config.json` wurde fehlerhaft formatiert oder enthält ungültige Schlüssel. | Öffne die Datei erneut (z. B. über Windsurf → MCP → „Konfigurieren“) und prüfe sie auf fehlende Kommata, falsche Klammern oder Tippfehler. |
-| **4. Pfadprobleme (uv/uvx)** | Windows erkennt den MCP-Launcher nicht. | Prüfe über **PowerShell** mit `where uvx`, ob der Pfad korrekt gesetzt ist. Ggf. `pip install uv` erneut ausführen. |
+| **3. Falsches Format in der JSON-Datei** | Die manuell erstellte `mcp_config.json` wurde fehlerhaft formatiert oder enthält ungültige Schlüssel. | Öffne die Datei erneut und prüfe sie auf fehlende Kommata, falsche Klammern oder Tippfehler. |
+| **4. Pfadprobleme (uv/uvx)** | Windows erkennt den MCP-Launcher nicht. | Prüfe über **PowerShell** mit `where.exe uv`, ob der Pfad korrekt gesetzt ist. Ggf. `pip install uv` erneut ausführen. |
 | **5. Netzwerk oder Firewall blockiert Zugriff** | Windsurf kann keine Verbindung zu externen APIs aufbauen. | Deaktiviere testweise lokale Firewalls oder trage Windsurf in die Liste der zugelassenen Programme ein. |
 | **6. Server startet, aber bleibt inaktiv** | Windsurf zeigt „Server inactive“ oder „Client not responding“. | Beende Windsurf, starte Docker Desktop neu und öffne Windsurf anschließend erneut. |
 | **7. API-Fehlercodes (401 / 403)** | Authentifizierungsfehler, Token ungültig oder abgelaufen. | Erstelle ein neues Token (z. B. in GitHub oder Jentic) und trage es erneut ein. |

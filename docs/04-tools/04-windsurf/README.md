@@ -1,4 +1,6 @@
 # <p align="center">Windsurf</p>
+<br>
+<p align="center"><img src="../../../images/windsurf_bilder/windsurfstart.png" alt="Windsurf Startbild"></p>
 
 ## Einleitung
 

@@ -1,4 +1,4 @@
-# Workflows und Automatisierungsprozesse in der Windsurf IDE
+# <p align="center">Workflows und Automatisierungsprozesse in der Windsurf IDE</p>
 
 ## 📃 Einleitung: Das Paradigma der Agentenbasierten Entwicklungsumgebung
 
