@@ -1,5 +1,7 @@
 # <p align="center">Installationsguide Windsurf</p>
 
+<h3>❗💡 Hinweis: Alle&nbsp;&nbsp;▶&nbsp;&nbsp;sind aufklappbar</h3>
+
 ## Windsurf
 
 
@@ -26,122 +28,128 @@ Um eine reibungslose Installation zu gewährleisten, überprüfe, ob dein System
 
 Zunächst suchst du im Internet über eine Suchmaschine nach **Windsurf** oder **IDE Windsurf** und wählst in der Regel den ersten Eintrag.
 
-
-<img width="922" height="302" alt="windsurf googlen" src="https://github.com/user-attachments/assets/ff7d6a6e-d184-486c-9b92-2e65bfd2d5dc" />
-
+<div style="margin-left: 40px;"><details><summary><strong>Beispielbild</strong></summary>
+<img src="../../../../../images/windsurf_bilder/1windsurfhp.png" alt="Windsurf googlen">
+</details></div><br>
 
 ---
-
 
 Jetzt kannst du dich oben rechts über das Profil-Symbol für die Nutzung von Windsurf registrieren. Klicke dafür auf das **Profilbild**.
 
-
-<img width="1891" height="959" alt="anmeldesymbol anklicken" src="https://github.com/user-attachments/assets/5e4d689a-99fd-452c-a8b2-e0c464e5f2fa" />
-
+<div style="margin-left: 40px;"><details><summary><strong>Beispielbild</strong></summary>
+<img src="../../../../../images/windsurf_bilder/2windsurfregi.png" alt="Windsurf registrieren">
+</details></div><br>
 
 ---
-
 
 Klicke auf den Link **Sign Up**, wie auf dem Bild unten zu sehen.
 
-
-<img width="550" height="797" alt="3  anmelden bei windsurf" src="https://github.com/user-attachments/assets/f9822cc4-b028-458e-b336-63de69f62ed7" />
-
+<div style="margin-left: 40px;"><details><summary><strong>Beispielbild</strong></summary>
+<img src="../../../../../images/windsurf_bilder/3windsurfeingabe.png" alt="Daten eingeben">
+</details></div><br>
 
 ---
-
 
 Fülle die Anmeldemaske mit deinen Daten aus und klicke auf **Continue**, oder nutze einen vorhandenen Google- oder GitHub-Account.
 
-
-<img width="1269" height="799" alt="konto erstellung" src="https://github.com/user-attachments/assets/350ea5b5-0d41-4543-b613-491e0508366e" />
-
+<div style="margin-left: 40px;"><details><summary><strong>Beispielbild</strong></summary>
+<img src="../../../../../images/windsurf_bilder/4windsurfcreatacc.png" alt="Account erstellen">
+</details></div><br>
 
 ---
-
 
 ## Herunterladen und Installieren von Windsurf unter Windows
 
 
 ### Schritt 1: Lade das Windsurf-Installationsprogramm herunter
 
-
 Auf der Seite suchst du nach **Download** für Windows, lädst die Datei herunter, führst sie aus und folgst der Anleitung auf dem Bildschirm.
 
-
-<img width="1895" height="951" alt="2  windsurf downloaden für windows" src="https://github.com/user-attachments/assets/5d7e8b1a-221d-490f-80f5-b30fc15edc87" />
-
+<div style="margin-left: 40px;"><details><summary><strong>Beispielbild</strong></summary>
+<img src="../../../../../images/windsurf_bilder/5windsurfdl.png" alt="Windsurf downloaden">
+</details></div><br>
 
 ---
-
 
 Es öffnet sich ein weiteres Fenster, in dem du die **Variante x64** auswählst (die meisten Windows-Betriebssysteme laufen auf x64).
 
-
-<img width="1043" height="487" alt="windows download" src="https://github.com/user-attachments/assets/8956f1dc-df7a-494e-847a-2342b00660dc" />
-
+<div style="margin-left: 40px;"><details><summary><strong>Beispielbild</strong></summary>
+<img src="../../../../../images/windsurf_bilder/6windsurfx64.png" alt="Windsurf x64 auswählen">
+</details></div><br>
 
 ---
-
 
 Im Download-Fenster klickst du anschließend auf **Öffnen**.
 
-
-<img width="784" height="405" alt="download öffnen" src="https://github.com/user-attachments/assets/cee63939-2484-496d-8e2a-cb59e7ff1efb" />
-
+<div style="margin-left: 40px;"><details><summary><strong>Beispielbild</strong></summary>
+<img src="../../../../../images/windsurf_bilder/7windsurfdloeffnen.png" alt="Windsurf downloaden bestätigen">
+</details></div><br>
 
 Windows zeigt möglicherweise eine Benutzerkontensteuerung (UAC)-Aufforderung an. Klicke auf **Ja**, um fortzufahren. Der Setup-Assistent öffnet sich und führt dich durch den Prozess.
 
-
 ---
-
 
 Bestätige die Lizenzvereinbarungen mit **Weiter**.
 
-
-<img width="598" height="463" alt="4  Vereinbarungen akzeptieren" src="https://github.com/user-attachments/assets/920b6dea-cd2e-40c4-a84f-8d85d13d2b8f" />
+<div style="margin-left: 40px;"><details><summary><strong>Beispielbild</strong></summary>
+<img src="../../../../../images/windsurf_bilder/8windsurflizenz.png" alt="Windsurf Lizenzvereinbarungen">
+</details></div><br>
 
 ---
 
 Als bevorzugtes Installationsverzeichnis wählst du das vorgeschlagene Standardverzeichnis und klickst danach auf **Weiter**.
 
-<img width="596" height="457" alt="5  installationspfad auswählen" src="https://github.com/user-attachments/assets/44d9444f-4f16-41b6-b994-7637b8671cec" />
+<div style="margin-left: 40px;"><details><summary><strong>Beispielbild</strong></summary>
+<img src="../../../../../images/windsurf_bilder/9windsurfziel.png" alt="Windsurf Installationspfad">
+</details></div><br>
 
 ---
 
 Wenn du einen Startmenü-Ordner erstellen möchtest, klicke auf **Weiter** und warte, bis die Installation abgeschlossen ist.
 
-<img width="596" height="457" alt="6  Ordner benennen" src="https://github.com/user-attachments/assets/5df4fc54-201b-42ba-ad8b-ce1f89143b89" />
+<div style="margin-left: 40px;"><details><summary><strong>Beispielbild</strong></summary>
+<img src="../../../../../images/windsurf_bilder/10windsurfStartm.png" alt="Windsurf Startmenü">
+</details></div><br>
 
 ---
 
 Wähle, ob du ein Desktop-Symbol haben möchtest (siehe roter Pfeil), und klicke anschließend auf **Weiter**.
 
-<img width="593" height="456" alt="7  zusätzliche Aufgaben auswählen" src="https://github.com/user-attachments/assets/4197144a-847b-4273-baa0-e5512d18d1ab" />
+<div style="margin-left: 40px;"><details><summary><strong>Beispielbild</strong></summary>
+<img src="../../../../../images/windsurf_bilder/9bwindsurfdesktop.png" alt="Windsurf Desktop Symbol">
+</details></div><br>
 
 ---
 
 Überprüfe deine Installationsangaben und klicke anschließend auf **Installieren**.
 
-<img width="591" height="457" alt="8  installieren" src="https://github.com/user-attachments/assets/dc5d7ef7-5fa2-407b-a5e6-5b07f0c6d543" />
+<div style="margin-left: 40px;"><details><summary><strong>Beispielbild</strong></summary>
+<img src="../../../../../images/windsurf_bilder/12windsurfinstall.png" alt="Windsurf Installieren">
+</details></div><br>
 
 ---
 
 Alternativ kannst du Windsurf auch als **Plugin in Visual Studio Code** nutzen. Hierfür benötigst du natürlich VS Code. Öffne dort die **Extensions**-Ansicht in der linken Seitenleiste und suche nach dem Plugin.
 
-<img width="1918" height="1028" alt="studio code erweiterungen" src="https://github.com/user-attachments/assets/87fc2b85-2458-4b6a-8843-3e4d4785598f" />
+<div style="margin-left: 40px;"><details><summary><strong>Beispielbild</strong></summary>
+<img src="../../../../../images/windsurf_bilder/13windsurfext.png" alt="Windsurf Extensions">
+</details></div><br>
 
 ---
 
 Gib oben ins Suchfeld **Windsurf** ein.
 
-<img width="1919" height="1031" alt="windsurf in erweiterungen eingeben" src="https://github.com/user-attachments/assets/660deb10-5b1d-4709-87a8-944276199051" />
+<div style="margin-left: 40px;"><details><summary><strong>Beispielbild</strong></summary>
+<img src="../../../../../images/windsurf_bilder/14windsurfext2.png" alt="Windsurf Extensions">
+</details></div><br>
 
 ---
 
 Klicke dann auf den blauen Button **Installieren**.
 
-<img width="1193" height="708" alt="plugin installieren" src="https://github.com/user-attachments/assets/6e990a40-ab6d-47a5-abc3-9d59064e1bf5" />
+<div style="margin-left: 40px;"><details><summary><strong>Beispielbild</strong></summary>
+<img src="../../../../../images/windsurf_bilder/15windsurfplug.png" alt="Windsurf Plugin">
+</details></div><br>
 
 ---
 
@@ -172,8 +180,7 @@ Um zu prüfen, ob Windsurf korrekt installiert wurde, erstelle am besten ein neu
 ---
 
 <p align="center">
-<a href="/docs/04-tools/04-windsurf/01-ueberblick/README.md"><strong>Zurück</strong></a> | 
-<a href="/docs/04-tools/05-terminal/README.md"><strong>Weiter</strong></a>
+<a href="/docs/04-tools/04-windsurf/01-ueberblick/README.md"><strong>Zurück</strong></a> | <a href="/docs/04-tools/04-windsurf/01-ueberblick/02-api_anbindungen_und_externe_modelle/README.md"><strong>Weiter</strong></a>
 </p>
 
 <p align="center">
