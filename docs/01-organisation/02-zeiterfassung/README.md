@@ -15,10 +15,7 @@ Jede/r Mitarbeiter/in sendet **morgens zum Arbeitsbeginn** jeweils **eine E-Mail
 💡 Das Ausstempeln erfolgt automatisch und ist immer auf 16:30 Uhr gesetzt. 
 
 
-<h3 align="center">So sollte die Mail in etwa aussehen:</h3>
-
-<p align="center"><img width="716" height="288" alt="E-Mail_Betreff_GO" src="https://github.com/user-attachments/assets/0ecdc017-a66f-4fb6-85f1-e155150bb407" />
-</p>
+![Beispiel Anwesenheits-Mail](../../../images/email_format_anwesenheit.png)
 
 
 ---
