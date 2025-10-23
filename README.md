@@ -316,8 +316,10 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
   &emsp;📄 [Kapitelübersicht](/docs/04-tools/04-windsurf/README.md)
 
   &nbsp;&nbsp;🔹 [Windsurf — ein Überblick](/docs/04-tools/04-windsurf/01-ueberblick/README.md) <br>
-  &nbsp;&nbsp;🔹 [Installation und Einrichtung](/docs/04-tools/04-windsurf/02-installation/README.md) <br>
-
+  &emsp;&emsp;◻️ [Installation und Einrichtung](/docs/04-tools/04-windsurf/01-ueberblick/01-installation/README.md) <br>
+  &emsp;&emsp;◻️ [API Anbindung](/docs/04-tools/04-windsurf/01-ueberblick/02-api_anbindungen_und_externe_modelle/README.md) <br>
+  &emsp;&emsp;◻️ [Workflows - Automatisierung](/docs/04-tools/04-windsurf/01-ueberblick/03-workflows_und_automatisierungsprozesse/README.md) <br>
+  &emsp;&emsp;◻️ [Datenschutz](/docs/04-tools/04-windsurf/01-ueberblick/04-datenschutz_sicherheit_und_datenhaltung/README.md) <br>
 </details>
 
 <!-- 4-05 Terminal -->
