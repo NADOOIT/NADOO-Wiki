@@ -21,7 +21,7 @@ Ob für die **Verwaltung** von Daten und Prozessen, die **Dokumentation** von Wi
 ---
 
 <p align="center">
-<a href="/docs/04-meetings/04-33er/README.md"><strong>Zurück</strong></a> | 
+<a href="/docs/03-meetings/04-33er/README.md"><strong>Zurück</strong></a> | 
 <a href="/docs/04-tools/01-github/README.md"><strong>Weiter</strong></a>
 </p>
 
