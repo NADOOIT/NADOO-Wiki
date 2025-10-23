@@ -79,7 +79,7 @@ Du hast erfolgreich deinen Agent erstellt. Dein **JENTIC_AGENT_API_KEY** ist nun
 Du kannst die Jentic Registrierung jetzt verlassen. Wechsel anschließend direkt nach **PowerShell** und füge den **JENTIC_AGENT_API_KEY** nach folgendem Beispiel ein:
 
 <details><summary>Bildbeispiel</summary>
-<img src="../../../../../../images/windsurf_bilder/BILD10_powershell.png" alt="Jentic PowerShell">
+<img src="../../../../../../images/windsurf_bilder/bild10_powershell.png" alt="Jentic PowerShell">
 </details><br>
 
 <p align="center">Hiermit ist die Jentic Konfiguration abgeschlossen.</p>
