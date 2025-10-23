@@ -12,6 +12,9 @@ Windsurf ist eine Agentic IDE (KI-gesteuerte Entwicklungsumgebung). Sie wurde en
 
 🔹 [**Überblick**](/docs/04-tools/04-windsurf/01-ueberblick/README.md) </br>
 🔹 [**Installation**](/docs/04-tools/04-windsurf/01-ueberblick/01-installation/README.md) </br>
+🔹 [**API Anbindungen und externe Modelle**](/docs/04-tools/04-windsurf/01-ueberblick/02-api_anbindungen_und_externe_modelle/README.md) </br>
+🔹 [**Workflows und Automatisierungsprozesse**](/docs/04-tools/04-windsurf/01-ueberblick/03-workflows_und_automatisierungsprozesse/README.md) </br>
+🔹 [**Datenschutz, Sicherheit und Datenhaltung**](/docs/04-tools/04-windsurf/01-ueberblick/04-datenschutz_sicherheit_und_datenhaltung/README.md) </br>
 
 ---
 
