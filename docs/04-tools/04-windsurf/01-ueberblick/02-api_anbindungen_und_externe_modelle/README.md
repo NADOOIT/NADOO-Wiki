@@ -63,9 +63,9 @@ Nun stellen wir sicher, dass folgende grundlegende Komponenten installiert und e
 
 - Jentic Registrierung durchführen und Discord Bot Token eingeben:
 
-<div style="margin-left: 40px;"><a href="/docs/04-tools/04-windsurf/01-ueberblick/02-api_anbindungen_und_externe_modelle/02-jentic/README.md">🔗 Jentic Registrierung</a></div><br>
+<div style="margin-left: 40px;"><a href="/docs/04-tools/04-windsurf/01-ueberblick/02-api_anbindungen_und_externe_modelle/02-jentic/README.md">🔗 Jentic Registrierung</a></div>
 
----
+<h2 id="docker_desktop"></h2>
 
 #### Docker Desktop installieren
 
@@ -255,7 +255,7 @@ Nachdem du dein Token erstellt hast, kannst du es alternativ in Windsurf verwend
 Nach der Bestätigung wird der **MCP-Server automatisch installiert** und mit deinem Konto verbunden.  
 Der Button ändert sich anschließend zu **Enabled**, was bedeutet, dass der Server jetzt aktiv ist. 
 
-❗ Solltest du aber **Disabled** angezeigt bekommen, hast du wahrscheinlich noch kein Docker Desktop installiert.
+❗ Solltest du aber **Disabled** angezeigt bekommen, hast du wahrscheinlich noch kein [Docker Desktop](#docker_desktop) installiert.
 
 ---
 
