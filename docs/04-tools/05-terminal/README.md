@@ -17,6 +17,9 @@ Willkommen zu den Terminal Grundlagen! Diese Seite dient als Einführung in die 
 Das Terminal, auch als Kommandozeile, Shell oder Konsole bekannt, ist ein leistungsstarkes Werkzeug zur Interaktion mit deinem Betriebssystem. Es ermöglicht dir, Befehle direkt einzugeben und auszuführen. Hier sind die Methoden zum Öffnen des Terminals auf verschiedenen Betriebssystemen:
 
 ### Windows:
+![PowerShell Navigation und Verzeichnisbefehle](images/terminal.windows/Promsstruktur
+
+![Powerhell Prompt und aktueller Pfad
 - Drücke die Windows-Taste + R, gib "cmd" ein und drücke Enter.
 - Alternativ kannst du auch PowerShell verwenden, indem du im Startmenü nach "PowerShell" suchst.
 
