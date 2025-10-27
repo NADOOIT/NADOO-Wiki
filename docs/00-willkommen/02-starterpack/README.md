@@ -10,9 +10,9 @@ Damit du nach den Informationen, die du vor allem für den Start in einem neuen 
 
 ### 🗂️ Organisatorische und administrative Rahmenbedingungen
 
-ℹ️ [**Arbeits- und Pausenzeiten**](/docs/01-organisation/03-arbeits_und_pausenzeiten/) <br>
-ℹ️ [**Zeiterfassung**](/docs/01-organisation/01-zeiterfassung/) <br>
-ℹ️ [**Zeit- und Ausbildungsnachweise**](/docs/01-organisation/02-zeit_und_ausbildungsnachweise/README.md) <br>
+ℹ️ [**Arbeits- und Pausenzeiten**](/docs/01-organisation/01-arbeits_und_pausenzeiten/README.md) <br>
+ℹ️ [**Zeiterfassung**](/docs/01-organisation/02-zeiterfassung/README.md) <b
+ℹ️ [**Zeit- und Ausbildungsnachweise**](/docs/01-organisation/03-zeit_und_ausbildungsnachweise/README.md) <br>
 ℹ️ [**Krankmeldung**](/docs/01-organisation/05-krankmeldungen/README.md) <br>
 ℹ️ [**Urlaub**](/docs/01-organisation/04-urlaub/README.md) <br>
 ℹ️ [**Meetings**](/docs/03-meetings/README.md) <br>
