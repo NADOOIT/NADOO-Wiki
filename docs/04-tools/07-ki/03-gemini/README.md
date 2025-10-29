@@ -36,20 +36,19 @@ export GEMINI_API_KEY=Dein_API_Schlüssel
 
 Die Gemini API bietet ein kostenloses Nutzungskontingent (Free Tier), das ideal für Tests und kleinere Projekte geeignet ist.
 
-### Kostenloses Kontingent (Free Tier)
-
-- **Monatliches Limit:** Bis zu 1.000.000 Tokens pro Monat (prüfe die genauen Zahlen in der [offiziellen Dokumentation](https://ai.google.dev/gemini-api/docs/pricing?hl=de)).
 - **Einsatzgebiet:** Geeignet für Entwicklung, Prototyping und kleinere Anwendungen.
 
 ### Ratenlimits im Free Tier
 
 | Modell                | Anfragen pro Minute (RPM) | Tokens pro Minute (TPM) | Anfragen pro Tag (RPD) |
 |-----------------------|---------------------------|--------------------------|------------------------|
-| Gemini 2.0 Flash      | 15                        | 1.000.000                | 1.500                  |
-| Gemini 2.0 Flash-Lite | 30                        | 1.000.000                | 1.500                  |
-| Gemini 1.5 Flash      | 15                        | 1.000.000                | 1.500                  |
+| Gemini 2.0 Flash      | 15                        | 1.000.000                | 200                    |
+| Gemini 2.0 Flash-Lite | 30                        | 1.000.000                | 200                    |
+| Gemini 2.5 Pro        | 2                         | 125.000                  | 50                     |
+| Gemini 2.5 Flash      | 10                        | 250.000                  | 250                    |
+| Gemini 2.5 Flash-Lite | 15                        | 250.000                  | 1000                   |
 
-*Hinweis: Die genauen Limits können je nach Modell variieren. Für aktuelle Informationen konsultiere bitte die [offizielle Dokumentation](https://ai.google.dev/gemini-api/docs/rate-limits?hl=de).*
+*Hinweis: Die genauen Limits können je nach Modell variieren. Für aktuelle Informationen besuche: [offizielle Dokumentation](https://ai.google.dev/gemini-api/docs/rate-limits?utm_source=chatgpt.com&hl=de#current-rate-limits).*
 
 Diese Anleitung basiert auf Informationen aus der [offiziellen Gemini API-Dokumentation](https://ai.google.dev/gemini-api/docs/api-key?hl=de) und den [Preisinformationen](https://ai.google.dev/gemini-api/docs/pricing?hl=de).
 
