@@ -17,9 +17,6 @@ Willkommen zu den Terminal Grundlagen! Diese Seite dient als Einführung in die 
 Das Terminal, auch als Kommandozeile, Shell oder Konsole bekannt, ist ein leistungsstarkes Werkzeug zur Interaktion mit deinem Betriebssystem. Es ermöglicht dir, Befehle direkt einzugeben und auszuführen. Hier sind die Methoden zum Öffnen des Terminals auf verschiedenen Betriebssystemen:
 
 ### Windows:
-![PowerShell Navigation und Verzeichnisbefehle](images/terminal.windows/Promsstruktur
-
-![Powerhell Prompt und aktueller Pfad
 - Drücke die Windows-Taste + R, gib "cmd" ein und drücke Enter.
 - Alternativ kannst du auch PowerShell verwenden, indem du im Startmenü nach "PowerShell" suchst.
 
@@ -45,13 +42,29 @@ Da du bereits Visual Studio Code installiert hast, kannst du das integrierte Ter
 
 Wenn du ein Terminal öffnest, siehst du in der Regel folgende Elemente:
 
-1. **Prompt**: Dies ist der Bereich, in dem du Befehle eingibst. Er zeigt oft Informationen wie den aktuellen Benutzernamen, Computernamen und das aktuelle Verzeichnis an.
+1. **Prompt** (Eingabeaufforderung): 
+   - Zeigt oft deinen Benutzernamen, Computernamen und das aktuelle Verzeichnis an
+   - Endet normalerweise mit einem `$` (Linux/macOS) oder `>` (Windows)
+   - Beispiel: `benutzer@rechner:~$` oder `C:\Users\Benutzer>`
 
-2. **Cursor**: Ein blinkender Unterstrich oder Block, der anzeigt, wo deine Eingabe erscheinen wird.
+2. **Cursor**: 
+   - Blinkender Unterstrich oder Block (`_` oder `|`)
+   - Zeigt die aktuelle Einfügeposition an
+   - Wird automatisch nach dem Prompt platziert
 
-3. **Ausgabebereich**: Hier werden die Ergebnisse deiner Befehle angezeigt.
+3. **Ausgabebereich**: 
+   - Zeigt die Ergebnisse von Befehlen an
+   - Scrollt automatisch nach unten bei neuer Ausgabe
+   - Behält die Befehlsverlauf bei (abhängig von der Terminal-Konfiguration)
 
-4. **Scrollbalken**: Ermöglicht das Scrollen durch frühere Ausgaben und Befehle.
+4. **Scrollbalken**: 
+   - Erscheint, wenn der Inhalt länger ist als das sichtbare Fenster
+   - Ermöglicht das Durchsuchen früherer Ausgaben
+   - Kann mit der Maus oder Tastatur (Bild auf/Bild ab) bedient werden
+
+5. **Fenster-Titel** (optional):
+   - Zeigt oft das aktuelle Verzeichnis oder den laufenden Prozess an
+   - Kann je nach Terminal-Einstellungen variieren
 
 ## Grundlegende Navigation
 
@@ -81,15 +94,46 @@ Hier sind einige grundlegende Befehle zur Navigation im Terminal:
 
 ---
 
-## Aufgabe: Bilder erstellen und hinzufügen
+## Praktische Übung: Terminal erkunden
 
-Um die Anleitungen zu vervollständigen, erstelle Screenshots der beschriebenen Schritte:
+### Aufgabe 1: Terminal starten
+1. Öffne das Terminal auf deinem Betriebssystem
+2. Mache einen Screenshot des geöffneten Terminals
+3. Speichere den Screenshot als `terminal-windows.png` (oder `-macos`/`-linux`)
 
-1. Erstelle Screenshots für das Öffnen des Terminals in Windows, macOS und Linux.
-2. Mache einen Screenshot der Terminal-Benutzeroberfläche und beschrifte die wichtigsten Elemente.
-3. Zeige die Ausführung der grundlegenden Navigationsbefehle (`cd`, `ls`, `tree`) in Screenshots.
+### Aufgabe 2: Benutzeroberfläche verstehen
+1. Erstelle einen Screenshot deines Terminals
+2. Beschrifte folgende Elemente:
+   - Prompt
+   - Cursor
+   - Ausgabebereich
+   - Scrollbalken
+   - Fenster-Titel (falls sichtbar)
+3. Speichere den Screenshot als `terminal-ui.png`
 
-Füge die Bilder in das Repository ein, indem du sie im `images/`-Ordner speicherst. Erstelle anschließend einen Pull Request, um deine Änderungen vorzuschlagen.
+### Aufgabe 3: Navigation üben
+Führe folgende Befehle aus und mache jeweils einen Screenshot:
+1. `pwd` (zeigt das aktuelle Verzeichnis an)
+2. `ls` oder `dir` (listet den Verzeichnisinhalt auf)
+3. `cd` in ein anderes Verzeichnis wechseln
+4. `cd ..` ins übergeordnete Verzeichnis wechseln
+5. `tree` Verzeichnisstruktur anzeigen (falls verfügbar)
+
+### Abgabe der Aufgabe
+1. Erstelle einen Ordner `images/terminal` in diesem Verzeichnis
+2. Speichere alle Screenshots im `images/terminal`-Ordner
+3. Aktualisiere diese README, um auf die neuen Bilder zu verweisen
+4. Erstelle einen neuen Branch: `git checkout -b feature/terminal-screenshots`
+5. Committe deine Änderungen: `git add .` und `git commit -m "Hinzufügen von Terminal-Screenshots"`
+6. Pushe den Branch: `git push origin feature/terminal-screenshots`
+7. Erstelle einen Pull Request auf GitHub
+
+### Bewertungskriterien
+- [ ] Alle geforderten Screenshots sind vorhanden
+- [ ] Die Bilder sind klar und gut lesbar
+- [ ] Die Beschriftungen sind korrekt und verständlich
+- [ ] Die Befehle wurden korrekt ausgeführt
+- [ ] Die Änderungen wurden in einem separaten Branch vorgenommen
 
 ---
 
