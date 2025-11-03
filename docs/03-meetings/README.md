@@ -12,7 +12,7 @@ In diesem Abschnitt findest du alle relevanten Informationen zu unseren **Meetin
 
 👉 Die erweiterten **11er-Meetings** finden jeden **Montag, Dienstag und Donnerstag** nach der Anwesenheitsfeststellung statt.
 
-👉 Das **Meeting der Teamkordinator:innen** findet jeden **Mittwoch um 10:30 Uhr** im [📞 Discord-Kanal „teamkoordination“](https://discord.gg/DEIN-KANAL-LINK)  statt.
+👉 Das **Meeting der Teamkordinator:innen** findet jeden **Mittwoch um 10:30 Uhr** im [📞 Discord-Kanal „teamkoordination“](https://discordapp.com/channels/1299292608744390707/1427642197267710014)  statt.
 
 👉 Die erweiterten **33er-Meetings** finden jeden **Freitag** nach der Anwesenheitsfeststellung statt.
 
