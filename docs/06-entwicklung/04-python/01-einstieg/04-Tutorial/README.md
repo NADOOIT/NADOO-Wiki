@@ -1,5 +1,4 @@
-# <center>**<ins>Tutorial für Python</ins>**</center>
-<hr>
+# **<p style="text-align:center"><ins>Tutorial für Python</ins></p>**
 
 Dieses Tutorial auf Englisch erklärt von Grund auf Python.
 
