@@ -1,6 +1,6 @@
 # **<p align="center"><ins>Tutorial für Python</ins></p>**
 
-Dieses Tutorial auf Englisch erklärt von Grund auf Python.
+Dieses Tutorial auf Englisch, von Dr. Charles Severance, erklärt von Grund auf Python.
 
 Unter folgendem Link findet man die einzelnen Schritte, wenn man auf eines klickt,   wird man zum Video weitergeleitet: **[Python Kurs](https://www.freecodecamp.org/learn/python-for-everybody/#python-for-everybody)**
 <hr>
