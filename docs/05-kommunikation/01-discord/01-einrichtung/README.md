@@ -49,7 +49,7 @@ Alternativ kannst du natürlich auch jederzeit ein Issue unter [Kommunikation un
 
 <p align="center">
 <a href="/docs/05-kommunikation/01-discord/README.md"><strong>Zurück</strong></a> | 
-<a href="/docs/05-kommunikation/02-webcam/README.md"><strong>Weiter</strong></a>
+<a href="/docs/05-kommunikation/01-discord/01-einrichtung/README2.md"><strong>Weiter</strong></a>
 </p>
 
 <p align="center">

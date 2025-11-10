@@ -27,7 +27,7 @@ Es wird jedoch empfohlen, in kleineren Gruppen oder bei persönlichen Gespräche
 ---
 
 <p align="center">
-<a href="/docs/05-kommunikation/01-discord/01-einrichtung/README.md"><strong>Zurück</strong></a> | 
+<a href="/docs/05-kommunikation/01-discord/01-einrichtung/README2.md"><strong>Zurück</strong></a> | 
 <a href="/docs/05-kommunikation/02-webcam/01-droidcam/README.md"><strong>Weiter</strong></a>
 </p>
 
