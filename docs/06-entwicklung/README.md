@@ -48,7 +48,7 @@ Es gibt eine Vielzahl von Programmiersprachen, die jeweils ihre eigenen Stärken
 ---
 
 <p align="center">
-<a href="/docs/05-kommunikation/03-bekannte_probleme/README.md"><strong>Zurück</strong></a> | 
+<a href="/docs/05-kommunikation/04-email-clients/README.md"><strong>Zurück</strong></a>  | 
 <a href="/docs/06-entwicklung/01-dokumentation/README.md"><strong>Weiter</strong></a>
 </p>
 
