@@ -39,7 +39,7 @@ Betterbird bietet gegenüber anderen E-Mail-Clients:
 ---
 ## Installation
 
-<details><summary> **Windows:** </summary>
+<details><summary> Windows: </summary>
 
 1. Installer von der offiziellen Betterbird-Website herunterladen.
 <br>
@@ -48,7 +48,7 @@ Betterbird bietet gegenüber anderen E-Mail-Clients:
 3. Betterbird starten und Konto einrichten.
 </details>
 
-<details><summary> **macOS:** </summary>
+<details><summary> macOS: </summary>
 
 1. DMG-Datei herunterladen.
 <br>
@@ -57,7 +57,7 @@ Betterbird bietet gegenüber anderen E-Mail-Clients:
 3. Anwendung starten.
 </details>
 
-<details><summary> **Linux:** </summary>
+<details><summary> Linux: </summary>
 
 - **Debian/Ubuntu:** `.deb`-Paket installieren.
 <br>
@@ -69,7 +69,7 @@ Betterbird bietet gegenüber anderen E-Mail-Clients:
 ---
 ## Warum Betterbird als Standard-Client ausgewählt wurde
 
->Betterbird wurde als  E-Mail-Client gewählt, da es in mehreren entscheidenden Bereichen objektive Vorteile gegenüber anderen gängigen Alternativen wie Mailspring, Geary, SeaMonkey, Claws Mail, Evolution, Outlook und eM Client bietet.
+>Betterbird wurde als E-Mail-Client gewählt, da es in mehreren entscheidenden Bereichen objektive Vorteile gegenüber anderen gängigen Alternativen wie Mailspring, Geary, SeaMonkey, Claws Mail, Evolution, Outlook und eM Client bietet.
 
 ### **1. Plattformunterstützung**
 
@@ -104,13 +104,7 @@ Im Vergleich zu vielen Alternativen bietet Betterbird damit ein sehr ausgewogene
 
 ---
 ## Richtlinien für die Nutzung von E-Mail-Clients
-
-- **Verschlüsselte Kommunikation:** Nutzung von SSL/TLS für IMAP, SMTP und Kalenderdienste ist verpflichtend.
-    
-- **Passwortsicherheit:** Passwörter müssen den Unternehmensrichtlinien entsprechen und sollen im Passwortmanager gespeichert werden.
-    
-- **Zertifikate:** Falls erforderlich, müssen Firmenzertifikate eingebunden und vertraut werden.
-    
+ 
 - **DSGVO:** Lokale Daten auf Geräten müssen verschlüsselt sein; Weitergabe von E-Mails an externe Empfänger darf nur gemäß Datenschutzrichtlinien erfolgen.
     
 - **Regelmäßige Updates:** Der Client muss stets aktuell gehalten werden, um Sicherheitslücken zu vermeiden.
