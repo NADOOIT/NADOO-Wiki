@@ -2,7 +2,7 @@
 
 Von den Bildungsträgern und Handelskammern gibt es unterschiedliche Vorgaben und Vorlagen zu den Nachweisen. Anbei findest du entsprechende **exemplarische Beispiele**. Es gelten die Vorgaben des jeweiligen Bildungsträgers und der lokalen Handelskammer.
 
-💡 Konkret bedeutet das, dass du theoretisch auch einfach die **von deinem Bildungsträger ausgestellte Berichtsheft-Vorlage** weiterverwenden kannst. Du musst kein also kein eigenes Template erstellen. 
+💡 Konkret bedeutet das, dass du theoretisch auch einfach die **von deinem Bildungsträger ausgestellte Berichtsheft-Vorlage** weiterverwenden kannst. Du musst also kein eigenes Template erstellen. 
 
 ❗ Solltest du dich dennoch dazu entscheiden, stelle sicher, dass darin **alle Angaben enthalten** sind, **die dein Bildungsträger bzw. deine zuständige Handelskammer verlangen**. 
 
@@ -125,7 +125,7 @@ Issue-Nummern und Beschreibungen können im Berichtsheft verwendet werden.
 ---
 <br>
 
-Das Ausbildungsnachweise (Berichtsheft) wird wie gewohnt weitergeführt.
+Die Ausbildungsnachweise (Berichtshefte) werden wie gewohnt weitergeführt.
 Abgabe: am **1. Tag des Folgemonats** oder alternativ am **letzten Tag des laufenden Monats** an <christoph.backhaus@nadooit.de> senden.
 
 ## Zeitnachweise
