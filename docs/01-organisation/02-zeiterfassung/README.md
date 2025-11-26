@@ -17,6 +17,14 @@ Jede/r Mitarbeiter/in sendet **morgens zum Arbeitsbeginn** jeweils **eine E-Mail
 
 ![Beispiel Anwesenheits-Mail](../../../images/email_format_anwesenheit.png)
 
+**Betreffzeile (Ausstempeln ohne Meeting): GO silent**
+
+❌ Achte hier darauf, den Textkörper (Body) leer zu lassen.
+
+💪 Diese Variante ist für dich interessant, wenn du keinen Meeting-Termin mit deinen Kolleg*innen hast, aber trotzdem ausstempeln möchtest. 
+
+Sende einfach eine E-Mail mit dem Betreff **GO silent** an [christoph.backhaus@nadooit.de](mailto:christoph.backhaus@nadooit.de), um deine Arbeitszeit ohne ein Meeting zu beenden.
+
 
 ---
 
