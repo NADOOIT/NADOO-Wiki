@@ -4,21 +4,29 @@
 
 ---
 
+## Bonus-System (Überblick)
+
+Teilnahme und Engagement werden belohnt. Typische Beiträge, die Boni auslösen können:
+
+- Teilnahme an Morgenmeetings und 11er-/33er-Terminen
+- Halten eines Trainingsbeitrags (Kurzvortrag, Q&A)
+- Teampräsentationen und Dokumentationsbeiträge
+
+Konkrete Kriterien und Ausgestaltung werden iterativ ergänzt.
+
 Unsere Meetings fördern effiziente **Zusammenarbeit**, kontinuierliches **Lernen** und transparente **Kommunikation**.
 
 In diesem Abschnitt findest du alle relevanten Informationen zu unseren **Meeting-Strukturen und Zeitplänen**, die dir dabei helfen sollen, den Überblick zu behalten. 🚀
+
+> Hinweis: Zeiten und Formate können sich mit der Zeit verändern. Dieses Kapitel wird laufend aktualisiert, um aktuelle Abläufe abzubilden.
 
 ---
 
 ## Morgenmeetings – Allgemeine Zeitpläne
 
-👉 Die Morgenmeetings finden täglich um 10:14 Uhr statt.
+👉 Täglich 10:14–10:30 Uhr: Netzwerken & Anwesenheitsfeststellung (Discord)
 
-👉 Die erweiterten 11er-Meetings finden jeden Montag, Dienstag und Donnerstag nach der Anwesenheitsfeststellung statt.
-
-👉 Das Meeting der Teamkordinator:innen findet jeden Mittwoch um 10:30 Uhr statt.
-
-👉 Die erweiterten 33er-Meetings finden jeden Freitag nach der Anwesenheitsfeststellung statt.
+👉 Täglich 10:30–11:30 Uhr: Daily Team‑Meeting
 
 ---
 

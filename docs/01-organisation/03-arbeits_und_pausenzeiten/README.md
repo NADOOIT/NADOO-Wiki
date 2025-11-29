@@ -31,7 +31,7 @@ Unsere täglichen [**Meetings**](/docs/03-meetings/README.md) und festgelegten *
 
 ---
 
-- **§9 Sonntage & Feiertage:**
+- **§9 Samstag & Sonntag & Feiertage:**
 
   ❗ Hier darf niemand zwischen 00:00 und 24:00 Uhr arbeiten
 
@@ -40,18 +40,38 @@ Unsere täglichen [**Meetings**](/docs/03-meetings/README.md) und festgelegten *
 
 ## Arbeitszeiten bei Nadoo-IT
 
+🕒 **Regulär (Vollzeit):** Montag–Freitag, 08:00–16:30 (inkl. Pausen) – **8 Stunden pro Tag, keine Überstunden**
 
-🕒 **Montag bis Samstag:** zwischen 06:00 Uhr und 23:00 Uhr 
+🕒 **Netzwerken & Anwesenheitsprüfung:** Montag–Freitag, 10:14–10:30 Uhr (Discord)
+🕒 **Daily Team‑Meeting:** 10:30–11:30 Uhr
+🕒 **Feste Pause:** 11:30–12:00 Uhr
 
-🕒 **Montag bis Freitag von 10:14 Uhr - 10:30 Uhr:** Anwesenheitsprüfung im Discord Sprachkanal
+🕒 **Wochenstunden:** gemäß persönlichem Praktikums- oder Arbeitsvertrag (z. B. 40 h oder 28 h)
 
-🕒 **Arbeitsstunden pro Woche:** nach persönlichem Praktikumsvertrag (z.B. 40 Stunden oder 28 Stunden)
+🕒 **Teilzeit-Sonderregeln:** werden separat geregelt und hier ergänzt (TBD). Bis dahin gilt die Einhaltung der Pflichtmeetings und des ArbZG.
 
-🕒 **Arbeitszeiten pro Tag**: frei wählbar, solange das Arbeitszeitgesetz, Wochenstunden und Pflichtmeetings eingehalten werden
-
-🕒 **Arbeitszeiterfassung**: über die Stempeluhr im [**NADOO-Launchpad**](docs/01-organisation/01-zeiterfassung/01-launchpad-guide/README.md) (nur erfasste Arbeitszeit ist echte Arbeitszeit!)
+🕒 **Arbeitszeiterfassung:** über die Stempeluhr im [**NADOO-Launchpad**](/docs/01-organisation/01-zeiterfassung/README.md) (nur erfasste Arbeitszeit ist echte Arbeitszeit!)
 
 ---
+
+## Vertragsinformationen angeben (Messaging‑System)
+
+Damit dein Urlaubskontingent korrekt geführt wird, teile es per E‑Mail mit folgendem Betreff mit (automatische Verarbeitung – exakt übernehmen):
+
+``
+[MitarbeiterID]_URLAUBSTAGE_[YYYY]_[TAGE]
+``
+
+Beispiele:
+
+```
+1234_URLAUBSTAGE_2025_26
+1234_URLAUBSTAGE_2025_24
+```
+
+Hinweis zu Wochenstunden:
+
+- Die vertraglichen **Wochenstunden** werden aktuell nicht per E‑Mail gesetzt (TBD). Sie werden im Rahmen des Onboardings intern erfasst.
 
 ### Beispiel "Fritz" (28 Stunden / Woche):
 

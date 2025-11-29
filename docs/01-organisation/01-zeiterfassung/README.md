@@ -9,6 +9,91 @@ Alle weiteren Funktionen des Tools, wie es aufgebaut ist und wie du es richtig a
 
 ---
 
+Hinweis für Tag 1:
+
+- Folge vor dem ersten Einstempeln der [**First‑Day Contract Intake Checklist**](/docs/00-willkommen/01-leitfaden/README.md#3-vertragsdaten-erfassen--firstday-contract-intake-checklist), damit alle Vertrags‑ und Kalenderdaten sofort korrekt erfasst werden.
+- Nutze am ersten Tag von **12:00–16:30 Uhr** gezielt die Zeit, um deine **Vertragsdaten einzutragen** (per E‑Mail‑Betreffs, siehe oben) und dich mit dem **Wiki** vertraut zu machen ([Leitfaden](/docs/00-willkommen/01-leitfaden/README.md)).
+
+## Pflicht: E-Mail-Messaging parallel zur Stempeluhr
+
+Zusätzlich zum Einstempeln in Launchpad sendest du eine kurze E‑Mail über unser Messaging‑System. Diese E‑Mails werden automatisch verarbeitet und dienen als nachvollziehbare Bestätigung. 
+
+Verwende folgende Betreff‑Schemata (müssen exakt passen):
+
+- Einstempeln (START): ``[MitarbeiterID]_START_[YYYY]_[MM]_[DD]_[HH]_[MM]``
+- Ausstempeln (ENDE): ``[MitarbeiterID]_ENDE_[YYYY]_[MM]_[DD]_[HH]_[MM]``
+
+Beispiele:
+
+```
+1234_START_2025_09_15_08_00
+1234_ENDE_2025_09_15_16_30
+```
+
+Hinweise:
+
+- Pausen werden derzeit nicht per separater E‑Mail gemeldet. Maßgeblich sind START/ENDE.
+- In Zukunft kann Launchpad diese E‑Mails optional automatisch versenden. Bis dahin bitte manuell senden und gern Automations‑Ideen als Issue vorschlagen.
+- Aktuelle Routine: **08:00–16:30 Uhr** Arbeitszeit, **11:30–12:00 Uhr** feste Pause.
+- Meetings: **10:14–10:30 Uhr** Netzwerken & Anwesenheitscheck; **10:30–11:30 Uhr** Daily Team‑Meeting.
+
+## Anforderungen & Nachweise (vom Bildungsträger)
+
+Je nach Bildungsträger unterscheiden sich die geforderten Nachweise. Typische Varianten sind:
+
+- Monatlicher Zeitnachweis (Zeitenübersicht)
+- Wöchentliche Berichtshefte
+- Monatliche Anwesenheitsliste
+
+Setze deine persönlichen Anforderungen mit diesem Betreff (Schema muss exakt passen):
+
+``
+[ID]_ANFORDERUNGEN_ZEITNACHWEIS_JA|NEIN_BERICHTSHEFTE_JA|NEIN_ANWESENHEITSLISTE_JA|NEIN
+``
+
+Beispiel: `1234_ANFORDERUNGEN_ZEITNACHWEIS_JA_BERICHTSHEFTE_JA_ANWESENHEITSLISTE_NEIN`
+
+### Weitere beantragbare/zu meldende Ereignisse (per E‑Mail‑Betreff)
+
+Alle Betreffs müssen exakt dem Schema entsprechen:
+
+- Messebesuch (ein Tag): ``[ID]_MESSEBESUCH_[YYYY]_[MM]_[DD]``  Beispiel: `1234_MESSEBESUCH_2025_10_02`
+- Praktikum Start: ``[ID]_PRAKTIKUM_START_[YYYY]_[MM]_[DD]``  Beispiel: `1234_PRAKTIKUM_START_2025_09_16`
+- Praktikum Ende: ``[ID]_PRAKTIKUM_ENDE_[YYYY]_[MM]_[DD]``  Beispiel: `1234_PRAKTIKUM_ENDE_2025_12_20`
+- Prüfung (ein Tag): ``[ID]_PRUEFUNG_[YYYY]_[MM]_[DD]``  Beispiel: `1234_PRUEFUNG_2025_11_05`
+- Prüfung (Zeitraum): ``[ID]_PRUEFUNG_START_[YYYY]_[MM]_[DD]_ENDE_[YYYY]_[MM]_[DD]``  Beispiel: `1234_PRUEFUNG_START_2025_11_05_ENDE_2025_11_06`
+- Krankmeldung (Zeitraum): ``[ID]_KRANKMELDUNG_START_[YYYY]_[MM]_[DD]_ENDE_[YYYY]_[MM]_[DD]``  Beispiel: `1234_KRANKMELDUNG_START_2025_09_14_ENDE_2025_09_16`
+- Krankes Kind (ein Tag): ``[ID]_KRANKESKIND_[YYYY]_[MM]_[DD]``  Beispiel: `1234_KRANKESKIND_2025_10_03`
+- Krankes Kind (Zeitraum): ``[ID]_KRANKESKIND_START_[YYYY]_[MM]_[DD]_ENDE_[YYYY]_[MM]_[DD]``  Beispiel: `1234_KRANKESKIND_START_2025_10_03_ENDE_2025_10_04`
+- Entschuldigt (ein Tag): ``[ID]_ENTSCHULDIGT_[YYYY]_[MM]_[DD]``  Beispiel: `1234_ENTSCHULDIGT_2025_10_07`
+- Entschuldigt (Zeitraum): ``[ID]_ENTSCHULDIGT_START_[YYYY]_[MM]_[DD]_ENDE_[YYYY]_[MM]_[DD]``  Beispiel: `1234_ENTSCHULDIGT_START_2025_10_07_ENDE_2025_10_08`
+- Unentschuldigt (ein Tag): ``[ID]_UNENTSCHULDIGT_[YYYY]_[MM]_[DD]``  Beispiel: `1234_UNENTSCHULDIGT_2025_10_09`
+- Unentschuldigt (Zeitraum): ``[ID]_UNENTSCHULDIGT_START_[YYYY]_[MM]_[DD]_ENDE_[YYYY]_[MM]_[DD]``  Beispiel: `1234_UNENTSCHULDIGT_START_2025_10_09_ENDE_2025_10_10`
+- Schule (Zeitraum): ``[ID]_SCHULE_START_[YYYY]_[MM]_[DD]_ENDE_[YYYY]_[MM]_[DD]``  Beispiel: `1234_SCHULE_START_2025_09_22_ENDE_2025_09_26`
+- Anwesenheitsliste (monatlich): ``[ID]_[optionalNameSlug]_ANWESENHEITSLISTE_[YYYY]_[M]``  Beispiel: `1234_fritz_mueller_ANWESENHEITSLISTE_2025_9`
+- Anforderungen setzen: ``[ID]_ANFORDERUNGEN_ZEITNACHWEIS_JA|NEIN_BERICHTSHEFTE_JA|NEIN_ANWESENHEITSLISTE_JA|NEIN``  Beispiel: `1234_ANFORDERUNGEN_ZEITNACHWEIS_JA_BERICHTSHEFTE_JA_ANWESENHEITSLISTE_NEIN`
+- Entwickler‑Accounts (GitHub): ``[ID]_SET_DEV_GITHUB_[Username]``  Beispiel: `1234_SET_DEV_GITHUB_nadoouser`
+- Entwickler‑Accounts (GitHub Bestätigung): ``[ID]_CONFIRM_DEV_GITHUB_[Username]``  Beispiel: `1234_CONFIRM_DEV_GITHUB_nadoouser`
+- Entwickler‑Accounts (Discord Name): ``[ID]_SET_DEV_DISCORD_NAME_[Name]``  Beispiel: `1234_SET_DEV_DISCORD_NAME_fritz#1234`
+- Entwickler‑Accounts (Discord ID): ``[ID]_SET_DEV_DISCORD_ID_[ID]``  Beispiel: `1234_SET_DEV_DISCORD_ID_123456789012345678`
+- Stammdaten setzen: ``[ID]_SET_(NAME|ROLLE|INSTITUTE|COUNTRY|STATE|START|ENDE|EMAIL)_[WERT]``  Beispiel: `1234_SET_NAME_Fritz_Mueller`
+- Neuer Mitarbeiter (Onboarding, mit Signup‑Code): ``NEUER_MITARBEITER_[Name_Slug]_CODE_[SignupCode]``  Beispiel: `NEUER_MITARBEITER_Fritz_Mueller_CODE_AB12CD34`
+- Urlaubsantrag (Zeitraum): ``[ID]_URLAUBSANTRAG_START_[YYYY]_[MM]_[DD]_ENDE_[YYYY]_[MM]_[DD]``  Beispiel: `1234_URLAUBSANTRAG_START_2025_09_21_ENDE_2025_09_25`
+
+## GO Silent – Ausstempeln ohne Meeting
+
+Wenn du vor dem täglichen Abschluss-Meeting (GO) gehen musst, kannst du **GO Silent** nutzen. Damit stempelst du aus, ohne am Meeting teilzunehmen.
+
+### So funktioniert's:
+
+1. Schreibe eine E-Mail an: **go@nadooit.de**
+2. **Betreff:** `GO silent`
+3. **Body:** Leer lassen
+
+Das System erkennt die E-Mail und stempelt dich ordnungsgemäß aus, ohne dass du am Meeting teilnehmen musst.
+
+> **Hinweis:** Nutze GO Silent nur, wenn es wirklich notwendig ist. Die täglichen Meetings sind wichtig für den Teamzusammenhalt und die Kommunikation.
+
 <p align="center">
 <a href="/docs/01-organisation/README.md"><strong>Zurück</strong></a> | <a href="/docs/01-organisation/02-zeit_und_ausbildungsnachweise/README.md"><strong>Weiter</strong></a>
 </p>

@@ -3,6 +3,8 @@
 
 ---
 
+> Hinweis: Zeiten und Abläufe können sich verändern. Siehe Bonus-Überblick in `/docs/03-meetings/README.md`.
+
 ## Morgenmeetings – Allgemeine Zeitpläne
 
 ✅ Die **Anwesenheitsüberprüfung** findet **täglich ab 10:14 Uhr** statt. <br>
@@ -15,6 +17,8 @@
 📝 **10:14 – 10:30 Uhr:** Überprüfen der Anwesenheit im [33er-Kanal](https://discordapp.com/channels/1299292608744390707/1330880189475065910) <br>
 📢 **10:30 – 11:20 Uhr:** 11er-Meeting <br>
 👷 **11:10 Uhr – offen:** Arbeiten an Issues <br>
+
+💡 Bonus-Hinweis: Teilnahme und Beiträge (z. B. Trainingsbeiträge) können Bonuspunkte auslösen. Details im Bonus-Überblick.
 
 ---
 

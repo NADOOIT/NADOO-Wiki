@@ -15,7 +15,17 @@
 
 3. Alle Dateien müssen via **E-Mail** an [**christoph.backhaus@nadooit.de**](mailto:christoph.backhaus@nadooit.de) gesendet werden.
 
-4. Als Betreff für die E-Mail verwendest du "**Zeit- und Ausbildungsnachweise - Monat - Name**".
+4. Verwende für die automatische Verarbeitung im Launchpad‑Messaging‑System die folgenden **Betreff‑Schemata** (müssen exakt passen):
+
+   - Zeitnachweis (monatlich): ``[MitarbeiterID]_ZEITNACHWEIS_[YYYY]_[M]``
+   - Berichtsheft (wöchentlich): ``[MitarbeiterID]_BERICHTSHEFT_[YYYY]_KW[W]``
+
+   Beispiele:
+
+   ```
+   1234_ZEITNACHWEIS_2025_9
+   1234_BERICHTSHEFT_2025_KW36
+   ```
 
 <br>
 
@@ -23,7 +33,14 @@
 
 <br> 
 
-Abgesehen vom Anhang bleibt die E-Mail leer.
+Abgesehen vom Anhang bleibt die E‑Mail leer.
+
+### Dateibenennung (TAR‑Schema)
+
+Die Dateibenennung richtet sich strikt nach unserem **TAR‑Schema**. Halte dich unbedingt daran. 
+
+- Details: siehe [**Dateibenennungsrichtlinien**](/docs/01-organisation/02-zeit_und_ausbildungsnachweise/02-dateibenennung/README.md) und [**Überprüfung der Dateinamen**](/docs/01-organisation/02-zeit_und_ausbildungsnachweise/03-ueberpruefung/README.md).
+- Bei Verstößen erfolgt eine automatische Meldung; wiederholte Verstöße können zur Abwarnung führen.
 
 ---
 

@@ -1,4 +1,5 @@
 # NADOO-IT ein Überblick über die aktiven Teams
+> Hinweis: Team-Mitgliedschaften werden künftig über das Launchpad verwaltet und automatisch ins Wiki synchronisiert. Bis die Automatisierung live ist, können Einträge hier veraltet sein. Begleitissue: https://github.com/NADOOIT/NADOO-Launchpad/issues/1709
 <p align="center">Derzeit aktive Teams | Stand: 26. Juni 2025</p>
 <br>
 

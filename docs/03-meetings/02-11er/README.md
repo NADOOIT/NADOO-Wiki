@@ -3,6 +3,8 @@
 
 ---
 
+> Hinweis: Zeiten und Abläufe entwickeln sich iterativ weiter. Bonuspunkte sind für Teilnahme, Trainingsbeiträge und Präsentationen möglich (siehe `/docs/03-meetings/README.md`).
+
 **Dauer:** 30–60 Minuten (im Gesamtablauf standardmäßig 60 Minuten)
 
 **Ziel:** Effektive Zusammenarbeit, schnelle Problemlösung und kontinuierliches Training der Präsentations- sowie Kommunikationsfähigkeiten.

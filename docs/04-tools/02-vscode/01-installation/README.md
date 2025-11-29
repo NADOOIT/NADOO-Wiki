@@ -1,12 +1,21 @@
-# <p align="center">Installation und Einrichtung</p>
+# <p align="center">Windsurf (empfohlen) – Installation & Einrichtung</p>
 
-1. Systemvoraussetzungen prüfen: Stelle sicher, dass dein System alle benötigten Komponenten (z. B. Node.js, Datenbankserver) installiert hat.
-2. Repository klonen oder Installationspaket herunterladen: Klone das Repository oder lade das Installationspaket von der offiziellen Quelle herunter.
-3. Abhängigkeiten installieren: Führe den Befehl zur Installation aller erforderlichen Pakete aus (z. B. npm install).
-4. Einrichtung und Konfiguration: Konfiguriere Umgebungsvariablen und führe ggf. Datenbankmigrationen oder andere initiale Setups durch.
-5. Anwendung starten und testen: Starte die Applikation und überprüfe, ob alles reibungslos funktioniert.
-6. Benutzerzugänge und Rechte verwalten: Lege Benutzer an, konfiguriere Rollen und Rechte und führe ggf. Tests für die Zugriffskontrolle durch.
-7. Dokumentation und Support: Erstelle eine Anleitung zur Verwendung der Anwendung und biete Support für Nutzer:innen an.
+Wir empfehlen für die tägliche Arbeit **Windsurf** anstelle von Visual Studio Code. Windsurf bietet einen sehr umfangreichen **KI‑Detektor** und passt hervorragend zu unseren Workflows (z. B. Memory‑Guides, Agent‑Flows).
+
+Download:
+
+- Offizielle Seite: https://windsurf.com/
+
+Installation (Mac/Windows):
+
+1. Installationspaket von der offiziellen Seite laden und installieren.
+2. Starten und ggf. Anmeldung/Onboarding in Windsurf abschließen.
+3. Repositories (Wiki, Launchpad) öffnen und arbeiten.
+
+Hinweise:
+
+- Viele Setup‑Ideen aus den VS‑Code‑Anleitungen sind weiterhin sinnvoll (Shortcuts, Git‑Anbindung etc.).
+- Wir ergänzen interne **Workflows & Guides** zur besseren Nutzung von KI/Memory‑Systemen laufend im Wiki.
 
 ---
 

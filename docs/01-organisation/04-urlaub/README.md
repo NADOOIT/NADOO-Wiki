@@ -12,10 +12,19 @@ Wenn du bei **Christoph Backhaus IT** im Zuge einer **Umschulung** als **Praktik
 
 **1.** Deinen Urlaubsantrag solltest du **spätestens einen Tag vor dem geplanten Urlaubsantritt** stellen.
 
-**2.** Schicke dafür eine kurze E-Mail an [**christoph.backhaus@nadooit.de**](mailto:christoph.backhaus@nadooit.de). Formuliere den **Betreff** dabei basierend auf dem folgenden Muster:
-<br> 
+**2.** Schicke dafür eine kurze E-Mail an [**christoph.backhaus@nadooit.de**](mailto:christoph.backhaus@nadooit.de). Verwende für den **Betreff** exakt das folgende Muster (automatische Verarbeitung im Messaging‑System):
+<br>
 
-<p align=center><strong>Urlaubsantrag - [Zeitraum] - [dein Nachname, dein Vorname]</strong></p>
+```
+[MitarbeiterID]_URLAUBSANTRAG_START_[YYYY]_[MM]_[DD]_ENDE_[YYYY]_[MM]_[DD]
+```
+
+Beispiele:
+
+```
+1234_URLAUBSANTRAG_START_2025_09_21_ENDE_2025_09_25
+1234_URLAUBSANTRAG_START_2025_12_23_ENDE_2026_01_02
+```
 
 ---
 
