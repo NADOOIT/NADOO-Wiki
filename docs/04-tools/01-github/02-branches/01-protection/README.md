@@ -78,7 +78,7 @@ Diese praktische Übung hilft, die Wichtigkeit und Funktionsweise von Branch Pro
 ---
 
 <p align="center">
-<a href="/docs/04-tools/01-github/02-branches/README.md"><strong>Zurück</strong></a> | 
+<a href="/docs/04-tools/01-github/02-branches/02-worktrees/README.md"><strong>Zurück</strong></a> | 
 <a href="/docs/04-tools/01-github/03-pull-requests/README.md"><strong>Weiter</strong></a>
 </p>
 
