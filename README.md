@@ -252,6 +252,7 @@ Unterschiedliche Kulturen und Sprachen werden hier bei NADOO-IT gelebt und gesch
 
   &nbsp;&nbsp;🔹 [**Repository**](/docs/04-tools/01-github/01-repository/README.md) <br>
   &nbsp;&nbsp;🔹 [**Branches**](/docs/04-tools/01-github/02-branches/README.md) <br>
+    &emsp;&emsp;◻️ [Git Worktrees: Parallele Arbeit ohne Konflikte](/docs/04-tools/01-github/02-branches/02-worktrees/README.md) <br>
     &emsp;&emsp;◻️ [GitHub Branch Protection: Sicherheit und Qualität im Entwicklungsprozess](/docs/04-tools/01-github/02-branches/01-protection/README.md) <br><br>
 
   &nbsp;&nbsp;🔹 [**Pull Requests**](/docs/04-tools/01-github/03-pull-requests/README.md) <br>
