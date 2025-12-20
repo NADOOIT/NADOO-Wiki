@@ -4,5 +4,5 @@
 
 ---
 
-<p align="center"><a href="/docs/03-meetings/04-33er/README.md"><strong>Zurück</strong></a> | <a href="/docs/04-tools/01-github/README.md"><strong>Weiter</strong></a></p>
+<p align="center"><a href="/docs/03-meetings/04-33er/README.md"><strong>Zurück</strong></a> | <a href="/docs/04-tools/01-github/README.md"><strong>Weiter</strong></a> | <a href="/docs/04-tools/07-windsurf/README.md"><strong>Windsurf</strong></a></p>
 
