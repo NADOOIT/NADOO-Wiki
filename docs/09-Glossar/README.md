@@ -1,5 +1,5 @@
-# <p align="center">🔠 Alphabetisch sortierte Abkürzungen/Akronyme mit Kurzerklärungen IT</p>
-
+# <p align="center">🔠 Das große IT-Glossar – Alphabetisch sortierte Abkürzungen/Akronyme mit Kurzerklärungen</p>
+<!-- Achtung: Das Glossar sollte die letzte Seite des Wikis bleiben. Neue Themenbereiche innerhalb der Projektstruktur bitte nur an Stellen VOR dem Glossar anlegen.-->
 
 - **AFR (Annualized Failure Rate)**: Eine Schätzung der Ausfallrate eines Produkts oder Systems innerhalb eines Jahres.
 - **AGB (Allgemeine Geschäftsbedingungen)**: Standardisierte Vertragsbedingungen, die für eine Vielzahl von Verträgen gelten.
@@ -11,6 +11,7 @@
 - **CBT (Computer Based Training)**: Eine Form der Ausbildung, die computerbasierte Lernmethoden nutzt.
 - **CE (Conformité Européenne)**: Ein Zeichen, das die Konformität eines Produkts mit den europäischen Sicherheitsrichtlinien anzeigt.
 - **CI (Corporate Identity)**: Das Erscheinungsbild eines Unternehmens, einschließlich Logos, Farben und Designrichtlinien.
+- **CI/CD (Continuous Integration / Continuous Deployment)**: Kombination aus automatischem Zusammenführen von Codeänderungen (CI) und automatisiertem Ausrollen nach erfolgreichen Tests/Prüfungen (CD) – für schnellere, verlässlichere Software-Releases.
 - **CIFS (Common Internet File System)**: Ein Protokoll zur gemeinsamen Nutzung von Dateien im Netzwerk.
 - **CPS (Cyber-Physical Systems)**: Systeme, die physische und softwarebasierte Komponenten integrieren.
 - **CRM (Customer Relationship Management)**: Systeme zur Verwaltung der Beziehungen und Interaktionen eines Unternehmens mit aktuellen und potenziellen Kunden.
@@ -75,5 +76,11 @@
 
 ---
 
-<p align="center"><a href="/docs/08-karriere/02-anwendungsentwickler_beruf/04-karriere_bei_nadoo/README.md"><strong>Zurück</strong></a> | <a href="/README.md"><strong>Weiter</strong></a></p>
+<p align="center">
+<a href="/docs/08-karriere/02-anwendungsentwickler_beruf/04-karriere_bei_nadoo/README.md"><strong>Zurück</strong></a> | 
+<a href="/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
+</p>
+🧠 Glossar-Testeintrag: Branch-Übung
+- **TEST-EINTRAG (Konfliktübung)**: Änderung durch Branch KonfliktBeispiel-B
+- **TEST-EINTRAG (Konfliktübung)**: Änderung durch Branch KonfliktBeispiel
 

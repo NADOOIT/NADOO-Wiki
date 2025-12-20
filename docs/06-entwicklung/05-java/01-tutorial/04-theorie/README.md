@@ -574,3 +574,13 @@ Erkläre mit eigenen Worten, warum du in Java keine Angst vor Speicherlöchern (
 > 🛡️ **+100 XP für Verständnis von Speichermagie gesammelt!**  
 > **Damit hast du Level 4: Schütze deinen Code vollständig abgeschlossen! 🎉**
 
+---
+
+<p align="center">
+<a href="/docs/06-entwicklung/05-java/01-tutorial/03-theorie/README.md"><strong>Zurück</strong></a> | 
+<a href="/docs/06-entwicklung/05-java/01-tutorial/05-theorie/README.md"><strong>Weiter</strong></a>
+</p>
+
+<p align="center">
+<a href="/docs/06-entwicklung/05-java/README.md/#dieses-thema-beinhaltet-folgende-kapitel"><strong>Zurück zum Inhaltsverzeichis</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
+</p>

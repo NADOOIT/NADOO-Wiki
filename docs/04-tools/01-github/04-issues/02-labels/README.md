@@ -53,8 +53,15 @@ Diese Labels helfen dir und dem Team, Aufgaben schnell zu finden und sinnvoll ei
 
 ## Weitere Informationen
 
-- [GitHub Docs: Labels](https://docs.github.com/de/issues/using-labels-and-milestones-to-track-work/managing-labels)
+[GitHub Docs: Labels](https://docs.github.com/de/issues/using-labels-and-milestones-to-track-work/managing-labels)
 
 ---
 
-<p align="center"><a href="/docs/04-tools/01-github/04-issues/01-wiki-guide/README.md"><strong>Zurück</strong></a> | <a href="/docs/04-tools/01-github/04-issues/03-types/README.md"><strong>Weiter</strong></a></p>
+<p align="center">
+<a href="/docs/04-tools/01-github/04-issues/01-wiki-guide/README.md"><strong>Zurück</strong></a> | 
+<a href="/docs/04-tools/01-github/04-issues/03-types/README.md"><strong>Weiter</strong></a>
+</p>
+
+<p align="center">
+<a href="/docs/04-tools/01-github/04-issues/README.md/#dieses-kapitel-beinhaltet-folgende-abschnitte"><strong>Zurück zur Abschnitts-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
+</p>

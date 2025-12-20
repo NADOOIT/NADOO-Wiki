@@ -73,5 +73,12 @@ Damit ist dein Branch bereit für einen erneuten Merge ohne Konflikte.
 
 ---
 
-<p align="center"><a href="/docs/04-tools/01-github/03-pull-requests/README.md"><strong>Zurück</strong></a> | <a href="/docs/04-tools/01-github/03-pull-requests/02-code-review/README.md"><strong>Weiter</strong></a></p>
+<p align="center">
+<a href="/docs/04-tools/01-github/03-pull-requests/README.md"><strong>Zurück</strong></a> |
+<a href="/docs/04-tools/01-github/03-pull-requests/02-code-review/README.md"><strong>Weiter</strong></a>
+</p>
+
+<p align="center">
+<a href="/docs/04-tools/01-github/03-pull-requests/README.md/#dieses-kapitel-beinhaltet-folgende-abschnitte"><strong>Zurück zur Abschnitts-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
+</p>
 

@@ -22,8 +22,15 @@ Mit klaren Typen kann man schneller filtern, sortieren und priorisieren. Besonde
 
 ## Weitere Informationen
 
-- [GitHub Docs: Issue Types](https://docs.github.com/de/issues/tracking-your-work-with-issues/configuring-issues/managing-issue-types-in-an-organization)
+[GitHub Docs: Issue Types](https://docs.github.com/de/issues/tracking-your-work-with-issues/configuring-issues/managing-issue-types-in-an-organization)
 
 ---
 
-<p align="center"><a href="/docs/04-tools/01-github/04-issues/02-labels/README.md"><strong>Zurück</strong></a> | <a href="/docs/04-tools/01-github/04-issues/04-assignees/README.md"><strong>Weiter</strong></a></p>
+<p align="center">
+<a href="/docs/04-tools/01-github/04-issues/02-labels/README.md"><strong>Zurück</strong></a> | 
+<a href="/docs/04-tools/01-github/04-issues/04-assignees/README.md"><strong>Weiter</strong></a>
+</p>
+
+<p align="center">
+<a href="/docs/04-tools/01-github/04-issues/README.md/#dieses-kapitel-beinhaltet-folgende-abschnitte"><strong>Zurück zur Abschnitts-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
+</p>

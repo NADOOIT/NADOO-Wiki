@@ -1,6 +1,9 @@
 # <p align="center">Java</p>
-<!-- hier Kapitel-Übersicht nicht vergessen, sollten neue Inhalte hinzugefügt werden
--> für diese dann neue Kapitel-Ordner anlegen! -->
+<p align="center"><a href="#dieses-thema-beinhaltet-folgende-kapitel">🚀 Direkt zur Kapitel-Übersicht</a></p>
+
+---
+<br>
+
 Java ist eine weitverbreitete, objektorientierte Programmiersprache, die erstmals 1995 von Sun Microsystems veröffentlicht wurde. Dieser Artikel bietet einen kurzen Überblick über die Entstehung und die Grundprinzipien von Java.
 
 ---
@@ -21,4 +24,19 @@ Dieser Artikel dient als Auftakt zu weiterführenden Themen rund um Java, welche
 
 ---
 
-<p align="center"><a href="/docs/06-entwicklung/04-python/02-debugging/README.md"><strong>Zurück</strong></a> | <a href="/docs/06-entwicklung/06-frameworks/README.md"><strong>Weiter</strong></a></p>
+### <p align="center">Dieses Thema beinhaltet folgende Kapitel:</p>
+
+---
+
+🔹 [**Java-Tutorial 01**](/docs/06-entwicklung/05-java/01-tutorial/README.md) </br>
+
+---
+
+<p align="center">
+<a href="/docs/06-entwicklung/04-python/02-debugging/README.md"><strong>Zurück</strong></a> | 
+<a href="/docs/06-entwicklung/05-java/01-tutorial/README.md"><strong>Weiter</strong></a>
+</p>
+
+<p align="center">
+<a href="/docs/06-entwicklung/README.md/#dieser-themenbereich-beinhaltet-folgende-themen"><strong>Zurück zur Themen-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
+</p>

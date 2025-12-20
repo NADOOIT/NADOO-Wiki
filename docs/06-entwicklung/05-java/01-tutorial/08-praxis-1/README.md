@@ -101,3 +101,14 @@ Jede Runde läuft wie folgt ab:
 
 > 🛡️ **+150 XP gesammelt für deinen ersten siegreichen Kampf!**  
 > 🏰 **Nächstes Ziel:** In **Level 2** wirst du deinem Charakter eine eigene Klasse schenken – und damit zum wahren Codemagier. 🧙‍♂️
+
+---
+
+<p align="center">
+<a href="/docs/06-entwicklung/05-java/01-tutorial/07-theorie/README.md"><strong>Zurück</strong></a> | 
+<a href="/docs/06-entwicklung/05-java/01-tutorial/09-praxis-2/README.md"><strong>Weiter</strong></a>
+</p>
+
+<p align="center">
+<a href="/docs/06-entwicklung/05-java/README.md/#dieses-thema-beinhaltet-folgende-kapitel"><strong>Zurück zum Inhaltsverzeichis</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
+</p>

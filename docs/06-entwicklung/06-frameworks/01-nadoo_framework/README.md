@@ -128,5 +128,11 @@ Viel Erfolg bei der Umsetzung und Weiterentwicklung deiner Projekte mit dem NADO
 
 ---
 
-<p align="center"><a href="/docs/06-entwicklung/06-frameworks/README.md"><strong>Zurück</strong></a> | <a href="/docs/06-entwicklung/06-frameworks/02-briefcase_und_toga/README.md"><strong>Weiter</strong></a></p>
+<p align="center">
+<a href="/docs/06-entwicklung/06-frameworks/README.md"><strong>Zurück</strong></a> | 
+<a href="/docs/06-entwicklung/06-frameworks/02-briefcase_und_toga/README.md"><strong>Weiter</strong></a>
+</p>
 
+<p align="center">
+<a href="/docs/06-entwicklung/06-frameworks/README.md/#dieses-thema-beinhaltet-folgende-kapitel"><strong>Zurück zur Kapitel-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
+</p>

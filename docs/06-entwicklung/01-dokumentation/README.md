@@ -60,4 +60,11 @@ Um diese Anforderungen zu erfüllen, empfiehlt es sich, ein zentrales und leicht
 
 ---
 
-<p align="center"><a href="/docs/06-entwicklung/README.md"><strong>Zurück</strong></a> | <a href="/docs/06-entwicklung/02-clean_architecture/README.md"><strong>Weiter</strong></a></p>
+<p align="center">
+<a href="/docs/06-entwicklung/README.md"><strong>Zurück</strong></a> | 
+<a href="/docs/06-entwicklung/02-architekturen/README.md"><strong>Weiter</strong></a>
+</p>
+
+<p align="center">
+<a href="/docs/06-entwicklung/README.md/#dieser-themenbereich-beinhaltet-folgende-themen"><strong>Zurück zur Themen-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
+</p>

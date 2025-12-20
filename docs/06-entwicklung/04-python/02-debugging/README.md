@@ -1,6 +1,8 @@
-# <p align="center">**Debugging in Python**</p>
+# <p align="center">Debugging in Python</p>
 
 Debugging ist ein wesentlicher Teil des Programmierprozesses. In diesem Abschnitt werden wir verschiedene Debugging-Techniken anhand eines fehlerhaften Skripts erlernen.
+
+---
 
 ## 1. Fehlerhaftes Beispielskript
 
@@ -73,6 +75,8 @@ if __name__ == "__main__":
 print("Programm beendet")
 ```
 
+---
+
 ## 2. Fehleranalyse
 
 Führe das Skript aus und analysiere die Fehlermeldungen:
@@ -93,6 +97,8 @@ Du wirst verschiedene Fehlermeldungen sehen. Lasse uns diese analysieren:
 8. `SyntaxError`: Fehlender Doppelpunkt nach der Methodendefinition (Zeile 41)
 9. `SyntaxError`: Fehlender Doppelpunkt nach finally (Zeile 49)
 10. `TypeError`: Falscher Funktionsaufruf (fehlender Parameter) (Zeile 54)
+
+---
 
 ## 3. Debugging-Techniken
 
@@ -135,6 +141,8 @@ Mit dem Debugger kannst du:
 - Die Ausführung fortsetzen oder abbrechen
 
 Dies ermöglicht eine detaillierte Analyse des Programmablaufs und ist besonders nützlich bei komplexen Fehlern.
+
+---
 
 ## 4. Fehlerbehebung
 
@@ -182,6 +190,8 @@ if __name__ == "__main__":
 print("Programm erfolgreich beendet!")
 ```
 
+---
+
 ## 5. Debugging-Tipps
 
 1. Lies die Fehlermeldungen sorgfältig. Sie enthalten oft wertvolle Informationen über den Ort und die Art des Problems.
@@ -192,6 +202,8 @@ print("Programm erfolgreich beendet!")
 
 Debugging ist eine Fähigkeit, die mit der Zeit und Übung verbessert wird. Je mehr du debuggst, desto besser wirst du darin, Fehler schnell zu identifizieren und zu beheben.
 
+---
+
 ## 6. Weiterführende Ressourcen
 
 ### Deutsche Tutorials
@@ -199,11 +211,15 @@ Debugging ist eine Fähigkeit, die mit der Zeit und Übung verbessert wird. Je m
 - 🔗 [Python Debugging: Eine Einführung](https://www.python-lernen.de/debugging-in-python.htm)
 - 🔗 [Debugging in Python mit pdb](https://www.digitalocean.com/community/tutorials/how-to-use-the-python-debugger-de)
 
+<br>
+
 ### Englische Tutorials
 
 - 🔗 [Real Python: Python Debugging With Pdb](https://realpython.com/python-debugging-pdb/)
 - 🔗 [Visual Studio Code Python Debugging](https://code.visualstudio.com/docs/python/debugging)
 - 🔗 [Bitecode: What's up Python? Better packaging and better debugging](https://www.bitecode.dev/p/whats-up-python-better-packaging)
+
+<br>
 
 ### Video-Tutorials
 
@@ -212,7 +228,9 @@ Debugging ist eine Fähigkeit, die mit der Zeit und Übung verbessert wird. Je m
 
 Diese Ressourcen bieten zusätzliche Einblicke und praktische Übungen, um deine Debugging-Fähigkeiten zu verbessern. Denke daran, dass effektives Debugging eine Kombination aus Wissen, Erfahrung und Geduld erfordert. Mit der Zeit wirst du immer besser darin, Fehler zu finden und zu beheben.
 
-### Quellen
+---
+
+#### Quellen
 
 [1] <https://python.plainenglish.io/popular-and-easy-debugging-techniques-for-python-applications-79d6b8dd2999?gi=08e89f39b1d5> <br>
 [2] <https://databasecamp.de/en/python-coding/debugging-en> <br>
@@ -225,4 +243,11 @@ Diese Ressourcen bieten zusätzliche Einblicke und praktische Übungen, um deine
 
 ---
 
-<p align="center"><a href="/docs/06-entwicklung/04-python/01-einstieg/03-grundkonzept_bsp/README.md"><strong>Zurück</strong></a> | <a href="/docs/06-entwicklung/05-java/README.md"><strong>Weiter</strong></a></p>
+<p align="center">
+<a href="/docs/06-entwicklung/04-python/01-einstieg/03-grundkonzept_bsp/README.md"><strong>Zurück</strong></a> | 
+<a href="/docs/06-entwicklung/05-java/README.md"><strong>Weiter</strong></a>
+</p>
+
+<p align="center">
+<a href="/docs/06-entwicklung/04-python/README.md/#dieses-thema-beinhaltet-folgende-kapitel"><strong>Zurück zur Kapitel-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
+</p>

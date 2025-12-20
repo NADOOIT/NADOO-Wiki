@@ -29,8 +29,15 @@ Verwende Milestones für größere Themenblöcke, wie z. B. Releases, Sprints 
 
 ## Weitere Informationen
 
-- [GitHub Docs: Milestones](https://docs.github.com/de/issues/using-labels-and-milestones-to-track-work/creating-and-editing-milestones-for-issues-and-pull-requests)
+[GitHub Docs: Milestones](https://docs.github.com/de/issues/using-labels-and-milestones-to-track-work/creating-and-editing-milestones-for-issues-and-pull-requests)
 
 ---
 
-<p align="center"><a href="/docs/04-tools/01-github/04-issues/04-assignees/README.md"><strong>Zurück</strong></a> | <a href="/docs/04-tools/01-github/04-issues/06-projects/README.md"><strong>Weiter</strong></a></p>
+<p align="center">
+<a href="/docs/04-tools/01-github/04-issues/04-assignees/README.md"><strong>Zurück</strong></a> | 
+<a href="/docs/04-tools/01-github/04-issues/06-projects/README.md"><strong>Weiter</strong></a>
+</p>
+
+<p align="center">
+<a href="/docs/04-tools/01-github/04-issues/README.md/#dieses-kapitel-beinhaltet-folgende-abschnitte"><strong>Zurück zur Abschnitts-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
+</p>

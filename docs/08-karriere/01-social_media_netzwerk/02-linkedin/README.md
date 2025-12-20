@@ -8,11 +8,15 @@ Ein professionelles LinkedIn-Profil ist Dein Aushängeschild im beruflichen Netz
 
 2. Fülle die erforderlichen Informationen aus, um Dein Profil zu erstellen.
 
+---
+
 ## 2. Schritt: Profilbild und Titelbild hinzufügen
 
 1. Wähle ein **professionelles Foto** für Dein Profilbild. Ein gut beleuchtetes Bild, das Dich in angemessener Kleidung zeigt, ist ideal.
 
 2. Füge ein **Titelbild** hinzu, das Deine berufliche Identität unterstreicht (z. B. ein Bild, das Dein Arbeitsumfeld oder Deine beruflichen Interessen widerspiegelt).
+
+---
 
 ## 3. Schritt: Lebenslauf (Headline und Zusammenfassung) ausfüllen
 
@@ -20,17 +24,23 @@ Ein professionelles LinkedIn-Profil ist Dein Aushängeschild im beruflichen Netz
 
 2. Erstelle eine kurze **Zusammenfassung**, die Deine wichtigsten Fähigkeiten, Erfahrungen und Ambitionen hervorhebt. Verwende relevante Keywords, um in Suchanfragen besser gefunden zu werden.
 
+---
+
 ## 4. Schritt: Berufserfahrung und Ausbildung ergänzen
 
 1. Füge Deine **bisherigen Positionen und Berufserfahrungen** hinzu. Beschreibe kurz Deine Aufgaben und Erfolge.
 
 2. Ergänze Deine Ausbildung und relevante Zertifikate.
 
+---
+
 ## 5. Schritt: Fähigkeiten und Empfehlungen hinzufügen
 
 1. Füge Deine **Kernfähigkeiten** hinzu, die von Deinen Kontakten bestätigt werden können.
 
 2. Bitte ehemalige Kollegen oder Vorgesetzte um **Empfehlungen**, um Dein Profil zu stärken.
+
+---
 
 ## 6. Schritt: Kontaktdaten und Online-Kalender integrieren
 
@@ -39,15 +49,25 @@ Ein professionelles LinkedIn-Profil ist Dein Aushängeschild im beruflichen Netz
 2. **Integriere Deinen Meetergo-Online-Kalender**, um unkompliziert Termine zu ermöglichen. Verwende dafür den folgenden Link: [https://meetergo.cello.so/uDm9fjP8hJ7](https://meetergo.cello.so/uDm9fjP8hJ7).
 <!--Diskrepanz: meetergo oder doodle?-->
 
+---
+
 ## 7. Fragen dokumentieren
 
  ➡️ Notiere alle Fragen, die während der Erstellung Deines LinkedIn-Profils aufkommen. Nur dokumentierte Fragen dürfen an andere gestellt werden. Dies hilft uns, den Prozess für zukünftige Teilnehmer zu optimieren.
 
 ---
+
 ## Fazit
 
 Ein gut gepflegtes LinkedIn-Profil ist der erste Schritt, um in der IT-Branche sichtbar zu werden. Nutze dieses Profil, um Dich mit Fachleuten zu vernetzen und neue berufliche Möglichkeiten zu entdecken.
 
 ---
 
-<p align="center"><a href="/docs/08-karriere/01-social_media_netzwerk/01-github/README.md"><strong>Zurück</strong></a> | <a href="/docs/08-karriere/01-social_media_netzwerk/03-xing/README.md"><strong>Weiter</strong></a></p>
+<p align="center">
+<a href="/docs/08-karriere/01-social_media_netzwerk/01-github/README.md"><strong>Zurück</strong></a> | 
+<a href="/docs/08-karriere/01-social_media_netzwerk/03-xing/README.md"><strong>Weiter</strong></a>
+</p>
+
+<p align="center">
+<a href="/docs/08-karriere/01-social_media_netzwerk/README.md/#dieses-thema-beinhaltet-folgende-kapitel"><strong>Zurück zur Kapitel-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
+</p>

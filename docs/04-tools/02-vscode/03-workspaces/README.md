@@ -8,4 +8,11 @@
 
 ---
 
-<p align="center"><a href="/docs/04-tools/02-vscode/02-plugins/README.md"><strong>Zurück</strong></a> | <a href="/docs/04-tools/02-vscode/04-editor/README.md"><strong>Weiter</strong></a></p>
+<p align="center">
+<a href="/docs/04-tools/02-vscode/02-plugins/README.md"><strong>Zurück</strong></a> | 
+<a href="/docs/04-tools/02-vscode/04-editor/README.md"><strong>Weiter</strong></a>
+</p>
+
+<p align="center">
+<a href="/docs/04-tools/02-vscode/README.md/#dieses-thema-beinhaltet-folgende-kapitel"><strong>Zurück zur Kapitel-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
+</p>

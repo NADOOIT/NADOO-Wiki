@@ -99,6 +99,7 @@ beispiel_funktion()
 
 print("\nProgramm beendet")
 ```
+---
 
 ## Ausführung des Skripts
 
@@ -188,6 +189,8 @@ Programm beendet
 
 Diese praktische Ausführung hilft, die theoretischen Konzepte in Aktion zu sehen und zu verstehen, wie Python-Code tatsächlich abläuft. Es ist oft hilfreich, Codebeispiele selbst auszuführen und mit ihnen zu experimentieren, um ein tieferes Verständnis zu entwickeln.
 
+---
+
 ### Tipps für die erfolgreiche Ausführung des Skripts:
 
 1. **Korrekte Python-Version**: Stelle sicher, dass du die richtige Python-Version verwenden (in diesem Fall Python 3.11).
@@ -200,4 +203,11 @@ Durch das Verstehen und Anwenden dieser Konzepte in der Praxis legst du eine sol
 
 ---
 
-<p align="center"><a href="/docs/06-entwicklung/04-python/01-einstieg/02-installation/README.md"><strong>Zurück</strong></a> | <a href="/docs/06-entwicklung/04-python/02-debugging/README.md"><strong>Weiter</strong></a></p>
+<p align="center">
+<a href="/docs/06-entwicklung/04-python/01-einstieg/02-installation/README.md"><strong>Zurück</strong></a> | 
+<a href="/docs/06-entwicklung/04-python/02-debugging/README.md"><strong>Weiter</strong></a>
+</p>
+
+<p align="center">
+<a href="/docs/06-entwicklung/04-python/01-einstieg/README.md/#dieses-kapitel-beinhaltet-folgende-abschnitte"><strong>Zurück zur Abschnitts-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
+</p>

@@ -1,4 +1,8 @@
-# <p align="center">**Discord: Die zentrale Kommunikationsplattform bei Christoph Backhaus / NADOO-IT**</p>
+# <p align="center">Discord: Die zentrale Kommunikationsplattform bei Christoph Backhaus / NADOO-IT</p>
+<p align="center"><a href="#dieses-thema-beinhaltet-folgende-kapitel">🚀 Direkt zur Kapitel-Übersicht</a></p>
+
+---
+<br>
 
 Discord ist eine kostenlose Kommunikationsplattform, die für Chats, Sprach- und Videoanrufe sowie den Austausch von Dateien genutzt wird – ursprünglich für Gamer entwickelt, heute aber auch im professionellen Bereich weit verbreitet.
 
@@ -52,4 +56,19 @@ So bleiben alle Teammitglieder – egal wo sie gerade sind – immer auf dem gle
 
 ---
 
-<p align="center"><a href="/docs/05-kommunikation/README.md"><strong>Zurück</strong></a> | <a href="/docs/05-kommunikation/01-discord/01-einrichtung/README.md"><strong>Weiter</strong></a></p>
+### <p align="center">Dieses Thema beinhaltet folgende Kapitel:</p>
+
+---
+
+🔹 [**Anmeldung und Einrichtung**](/docs/05-kommunikation/01-discord/01-einrichtung/README.md) </br>
+
+---
+
+<p align="center">
+<a href="/docs/05-kommunikation/README.md"><strong>Zurück</strong></a> | 
+<a href="/docs/05-kommunikation/01-discord/01-einrichtung/README.md"><strong>Weiter</strong></a>
+</p>
+
+<p align="center">
+<a href="/docs/05-kommunikation/README.md/#dieser-themenbereich-beinhaltet-folgende-themen"><strong>Zurück zur Themen-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
+</p>

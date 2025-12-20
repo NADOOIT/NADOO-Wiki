@@ -1,10 +1,16 @@
-# <p align="center">Leitfaden für deinen ersten Tag</p>
-
+# <p align="center">Leitfaden für deinen ersten Tag <br> "First-Day-Fahrplan"</p>
 <p align="center">
 <a href="#übersicht-dein-fahrplan-für-den-ersten-tag-">➡️ direkt zum First-Day-Fahrplan</a>
 </p>
 
-#
+---
+<br>
+
+<h3 align="center">📢 Disclaimer zum Thema Dokumentation und Fragen</h3>
+
+Es ist wichtig, dass du **alle Fragen, die während der Bearbeitung des Wikis aufkommen**, dokumentierst. **Notiere** deine Fragen, **bevor** du sie anderen stellst. Diese Praxis der Dokumentation ist entscheidend für Entwickler, da sie uns hilft, Unklarheiten zu identifizieren und den Lehrgang kontinuierlich zu verbessern und zugänglicher zu gestalten.
+
+---
 
 ## 0. Ankommen & gemeinsame Einrichtung
 
@@ -14,6 +20,7 @@
 
 ## 1. Einstempeln
 
+<<<<<<< HEAD
 ⩇⩇:⩇⩇ Sobald du für deinen ersten Tag online kommst, darfst und solltest du dich einstempeln. Für die [**Zeiterfassung**](/docs/01-organisation/01-zeiterfassung/README.md) nutzen wir ein internes Tool, unser [**NADOO-Launchpad**](https://github.com/NADOOIT/NADOO-Launchpad).
 
 Zusätzlich zur App musst du zu Arbeitsbeginn eine kurze E‑Mail mit folgendem Betreff senden (spätestens um 08:05 Uhr):
@@ -39,14 +46,26 @@ Beispiel (pünktlich 16:30 Uhr):
 ```
 1234_ENDE_2025_09_15_16_30
 ```
+=======
+💡 Sobald du für deinen ersten Tag online kommst, musst du dich einstempeln. Zu Beginn jedes Arbeitstages wird zu diesem Zweck eine E-Mail an **christoph.backhaus@nadooit.de** gesendet, die als digitale Anwesenheitsbestätigung dient. Das Ausstempeln wird nicht aktiv benötigt, da es automatisch abläuft.
+
+Achte hier darauf, den **Textkörper leer zu lassen** und verwende **das folgende Format für die Betreffzeile**:
+
+**E-Mail für den Arbeitsbeginn:** GO<br>
+
+<h2 align="center">Beispielbild</h2><br>
+<p align="center"><img width="717" height="274" alt="email format anwesenheit" src="https://github.com/user-attachments/assets/e218979a-c803-46fe-b839-69094fc8cbb0" /></p>
+
+#
+
+Für die [**Zeiterfassung**](/docs/01-organisation/01-zeiterfassung/README.md) verwenden wir außerdem ein internes Tool – unser [**NADOO-Launchpad**](https://github.com/NADOOIT/NADOO-Launchpad). Nutze dieses **parallel zum manuellen Versenden der Anwesenheits-E-Mails**.
+
+⚠️ **Wichtig:** Damit das Einstempeln ab Tag 1 reibungslos klappt, solltest du dich am besten **im Voraus** schon mal mit dem Tool und den zugehörigen Wiki-Abschnitten vertraut machen.
+>>>>>>> 289922260ea59dae4dd3a0df75f00875cc791eb5
 
 ---
 
-⚠️ **Wichtig:** Damit das Einstempeln an Tag 1 reibungslos klappt, solltest du dich am besten **im Voraus** schon mal mit dem Tool und den zugehörigen Wiki-Abschnitten vertraut machen.
-
----
-
-⚙️ Wie du das Tool **installierst** und startest, ist Schritt für Schritt im [**README des Launchpad-Repositories**](https://github.com/NADOOIT/NADOO-Launchpad/blob/main/README.md) beschrieben.
+⚙️ Wie du das Launchpad **installierst** und startest, ist Schritt für Schritt im [**README des Launchpad-Repositories**](https://github.com/NADOOIT/NADOO-Launchpad/blob/main/README.md) beschrieben.
 
 📑 Dieselben Installations-Anleitungen für Windows bzw. MacOS findest du außerdem im [**Einstiegskapitel**](/docs/04-tools/05-launchpad/01-ueberblick/README.md) unseres großen [**Launchpad-Guides**](/docs/04-tools/05-launchpad/README.md). In diesem Guide wird dir die **Benutzeroberfläche** der Anwendung im Detail erklärt, damit du ganz genau weißt, welche Funktionen das Programm neben der Zeiterfassung sonst noch so bietet und wie du diese richtig anwendest. 
 
@@ -189,24 +208,62 @@ Hinweise:
 
 📝 Sowas wie eine "feste Aufgabe" gibt es für dich (noch) nicht direkt. Ein großer Teil deiner ersten Tage wird darin bestehen, dich in das [**NADOO-Wiki**](https://github.com/NADOOIT/NADOO-Wiki/) einzulesen und die **Issues** sowohl [**im Wiki-**](https://github.com/NADOOIT/NADOO-Wiki/issues) als auch [**im Launchpad-Repository**](https://github.com/NADOOIT/NADOO-Launchpad/issues) zu durchforsten.
 
-❌ Keiner erwartet von dir, dass du dir an Tag 1 bereits große, technische Issues heraussuchst und diese löst - außer natürlich, du hast Bock drauf und weißt, wie. Auch davon wird dich hier niemand abhalten, denn **Eigeninitiative** wird bei NADOO **großgeschrieben**. 🚀
+---
+
+💡 **Eine kurze Erklärung dazu, was ein "Issue" ist:**
+
+Ein **Issue** ist wie eine kleine Notiz oder Aufgabe in unserem System. Wenn du ein Problem findest, eine Frage hast oder etwas verbessern möchtest, solltest du dafür ein **Issue** erstellen.
+
+### Warum benutzen wir **Issues**?
+
+1. Damit alle im Team sehen können, dass es ein Problem oder eine Idee gibt.
+2. Damit niemand vergisst, was noch zu tun ist.
+3. Damit wir gemeinsam eine Lösung finden können.
+
+### Wann sollte ich ein **Issue** erstellen?
+
+1. Wenn du etwas in der Dokumentation nicht verstehst.
+2. Wenn du einen Fehler findest.
+3. Wenn du eine Idee für eine Verbesserung hast.
+
+### Wie erstelle ich ein **Issue**?
+
+1. Öffne das gewünschte bzw. passende GitHub-Repository (z.B. [das NADOO-Wiki](https://github.com/NADOOIT/NADOO-Wiki) oder [Launchpad-Repository](https://github.com/NADOOIT/NADOO-Launchpad)
+2. Klicke auf Issues (oben links)
+3. Klicke auf New Issue (rechts grüne Taste)
+4. Schreibe einen klaren Titel
+5. Beschreibe dein Problem oder deine Frage (Beschreibung des Anliegens)
+6. Klicke auf Create
+<br>
+
+💡 **Tipp**:
+Schreibe einfach und klar. So können andere dein **Issue** schnell verstehen und dir helfen.
+Eine ausführliche Beschreibung zu dem Thema findest du in unserem **NADOO-Wiki** in diesem [**Kapitel**](https://github.com/NADOOIT/NADOO-Wiki/blob/main/docs/04-tools/01-github/04-issues/README.md).
+
+---
+
+❌ Keine Sorge – keiner erwartet von dir, dass du dir an Tag 1 bereits große, technische Issues heraussuchst und diese löst - außer natürlich, du hast Bock drauf und weißt, wie. Auch davon wird dich hier niemand abhalten, denn **Eigeninitiative** wird bei NADOO **großgeschrieben**. 🚀
 
 💡 Wir empfehlen dir jedoch, erstmal **ganz entspannt anzukommen**. Nutze die ersten paar Tage und Wochen, um dich mit der Dokumentation, den Tools und vor allem den Menschen, mit denen du in der nächsten Zeit eng zusammenarbeiten wirst, vertraut zu machen.
-
-<!--hier vllt. KI-Image zum Thema "entspannen" einfügen-->
 
 ---
 
 | |
 |:---|
+<<<<<<< HEAD
 |🔧 **GitHub‑Zugang (2‑Stufen‑Prozess)**: Sende uns zunächst deinen GitHub‑Nutzernamen per E‑Mail‑Betreff: `[ID]_SET_DEV_GITHUB_[GitHubUsername]`. Du erhältst dann automatisch eine Bestätigungs‑E‑Mail mit deinem Profil‑Link. Bestätige diesen, indem du die zweite E‑Mail mit dem Betreff `[ID]_CONFIRM_DEV_GITHUB_[GitHubUsername]` sendest. Nach Bestätigung wirst du automatisch zum Starttermin zur Organisation hinzugefügt. Bis die Automatisierung vollständig aktiv ist, übernehmen wir dies ggf. manuell.|
 
 <!-- Link zum GitHub-Artikel über Organisationen kann hier später ergänzt werden -->
+=======
+|⚠️ **Hinweis**: Solltest du noch keinen Zugriff auf die Repositories haben, melde dich bitte umgehend bei Christoph mit deinem **GitHub-Account-Namen**, damit dieser dich zur [NADOO-IT](https://github.com/orgs/NADOOIT/people) und zu den [NADOOlern](https://github.com/orgs/NADOOIT/teams/nadooler) einladen kann. Sobald du Mitglied bist, hast du automatisch Zugriff auf alle Repositories des Unternehmens, die für dich relevant sind.|
+| |
+>>>>>>> 289922260ea59dae4dd3a0df75f00875cc791eb5
 
 ---
 
 ## <p align="center">Übersicht: dein Fahrplan für den ersten Tag 🏎️💨</p>
 
+<<<<<<< HEAD
 | Uhrzeit              | Beschreibung                                             | Wo?                                                                                               |
 |:--------------------:|:--------------------------------------------------------:|:-------------------------------------------------------------------------------------------------:|
 | 08:00–10:14 Uhr      | **Einstempeln** / Arbeitstag beginnen                    | **Launchpad**-App                                                                                 |
@@ -214,6 +271,16 @@ Hinweise:
 | 10:30–11:30 Uhr      | **Daily Team‑Meeting**                                   | Discord (Einladung: https://discord.gg/cdkFcTQ8B6), im festgelegten Team‑Channel |
 | 11:30–12:00 Uhr      | **Feste Pause**                                          | Discord (Einladung: https://discord.gg/cdkFcTQ8B6), AFK/Ruhebereich |
 | 12:00–16:30 Uhr      | **Vertragsdaten eintragen & Wiki kennenlernen**          | Launchpad (E-Mail‑Betreffs s. Abschnitt „3. Vertragsdaten erfassen“), anschließend Wiki lesen     |
+=======
+| Uhrzeit              | Beschreibung                                             |                                                                                                    Wo?                                                                                                    |
+|:--------------------:|:--------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| 06:00–10:14 Uhr      | **Einstempeln** / Arbeitstag beginnen                    |                                                                                             **Launchpad**-App                                                                                             |
+| 10:14–10:30 Uhr      | **Anwesenheitskontrolle**                                |                                              Discord-Channel [**33er [weekly] 🔴**](https://discordapp.com/channels/1299292608744390707/1330880189475065910)                                              |
+| 10:30–11:20 Uhr      | **11er-Meeting**                                         |                            **Discord-Channel deines Teams** ODER einer der **Team-Launch 🟡🟢**-Kanäle                            |
+| _ab_ 11:20–11:45&nbsp;Uhr | freies Arbeiten / Netzwerken mit Team-Mitgliedern   |                                                                                        Discord-Channel deiner Wahl                                                                                        |
+| freie Einteilung _ab_ Beendigung des entsprechenden Daily Meetings (11er/33er)    | **Pause (30 Minuten pro Vollzeit-Arbeitstag)**                                                | außerhalb von Discord oder gemutet in Team-Channel |
+
+>>>>>>> 289922260ea59dae4dd3a0df75f00875cc791eb5
 
 ---
 
@@ -224,5 +291,10 @@ Hinweise:
   Details: [/docs/01-organisation/05-krankmeldungen/README.md](/docs/01-organisation/05-krankmeldungen/README.md)
 
 <p align="center">
-<a href="/docs/00-willkommen/README.md"><strong>Zurück</strong></a> | <a href="/docs/00-willkommen/02-starterpack/README.md"><strong>Weiter</strong></a>
+<a href="/docs/00-willkommen/README.md"><strong>Zurück</strong></a> | 
+<a href="/docs/00-willkommen/02-starterpack/README.md"><strong>Weiter</strong></a>
+</p>
+
+<p align="center">
+<a href="/docs/00-willkommen/README.md/#dieser-themenbereich-beinhaltet-folgende-themen"><strong>Zurück zur Themen-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
 </p>

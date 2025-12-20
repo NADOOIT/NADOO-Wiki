@@ -309,8 +309,17 @@ Files.delete(pfad);  // Achtung: löscht ohne Rückfrage!
 💥 **Bonus-XP:**  
 Füge einen neuen Eintrag (`"Basilisk"`) mit `StandardOpenOption.APPEND` hinzu, **ohne die Liste zu löschen**.
 
----
 
 > 🛡️ **+150 XP für bleibende Artefakte gesammelt!**  
 > 🎉 **Glückwunsch, Hexer! Du hast Level 6: Organisiere dein Chaos vollständig abgeschlossen!**
 
+---
+
+<p align="center">
+<a href="/docs/06-entwicklung/05-java/01-tutorial/05-theorie/README.md"><strong>Zurück</strong></a> | 
+<a href="/docs/06-entwicklung/05-java/01-tutorial/07-theorie/README.md"><strong>Weiter</strong></a>
+</p>
+
+<p align="center">
+<a href="/docs/06-entwicklung/05-java/README.md/#dieses-thema-beinhaltet-folgende-kapitel"><strong>Zurück zum Inhaltsverzeichis</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
+</p>

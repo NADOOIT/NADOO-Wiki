@@ -664,7 +664,16 @@ executor.shutdown();
 💥 **Bonus-XP:**  
 Erstelle eine `Callable<String>`-Aufgabe, die `"Portal geöffnet"` zurückliefert – und gib das Ergebnis über `Future.get()` aus.
 
----
-
 > 🛡️ **+150 XP für Kontrolle über Zeit und Ausführung gesammelt!**  
 > 🎉 **Gratulation, Hexer! Du hast Level 7: Meistere die Tiefe vollständig abgeschlossen!**
+
+---
+
+<p align="center">
+<a href="/docs/06-entwicklung/05-java/01-tutorial/06-theorie/README.md"><strong>Zurück</strong></a> | 
+<a href="/docs/06-entwicklung/05-java/01-tutorial/08-praxis-1/README.md"><strong>Weiter</strong></a>
+</p>
+
+<p align="center">
+<a href="/docs/06-entwicklung/05-java/README.md/#dieses-thema-beinhaltet-folgende-kapitel"><strong>Zurück zum Inhaltsverzeichis</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
+</p>

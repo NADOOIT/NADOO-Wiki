@@ -53,10 +53,17 @@ Falls dein iPhone nicht automatisch als Kameraquelle erkannt wird:
 
 ---
 
-## Quellen
+#### Quellen
 
-- [Apple Support: Integrationskamera verwenden](https://support.apple.com/de-de/102546)
+[1] [Apple Support: Integrationskamera verwenden](https://support.apple.com/de-de/102546)
 
 ---
 
-<p align="center"><a href="/docs/05-kommunikation/02-webcam/01-droidcam/README.md"><strong>Zurück</strong></a> | <a href="/docs/06-entwicklung/README.md"><strong>Weiter</strong></a></p>
+<p align="center">
+<a href="/docs/05-kommunikation/02-webcam/01-droidcam/README.md"><strong>Zurück</strong></a> | 
+<a href="/docs/05-kommunikation/03-bekannte_probleme/README.md"><strong>Weiter</strong></a>
+</p>
+
+<p align="center">
+<a href="/docs/05-kommunikation/02-webcam/README.md/#dieses-thema-beinhaltet-folgende-kapitel"><strong>Zurück zur Kapitel-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
+</p>

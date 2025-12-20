@@ -1,6 +1,5 @@
 # <p align="center">Branches</p>
 
-
 Ein Branch ist ein separater Entwicklungszweig in einem Repository. Er ermöglicht parallele und unabhängige Entwicklungsprozesse, beispielsweise für neue Features oder Bugfixes, ohne den Hauptzweig zu beeinträchtigen.
 
 ---
@@ -43,4 +42,20 @@ Branches ermöglichen eine getrennte Entwicklung von neuen Funktionen, Experimen
 
 ---
 
-<p align="center"><a href="/docs/04-tools/01-github/01-repository/README.md"><strong>Zurück</strong></a> | <a href="/docs/04-tools/01-github/02-branches/01-protection/README.md"><strong>Weiter</strong></a></p>
+### <p align="center">Dieses Kapitel beinhaltet folgende Abschnitte:</p>
+
+---
+
+◻️ [**Worktrees**](/docs/04-tools/01-github/02-branches/02-worktrees/README.md) </br>
+◻️ [**Protection**](/docs/04-tools/01-github/02-branches/01-protection/README.md) </br>
+
+---
+
+<p align="center">
+<a href="/docs/04-tools/01-github/01-repository/README.md"><strong>Zurück</strong></a> | 
+<a href="/docs/04-tools/01-github/02-branches/02-worktrees/README.md"><strong>Weiter</strong></a>
+</p>
+
+<p align="center">
+<a href="/docs/04-tools/01-github/README.md/#dieses-thema-beinhaltet-folgende-kapitel"><strong>Zurück zur Kapitel-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
+</p>

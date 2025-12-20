@@ -1,33 +1,39 @@
-# <p align="center">📅 Termine und zeitlicher Ablauf</p>
-
-### <p align="center">Meetings und Zeitpläne bei Christoph Backhaus IT</p>
-
----
-
-## Bonus-System (Überblick)
-
-Teilnahme und Engagement werden belohnt. Typische Beiträge, die Boni auslösen können:
-
-- Teilnahme an Morgenmeetings und 11er-/33er-Terminen
-- Halten eines Trainingsbeitrags (Kurzvortrag, Q&A)
-- Teampräsentationen und Dokumentationsbeiträge
-
-Konkrete Kriterien und Ausgestaltung werden iterativ ergänzt.
+# <p align="center">Meetings und Zeitpläne bei Christoph Backhaus IT</p>
 
 Unsere Meetings fördern effiziente **Zusammenarbeit**, kontinuierliches **Lernen** und transparente **Kommunikation**.
 
 In diesem Abschnitt findest du alle relevanten Informationen zu unseren **Meeting-Strukturen und Zeitplänen**, die dir dabei helfen sollen, den Überblick zu behalten. 🚀
 
-> Hinweis: Zeiten und Formate können sich mit der Zeit verändern. Dieses Kapitel wird laufend aktualisiert, um aktuelle Abläufe abzubilden.
-
 ---
 
 ## Morgenmeetings – Allgemeine Zeitpläne
 
-👉 Täglich 10:14–10:30 Uhr: Netzwerken & Anwesenheitsfeststellung (Discord)
+👉 Die **Morgenmeetings** finden **täglich um 10:14 Uhr** statt.
 
-👉 Täglich 10:30–11:30 Uhr: Daily Team‑Meeting
+👉 Die erweiterten **11er-Meetings** finden jeden **Montag, Dienstag und Donnerstag** nach der Anwesenheitsfeststellung statt.
+
+👉 Das **Meeting der Teamkordinator:innen** findet jeden **Mittwoch um 10:30 Uhr** statt.
+
+👉 Die erweiterten **33er-Meetings** finden jeden **Freitag** nach der Anwesenheitsfeststellung statt.
 
 ---
 
-<p align="center"><a href="docs/02-arbeiten_bei_nadoo/03-teams/02-team_archiv/README.md"><strong>Zurück</strong></a> | <a href="/docs/03-meetings/01-allgemein-morgens/README.md"><strong>Weiter</strong></a></p>
+### <p align="center">Dieser Themenbereich beinhaltet folgende Themen:</p>
+
+---
+
+🢒 [**Allgemeine Übersicht aller Morgenmeetings**](/docs/03-meetings/01-allgemein/README.md) </br>
+🢒 [**11er-Meeting**](/docs/03-meetings/02-11er/README.md) </br>
+🢒 [**Teamkoordinator:innen-Meeting**](/docs/03-meetings/03-teamkoordination/README.md)</br>
+🢒 [**33er-Meeting**](/docs/03-meetings/04-33er/README.md)</br>
+
+---
+
+<p align="center">
+<a href="/docs/02-arbeiten_bei_nadoo/03-teams/02-team-archiv/README.md"><strong>Zurück</strong></a> | 
+<a href="/docs/03-meetings/01-allgemein/README.md"><strong>Weiter</strong></a>
+</p>
+
+<p align="center"><a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a></p>
+
+

@@ -10,16 +10,16 @@ Damit du nach den Informationen, die du vor allem für den Start in einem neuen 
 
 ### 🗂️ Organisatorische und administrative Rahmenbedingungen
 
-ℹ️ [**Arbeits- und Pausenzeiten**](/docs/01-organisation/03-arbeits_und_pausenzeiten/) <br>
-ℹ️ [**Zeiterfassung**](/docs/01-organisation/01-zeiterfassung/) <br>
-ℹ️ [**Zeit- und Ausbildungsnachweise**](/docs/01-organisation/02-zeit_und_ausbildungsnachweise/README.md) <br>
+ℹ️ [**Arbeits- und Pausenzeiten**](/docs/01-organisation/01-arbeits_und_pausenzeiten/README.md) <br>
+ℹ️ [**Zeiterfassung**](/docs/01-organisation/02-zeiterfassung/README.md) <br>
+ℹ️ [**Zeit- und Ausbildungsnachweise**](/docs/01-organisation/03-zeit_und_ausbildungsnachweise/README.md) <br>
 ℹ️ [**Krankmeldung**](/docs/01-organisation/05-krankmeldungen/README.md) <br>
 ℹ️ [**Urlaub**](/docs/01-organisation/04-urlaub/README.md) <br>
 ℹ️ [**Meetings**](/docs/03-meetings/README.md) <br>
 
 ### 🤝 Dein Weg ins Team
 
-ℹ️ [**Kommunikation und Interaktion**](/docs/05-kommunikation/01-discord/README.md) <br>
+ℹ️ [**Kommunikation und Interaktion**](/docs/05-kommunikation/README.md) <br>
 ℹ️ [**Rollen und Aufgaben**](/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/README.md) <br>
 ℹ️ [**Beitritt in ein 11er-Team**](/docs/00-willkommen/01-leitfaden/README.md/#22-beitritt-in-ein-11er-team) <br>
 ℹ️ [**Übersicht aktueller Teams**](/docs/02-arbeiten_bei_nadoo/03-teams/01-aktive_teams/README.md) <br>
@@ -28,6 +28,7 @@ Damit du nach den Informationen, die du vor allem für den Start in einem neuen 
 
 ℹ️ [**Visual Studio Code: Installation und Einrichtung**](/docs/04-tools/02-vscode/README.md) <br>
 ℹ️ [**IntelliJ: Installation und Einrichtung**](/docs/04-tools/03-intellij/README.md) <br>
+ℹ️ [**Windsurf: Installation und Einrichtung**](/docs/04-tools/04-windsurf/README.md) <br>
 
 <!-- Video: „Einstieg GitHub“ (-> Wiki-Issue #375) hier einfügen, sobald fertiggestellt; dann ggf. Shortcut zu Github Repository entfernen -->
 
@@ -37,7 +38,7 @@ Damit du nach den Informationen, die du vor allem für den Start in einem neuen 
 ### 📚 Gezieltes Lernen und Prüfungsvorbereitung
 
 ℹ️ [**Trainingsbeiträge**](/docs/02-arbeiten_bei_nadoo/02-training_und_vorbereitung/01-trainingsbeitraege/README.md) <br>
-
+ℹ️ [**Kein Wiki-Doc, aber trotzdem relevant: Die NADOO-ACADEMY**](https://github.com/NADOOIT/NADOO-Academy) <br>
 <!-- aktuell noch unsicher, ob hier nur Fokus auf IHK-Vorbereitung und welche Docs außer Wiki für TBs relevant wären | mögliche Docs:
 - "Lernpartner und -gruppen"? - bisher noch kein Wiki-Eintrag
 - NADOO-Academy - bisher noch kein Wiki-Eintrag
@@ -54,5 +55,10 @@ Dort wird neben den hier bereits verlinkten Einträgen **in großem Umfang** auf
 ---
 
 <p align="center">
-<a href="/docs/00-willkommen/01-leitfaden/README.md"><strong>Zurück</strong></a> | <a href="/docs/00-willkommen/03-styleguide/README.md"><strong>Weiter</strong></a>
+<a href="/docs/00-willkommen/01-leitfaden/README.md"><strong>Zurück</strong></a> | 
+<a href="/docs/00-willkommen/03-styleguide/README.md"><strong>Weiter</strong></a>
+</p>
+
+<p align="center">
+<a href="/docs/00-willkommen/README.md/#dieser-themenbereich-beinhaltet-folgende-themen"><strong>Zurück zur Themen-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
 </p>

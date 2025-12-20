@@ -1,6 +1,5 @@
 # <p align="center">Code Reviews</p>
 
-
 ## Was ist eine Code Review?
 
 Eine Code Review ist die Überprüfung von Code durch andere Teammitglieder, bevor dieser in den Hauptzweig (z. B. `main` oder `develop`) übernommen wird. Ziel ist es, Fehler frühzeitig zu erkennen, die Codequalität zu verbessern und voneinander zu lernen.
@@ -53,5 +52,12 @@ Eine Code Review ist die Überprüfung von Code durch andere Teammitglieder, bev
 
 ---
 
-<p align="center"><a href="/docs/04-tools/01-github/03-pull-requests/01-merge-konflikte/README.md"><strong>Zurück</strong></a> | <a href="/docs/04-tools/01-github/04-issues/README.md"><strong>Weiter</strong></a></p>
+<p align="center">
+<a href="/docs/04-tools/01-github/03-pull-requests/01-merge-konflikte/README.md"><strong>Zurück</strong></a> |
+<a href="/docs/04-tools/01-github/04-issues/README.md"><strong>Weiter</strong></a>
+</p>
+
+<p align="center">
+<a href="/docs/04-tools/01-github/03-pull-requests/README.md/#dieses-kapitel-beinhaltet-folgende-abschnitte"><strong>Zurück zur Abschnitts-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
+</p>
 

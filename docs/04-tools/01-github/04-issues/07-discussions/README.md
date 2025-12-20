@@ -31,15 +31,15 @@ Nutze Labels und verlinke relevante Issues oder Pull Requests, um Diskussionen b
 
 ## Weitere Informationen
 
-- [GitHub Docs: Discussions](https://docs.github.com/de/discussions)
+[GitHub Docs: Discussions](https://docs.github.com/de/discussions)
 
 ---
 
-<p align="center"><a href="/docs/04-tools/01-github/04-issues/06-projects/README.md"><strong>Zurück</strong></a> | <a href="/docs/04-tools/01-github/04-issues/08-templates/README.md"><strong>Weiter</strong></a></p>
+<p align="center">
+<a href="/docs/04-tools/01-github/04-issues/06-projects/01-zeitplanung/README.md"><strong>Zurück</strong></a> | 
+<a href="/docs/04-tools/01-github/04-issues/08-templates/README.md"><strong>Weiter</strong></a>
+</p>
 
-<!--
----
-
-**Tags:** #github #discussions #community #ideen #fragen
-
--> Tags vorerst auskommentiert, da noch nicht funktionsfähig / Idee noch nicht ganz ausgereift und bisher auch nirgends außer hier (04-issues) an willkürlichen? Stellen implementiert (Stand: 15.05.2025) -->
+<p align="center">
+<a href="/docs/04-tools/01-github/04-issues/README.md/#dieses-kapitel-beinhaltet-folgende-abschnitte"><strong>Zurück zur Abschnitts-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
+</p>

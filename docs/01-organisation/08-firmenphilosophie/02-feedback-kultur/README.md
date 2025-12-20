@@ -47,5 +47,11 @@ Unsere Feedback-Kultur ist kein Zusatz, sondern integraler Bestandteil der NADOO
 ---
 
 <p align="center">
-<a href="/docs/01-organisation/08-firmenphilosophie/01-verhaltensregeln/README.md"><strong>Zurück</strong></a> | <a href="/docs/01-organisation/08-firmenphilosophie/03-kaizen/README.md"><strong>Weiter</strong></a>
+<a href="/docs/01-organisation/08-firmenphilosophie/01-verhaltensregeln/README.md"><strong>Zurück</strong></a> |
+<a href="/docs/01-organisation/08-firmenphilosophie/03-kaizen/README.md"><strong>Weiter</strong></a>
 </p>
+
+<p align="center">
+<a href="/docs/01-organisation/08-firmenphilosophie/README.md/#dieses-thema-beinhaltet-folgende-kapitel"><strong>Zurück zur Kapitel-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
+</p>
+

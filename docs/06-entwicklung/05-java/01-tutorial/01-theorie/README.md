@@ -506,7 +506,17 @@ System.out.println("Alter bestätigt: " + alter);
 💥 **Bonus-XP:**  
 Füge eine zusätzliche Frage ein: „Bist du bereit für dein erstes Monster? (true/false)“ – lies die Antwort mit `nextBoolean()` und reagiere entsprechend.
 
----
 
 > 🛡️ **+100 XP für Spielerinteraktion gesammelt!**  
 > Mit dem Scanner kannst du nun mit der Welt sprechen – und die Welt spricht mit dir.
+
+---
+
+<p align="center">
+<a href="/docs/06-entwicklung/05-java/01-tutorial/README.md"><strong>Zurück</strong></a> | 
+<a href="/docs/06-entwicklung/05-java/01-tutorial/02-theorie/README.md"><strong>Weiter</strong></a>
+</p>
+
+<p align="center">
+<a href="/docs/06-entwicklung/05-java/README.md/#dieses-thema-beinhaltet-folgende-kapitel"><strong>Zurück zum Inhaltsverzeichnis</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
+</p>

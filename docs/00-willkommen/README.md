@@ -7,7 +7,7 @@
 </div>
 <br>
 
-<p align="center"><a href="#dieser-themenbereich-beinhaltet-folgende-themen">🚀 direkt zur Themenübersicht</a></p>
+<p align="center"><a href="#dieser-themenbereich-beinhaltet-folgende-themen">🚀 Direkt zur Themen-Übersicht</a></p>
 
 ---
 <br>
@@ -46,20 +46,22 @@ Du hast ein bisschen getrödelt, dein erster Tag steht quasi schon mit dem Fuß 
 ### 💡 Denke aber daran, zeitnah ins Wiki zurückzukehren und deine Einarbeitung nachzuholen bzw. fortzuführen.
 
 ---
-<br>
 
-<p align="center"><strong><em>Langer Rede kurzer Sinn</em></strong> — lass uns den Startschuss für deine Reise durchs NADOO-versum abfeuern! 🚀</p3>
+<p align="center"><strong><em>Langer Rede kurzer Sinn</em></strong> — lass uns den Startschuss für deine Reise durchs NADOO-versum abfeuern! 🚀</p>
 
-#
+---
 
 ### <p align="center">Dieser Themenbereich beinhaltet folgende Themen:</p>
 
-🢒 [**Onboarding**](/docs/00-willkommen/01-leitfaden/README.md) <br>
+---
+
+🢒 [**Leitfaden für deinen ersten Tag ("First-Day-Fahrplan")**](/docs/00-willkommen/01-leitfaden/README.md) <br>
 🢒 [**Das Wiki-Docs Starterpack**](/docs/00-willkommen/02-starterpack/README.md) <br>
 🢒 [**Deine Mitgestaltung des NADOO-Wikis**](/docs/00-willkommen/03-styleguide/README.md) <br>
 
 ---
 
 <p align="center">
-<a href="/README.md"><strong>Zurück zum Start</strong></a> | <a href="/docs/00-willkommen/01-leitfaden/README.md"><strong>Weiter</strong></a>
+<a href="/README.md/#-einstieg-und-orientierung"><strong>Zurück zum Start des Wikis</strong></a> | <a href="/docs/00-willkommen/01-leitfaden/README.md"><strong>Weiter</strong></a>
 </p>
+

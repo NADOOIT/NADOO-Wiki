@@ -843,9 +843,19 @@ Vampir greift an!
 💥 **Bonus-XP:**  
 Baue zusätzlich eine Methode `spezialAktion()`, die nur in der Kindklasse existiert (z. B. `saugeBlut()` beim Vampir oder `schreien()` beim Ghul).
 
----
 
 > 🛡️ **+150 XP für mächtige Vererbung und Respekt vor den Eltern gesammelt!**  
 > **Damit ist Level 2 abgeschlossen! 🎉**  
 >  
 > Bist du bereit, in **Level 3: Baue dein Arsenal auf** aufzusteigen?
+
+---
+
+<p align="center">
+<a href="/docs/06-entwicklung/05-java/01-tutorial/01-theorie/README.md"><strong>Zurück</strong></a> | 
+<a href="/docs/06-entwicklung/05-java/01-tutorial/03-theorie/README.md"><strong>Weiter</strong></a>
+</p>
+
+<p align="center">
+<a href="/docs/06-entwicklung/05-java/README.md/#dieses-thema-beinhaltet-folgende-kapitel"><strong>Zurück zum Inhaltsverzeichis</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
+</p>

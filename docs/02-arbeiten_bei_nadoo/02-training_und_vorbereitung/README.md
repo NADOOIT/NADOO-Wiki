@@ -1,7 +1,9 @@
 # <p align="center">Vorbereitung auf die IHK-Prüfungen und deine Zukunft in der IT-Arbeitswelt</p>
-<p align="center"><a href="#dieses-thema-beinhaltet-folgende-kapitel">🚀 direkt zur Kapitelübersicht</a></p>
 
-#
+<p align="center"><a href="#dieses-thema-beinhaltet-folgende-kapitel">🚀 Direkt zur Kapitel-Übersicht</a></p>
+
+---
+<br>
 
 ## Persönliche Weiterentwicklung durch Jobrotation
 
@@ -38,13 +40,19 @@ Alles, was du zum Thema **Trainingsbeitrag** wissen musst, findest du auf der n�
 ---
 
 ### <p align="center">Dieses Thema beinhaltet folgende Kapitel:</p>
----
-<!-- es sollte ein kleiner Wiki-Eintrag zum neuen Rep ausgearbeitet werden. wenn soweit, Ordner hier an erste Stelle setzen (da Trainingsbeitrag-Guide darauf aufbaut / textlich aufbauen wird) und Nummerierungen der Folge-Ordner entsprechend anpassen (Refactoring).
 
-🔹 [**Die NADOO-Academy**](/docs/02-arbeiten_bei_nadoo/02-training_und_vorbereitung/01-academy/README.md) <br> -->
+---
+
 🔹 [**Trainingsbeiträge**](/docs/02-arbeiten_bei_nadoo/02-training_und_vorbereitung/01-trainingsbeitraege/README.md) <br>
 🔹 [**Präsentationstraining**](/docs/02-arbeiten_bei_nadoo/02-training_und_vorbereitung/02-praesentationstraining/README.md) <br>
 
 ---
 
-<p align="center"><a href="/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/05-teamkoordinator/README.md"><strong>Zurück</strong></a> | <a href="/docs/02-arbeiten_bei_nadoo/02-training_und_vorbereitung/01-trainingsbeitraege/README.md"><strong>Weiter</strong></a></p>
+<p align="center">
+<a href="/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/05-teamkoordinator/README.md"><strong>Zurück</strong></a> |
+<a href="/docs/02-arbeiten_bei_nadoo/02-training_und_vorbereitung/01-trainingsbeitraege/README.md"><strong>Weiter</strong></a>
+</p>
+
+<p align="center">
+<a href="/docs/02-arbeiten_bei_nadoo/README.md/#ddieser-themenbereich-beinhaltet-folgende-themen"><strong>Zurück zur Themen-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
+</p>

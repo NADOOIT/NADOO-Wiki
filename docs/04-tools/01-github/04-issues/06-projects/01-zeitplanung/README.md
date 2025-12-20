@@ -1,22 +1,5 @@
----
-title: 🧠 Projektmanagement und Arbeitsorganisation
 
-description: Zeitplanung und Meilensteine mit GitHub Projects (Status, Priority, Size, Estimate, Iteration, Start- und Enddate)
-
-author: '@hfanieng'
-
-pubDate: 2025-05-30
-
-tags:
-  - projektmanagement
-  - ap2
-  - fiae
-  - meilenstein
-  - zeitplanung
-
----
-
-## 🕒 Fokus: Zeitplanung und Meilensteine mit GitHub Projects
+# 🕒 Fokus: Zeitplanung und Meilensteine mit GitHub Projects
 
 In den vorherigen Beiträgen hast du gelernt, wie du Issues und Pull Requests effizient verwaltest und dich mit den Grundlagen von Milestones und Projects vertraut gemacht. Nun gehen wir einen Schritt weiter: **Zeitplanung und Meilensteine** in GitHub Projects.
 
@@ -142,4 +125,11 @@ Verwende NADOO-Templates mit vollständig vorausgefüllten Feldern – das spart
 
 ---
 
-<p align="center"><a href="/docs/04-tools/01-github/04-issues/06-projects/README.md"><strong>Zurück</strong></a> | <a href="/docs/04-tools/01-github/04-issues/07-discussions/README.md"><strong>Weiter</strong></a></p>
+<p align="center">
+<a href="/docs/04-tools/01-github/04-issues/06-projects/README.md"><strong>Zurück</strong></a> | 
+<a href="/docs/04-tools/01-github/04-issues/07-discussions/README.md"><strong>Weiter</strong></a>
+</p>
+
+<p align="center">
+<a href="/docs/04-tools/01-github/04-issues/06-projects/README.md/#weiterführende-artikel-zu-diesem-abschnitt"><strong>Zurück zur Übersicht weiterführender Artikel</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
+</p>

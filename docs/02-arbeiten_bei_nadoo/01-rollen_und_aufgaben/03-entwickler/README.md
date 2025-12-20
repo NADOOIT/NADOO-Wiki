@@ -35,5 +35,23 @@
 ❝ ❞ **Merksatz**: _Der Entwickler ist der **Träumer**, der fragt: „Aber was, wenn wir es trotzdem anders machen?“_
 
 ---
+ **Dieses Thema beinhaltet folgende Kapitel:**
+---
 
-<p align="center"><a href="/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/02-researcher/README.md"><strong>Zurück</strong></a> | <a href="/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/04-tester/README.md"><strong>Weiter</strong></a></p>
+🔹 [**Dokumentar(ist):in**](/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/01-dokumentar/README.md) <br>
+🔹 [**Researcher:in**](/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/02-researcher/README.md) <br>
+🔹 [**Entwickler:in**](/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/03-entwickler/README.md) <br>
+🔹 [**Tester:in**](/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/04-tester/README.md) <br>
+🔹 [**Teamkoordinator:in**](/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/05-teamkoordinator/README.md) <br>
+
+
+---
+
+<p align="center">
+<a href="/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/02-researcher/README.md"><strong>Zurück</strong></a> | 
+<a href="/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/04-tester/README.md"><strong>Weiter</strong></a>
+</p>
+
+<p align="center">
+<a href="/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/README.md/#dieses-thema-beinhaltet-folgende-kapitel"><strong>Zurück zur Kapitel-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
+</p>

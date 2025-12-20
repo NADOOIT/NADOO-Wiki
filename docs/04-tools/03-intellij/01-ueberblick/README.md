@@ -34,4 +34,13 @@ Sie gehört zu den beliebtesten und leistungsfähigsten IDEs im Bereich der Java
 | **Erweiterbarkeit**                    | Großes Plugin-Ökosystem                      | Riesiger Extension-Marktplatz               |
 | **Geeignet für**                       | Große, komplexe Java-Projekte                | Leichte bis mittlere Projekte / Multisprache |
 
-<p align="center"><a href="/docs/04-tools/03-intellij/README.md"><strong>Zurück</strong></a> | <a href="/docs/04-tools/03-intellij/02-installation/README.md"><strong>Weiter</strong></a></p>
+---
+
+<p align="center">
+<a href="/docs/04-tools/03-intellij/README.md"><strong>Zurück</strong></a> | 
+<a href="/docs/04-tools/03-intellij/02-installation/README.md"><strong>Weiter</strong></a>
+</p>
+
+<p align="center">
+<a href="/docs/04-tools/03-intellij/README.md/#dieses-thema-beinhaltet-folgende-kapitel"><strong>Zurück zur Kapitel-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
+</p>

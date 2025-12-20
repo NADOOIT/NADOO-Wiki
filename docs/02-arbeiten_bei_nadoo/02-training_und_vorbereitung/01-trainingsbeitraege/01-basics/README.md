@@ -76,9 +76,11 @@ Den **Mittwoch** ausgenommen, hält theoretisch jeder Tag in einer regulären NA
 
 ---
 
-### <p align="center">Okay, damit hätte wir schon mal die Basics geklärt. 💪 Im nächsten Abschnitt erfährst du alles, was du zur Dokumentation 📝 deines Trainingsbeitrags wissen musst.</p>
+<p align="center">
+<a href="/docs/02-arbeiten_bei_nadoo/02-training_und_vorbereitung/01-trainingsbeitraege/README.md"><strong>Zurück</strong></a> | 
+<a href="/docs/02-arbeiten_bei_nadoo/02-training_und_vorbereitung/01-trainingsbeitraege/02-dokumentation/README.md"><strong>Weiter</strong></a>
+</p>
 
----
-
-<p align="center"><a href="/docs/02-arbeiten_bei_nadoo/02-training_und_vorbereitung/01-trainingsbeitraege/README.md"><strong>Zurück</strong></a> | <a href="/docs/02-arbeiten_bei_nadoo/02-training_und_vorbereitung/01-trainingsbeitraege/02-dokumentation/README.md"><strong>Weiter</strong></a></p>
-
+<p align="center">
+<a href="/docs/02-arbeiten_bei_nadoo/02-training_und_vorbereitung/01-trainingsbeitraege/README.md/#dieses-kapitel-beinhaltet-folgende-abschnitte"><strong>Zurück zur Abschnitts-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
+</p>

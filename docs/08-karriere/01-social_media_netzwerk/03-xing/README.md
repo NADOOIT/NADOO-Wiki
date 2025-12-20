@@ -50,4 +50,11 @@ Ein Xing-Profil ist ein wichtiges Tool, um deine berufliche Sichtbarkeit zu erh�
 
 ---
 
-<p align="center"><a href="/docs/08-karriere/01-social_media_netzwerk/02-linkedin/README.md"><strong>Zurück</strong></a> | <a href="/docs/08-karriere/01-social_media_netzwerk/04-doodle_kalender/README.md"><strong>Weiter</strong></a></p>
+<p align="center">
+<a href="/docs/08-karriere/01-social_media_netzwerk/02-linkedin/README.md"><strong>Zurück</strong></a> | 
+<a href="/docs/08-karriere/01-social_media_netzwerk/04-doodle_kalender/README.md"><strong>Weiter</strong></a>
+</p>
+
+<p align="center">
+<a href="/docs/08-karriere/01-social_media_netzwerk/README.md/#dieses-thema-beinhaltet-folgende-kapitel"><strong>Zurück zur Kapitel-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
+</p>

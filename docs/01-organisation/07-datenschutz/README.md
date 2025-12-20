@@ -68,5 +68,10 @@ Die strikte Einhaltung dieser Richtlinien ist für den **Schutz** unserer **Unte
 ---
 
 <p align="center">
-<a href="/docs/01-organisation/06-mutterschutz_und_elternzeit/README.md"><strong>Zurück</strong></a> | <a href="/docs/01-organisation/08-firmenphilosophie/README.md"><strong>Weiter</strong></a>
+<a href="/docs/01-organisation/06-mutterschutz_und_elternzeit/README.md"><strong>Zurück</strong></a> | 
+<a href="/docs/01-organisation/08-firmenphilosophie/README.md"><strong>Weiter</strong></a>
+</p>
+
+<p align="center">
+<a href="/docs/01-organisation/README.md/#dieser-themenbereich-beinhaltet-folgende-themen"><strong>Zurück zur Themen-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
 </p>

@@ -23,5 +23,12 @@ Ein Repository ist ein Speicherort für Projekte, in dem Code, Dokumentation und
 
 ---
 
-<p align="center"><a href="/docs/04-tools/01-github/README.md"><strong>Zurück</strong></a> | <a href="/docs/04-tools/01-github/02-branches/README.md"><strong>Weiter</strong></a></p>
+<p align="center">
+<a href="/docs/04-tools/01-github/README.md"><strong>Zurück</strong></a> | 
+<a href="/docs/04-tools/01-github/02-branches/README.md"><strong>Weiter</strong></a>
+</p>
+
+<p align="center">
+<a href="/docs/04-tools/01-github/README.md/#dieses-thema-beinhaltet-folgende-kapitel"><strong>Zurück zur Kapitel-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
+</p>
 

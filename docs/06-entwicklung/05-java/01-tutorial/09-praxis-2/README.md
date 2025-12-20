@@ -94,3 +94,14 @@ Es gibt jetzt mehrere Aktionen, die unterschiedliche Effekte und **unterschiedli
 
 > 🧙‍♀️ *„Ein Codemagier schreibt nicht einfach Code – er entwirft ein System.“*
 > **Bist du bereit für deinen ersten architektonisch durchdachten Zauber?**
+
+---
+
+<p align="center">
+<a href="/docs/06-entwicklung/05-java/01-tutorial/08-praxis-1-theorie/README.md"><strong>Zurück</strong></a> | 
+<a href="/docs/06-entwicklung/06-frameworks/README.md"><strong>Weiter</strong></a>
+</p>
+
+<p align="center">
+<a href="/docs/06-entwicklung/05-java/README.md/#dieses-thema-beinhaltet-folgende-kapitel"><strong>Zurück zum Inhaltsverzeichis</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
+</p>

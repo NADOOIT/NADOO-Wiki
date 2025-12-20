@@ -30,15 +30,15 @@ Du kannst mehrere Templates für unterschiedliche Zwecke erstellen, z. B. für
 
 ## Weitere Informationen
 
-- [GitHub Docs: Issue Templates](https://docs.github.com/de/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository)
+[GitHub Docs: Issue Templates](https://docs.github.com/de/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository)
 
 ---
 
-<p align="center"><a href="/docs/04-tools/01-github/04-issues/07-discussions/README.md"><strong>Zurück</strong></a> | <a href="/docs/04-tools/01-github/05-actions/README.md"><strong>Weiter</strong></a></p>
+<p align="center">
+<a href="/docs/04-tools/01-github/04-issues/07-discussions/README.md"><strong>Zurück</strong></a> | 
+<a href="/docs/04-tools/01-github/05-actions/README.md"><strong>Weiter</strong></a>
+</p>
 
-<!--
----
-
-**Tags:** #templates #issuevorlage #struktur #github
-
--> Tags vorerst auskommentiert, da noch nicht funktionsfähig / Idee noch nicht ganz ausgereift und bisher auch nirgends außer hier (04-issues) an willkürlichen? Stellen implementiert (Stand: 15.05.2025) -->
+<p align="center">
+<a href="/docs/04-tools/01-github/04-issues/README.md/#dieses-kapitel-beinhaltet-folgende-abschnitte"><strong>Zurück zur Abschnitts-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
+</p>

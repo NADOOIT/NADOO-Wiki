@@ -64,5 +64,12 @@ Das Mutterschutzgesetz gilt für:
 ---
 
 <p align="center">
-<a href="/docs/01-organisation/05-krankmeldungen/README.md"><strong>Zurück</strong></a> | <a href="/docs/01-organisation/07-datenschutz/README.md"><strong>Weiter</strong></a>
+<a href="/docs/01-organisation/05-krankmeldungen/README.md"><strong>Zurück</strong></a> | 
+<a href="/docs/01-organisation/07-datenschutz/README.md"><strong>Weiter</strong></a>
 </p>
+
+<p align="center">
+<a href="/docs/01-organisation/README.md/#dieser-themenbereich-beinhaltet-folgende-themen"><strong>Zurück zur Themen-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
+</p>
+
+

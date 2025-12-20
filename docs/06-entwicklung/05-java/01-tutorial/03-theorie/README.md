@@ -769,3 +769,14 @@ Erstelle eine Hilfsklasse `TrankRezept`, die eine `static` Methode `berechneWirk
 > 🎉 **Damit ist Level 3 abgeschlossen!**  
 >  
 > Bereit für **Level 4: Schütze deinen Code**?
+
+---
+
+<p align="center">
+<a href="/docs/06-entwicklung/05-java/01-tutorial/02-theorie/README.md"><strong>Zurück</strong></a> | 
+<a href="/docs/06-entwicklung/05-java/01-tutorial/04-theorie/README.md"><strong>Weiter</strong></a>
+</p>
+
+<p align="center">
+<a href="/docs/06-entwicklung/05-java/README.md/#dieses-thema-beinhaltet-folgende-kapitel"><strong>Zurück zum Inhaltsverzeichis</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
+</p>

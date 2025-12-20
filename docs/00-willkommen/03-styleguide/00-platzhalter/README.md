@@ -1,5 +1,10 @@
 # <p align="center">Template / Vorlage | Platzhalter für (vorerst) leere Docs</p>
 
+<p align="center"><a href="#dieses-kapitel-beinhaltet-folgende-abschnitte">🚀 Direkt zur Abschnitts-Übersicht</a></p>
+
+---
+<br>
+
 ## Anwendungsfall
 
 Da für das NADOO-Wiki laufend neue Inhalte geplant werden, macht es in den meisten Fällen Sinn, für diese direkt im Anschluss neue Ordner-Strukturen und README-Dateien anzulegen, um damit das Fundament der zukünftigen Einträge zu legen. Allerdings hat der Umfang an geplanter Arbeit, die eine Person an einem Tag umsetzen kann, immer ein Limit. Manchmal wirst du aktuelle Tasks auch abbrechen oder nach hinten verschieben müssen, weil eine andere Aufgabe mit höherer Priorität gerade deine Aufmerksamkeit erfordert.
@@ -23,15 +28,22 @@ Die Folge davon ist, dass neu angelegte Wiki-Docs dann erstmal eine Weile komple
 
 Auf der nächsten Seite findest du eine genaue [**Anleitung**](/docs/00-willkommen/03-styleguide/00-platzhalter/01-anleitung/README.md) zur Anwendung des Templates. Außerdem kannst du dir [hier](/docs/00-willkommen/03-styleguide/00-platzhalter/02-vorschau/README.md) anschauen, wie der Platzhalter am Ende im Browser aussieht.
 
-#
+---
 
 ### <p align="center">Dieses Kapitel beinhaltet folgende Abschnitte:</p>
 
-🔹 [**Step-by-Step: so verwendest du die Vorlage**](/docs/00-willkommen/03-styleguide/00-platzhalter/01-anleitung/README.md)
-🔹 [**Vorschau des Platzhalters zur Ansicht im Browser**](/docs/00-willkommen/03-styleguide/00-platzhalter/02-vorschau/README.md)
+---
+
+◻️ [**Anleitung: So verwendest du die Vorlage**](/docs/00-willkommen/03-styleguide/00-platzhalter/01-anleitung/README.md) <br>
+◻️ [**Vorschau des Platzhalters zur Ansicht im Browser**](/docs/00-willkommen/03-styleguide/00-platzhalter/02-vorschau/README.md)
 
 ---
 
 <p align="center">
-<a href="/docs/00-willkommen/03-styleguide/README.md"><strong>Zurück</strong></a> | <a href="/docs/00-willkommen/03-styleguide/00-platzhalter/01-anleitung/README.md"><strong>Weiter</strong></a>
+<a href="/docs/00-willkommen/03-styleguide/README.md"><strong>Zurück</strong></a> | 
+<a href="/docs/00-willkommen/03-styleguide/00-platzhalter/01-anleitung/README.md"><strong>Weiter</strong></a>
+</p>
+
+<p align="center">
+<a href="/docs/00-willkommen/03-styleguide/README.md/#inhaltsverzeichnis"><strong>Zurück zum Styleguide-Inhaltsverzeichnis</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
 </p>

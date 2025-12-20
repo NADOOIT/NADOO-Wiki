@@ -1,4 +1,8 @@
 # <p align="center">Issues</p>
+<p align="center"><a href="#dieses-kapitel-beinhaltet-folgende-abschnitte">🚀 Direkt zur Abschnitts-Übersicht</a></p>
+
+---
+<br>
 
 Ein Issue beschreibt eine offene Aufgabe oder ein Problem in einem Projekt. Es dient zur Nachverfolgung und Verwaltung von Bugs, Feature-Anfragen oder Verbesserungen.
 
@@ -40,9 +44,30 @@ Issues helfen bei der systematischen Nachverfolgung von Aufgaben, der Kommunikat
 
 ## Weitere Informationen
 
-- [GitHub Docs: Issues](https://docs.github.com/de/issues)
+[GitHub Docs: Issues](https://docs.github.com/de/issues)
 
 ---
 
-<p align="center"><a href="/docs/04-tools/01-github/03-pull-requests/02-code-review/README.md"><strong>Zurück</strong></a> | <a href="/docs/04-tools/01-github/04-issues/01-wiki-guide/README.md"><strong>Weiter</strong></a></p>
+### <p align="center">Dieses Kapitel beinhaltet folgende Abschnitte:</p>
 
+---
+
+◻️ [**Selbstständig Veränderungen innerhalb des Wikis vornehmen: ein kleiner Guide**](/docs/04-tools/01-github/04-issues/01-wiki-guide/README.md) </br>
+◻️ [**Labels**](/docs/04-tools/01-github/04-issues/02-labels/README.md) </br>
+◻️ [**Types**](/docs/04-tools/01-github/04-issues/03-types/README.md) </br>
+◻️ [**Assignees**](/docs/04-tools/01-github/04-issues/04-assignees/README.md) </br>
+◻️ [**Milestones**](/docs/04-tools/01-github/04-issues/05-milestones/README.md) </br>
+◻️ [**Projects**](/docs/04-tools/01-github/04-issues/06-projects/README.md) </br>
+◻️ [**Discussions**](/docs/04-tools/01-github/04-issues/07-discussions/README.md) </br>
+◻️ [**Templates**](/docs/04-tools/01-github/04-issues/08-templates/README.md) </br>
+
+---
+
+<p align="center">
+<a href="/docs/04-tools/01-github/03-pull-requests/02-code-review/README.md"><strong>Zurück</strong></a> | 
+<a href="/docs/04-tools/01-github/04-issues/01-wiki-guide/README.md"><strong>Weiter</strong></a>
+</p>
+
+<p align="center">
+<a href="/docs/04-tools/01-github/README.md/#dieses-thema-beinhaltet-folgende-kapitel"><strong>Zurück zur Kapitel-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
+</p>

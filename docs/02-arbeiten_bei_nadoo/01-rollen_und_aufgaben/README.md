@@ -1,7 +1,9 @@
 # <p align="center">Rollen und Aufgaben/Aufgabenbereiche</p>
-<p align="center"><a href="#dieses-thema-beinhaltet-folgende-kapitel">🚀 direkt zur Kapitelübersicht</a></p>
 
-#
+<p align="center"><a href="#dieses-thema-beinhaltet-folgende-kapitel">🚀 Direkt zur Kapitel-Übersicht</a></p>
+
+---
+<br>
 
 🎯 Damit die Zusammenarbeit in Projekten reibungslos funktioniert, ist eine **klare Aufteilung von Aufgaben und Verantwortlichkeiten** entscheidend. Ziel ist es, Transparenz zu schaffen, wer wofür zuständig ist, und die Zusammenarbeit **effizient und nachvollziehbar** zu gestalten. 
 
@@ -12,14 +14,23 @@
 ---
 
 ### <p align="center">Dieses Thema beinhaltet folgende Kapitel:</p>
+
 ---
 
 🔹 [**Dokumentar(ist):in**](/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/01-dokumentar/README.md) <br>
 🔹 [**Researcher:in**](/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/02-researcher/README.md) <br>
 🔹 [**Entwickler:in**](/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/03-entwickler/README.md) <br>
-🔹 [**Tester:in**](/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/04-tester/README.md) <br> <!-- zur Tester-Rolle: bisher nirgends definiert, sollte aber mit aufgenommen werden -->
+🔹 [**Tester:in**](/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/04-tester/README.md) <br>
 🔹 [**Teamkoordinator:in**](/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/05-teamkoordinator/README.md) <br>
+
 
 ---
 
-<p align="center"><a href="/docs/02-arbeiten_bei_nadoo/README.md"><strong>Zurück</strong></a> | <a href="/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/01-dokumentar/README.md"><strong>Weiter</strong></a></p>
+<p align="center">
+<a href="/docs/02-arbeiten_bei_nadoo/README.md"><strong>Zurück</strong></a> | 
+<a href="/docs/02-arbeiten_bei_nadoo/01-rollen_und_aufgaben/01-dokumentar/README.md"><strong>Weiter</strong></a>
+</p>
+
+<p align="center">
+<a href="/docs/02-arbeiten_bei_nadoo/README.md/#ddieser-themenbereich-beinhaltet-folgende-themen"><strong>Zurück zur Themen-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
+</p>

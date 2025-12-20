@@ -34,6 +34,8 @@ Es zeigt, an welchen Projekten man arbeitet, was man programmiert hat und wie gu
 
 >📚 Es ist zudem hilfreich, wenn auf deinem Profil  ersichtlich wird, dass du dich mit mehreren Programmiersprachen auskennst oder bereit bist, dich in neue Technologien einzuarbeiten – das zeigt Vielseitigkeit und Lernbereitschaft.
 
+#
+
 ### Arbeitgeber und Teams achten zunehmend auf folgende Punkte:
 
 >📝 **Codequalität und Dokumentation**
@@ -58,7 +60,7 @@ Das ist besonders wichtig, wenn du auf der Suche nach neuen Jobmöglichkeiten od
 
 Wer sichtbar und aktiv an Open-Source-Projekten mitarbeitet, zeigt nicht nur Fachwissen, sondern auch Eigeninitiative und Teamgeist. Ein aussagekräftiges GitHub-Profil kann daher Türen zu spannenden Jobangeboten, Freelance-Projekten oder sogar zu Stipendien und Förderprogrammen öffnen.
 
-#
+---
 
 ## Fazit
 
@@ -75,4 +77,11 @@ Also, leg los und mach dein GitHub-Profil zu deinem persönlichen Schaufenster i
 
 ---
 
-<p align="center"><a href="/docs/08-karriere/01-social_media_netzwerk/README.md"><strong>Zurück</strong></a> | <a href="/docs/08-karriere/01-social_media_netzwerk/02-linkedin/README.md"><strong>Weiter</strong></a></p>
+<p align="center">
+<a href="/docs/08-karriere/01-social_media_netzwerk/README.md"><strong>Zurück</strong></a> | 
+<a href="/docs/08-karriere/01-social_media_netzwerk/02-linkedin/README.md"><strong>Weiter</strong></a>
+</p>
+
+<p align="center">
+<a href="/docs/08-karriere/01-social_media_netzwerk/README.md/#dieses-thema-beinhaltet-folgende-kapitel"><strong>Zurück zur Kapitel-Übersicht</strong></a> | <a href="/docs/00-willkommen/README.md"><strong>Zurück zur Startseite des Wikis</strong></a>
+</p>
