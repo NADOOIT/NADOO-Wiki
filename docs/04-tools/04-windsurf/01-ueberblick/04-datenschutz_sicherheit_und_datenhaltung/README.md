@@ -220,7 +220,7 @@ Basierend auf dieser Bewertung werden folgende Handlungsempfehlungen für Organi
 ---
 
 <p align="center">
-<a href="/docs/04-tools/04-windsurf/01-ueberblick/03-workflows_und_automatisierungsprozesse/README.md"><strong>Zurück</strong></a> | 
+<a href="/docs/04-tools/04-windsurf/02-praktische_workflows/README.md"><strong>Zurück</strong></a> | 
 <a href="/docs/04-tools/05-terminal/README.md"><strong>Weiter</strong></a>
 </p>
 

@@ -47,5 +47,9 @@ Synchronisiert das "Gehirn" von Windsurf. Lädt Regeln wie:
 
 <p align="center">
 <a href="../01-ueberblick/03-workflows_und_automatisierungsprozesse/README.md"><strong>Zurück: Theorie</strong></a> | 
+<a href="../01-ueberblick/04-datenschutz_sicherheit_und_datenhaltung/README.md"><strong>Weiter</strong></a>
+</p>
+
+<p align="center">
 <a href="../../README.md"><strong>Zurück zur Übersicht</strong></a>
 </p>
