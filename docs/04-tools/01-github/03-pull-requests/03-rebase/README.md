@@ -1,32 +1,45 @@
 # <p align="center">Rebase</p>
 
-## Was ist ein Rebase?
+## <span style="color: green;">Was ist ein Rebase?</span>
 
 Ein Rebase ist eine Git-Operation, bei der die Commit-Historie eines Branches neu geschrieben wird. Dabei werden die Commits eines Branches auf einen anderen Basis-Commit "umgepflanzt". Das Ergebnis ist eine lineare, saubere Commit-Historie ohne unnötige Merge-Commits.
 
 ---
 
-## Visualisierung: Vor und nach dem Rebase
+## <span style="color: green;">Visualisierung: Vor und nach dem Rebase</span>
 
 **Vor dem Rebase:**
 ```
-main:                A --- B --- C --- D
-                          \
-feature/user-login:        E --- F --- G
+main:    A --- B --- C
+                 \
+feature:          D --- E --- F
+```
+
+**Rebase-Befehl:**
+```
+git rebase main
 ```
 
 **Nach dem Rebase:**
 ```
-main:                A --- B --- C --- D
-                                        \
-feature/user-login:                      E' --- F' --- G'
+main:    A --- B --- C
+                     \
+feature:              D' --- E' --- F'
 ```
 
-> Die Commits E, F, G werden auf den neuesten Stand von `main` (Commit D) "umgepflanzt" und erhalten neue Commit-IDs (E', F', G').
+**Erklärung kurz:**
+
+1. Vor dem Rebase sind die Commits der Feature-Branch „D, E, F" ab B abgezweigt.
+
+2. Mit `git rebase main` werden die Feature-Commits oben auf die aktuelle main-Branch gesetzt.
+
+3. Die Historie wird dadurch linear, keine Merge-Commits nötig.
+
+
 
 ---
 
-## Warum ist Rebase wichtig?
+## <span style="color: green;">Warum ist Rebase wichtig?</span>
 
 - **Saubere Historie**: Erzeugt eine lineare Commit-Geschichte ohne Merge-Commits.
 - **Übersichtlichkeit**: Erleichtert das Nachverfolgen von Änderungen im Projekt.
@@ -36,17 +49,18 @@ feature/user-login:                      E' --- F' --- G'
 
 ---
 
-## Unterschied zwischen Merge und Rebase
+## <span style="color: green;">Unterschied zwischen Merge und Rebase</span>
 
-| Aspekt | Merge | Rebase |
-|--------|-------|--------|
-| Historie | Behält alle Branches und Merge-Commits | Lineare Historie ohne Merge-Commits |
-| Konflikte | Einmalige Konfliktlösung | Konfliktlösung pro Commit |
-| Sicherheit | Originalhistorie bleibt erhalten | Historie wird umgeschrieben |
+| Aspekt        | Merge                           | Rebase                        |
+|---------------|--------------------------------|------------------------------|
+| Was ist das?  | Verbindet zwei Branches         | Ordnet Commits neu            |
+| Commit-Historie | Bleibt unverändert             | Wird sauber und linear        |
+| Wann verwenden? | Bei gemeinsamer Teamarbeit     | Für den eigenen Branch        |
+| Kurz gesagt   | „Branches zusammenführen"       | „Historie aufräumen"          |
 
 ---
 
-## Ablauf eines Rebase
+## <span style="color: green;">Ablauf eines Rebase</span>
 
 **Beispiel:** Du arbeitest am Branch `feature/user-login` und möchtest ihn auf den neuesten Stand von `main` bringen.
 
@@ -87,7 +101,7 @@ feature/user-login:                      E' --- F' --- G'
 
 ---
 
-## Tipps für sicheres Rebasen
+## <span style="color: green;">Tipps für sicheres Rebasen</span>
 
 - **Niemals öffentliche Branches rebasen**: Rebase nur lokale oder eigene Feature-Branches.
 - **Backup erstellen**: Erstelle vor dem Rebase einen Backup-Branch.
@@ -96,27 +110,20 @@ feature/user-login:                      E' --- F' --- G'
 
 ---
 
-## Interaktives Rebase
+## <span style="color: green;">Interaktives Rebase</span>
 
-Mit `git rebase -i HEAD~n` kannst du die letzten n Commits bearbeiten:
+Interaktives Rebase erlaubt es, die letzten Commits zu bearbeiten (z. B. umbenennen, zusammenfassen oder loschen).
 
+**Befehl**
 ```bash
 git rebase -i HEAD~3
 ```
 
-**Beispiel-Ausgabe im Editor:**
+**Beispiel im Editor**
 ```
-pick a1b2c3d Add login form
-pick e4f5g6h Fix typo in login
-pick i7j8k9l Add password validation
-
-# Rebase abc123..i7j8k9l onto abc123 (3 commands)
-#
-# Commands:
-# p, pick = use commit
-# r, reword = use commit, but edit the commit message
-# s, squash = use commit, but meld into previous commit
-# d, drop = remove commit
+pick a1b2c3 Login-Formular hinzufugen
+squash d4e5f6 Tippfehler beheben
+pick g7h8i9 Passwortprufung hinzufugen
 ```
 
 **Optionen im interaktiven Modus:**
@@ -127,9 +134,11 @@ pick i7j8k9l Add password validation
 | **squash** | Mit vorherigem Commit zusammenfassen |
 | **drop** | Commit entfernen |
 
+
+## <span style="color: yellow;">Ergebnis: Weniger Commits, saubere Historie.</span>
 ---
 
-## Weitere Informationen
+## <span style="color: green;">Weitere Informationen</span>
 
 - [GitHub Docs: About Git Rebase](https://docs.github.com/de/get-started/using-git/about-git-rebase)
 - [Atlassian: Git Rebase](https://www.atlassian.com/git/tutorials/rewriting-history/git-rebase)
