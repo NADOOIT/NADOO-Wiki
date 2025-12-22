@@ -9,6 +9,7 @@ Plugins erweitern die Funktionalität von WordPress und ermöglichen es, spezifi
 - **Sicherheits-Plugins**: Schützen die Website vor Angriffen, Malware und Spam. Sie bieten Funktionen wie Firewall, Login-Schutz und regelmäßige Sicherheitsüberprüfungen.
   - Beispiel: Wordfence, Sucuri Security
 - **Analyse-Plugins**: Ermöglichen die Auswertung von Besucherstatistiken und Nutzerverhalten. Sie integrieren sich oft mit Google Analytics oder bieten eigene Analysefunktionen.
+- **Formular-Plugins: Erleichtern die Erstellung und Verwaltung von Kontakt-, Anfrage- und Feeback-Formularen- oft ohne Programmierkenntnisse. Beispiel: Contact Form 7, WPForms, Ninja Forms
 
 ---
 
@@ -30,6 +31,19 @@ Das Plugin **Koko Analytics** ist eine datenschutzfreundliche Alternative zu Goo
 ## DSGVO-konformes Tracking ohne Cookies
 
 Für ein DSGVO-konformes Tracking ohne Cookies kannst du Koko Analytics so konfigurieren, dass es keine personenbezogenen Daten speichert und keine Cookies verwendet. Dies ist besonders wichtig, um die Privatsphäre der Nutzer zu schützen und rechtlichen Anforderungen zu entsprechen.
+
+---
+
+## Performance-Hinweis
+
+Plugins bieten hilfreiche Erweiterungen - dennoch gilt:
+Zu viele oder schlecht gepflegte Plugins können die Ladezeit und Sicherheit der Website negativ beeinflussen.
+
+Empfehlungen:
+- Nur notwendige Plugins installieren
+- Regelmäßige Updates durchführen
+- Qualität und Bewertungen prüfen
+- Alternativen zu Funktions-Overkill suchen
 
 ---
 
