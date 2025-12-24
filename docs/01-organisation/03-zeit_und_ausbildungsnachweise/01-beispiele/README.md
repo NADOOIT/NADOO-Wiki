@@ -125,7 +125,7 @@ Issue-Nummern und Beschreibungen können im Berichtsheft verwendet werden.
 ---
 <br>
 
-Das Ausbildungsnachweise (Berichtsheft) wird wie gewohnt weitergeführt.
+Der Ausbildungsnachweis (Berichtsheft) wird wie gewohnt weitergeführt.
 Abgabe: am **1. Tag des Folgemonats** oder alternativ am **letzten Tag des laufenden Monats** an <christoph.backhaus@nadooit.de> senden.
 
 ## Zeitnachweise
