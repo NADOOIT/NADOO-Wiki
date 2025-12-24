@@ -66,6 +66,7 @@ Pull Requests stellen sicher, dass neue Features oder Bugfixes vor ihrer Integra
 
 ◻️ [**Merge-Konflikte**](/docs/04-tools/01-github/03-pull-requests/01-merge-konflikte/README.md) </br>
 ◻️ [**Code Reviews**](/docs/04-tools/01-github/03-pull-requests/02-code-review/README.md) </br>
+◻️ [**Rebase**](/docs/04-tools/01-github/03-pull-requests/03-rebase/README.md) </br>
 
 ---
 
